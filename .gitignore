@@ -1,3 +1,6 @@
 .vscode/*
 vendor/hsk-words/*
 vendor/hsk-words
+.DS_Store
+*.egg-info
+egg-info/*

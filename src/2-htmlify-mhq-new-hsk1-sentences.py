@@ -10,6 +10,7 @@ with open("data/template.html") as fp:
     soup = BeautifulSoup(fp, 'lxml')
     table = soup.find(id='main-table')
     for data_row in data.values():
+        data_row['sentence']['zh'] = data_row['sentence']['zh'].strip("。")
         row = soup.new_tag('tr')
         table.append(row)
         number_cell = soup.new_tag('td', string=data_row['id'])
@@ -20,6 +21,7 @@ with open("data/template.html") as fp:
         row.append(sentence_cell)
 
         chinese_sent = soup.new_tag('p', string=data_row['sentence']['zh'])
+
         sentence_cell.append(chinese_sent)
 
         english_sent = soup.new_tag('p', string=data_row['sentence']['en'])
@@ -39,11 +41,11 @@ with open("data/template.html") as fp:
             words_para.append(words_span_zh)
             words_span_en = soup.new_tag('span', lang='en', string=word['en'])
             words_para.append(words_span_en)
-            
 
 
 
-        
+
+
 
     with open('output/hsk1-sample-sentences.html', 'wb') as fp2:
         fp2.write(soup.prettify(encoding='utf-8'))
