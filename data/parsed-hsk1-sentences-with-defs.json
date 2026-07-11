@@ -41,7 +41,7 @@
             },
             {
                 "zh": "爱好",
-                "en": "hobby, to be fond of"
+                "en": "hobby"
             },
             {
                 "zh": "是",
@@ -118,7 +118,7 @@
         "words": [
             {
                 "zh": "走",
-                "en": "to walk, to leave"
+                "en": "go / walk"
             },
             {
                 "zh": "吧",
@@ -145,7 +145,7 @@
             },
             {
                 "zh": "白",
-                "en": "white, bright, pure"
+                "en": "white"
             }
         ]
     },
@@ -234,7 +234,7 @@
             },
             {
                 "zh": "班",
-                "en": "class, work shift"
+                "en": "class"
             }
         ]
     },
@@ -266,6 +266,10 @@
             {
                 "zh": "个",
                 "en": "one, a, an"
+            },
+            {
+                "zh": "蛋糕",
+                "en": "Not in word list."
             }
         ]
     },
@@ -291,12 +295,8 @@
                 "en": "Chinese (language)"
             },
             {
-                "zh": "半",
-                "en": "half, semi-"
-            },
-            {
-                "zh": "年",
-                "en": "year"
+                "zh": "半年",
+                "en": "half a year"
             },
             {
                 "zh": "了",
@@ -326,12 +326,8 @@
                 "en": "grammatical particle"
             },
             {
-                "zh": "半",
-                "en": "half, semi-"
-            },
-            {
-                "zh": "天",
-                "en": "day, sky"
+                "zh": "半天",
+                "en": "half day"
             }
         ]
     },
@@ -354,7 +350,7 @@
             },
             {
                 "zh": "帮",
-                "en": "to help"
+                "en": "help"
             },
             {
                 "zh": "我",
@@ -389,7 +385,7 @@
             },
             {
                 "zh": "帮忙",
-                "en": "to help, to lend a hand"
+                "en": "help"
             }
         ]
     },
@@ -420,7 +416,7 @@
             },
             {
                 "zh": "包",
-                "en": "bag, to wrap"
+                "en": "bag"
             }
         ]
     },
@@ -473,6 +469,10 @@
                 "en": "1, one"
             },
             {
+                "zh": "杯",
+                "en": "cup"
+            },
+            {
                 "zh": "咖啡",
                 "en": "coffee"
             }
@@ -521,6 +521,18 @@
             {
                 "zh": "这",
                 "en": "this, these"
+            },
+            {
+                "zh": "房子",
+                "en": "house / building"
+            },
+            {
+                "zh": "朝",
+                "en": "Not in word list."
+            },
+            {
+                "zh": "北",
+                "en": "north"
             }
         ]
     },
@@ -534,8 +546,8 @@
         },
         "words": [
             {
-                "zh": "书",
-                "en": "book"
+                "zh": "图书馆",
+                "en": "library"
             },
             {
                 "zh": "在",
@@ -550,8 +562,8 @@
                 "en": "possession particle"
             },
             {
-                "zh": "边",
-                "en": "side, edge"
+                "zh": "北边",
+                "en": "North side"
             }
         ]
     },
@@ -574,7 +586,7 @@
             },
             {
                 "zh": "过",
-                "en": "to cross, to pass time"
+                "en": "pass"
             },
             {
                 "zh": "北京",
@@ -663,7 +675,7 @@
             },
             {
                 "zh": "比",
-                "en": "than, used for comparison"
+                "en": "particle used for comparison"
             },
             {
                 "zh": "我",
@@ -671,7 +683,7 @@
             },
             {
                 "zh": "高",
-                "en": "high, tall"
+                "en": "high"
             }
         ]
     },
@@ -686,11 +698,11 @@
         "words": [
             {
                 "zh": "别",
-                "en": "don't, other"
+                "en": "don’t"
             },
             {
                 "zh": "动",
-                "en": "to move"
+                "en": "move"
             }
         ]
     },
@@ -708,12 +720,8 @@
                 "en": "to have, to exist"
             },
             {
-                "zh": "别",
-                "en": "don't, other"
-            },
-            {
-                "zh": "的",
-                "en": "possession particle"
+                "zh": "别的",
+                "en": "other"
             },
             {
                 "zh": "颜色",
@@ -743,12 +751,12 @@
                 "en": "no, negation particle"
             },
             {
-                "zh": "别",
-                "en": "don't, other"
+                "zh": "像",
+                "en": "Not in word list."
             },
             {
-                "zh": "人",
-                "en": "person, people"
+                "zh": "别人",
+                "en": "other people"
             }
         ]
     },
@@ -793,12 +801,8 @@
         },
         "words": [
             {
-                "zh": "病",
-                "en": "illness, to be ill"
-            },
-            {
-                "zh": "人",
-                "en": "person, people"
+                "zh": "病人",
+                "en": "patient"
             },
             {
                 "zh": "要",
@@ -832,6 +836,10 @@
                 "en": "possession particle"
             },
             {
+                "zh": "房子",
+                "en": "house / building"
+            },
+            {
                 "zh": "不",
                 "en": "no, negation particle"
             },
@@ -859,6 +867,10 @@
                 "en": "possession particle"
             },
             {
+                "zh": "答案",
+                "en": "Not in word list."
+            },
+            {
                 "zh": "不",
                 "en": "no, negation particle"
             },
@@ -880,6 +892,10 @@
             {
                 "zh": "不",
                 "en": "no, negation particle"
+            },
+            {
+                "zh": "客气",
+                "en": "Not in word list."
             }
         ]
     },
@@ -893,12 +909,12 @@
         },
         "words": [
             {
-                "zh": "不",
-                "en": "no, negation particle"
+                "zh": "不用",
+                "en": "No need to"
             },
             {
                 "zh": "着",
-                "en": "indicating action in progress"
+                "en": "particle: in process of(indicating action in progress)"
             }
         ]
     },
@@ -918,6 +934,10 @@
             {
                 "zh": "不",
                 "en": "no, negation particle"
+            },
+            {
+                "zh": "紧张",
+                "en": "Not in word list."
             }
         ]
     },
@@ -997,8 +1017,16 @@
                 "en": "possession particle"
             },
             {
+                "zh": "态度",
+                "en": "Not in word list."
+            },
+            {
                 "zh": "很",
                 "en": "quite, very"
+            },
+            {
+                "zh": "差",
+                "en": "differ from / bad / short of "
             }
         ]
     },
@@ -1014,6 +1042,10 @@
             {
                 "zh": "我",
                 "en": "I, me"
+            },
+            {
+                "zh": "常",
+                "en": "often"
             },
             {
                 "zh": "点",
@@ -1041,6 +1073,10 @@
             {
                 "zh": "我",
                 "en": "I, me"
+            },
+            {
+                "zh": "常常",
+                "en": "often"
             },
             {
                 "zh": "做饭",
@@ -1098,7 +1134,7 @@
             },
             {
                 "zh": "唱歌",
-                "en": "to sing"
+                "en": "sing"
             }
         ]
     },
@@ -1125,7 +1161,7 @@
             },
             {
                 "zh": "坏",
-                "en": "bad, broken"
+                "en": "bad"
             },
             {
                 "zh": "了",
@@ -1159,12 +1195,8 @@
                 "en": "1, one"
             },
             {
-                "zh": "车",
-                "en": "vehicle, car"
-            },
-            {
-                "zh": "票",
-                "en": "ticket, ballot, banknote"
+                "zh": "车票",
+                "en": "ticket"
             }
         ]
     },
@@ -1194,12 +1226,8 @@
                 "en": "at, in, to be at"
             },
             {
-                "zh": "车",
-                "en": "vehicle, car"
-            },
-            {
-                "zh": "上",
-                "en": "up"
+                "zh": "车上",
+                "en": "in the car"
             }
         ]
     },
@@ -1222,7 +1250,7 @@
             },
             {
                 "zh": "车站",
-                "en": "station, bus stop"
+                "en": "station"
             }
         ]
     },
@@ -1279,12 +1307,8 @@
                 "en": "friend"
             },
             {
-                "zh": "吃",
-                "en": "to eat"
-            },
-            {
-                "zh": "饭",
-                "en": "cooked rice, meal"
+                "zh": "吃饭",
+                "en": "have a meal"
             }
         ]
     },
@@ -1303,23 +1327,19 @@
             },
             {
                 "zh": "拿",
-                "en": "to take, to hold"
+                "en": "take"
             },
             {
                 "zh": "出",
-                "en": "to go out, to happen"
+                "en": "out"
             },
             {
                 "zh": "了",
                 "en": "grammatical particle"
             },
             {
-                "zh": "钱",
-                "en": "money, coin"
-            },
-            {
-                "zh": "包",
-                "en": "bag, to wrap"
+                "zh": "钱包",
+                "en": "wallet"
             }
         ]
     },
@@ -1338,7 +1358,7 @@
             },
             {
                 "zh": "出来",
-                "en": "to come out"
+                "en": "come out"
             },
             {
                 "zh": "了",
@@ -1369,7 +1389,11 @@
             },
             {
                 "zh": "出去",
-                "en": "to go out"
+                "en": "go out"
+            },
+            {
+                "zh": "散步",
+                "en": "Not in word list."
             }
         ]
     },
@@ -1393,6 +1417,10 @@
             {
                 "zh": "穿",
                 "en": "to wear, to put on, to dress"
+            },
+            {
+                "zh": "短裤",
+                "en": "Not in word list."
             }
         ]
     },
@@ -1408,6 +1436,10 @@
             {
                 "zh": "他",
                 "en": "he, him"
+            },
+            {
+                "zh": "躺",
+                "en": "Not in word list."
             },
             {
                 "zh": "在",
@@ -1445,12 +1477,16 @@
                 "en": "week"
             },
             {
+                "zh": "健身",
+                "en": "Not in word list."
+            },
+            {
                 "zh": "四",
                 "en": "4, four"
             },
             {
                 "zh": "次",
-                "en": "time, occurrence"
+                "en": "measure word for times, frequency"
             }
         ]
     },
@@ -1465,7 +1501,7 @@
         "words": [
             {
                 "zh": "从",
-                "en": "from, since"
+                "en": "from"
             },
             {
                 "zh": "这里",
@@ -1477,7 +1513,7 @@
             },
             {
                 "zh": "车站",
-                "en": "station, bus stop"
+                "en": "station"
             },
             {
                 "zh": "要",
@@ -1490,6 +1526,10 @@
             {
                 "zh": "分",
                 "en": "minute, cent, to divide"
+            },
+            {
+                "zh": "分钟",
+                "en": "minute"
             }
         ]
     },
@@ -1508,7 +1548,7 @@
             },
             {
                 "zh": "错",
-                "en": "mistake, error, wrong"
+                "en": "wrong"
             },
             {
                 "zh": "了",
@@ -1535,15 +1575,11 @@
             },
             {
                 "zh": "打",
-                "en": "to hit, to play (ball games)"
+                "en": "hit / take"
             },
             {
-                "zh": "女",
-                "en": "woman, female"
-            },
-            {
-                "zh": "人",
-                "en": "person, people"
+                "zh": "女人",
+                "en": "woman"
             }
         ]
     },
@@ -1566,7 +1602,7 @@
             },
             {
                 "zh": "打车",
-                "en": "to take a taxi"
+                "en": "take a taxi"
             },
             {
                 "zh": "去",
@@ -1574,7 +1610,15 @@
             },
             {
                 "zh": "飞",
-                "en": "to fly"
+                "en": "fly"
+            },
+            {
+                "zh": "飞机",
+                "en": "airplane"
+            },
+            {
+                "zh": "机场",
+                "en": "airport"
             }
         ]
     },
@@ -1602,6 +1646,10 @@
             {
                 "zh": "给",
                 "en": "to, for, to give"
+            },
+            {
+                "zh": "顾客",
+                "en": "Not in word list."
             }
         ]
     },
@@ -1620,7 +1668,11 @@
             },
             {
                 "zh": "打开",
-                "en": "to open, to turn on"
+                "en": "turn on"
+            },
+            {
+                "zh": "空调",
+                "en": "Not in word list."
             }
         ]
     },
@@ -1650,12 +1702,8 @@
                 "en": "friend"
             },
             {
-                "zh": "打",
-                "en": "to hit, to play (ball games)"
-            },
-            {
-                "zh": "球",
-                "en": "ball"
+                "zh": "打球",
+                "en": "play ball"
             }
         ]
     },
@@ -1675,6 +1723,10 @@
             {
                 "zh": "的",
                 "en": "possession particle"
+            },
+            {
+                "zh": "房子",
+                "en": "house / building"
             },
             {
                 "zh": "很",
@@ -1739,6 +1791,10 @@
                 "en": "university student"
             },
             {
+                "zh": "压力",
+                "en": "Not in word list."
+            },
+            {
                 "zh": "很",
                 "en": "quite, very"
             },
@@ -1768,6 +1824,10 @@
             {
                 "zh": "分",
                 "en": "minute, cent, to divide"
+            },
+            {
+                "zh": "分钟",
+                "en": "minute"
             },
             {
                 "zh": "后",
@@ -1801,6 +1861,10 @@
                 "en": "particle indicating effect, degree, possibility"
             },
             {
+                "zh": "得到",
+                "en": "get"
+            },
+            {
                 "zh": "到",
                 "en": "to arrive, to reach, to, until"
             },
@@ -1825,7 +1889,11 @@
             },
             {
                 "zh": "地",
-                "en": "adverbial particle (-ly)"
+                "en": "ground"
+            },
+            {
+                "zh": "哭",
+                "en": "Not in word list."
             },
             {
                 "zh": "了",
@@ -1849,6 +1917,10 @@
             {
                 "zh": "是",
                 "en": "to be"
+            },
+            {
+                "zh": "奥利",
+                "en": "Not in word list."
             },
             {
                 "zh": "的",
@@ -1879,7 +1951,7 @@
             },
             {
                 "zh": "等",
-                "en": "to wait, rank, equal to"
+                "en": "wait"
             },
             {
                 "zh": "你",
@@ -1901,16 +1973,16 @@
         },
         "words": [
             {
+                "zh": "钥匙",
+                "en": "Not in word list."
+            },
+            {
                 "zh": "在",
                 "en": "at, in, to be at"
             },
             {
-                "zh": "地",
-                "en": "adverbial particle (-ly)"
-            },
-            {
-                "zh": "上",
-                "en": "up"
+                "zh": "地上",
+                "en": "on the ground"
             }
         ]
     },
@@ -1928,12 +2000,8 @@
                 "en": "can, to be able to"
             },
             {
-                "zh": "地",
-                "en": "adverbial particle (-ly)"
-            },
-            {
-                "zh": "点",
-                "en": "point, dot, o'clock"
+                "zh": "地点",
+                "en": "location"
             },
             {
                 "zh": "在",
@@ -1959,8 +2027,8 @@
                 "en": "this, this one"
             },
             {
-                "zh": "地",
-                "en": "adverbial particle (-ly)"
+                "zh": "地方",
+                "en": "place"
             },
             {
                 "zh": "真",
@@ -1982,12 +2050,8 @@
         },
         "words": [
             {
-                "zh": "地",
-                "en": "adverbial particle (-ly)"
-            },
-            {
-                "zh": "上",
-                "en": "up"
+                "zh": "地上",
+                "en": "on the ground"
             },
             {
                 "zh": "有",
@@ -2029,8 +2093,8 @@
                 "en": "China"
             },
             {
-                "zh": "地",
-                "en": "adverbial particle (-ly)"
+                "zh": "地图",
+                "en": "Map"
             }
         ]
     },
@@ -2096,7 +2160,7 @@
             },
             {
                 "zh": "次",
-                "en": "time, occurrence"
+                "en": "measure word for times, frequency"
             },
             {
                 "zh": "来",
@@ -2147,6 +2211,10 @@
             {
                 "zh": "没有",
                 "en": "no, haven't, hasn't"
+            },
+            {
+                "zh": "电",
+                "en": "electricity"
             }
         ]
     },
@@ -2168,8 +2236,20 @@
                 "en": "possession particle"
             },
             {
+                "zh": "电话",
+                "en": "telephone, phone call"
+            },
+            {
                 "zh": "号",
                 "en": "number"
+            },
+            {
+                "zh": "电",
+                "en": "electricity"
+            },
+            {
+                "zh": "话",
+                "en": "word / words"
             },
             {
                 "zh": "是",
@@ -2236,6 +2316,14 @@
             {
                 "zh": "看",
                 "en": "to look, to see, to watch"
+            },
+            {
+                "zh": "电",
+                "en": "electricity"
+            },
+            {
+                "zh": "电视",
+                "en": "television"
             }
         ]
     },
@@ -2257,8 +2345,12 @@
                 "en": "possession particle"
             },
             {
+                "zh": "电视机",
+                "en": "Televisionlit. \"television + machine\""
+            },
+            {
                 "zh": "坏",
-                "en": "bad, broken"
+                "en": "bad"
             },
             {
                 "zh": "了",
@@ -2332,7 +2424,20 @@
             "zh": "房子朝东。",
             "en": "The house faces east."
         },
-        "words": []
+        "words": [
+            {
+                "zh": "房子",
+                "en": "house / building"
+            },
+            {
+                "zh": "朝",
+                "en": "Not in word list."
+            },
+            {
+                "zh": "东",
+                "en": "east"
+            }
+        ]
     },
     "85": {
         "id": "85",
@@ -2352,12 +2457,16 @@
                 "en": "at, in, to be at"
             },
             {
+                "zh": "房子",
+                "en": "house / building"
+            },
+            {
                 "zh": "的",
                 "en": "possession particle"
             },
             {
-                "zh": "边",
-                "en": "side, edge"
+                "zh": "东边",
+                "en": "east side"
             }
         ]
     },
@@ -2407,11 +2516,11 @@
         "words": [
             {
                 "zh": "别",
-                "en": "don't, other"
+                "en": "don’t"
             },
             {
                 "zh": "动",
-                "en": "to move"
+                "en": "move"
             }
         ]
     },
@@ -2438,7 +2547,11 @@
             },
             {
                 "zh": "动",
-                "en": "to move"
+                "en": "move"
+            },
+            {
+                "zh": "动作",
+                "en": "action"
             }
         ]
     },
@@ -2489,6 +2602,10 @@
             {
                 "zh": "这",
                 "en": "this, these"
+            },
+            {
+                "zh": "话",
+                "en": "word / words"
             }
         ]
     },
@@ -2621,6 +2738,10 @@
                 "en": "I, me"
             },
             {
+                "zh": "饿",
+                "en": "hungry"
+            },
+            {
                 "zh": "了",
                 "en": "grammatical particle"
             }
@@ -2666,6 +2787,10 @@
             "en": "The interest rate is two percent."
         },
         "words": [
+            {
+                "zh": "利息率",
+                "en": "Not in word list."
+            },
             {
                 "zh": "是",
                 "en": "to be"
@@ -2778,6 +2903,10 @@
             {
                 "zh": "很",
                 "en": "quite, very"
+            },
+            {
+                "zh": "乱",
+                "en": "Not in word list."
             }
         ]
     },
@@ -2797,6 +2926,10 @@
             {
                 "zh": "的",
                 "en": "possession particle"
+            },
+            {
+                "zh": "房子",
+                "en": "house / building"
             },
             {
                 "zh": "很",
@@ -2822,20 +2955,24 @@
                 "en": "I, me"
             },
             {
+                "zh": "把",
+                "en": "Not in word list."
+            },
+            {
                 "zh": "钱",
                 "en": "money, coin"
+            },
+            {
+                "zh": "放",
+                "en": "to put / to release / to let go"
             },
             {
                 "zh": "在",
                 "en": "at, in, to be at"
             },
             {
-                "zh": "钱",
-                "en": "money, coin"
-            },
-            {
-                "zh": "包",
-                "en": "bag, to wrap"
+                "zh": "钱包",
+                "en": "wallet"
             },
             {
                 "zh": "里",
@@ -2859,6 +2996,10 @@
             {
                 "zh": "想",
                 "en": "to think, to want"
+            },
+            {
+                "zh": "放假",
+                "en": "holiday / have a holiday"
             },
             {
                 "zh": "吗",
@@ -2896,8 +3037,8 @@
                 "en": "point, dot, o'clock"
             },
             {
-                "zh": "学",
-                "en": "to learn, to study"
+                "zh": "放学",
+                "en": "finish school / after school"
             }
         ]
     },
@@ -2920,7 +3061,7 @@
             },
             {
                 "zh": "飞",
-                "en": "to fly"
+                "en": "fly"
             },
             {
                 "zh": "吗",
@@ -2996,8 +3137,16 @@
                 "en": "to learn, to study"
             },
             {
+                "zh": "考试",
+                "en": "examination"
+            },
+            {
                 "zh": "考",
-                "en": "to take an exam, to test"
+                "en": "test / examine"
+            },
+            {
+                "zh": "试",
+                "en": "try"
             },
             {
                 "zh": "得",
@@ -3037,6 +3186,10 @@
             {
                 "zh": "没有",
                 "en": "no, haven't, hasn't"
+            },
+            {
+                "zh": "风",
+                "en": "wind"
             }
         ]
     },
@@ -3049,6 +3202,14 @@
             "en": "The socks are dry."
         },
         "words": [
+            {
+                "zh": "子",
+                "en": "noun suffixe.g. 桌子 zhuō zi (table) 椅子 yǐ zi (chair)"
+            },
+            {
+                "zh": "干",
+                "en": "do"
+            },
             {
                 "zh": "了",
                 "en": "grammatical particle"
@@ -3079,6 +3240,10 @@
             {
                 "zh": "很",
                 "en": "quite, very"
+            },
+            {
+                "zh": "干净",
+                "en": "clean"
             }
         ]
     },
@@ -3096,12 +3261,28 @@
                 "en": "you (singular, informal)"
             },
             {
+                "zh": "毕业",
+                "en": "Not in word list."
+            },
+            {
                 "zh": "后",
                 "en": "behind, after"
             },
             {
                 "zh": "想",
                 "en": "to think, to want"
+            },
+            {
+                "zh": "干",
+                "en": "do"
+            },
+            {
+                "zh": "什么",
+                "en": "what"
+            },
+            {
+                "zh": "干什么",
+                "en": "What to do / What are you doing?"
             }
         ]
     },
@@ -3121,6 +3302,10 @@
             {
                 "zh": "在",
                 "en": "at, in, to be at"
+            },
+            {
+                "zh": "干什么",
+                "en": "What to do / What are you doing?"
             }
         ]
     },
@@ -3138,12 +3323,16 @@
                 "en": "this, these"
             },
             {
+                "zh": "山",
+                "en": "mountain"
+            },
+            {
                 "zh": "很",
                 "en": "quite, very"
             },
             {
                 "zh": "高",
-                "en": "high, tall"
+                "en": "high"
             }
         ]
     },
@@ -3181,11 +3370,11 @@
         "words": [
             {
                 "zh": "别",
-                "en": "don't, other"
+                "en": "don’t"
             },
             {
                 "zh": "告诉",
-                "en": "to tell, to inform"
+                "en": "tell"
             },
             {
                 "zh": "她",
@@ -3316,6 +3505,10 @@
                 "en": "1, one"
             },
             {
+                "zh": "杯",
+                "en": "cup"
+            },
+            {
                 "zh": "水",
                 "en": "water"
             }
@@ -3336,7 +3529,7 @@
             },
             {
                 "zh": "跟",
-                "en": "with, to follow"
+                "en": "with"
             },
             {
                 "zh": "你",
@@ -3344,7 +3537,7 @@
             },
             {
                 "zh": "一起",
-                "en": "together, with"
+                "en": "together"
             },
             {
                 "zh": "去",
@@ -3362,8 +3555,8 @@
         },
         "words": [
             {
-                "zh": "人",
-                "en": "person, people"
+                "zh": "工人",
+                "en": "worker"
             },
             {
                 "zh": "都",
@@ -3428,8 +3621,12 @@
                 "en": "to invite, please"
             },
             {
+                "zh": "关",
+                "en": "shut / close / turn off"
+            },
+            {
                 "zh": "门",
-                "en": "gate, door"
+                "en": "door"
             }
         ]
     },
@@ -3444,11 +3641,15 @@
         "words": [
             {
                 "zh": "记得",
-                "en": "to remember"
+                "en": "remember"
             },
             {
                 "zh": "手",
                 "en": "hand"
+            },
+            {
+                "zh": "关",
+                "en": "shut / close / turn off"
             },
             {
                 "zh": "上",
@@ -3465,6 +3666,10 @@
             "en": "The rent is too expensive."
         },
         "words": [
+            {
+                "zh": "房租",
+                "en": "Not in word list."
+            },
             {
                 "zh": "太",
                 "en": "too much, very"
@@ -3536,16 +3741,16 @@
                 "en": "one, a, an"
             },
             {
+                "zh": "历史悠久",
+                "en": "Not in word list."
+            },
+            {
                 "zh": "的",
                 "en": "possession particle"
             },
             {
-                "zh": "国",
-                "en": "country, nation"
-            },
-            {
-                "zh": "家",
-                "en": "home, family"
+                "zh": "国家",
+                "en": "country"
             }
         ]
     },
@@ -3567,12 +3772,8 @@
                 "en": "at, in, to be at"
             },
             {
-                "zh": "国",
-                "en": "country, nation"
-            },
-            {
-                "zh": "外",
-                "en": "foreign, external, outside"
+                "zh": "国外",
+                "en": "foreign / abroad"
             },
             {
                 "zh": "学习",
@@ -3595,7 +3796,7 @@
             },
             {
                 "zh": "过",
-                "en": "to cross, to pass time"
+                "en": "pass"
             },
             {
                 "zh": "了",
@@ -3607,7 +3808,7 @@
             },
             {
                 "zh": "考试",
-                "en": "exam, test"
+                "en": "examination"
             }
         ]
     },
@@ -3665,7 +3866,7 @@
             },
             {
                 "zh": "还是",
-                "en": "or, still"
+                "en": "still / or"
             },
             {
                 "zh": "茶",
@@ -3695,6 +3896,10 @@
                 "en": "possession particle"
             },
             {
+                "zh": "，",
+                "en": "Not in word list."
+            },
+            {
                 "zh": "了",
                 "en": "grammatical particle"
             },
@@ -3703,12 +3908,8 @@
                 "en": "I, me"
             },
             {
-                "zh": "还",
-                "en": "still, also, else, in addition"
-            },
-            {
-                "zh": "有",
-                "en": "to have, to exist"
+                "zh": "还有",
+                "en": "also / in addition / besides"
             },
             {
                 "zh": "三",
@@ -3870,6 +4071,10 @@
                 "en": "this, these"
             },
             {
+                "zh": "巧克力",
+                "en": "Not in word list."
+            },
+            {
                 "zh": "真",
                 "en": "really, true"
             },
@@ -3953,6 +4158,10 @@
             {
                 "zh": "好玩儿",
                 "en": "fun, amusing"
+            },
+            {
+                "zh": " ",
+                "en": "Not in word list."
             }
         ]
     },
@@ -3997,8 +4206,16 @@
                 "en": "to drink"
             },
             {
+                "zh": "咖啡",
+                "en": "coffee"
+            },
+            {
                 "zh": "吗",
                 "en": "interrogative particle"
+            },
+            {
+                "zh": "?",
+                "en": "Not in word list."
             }
         ]
     },
@@ -4082,6 +4299,10 @@
                 "en": "behind, after"
             },
             {
+                "zh": "，",
+                "en": "Not in word list."
+            },
+            {
                 "zh": "你",
                 "en": "you (singular, informal)"
             },
@@ -4110,7 +4331,7 @@
         "words": [
             {
                 "zh": "车站",
-                "en": "station, bus stop"
+                "en": "station"
             },
             {
                 "zh": "在",
@@ -4121,12 +4342,8 @@
                 "en": "hotel"
             },
             {
-                "zh": "后",
-                "en": "behind, after"
-            },
-            {
-                "zh": "边",
-                "en": "side, edge"
+                "zh": "后边",
+                "en": "behind / back"
             }
         ]
     },
@@ -4144,16 +4361,16 @@
                 "en": "I, me"
             },
             {
-                "zh": "后",
-                "en": "behind, after"
-            },
-            {
-                "zh": "天",
-                "en": "day, sky"
+                "zh": "后天",
+                "en": "the day after tomorrow"
             },
             {
                 "zh": "去",
                 "en": "to go"
+            },
+            {
+                "zh": "南",
+                "en": "south"
             }
         ]
     },
@@ -4206,8 +4423,8 @@
                 "en": "no, negation particle"
             },
             {
-                "zh": "白",
-                "en": "white, bright, pure"
+                "zh": "明白",
+                "en": "clear / to be clear /understand"
             },
             {
                 "zh": "他",
@@ -4216,6 +4433,10 @@
             {
                 "zh": "的",
                 "en": "possession particle"
+            },
+            {
+                "zh": "话",
+                "en": "word / words"
             }
         ]
     },
@@ -4229,6 +4450,10 @@
         },
         "words": [
             {
+                "zh": "吸烟",
+                "en": "Not in word list."
+            },
+            {
                 "zh": "是",
                 "en": "to be"
             },
@@ -4238,7 +4463,7 @@
             },
             {
                 "zh": "坏",
-                "en": "bad, broken"
+                "en": "bad"
             }
         ]
     },
@@ -4322,8 +4547,8 @@
                 "en": "you (singular, informal)"
             },
             {
-                "zh": "回",
-                "en": "to return, to be back"
+                "zh": "回答",
+                "en": "answer"
             }
         ]
     },
@@ -4345,12 +4570,8 @@
                 "en": "to think, to want"
             },
             {
-                "zh": "回",
-                "en": "to return, to be back"
-            },
-            {
-                "zh": "到",
-                "en": "to arrive, to reach, to, until"
+                "zh": "回到",
+                "en": "back to / return to"
             },
             {
                 "zh": "上",
@@ -4380,12 +4601,8 @@
                 "en": "point, dot, o'clock"
             },
             {
-                "zh": "回",
-                "en": "to return, to be back"
-            },
-            {
-                "zh": "家",
-                "en": "home, family"
+                "zh": "回家",
+                "en": "go home / return home"
             }
         ]
     },
@@ -4412,7 +4629,7 @@
             },
             {
                 "zh": "回来",
-                "en": "to come back"
+                "en": "come back / return"
             }
         ]
     },
@@ -4435,7 +4652,7 @@
             },
             {
                 "zh": "回去",
-                "en": "to go back"
+                "en": "go back"
             }
         ]
     },
@@ -4488,12 +4705,20 @@
                 "en": "to sit"
             },
             {
+                "zh": "火车",
+                "en": "train"
+            },
+            {
                 "zh": "车",
                 "en": "vehicle, car"
             },
             {
                 "zh": "去",
                 "en": "to go"
+            },
+            {
+                "zh": "深圳",
+                "en": "Not in word list."
             }
         ]
     },
@@ -4534,8 +4759,12 @@
                 "en": "you (singular, informal)"
             },
             {
+                "zh": "机票",
+                "en": "air ticket"
+            },
+            {
                 "zh": "票",
-                "en": "ticket, ballot, banknote"
+                "en": "ticket"
             },
             {
                 "zh": "了",
@@ -4600,6 +4829,10 @@
                 "en": "how many (1 to 10)"
             },
             {
+                "zh": "杯",
+                "en": "cup"
+            },
+            {
                 "zh": "咖啡",
                 "en": "coffee"
             }
@@ -4617,6 +4850,10 @@
             {
                 "zh": "请",
                 "en": "to invite, please"
+            },
+            {
+                "zh": "记",
+                "en": "to record / to note"
             },
             {
                 "zh": "下",
@@ -4647,7 +4884,7 @@
             },
             {
                 "zh": "记得",
-                "en": "to remember"
+                "en": "remember"
             },
             {
                 "zh": "我",
@@ -4677,8 +4914,8 @@
                 "en": "can, to be able to"
             },
             {
-                "zh": "住",
-                "en": "to live"
+                "zh": "记住",
+                "en": "remember / keep in mind"
             },
             {
                 "zh": "的",
@@ -4710,6 +4947,10 @@
             {
                 "zh": "在",
                 "en": "at, in, to be at"
+            },
+            {
+                "zh": "东",
+                "en": "east"
             }
         ]
     },
@@ -4731,16 +4972,16 @@
                 "en": "possession particle"
             },
             {
+                "zh": "钥匙",
+                "en": "Not in word list."
+            },
+            {
                 "zh": "在",
                 "en": "at, in, to be at"
             },
             {
-                "zh": "家",
-                "en": "home, family"
-            },
-            {
-                "zh": "里",
-                "en": "interior, inside"
+                "zh": "家里",
+                "en": "in the home / at home"
             }
         ]
     },
@@ -4793,12 +5034,16 @@
                 "en": "important, to want, to ask for"
             },
             {
+                "zh": "订",
+                "en": "Not in word list."
+            },
+            {
                 "zh": "三",
                 "en": "3, three"
             },
             {
                 "zh": "间",
-                "en": "measure word for rooms"
+                "en": "between /measure word for rooms"
             },
             {
                 "zh": "人",
@@ -4859,12 +5104,8 @@
                 "en": "where"
             },
             {
-                "zh": "见",
-                "en": "to see, to meet"
-            },
-            {
-                "zh": "面",
-                "en": "side, surface"
+                "zh": "见面",
+                "en": "to meet / to see each other "
             }
         ]
     },
@@ -4887,7 +5128,7 @@
             },
             {
                 "zh": "教",
-                "en": "to teach"
+                "en": "teach"
             },
             {
                 "zh": "我",
@@ -4923,6 +5164,10 @@
             {
                 "zh": "我",
                 "en": "I, me"
+            },
+            {
+                "zh": "Angel",
+                "en": "Not in word list."
             }
         ]
     },
@@ -4952,16 +5197,8 @@
                 "en": "at, in, to be at"
             },
             {
-                "zh": "教",
-                "en": "to teach"
-            },
-            {
-                "zh": "学",
-                "en": "to learn, to study"
-            },
-            {
-                "zh": "楼",
-                "en": "building, floor"
+                "zh": "教学楼",
+                "en": "teaching building"
             }
         ]
     },
@@ -4985,6 +5222,10 @@
             {
                 "zh": "是",
                 "en": "to be"
+            },
+            {
+                "zh": "护士",
+                "en": "Not in word list."
             }
         ]
     },
@@ -5007,7 +5248,7 @@
             },
             {
                 "zh": "介绍",
-                "en": "to introduce, to recommend"
+                "en": "introduce"
             },
             {
                 "zh": "一下",
@@ -5084,7 +5325,7 @@
             },
             {
                 "zh": "进",
-                "en": "to advance, to enter"
+                "en": "enter"
             },
             {
                 "zh": "了",
@@ -5115,11 +5356,15 @@
             },
             {
                 "zh": "进来",
-                "en": "to come in"
+                "en": "come in"
             },
             {
                 "zh": "喝",
                 "en": "to drink"
+            },
+            {
+                "zh": "杯",
+                "en": "cup"
             },
             {
                 "zh": "咖啡",
@@ -5150,7 +5395,7 @@
             },
             {
                 "zh": "进去",
-                "en": "to go in"
+                "en": "go in"
             }
         ]
     },
@@ -5207,8 +5452,12 @@
                 "en": "grammatical particle"
             },
             {
+                "zh": "，",
+                "en": "Not in word list."
+            },
+            {
                 "zh": "就",
-                "en": "only, already, as soon as, right away"
+                "en": "as soon as / right away / then"
             },
             {
                 "zh": "给",
@@ -5266,7 +5515,7 @@
             },
             {
                 "zh": "门",
-                "en": "gate, door"
+                "en": "door"
             }
         ]
     },
@@ -5319,12 +5568,8 @@
                 "en": "point, dot, o'clock"
             },
             {
-                "zh": "开",
-                "en": "to open, to start, to drive"
-            },
-            {
-                "zh": "会",
-                "en": "can, to be able to"
+                "zh": "开会",
+                "en": "have a meeting"
             }
         ]
     },
@@ -5346,16 +5591,8 @@
                 "en": "to like"
             },
             {
-                "zh": "开",
-                "en": "to open, to start, to drive"
-            },
-            {
-                "zh": "玩",
-                "en": "to play, to have fun"
-            },
-            {
-                "zh": "笑",
-                "en": "to smile, to laugh"
+                "zh": "开玩笑",
+                "en": "make fun of / joke"
             },
             {
                 "zh": "吗",
@@ -5383,6 +5620,10 @@
             {
                 "zh": "条",
                 "en": "measure word for long things"
+            },
+            {
+                "zh": "彩虹",
+                "en": "Not in word list."
             }
         ]
     },
@@ -5427,12 +5668,8 @@
                 "en": "you (singular, informal)"
             },
             {
-                "zh": "看",
-                "en": "to look, to see, to watch"
-            },
-            {
-                "zh": "到",
-                "en": "to arrive, to reach, to, until"
+                "zh": "看到",
+                "en": "see"
             },
             {
                 "zh": "了",
@@ -5486,7 +5723,7 @@
             },
             {
                 "zh": "考",
-                "en": "to take an exam, to test"
+                "en": "test / examine"
             },
             {
                 "zh": "你",
@@ -5521,7 +5758,7 @@
             },
             {
                 "zh": "考试",
-                "en": "exam, test"
+                "en": "examination"
             },
             {
                 "zh": "怎么样",
@@ -5541,6 +5778,10 @@
             {
                 "zh": "我",
                 "en": "I, me"
+            },
+            {
+                "zh": "渴",
+                "en": "thirsty"
             },
             {
                 "zh": "了",
@@ -5605,12 +5846,8 @@
                 "en": "possession particle"
             },
             {
-                "zh": "课",
-                "en": "class, lesson, course"
-            },
-            {
-                "zh": "本",
-                "en": "classifier for books"
+                "zh": "课本",
+                "en": "textbook"
             }
         ]
     },
@@ -5636,8 +5873,8 @@
                 "en": "to read"
             },
             {
-                "zh": "课",
-                "en": "class, lesson, course"
+                "zh": "课文",
+                "en": "text"
             },
             {
                 "zh": "吗",
@@ -5704,6 +5941,10 @@
             {
                 "zh": "块",
                 "en": "piece of, lump of"
+            },
+            {
+                "zh": "蛋糕",
+                "en": "Not in word list."
             }
         ]
     },
@@ -5722,7 +5963,7 @@
             },
             {
                 "zh": "跑",
-                "en": "to run"
+                "en": "run"
             },
             {
                 "zh": "得",
@@ -5730,7 +5971,7 @@
             },
             {
                 "zh": "快",
-                "en": "quick, rapid, soon"
+                "en": "fast"
             }
         ]
     },
@@ -5765,7 +6006,7 @@
             },
             {
                 "zh": "打",
-                "en": "to hit, to play (ball games)"
+                "en": "hit / take"
             },
             {
                 "zh": "游",
@@ -5795,12 +6036,8 @@
                 "en": "last year"
             },
             {
-                "zh": "来",
-                "en": "to come, to arrive"
-            },
-            {
-                "zh": "到",
-                "en": "to arrive, to reach, to, until"
+                "zh": "来到",
+                "en": "come; arrive"
             },
             {
                 "zh": "中国",
@@ -5824,6 +6061,14 @@
             {
                 "zh": "是",
                 "en": "to be"
+            },
+            {
+                "zh": "老",
+                "en": "old / aged"
+            },
+            {
+                "zh": "朋友",
+                "en": "friend"
             }
         ]
     },
@@ -5841,12 +6086,12 @@
                 "en": "that, that one"
             },
             {
-                "zh": "人",
-                "en": "person, people"
+                "zh": "老人",
+                "en": "old people / the elderly"
             },
             {
                 "zh": "身体",
-                "en": "body, health"
+                "en": "body"
             },
             {
                 "zh": "很",
@@ -5919,7 +6164,7 @@
             },
             {
                 "zh": "累",
-                "en": "tired, weary"
+                "en": "tired"
             },
             {
                 "zh": "吗",
@@ -5968,12 +6213,16 @@
                 "en": "possession particle"
             },
             {
+                "zh": "护照",
+                "en": "Not in word list."
+            },
+            {
                 "zh": "在",
                 "en": "at, in, to be at"
             },
             {
                 "zh": "包",
-                "en": "bag, to wrap"
+                "en": "bag"
             },
             {
                 "zh": "里",
@@ -5991,12 +6240,12 @@
         },
         "words": [
             {
-                "zh": "里",
-                "en": "interior, inside"
+                "zh": "公园",
+                "en": "Not in word list."
             },
             {
-                "zh": "边",
-                "en": "side, edge"
+                "zh": "里边",
+                "en": "inside"
             },
             {
                 "zh": "有",
@@ -6009,6 +6258,10 @@
             {
                 "zh": "个",
                 "en": "one, a, an"
+            },
+            {
+                "zh": "湖",
+                "en": "Not in word list."
             }
         ]
     },
@@ -6050,11 +6303,15 @@
         "words": [
             {
                 "zh": "从",
-                "en": "from, since"
+                "en": "from"
             },
             {
                 "zh": "零",
                 "en": "0, zero"
+            },
+            {
+                "zh": "开始",
+                "en": "beginning, to begin"
             },
             {
                 "zh": "开",
@@ -6120,7 +6377,7 @@
             },
             {
                 "zh": "楼",
-                "en": "building, floor"
+                "en": "floor"
             }
         ]
     },
@@ -6142,12 +6399,8 @@
                 "en": "at, in, to be at"
             },
             {
-                "zh": "楼",
-                "en": "building, floor"
-            },
-            {
-                "zh": "上",
-                "en": "up"
+                "zh": "楼上",
+                "en": "upstairs"
             }
         ]
     },
@@ -6161,12 +6414,8 @@
         },
         "words": [
             {
-                "zh": "楼",
-                "en": "building, floor"
-            },
-            {
-                "zh": "下",
-                "en": "down"
+                "zh": "楼下",
+                "en": "downstairs"
             },
             {
                 "zh": "有",
@@ -6193,7 +6442,7 @@
         "words": [
             {
                 "zh": "路",
-                "en": "road, path, route"
+                "en": "road"
             },
             {
                 "zh": "在",
@@ -6223,12 +6472,8 @@
                 "en": "at, in, to be at"
             },
             {
-                "zh": "路",
-                "en": "road, path, route"
-            },
-            {
-                "zh": "口",
-                "en": "mouth, measure word"
+                "zh": "路口",
+                "en": "intersection / crossing"
             },
             {
                 "zh": "车",
@@ -6263,11 +6508,11 @@
             },
             {
                 "zh": "路上",
-                "en": "on the way"
+                "en": "on the road"
             },
             {
                 "zh": "坏",
-                "en": "bad, broken"
+                "en": "bad"
             },
             {
                 "zh": "了",
@@ -6293,6 +6538,10 @@
                 "en": "mom, mother"
             },
             {
+                "zh": "退休",
+                "en": "Not in word list."
+            },
+            {
                 "zh": "了",
                 "en": "grammatical particle"
             }
@@ -6313,11 +6562,11 @@
             },
             {
                 "zh": "过",
-                "en": "to cross, to pass time"
+                "en": "pass"
             },
             {
-                "zh": "路",
-                "en": "road, path, route"
+                "zh": "马路",
+                "en": "road / street"
             }
         ]
     },
@@ -6335,8 +6584,12 @@
                 "en": "I, me"
             },
             {
-                "zh": "上",
-                "en": "up"
+                "zh": "马上",
+                "en": "right away / immediately "
+            },
+            {
+                "zh": "付款",
+                "en": "Not in word list."
             }
         ]
     },
@@ -6458,6 +6711,10 @@
                 "en": "this, these"
             },
             {
+                "zh": "杯",
+                "en": "cup"
+            },
+            {
                 "zh": "茶",
                 "en": "tea"
             },
@@ -6472,6 +6729,10 @@
             {
                 "zh": "五",
                 "en": "5, five"
+            },
+            {
+                "zh": "毛",
+                "en": "a fractional unit of money in China1 毛 = 10 cents"
             }
         ]
     },
@@ -6491,6 +6752,10 @@
             {
                 "zh": "没",
                 "en": "not, have not"
+            },
+            {
+                "zh": "吸烟",
+                "en": "Not in word list."
             }
         ]
     },
@@ -6519,8 +6784,8 @@
         },
         "words": [
             {
-                "zh": "没",
-                "en": "not, have not"
+                "zh": "没什么",
+                "en": "It’s nothing"
             }
         ]
     },
@@ -6534,12 +6799,8 @@
         },
         "words": [
             {
-                "zh": "没",
-                "en": "not, have not"
-            },
-            {
-                "zh": "事",
-                "en": "matter, affair, thing"
+                "zh": "没事儿",
+                "en": "It's okay / It's all rigtht."
             }
         ]
     },
@@ -6612,7 +6873,7 @@
             },
             {
                 "zh": "门",
-                "en": "gate, door"
+                "en": "door"
             },
             {
                 "zh": "了",
@@ -6635,7 +6896,7 @@
         "words": [
             {
                 "zh": "别",
-                "en": "don't, other"
+                "en": "don’t"
             },
             {
                 "zh": "在",
@@ -6643,7 +6904,7 @@
             },
             {
                 "zh": "门口",
-                "en": "doorway, entrance"
+                "en": "doorway"
             },
             {
                 "zh": "外面",
@@ -6666,7 +6927,7 @@
         "words": [
             {
                 "zh": "门票",
-                "en": "entrance ticket"
+                "en": "tickets"
             },
             {
                 "zh": "多少",
@@ -6709,7 +6970,7 @@
             },
             {
                 "zh": "一起",
-                "en": "together, with"
+                "en": "together"
             },
             {
                 "zh": "天",
@@ -6770,8 +7031,12 @@
                 "en": "side, surface"
             },
             {
+                "zh": "面包",
+                "en": "bread"
+            },
+            {
                 "zh": "包",
-                "en": "bag, to wrap"
+                "en": "bag"
             },
             {
                 "zh": "吗",
@@ -6855,8 +7120,8 @@
                 "en": "no, negation particle"
             },
             {
-                "zh": "白",
-                "en": "white, bright, pure"
+                "zh": "明白",
+                "en": "clear / to be clear /understand"
             }
         ]
     },
@@ -6876,6 +7141,10 @@
             {
                 "zh": "明年",
                 "en": "next year"
+            },
+            {
+                "zh": "结婚",
+                "en": "Not in word list."
             }
         ]
     },
@@ -6913,7 +7182,11 @@
             },
             {
                 "zh": "拿",
-                "en": "to take, to hold"
+                "en": "take"
+            },
+            {
+                "zh": "护照",
+                "en": "Not in word list."
             },
             {
                 "zh": "了",
@@ -7058,8 +7331,8 @@
         },
         "words": [
             {
-                "zh": "书",
-                "en": "book"
+                "zh": "图书馆",
+                "en": "library"
             },
             {
                 "zh": "在",
@@ -7205,8 +7478,12 @@
                 "en": "to be"
             },
             {
+                "zh": "由",
+                "en": "Not in word list."
+            },
+            {
                 "zh": "奶奶",
-                "en": "grandma (paternal)"
+                "en": "grandma"
             },
             {
                 "zh": "大",
@@ -7317,12 +7594,8 @@
                 "en": "that, that one"
             },
             {
-                "zh": "男",
-                "en": "man, male"
-            },
-            {
-                "zh": "人",
-                "en": "person, people"
+                "zh": "男人",
+                "en": "man"
             },
             {
                 "zh": "是",
@@ -7348,8 +7621,8 @@
                 "en": "that, that one"
             },
             {
-                "zh": "男",
-                "en": "man, male"
+                "zh": "男生",
+                "en": "boy"
             },
             {
                 "zh": "很",
@@ -7357,7 +7630,7 @@
             },
             {
                 "zh": "高",
-                "en": "high, tall"
+                "en": "high"
             }
         ]
     },
@@ -7381,6 +7654,10 @@
             {
                 "zh": "房间",
                 "en": "room"
+            },
+            {
+                "zh": "南",
+                "en": "south"
             }
         ]
     },
@@ -7406,8 +7683,8 @@
                 "en": "hotel"
             },
             {
-                "zh": "边",
-                "en": "side, edge"
+                "zh": "南边",
+                "en": "south side"
             }
         ]
     },
@@ -7431,6 +7708,10 @@
             {
                 "zh": "汉语",
                 "en": "Chinese language, Mandarin"
+            },
+            {
+                "zh": "难",
+                "en": "hard / difficult"
             },
             {
                 "zh": "吗",
@@ -7458,6 +7739,14 @@
             {
                 "zh": "喝",
                 "en": "to drink"
+            },
+            {
+                "zh": "咖啡",
+                "en": "coffee"
+            },
+            {
+                "zh": "，",
+                "en": "Not in word list."
             },
             {
                 "zh": "你",
@@ -7622,6 +7911,10 @@
         },
         "words": [
             {
+                "zh": "冰箱",
+                "en": "Not in word list."
+            },
+            {
                 "zh": "里",
                 "en": "interior, inside"
             },
@@ -7671,6 +7964,14 @@
             {
                 "zh": "女",
                 "en": "woman, female"
+            },
+            {
+                "zh": "老",
+                "en": "old / aged"
+            },
+            {
+                "zh": "老师",
+                "en": "teacher"
             }
         ]
     },
@@ -7781,12 +8082,8 @@
                 "en": "that, that one"
             },
             {
-                "zh": "女",
-                "en": "woman, female"
-            },
-            {
-                "zh": "人",
-                "en": "person, people"
+                "zh": "女人",
+                "en": "woman"
             },
             {
                 "zh": "是",
@@ -7812,12 +8109,16 @@
                 "en": "that, that one"
             },
             {
-                "zh": "女",
-                "en": "woman, female"
+                "zh": "女生",
+                "en": "girl"
             },
             {
                 "zh": "很",
                 "en": "quite, very"
+            },
+            {
+                "zh": "漂亮",
+                "en": "pretty, beautiful"
             }
         ]
     },
@@ -7831,12 +8132,20 @@
         },
         "words": [
             {
+                "zh": "咖啡",
+                "en": "coffee"
+            },
+            {
                 "zh": "在",
                 "en": "at, in, to be at"
             },
             {
+                "zh": "健身房",
+                "en": "Not in word list."
+            },
+            {
                 "zh": "旁边",
-                "en": "lateral, side, beside"
+                "en": "beside / next to"
             }
         ]
     },
@@ -7855,7 +8164,7 @@
             },
             {
                 "zh": "跑",
-                "en": "to run"
+                "en": "run"
             },
             {
                 "zh": "得",
@@ -7863,7 +8172,7 @@
             },
             {
                 "zh": "快",
-                "en": "quick, rapid, soon"
+                "en": "fast"
             }
         ]
     },
@@ -7917,7 +8226,7 @@
             },
             {
                 "zh": "票",
-                "en": "ticket, ballot, banknote"
+                "en": "ticket"
             },
             {
                 "zh": "了",
@@ -7984,6 +8293,10 @@
             {
                 "zh": "早",
                 "en": "early, morning"
+            },
+            {
+                "zh": "起",
+                "en": "get up / start / rise"
             }
         ]
     },
@@ -7999,6 +8312,10 @@
             {
                 "zh": "你",
                 "en": "you (singular, informal)"
+            },
+            {
+                "zh": "常",
+                "en": "often"
             },
             {
                 "zh": "几",
@@ -8025,11 +8342,11 @@
         "words": [
             {
                 "zh": "快",
-                "en": "quick, rapid, soon"
+                "en": "fast"
             },
             {
                 "zh": "起来",
-                "en": "to get up, to rise"
+                "en": "get up"
             },
             {
                 "zh": "已经",
@@ -8063,8 +8380,12 @@
         },
         "words": [
             {
-                "zh": "路",
-                "en": "road, path, route"
+                "zh": "马路",
+                "en": "road / street"
+            },
+            {
+                "zh": "路上",
+                "en": "on the road"
             },
             {
                 "zh": "上",
@@ -8083,8 +8404,8 @@
                 "en": "many, much"
             },
             {
-                "zh": "车",
-                "en": "vehicle, car"
+                "zh": "汽车",
+                "en": "car"
             }
         ]
     },
@@ -8107,7 +8428,7 @@
             },
             {
                 "zh": "包",
-                "en": "bag, to wrap"
+                "en": "bag"
             },
             {
                 "zh": "在",
@@ -8115,7 +8436,7 @@
             },
             {
                 "zh": "门",
-                "en": "gate, door"
+                "en": "door"
             },
             {
                 "zh": "前",
@@ -8137,12 +8458,8 @@
                 "en": "hotel"
             },
             {
-                "zh": "前",
-                "en": "front, before"
-            },
-            {
-                "zh": "边",
-                "en": "side, edge"
+                "zh": "前边",
+                "en": "front side / in front of"
             },
             {
                 "zh": "有",
@@ -8155,6 +8472,10 @@
             {
                 "zh": "个",
                 "en": "one, a, an"
+            },
+            {
+                "zh": "公园",
+                "en": "Not in word list."
             }
         ]
     },
@@ -8172,12 +8493,8 @@
                 "en": "I, me"
             },
             {
-                "zh": "前",
-                "en": "front, before"
-            },
-            {
-                "zh": "天",
-                "en": "day, sky"
+                "zh": "前天",
+                "en": "the day before yesterday"
             },
             {
                 "zh": "给",
@@ -8186,6 +8503,10 @@
             {
                 "zh": "他",
                 "en": "he, him"
+            },
+            {
+                "zh": "发",
+                "en": "Not in word list."
             },
             {
                 "zh": "了",
@@ -8238,12 +8559,8 @@
                 "en": "possession particle"
             },
             {
-                "zh": "钱",
-                "en": "money, coin"
-            },
-            {
-                "zh": "包",
-                "en": "bag, to wrap"
+                "zh": "钱包",
+                "en": "wallet"
             },
             {
                 "zh": "在",
@@ -8273,8 +8590,8 @@
                 "en": "to invite, please"
             },
             {
-                "zh": "回",
-                "en": "to return, to be back"
+                "zh": "回答",
+                "en": "answer"
             }
         ]
     },
@@ -8300,8 +8617,8 @@
                 "en": "important, to want, to ask for"
             },
             {
-                "zh": "请",
-                "en": "to invite, please"
+                "zh": "请假",
+                "en": "ask for leave"
             }
         ]
     },
@@ -8320,7 +8637,7 @@
             },
             {
                 "zh": "进",
-                "en": "to advance, to enter"
+                "en": "enter"
             }
         ]
     },
@@ -8339,11 +8656,15 @@
             },
             {
                 "zh": "地",
-                "en": "adverbial particle (-ly)"
+                "en": "ground"
+            },
+            {
+                "zh": "地铁",
+                "en": "subway, metro"
             },
             {
                 "zh": "站",
-                "en": "station, stop"
+                "en": "station / stand"
             },
             {
                 "zh": "在",
@@ -8444,6 +8765,10 @@
             {
                 "zh": "去年",
                 "en": "last year"
+            },
+            {
+                "zh": "结婚",
+                "en": "Not in word list."
             },
             {
                 "zh": "了",
@@ -8554,8 +8879,8 @@
                 "en": "to be"
             },
             {
-                "zh": "真",
-                "en": "really, true"
+                "zh": "认真",
+                "en": "serious / to take seriously"
             },
             {
                 "zh": "的",
@@ -8608,12 +8933,20 @@
         },
         "words": [
             {
+                "zh": "婚礼",
+                "en": "Not in word list."
+            },
+            {
                 "zh": "的",
                 "en": "possession particle"
             },
             {
-                "zh": "日",
-                "en": "sun, day"
+                "zh": "日期",
+                "en": "date"
+            },
+            {
+                "zh": "定",
+                "en": "Not in word list."
             },
             {
                 "zh": "了",
@@ -8697,8 +9030,16 @@
                 "en": "this, these"
             },
             {
+                "zh": "山",
+                "en": "mountain"
+            },
+            {
                 "zh": "很",
                 "en": "quite, very"
+            },
+            {
+                "zh": "美",
+                "en": "Not in word list."
             }
         ]
     },
@@ -8817,6 +9158,10 @@
                 "en": "you (singular, informal)"
             },
             {
+                "zh": "常",
+                "en": "often"
+            },
+            {
                 "zh": "几",
                 "en": "how many (1 to 10)"
             },
@@ -8856,12 +9201,12 @@
                 "en": "at, in, to be at"
             },
             {
-                "zh": "上",
-                "en": "up"
+                "zh": "冰箱",
+                "en": "Not in word list."
             },
             {
-                "zh": "边",
-                "en": "side, edge"
+                "zh": "上边",
+                "en": "above / the top "
             }
         ]
     },
@@ -8879,12 +9224,8 @@
                 "en": "you (singular, informal)"
             },
             {
-                "zh": "上",
-                "en": "up"
-            },
-            {
-                "zh": "车",
-                "en": "vehicle, car"
+                "zh": "上车",
+                "en": "get on (a bus, train, car etc)"
             },
             {
                 "zh": "了",
@@ -8910,12 +9251,8 @@
                 "en": "you (singular, informal)"
             },
             {
-                "zh": "上",
-                "en": "up"
-            },
-            {
-                "zh": "次",
-                "en": "time, occurrence"
+                "zh": "上次",
+                "en": "last time"
             },
             {
                 "zh": "吃",
@@ -8997,7 +9334,7 @@
             },
             {
                 "zh": "上网",
-                "en": "to go online"
+                "en": "surf the internet / be online"
             },
             {
                 "zh": "吗",
@@ -9081,6 +9418,10 @@
                 "en": "few, less"
             },
             {
+                "zh": "放",
+                "en": "to put / to release / to let go"
+            },
+            {
                 "zh": "大",
                 "en": "large, big"
             }
@@ -9105,7 +9446,7 @@
             },
             {
                 "zh": "门",
-                "en": "gate, door"
+                "en": "door"
             }
         ]
     },
@@ -9123,8 +9464,8 @@
                 "en": "he, him"
             },
             {
-                "zh": "上",
-                "en": "up"
+                "zh": "身上",
+                "en": "body / on one's body"
             },
             {
                 "zh": "有",
@@ -9137,6 +9478,10 @@
             {
                 "zh": "只",
                 "en": "measure word for animals"
+            },
+            {
+                "zh": "蜘蛛",
+                "en": "Not in word list."
             }
         ]
     },
@@ -9159,7 +9504,7 @@
             },
             {
                 "zh": "身体",
-                "en": "body, health"
+                "en": "body"
             },
             {
                 "zh": "怎么样",
@@ -9228,7 +9573,11 @@
         "words": [
             {
                 "zh": "别",
-                "en": "don't, other"
+                "en": "don’t"
+            },
+            {
+                "zh": "生气",
+                "en": "get angry / angry"
             }
         ]
     },
@@ -9242,12 +9591,20 @@
         },
         "words": [
             {
+                "zh": "生日",
+                "en": "birthday"
+            },
+            {
+                "zh": "快乐",
+                "en": "happy, merry"
+            },
+            {
                 "zh": "日",
                 "en": "sun, day"
             },
             {
                 "zh": "快",
-                "en": "quick, rapid, soon"
+                "en": "fast"
             }
         ]
     },
@@ -9372,6 +9729,10 @@
             {
                 "zh": "很",
                 "en": "quite, very"
+            },
+            {
+                "zh": "复杂",
+                "en": "Not in word list."
             }
         ]
     },
@@ -9393,12 +9754,24 @@
                 "en": "can, may, able to"
             },
             {
+                "zh": "试",
+                "en": "try"
+            },
+            {
                 "zh": "一",
                 "en": "1, one"
             },
             {
+                "zh": "一下",
+                "en": "a bit, briefly (after verb)"
+            },
+            {
                 "zh": "下",
                 "en": "down"
+            },
+            {
+                "zh": "子",
+                "en": "noun suffixe.g. 桌子 zhuō zi (table) 椅子 yǐ zi (chair)"
             },
             {
                 "zh": "吗",
@@ -9447,16 +9820,12 @@
                 "en": "he, him"
             },
             {
-                "zh": "是",
-                "en": "to be"
+                "zh": "是不是",
+                "en": "isn't it? / yes or no?"
             },
             {
-                "zh": "不",
-                "en": "no, negation particle"
-            },
-            {
-                "zh": "是",
-                "en": "to be"
+                "zh": "老",
+                "en": "old / aged"
             }
         ]
     },
@@ -9479,7 +9848,7 @@
             },
             {
                 "zh": "洗",
-                "en": "to wash"
+                "en": "wash"
             },
             {
                 "zh": "手",
@@ -9511,6 +9880,10 @@
             {
                 "zh": "没",
                 "en": "not, have not"
+            },
+            {
+                "zh": "电",
+                "en": "electricity"
             },
             {
                 "zh": "了",
@@ -9568,7 +9941,7 @@
             },
             {
                 "zh": "书包",
-                "en": "schoolbag"
+                "en": "school bag"
             },
             {
                 "zh": "里",
@@ -9604,6 +9977,10 @@
             {
                 "zh": "书店",
                 "en": "bookstore"
+            },
+            {
+                "zh": "营业",
+                "en": "Not in word list."
             },
             {
                 "zh": "二",
@@ -9643,6 +10020,10 @@
             {
                 "zh": "什么",
                 "en": "what"
+            },
+            {
+                "zh": "树",
+                "en": "tree"
             }
         ]
     },
@@ -9676,6 +10057,10 @@
                 "en": "how many (1 to 10)"
             },
             {
+                "zh": "杯",
+                "en": "cup"
+            },
+            {
                 "zh": "水",
                 "en": "water"
             }
@@ -9696,7 +10081,7 @@
             },
             {
                 "zh": "最",
-                "en": "most, the most"
+                "en": "most"
             },
             {
                 "zh": "喜欢",
@@ -9824,7 +10209,7 @@
         "words": [
             {
                 "zh": "别",
-                "en": "don't, other"
+                "en": "don’t"
             },
             {
                 "zh": "说话",
@@ -9856,6 +10241,10 @@
             {
                 "zh": "四",
                 "en": "4, four"
+            },
+            {
+                "zh": "可乐",
+                "en": "Not in word list."
             }
         ]
     },
@@ -9878,7 +10267,7 @@
             },
             {
                 "zh": "送",
-                "en": "to deliver, to give, to send"
+                "en": "give"
             },
             {
                 "zh": "给",
@@ -9941,6 +10330,10 @@
             {
                 "zh": "你",
                 "en": "you (singular, informal)"
+            },
+            {
+                "zh": "讨厌",
+                "en": "Not in word list."
             },
             {
                 "zh": "他",
@@ -10018,6 +10411,10 @@
             {
                 "zh": "是",
                 "en": "to be"
+            },
+            {
+                "zh": "双胞胎",
+                "en": "Not in word list."
             }
         ]
     },
@@ -10063,7 +10460,11 @@
             },
             {
                 "zh": "出",
-                "en": "to go out, to happen"
+                "en": "out"
+            },
+            {
+                "zh": "差",
+                "en": "differ from / bad / short of "
             },
             {
                 "zh": "十",
@@ -10085,8 +10486,12 @@
         },
         "words": [
             {
-                "zh": "天",
-                "en": "day, sky"
+                "zh": "今天",
+                "en": "today"
+            },
+            {
+                "zh": "天气",
+                "en": "weather"
             },
             {
                 "zh": "天",
@@ -10151,12 +10556,8 @@
                 "en": "you (singular, informal)"
             },
             {
-                "zh": "听",
-                "en": "to listen, to hear"
-            },
-            {
-                "zh": "到",
-                "en": "to arrive, to reach, to, until"
+                "zh": "听到",
+                "en": "hear"
             },
             {
                 "zh": "了",
@@ -10186,6 +10587,10 @@
                 "en": "to hear"
             },
             {
+                "zh": "雷声",
+                "en": "Not in word list."
+            },
+            {
                 "zh": "了",
                 "en": "grammatical particle"
             },
@@ -10213,12 +10618,8 @@
                 "en": "important, to want, to ask for"
             },
             {
-                "zh": "听",
-                "en": "to listen, to hear"
-            },
-            {
-                "zh": "写",
-                "en": "to write"
+                "zh": "听写",
+                "en": "dictation / dictate"
             },
             {
                 "zh": "词",
@@ -10271,8 +10672,8 @@
         },
         "words": [
             {
-                "zh": "书",
-                "en": "book"
+                "zh": "图书馆",
+                "en": "library"
             },
             {
                 "zh": "在",
@@ -10302,12 +10703,16 @@
                 "en": "possession particle"
             },
             {
+                "zh": "披萨",
+                "en": "Not in word list."
+            },
+            {
                 "zh": "在",
                 "en": "at, in, to be at"
             },
             {
                 "zh": "门",
-                "en": "gate, door"
+                "en": "door"
             },
             {
                 "zh": "外",
@@ -10327,6 +10732,10 @@
             {
                 "zh": "外边",
                 "en": "outside"
+            },
+            {
+                "zh": "风",
+                "en": "wind"
             },
             {
                 "zh": "很",
@@ -10399,8 +10808,8 @@
                 "en": "what"
             },
             {
-                "zh": "外",
-                "en": "foreign, external, outside"
+                "zh": "外语",
+                "en": "foreign language"
             }
         ]
     },
@@ -10419,11 +10828,11 @@
             },
             {
                 "zh": "一起",
-                "en": "together, with"
+                "en": "together"
             },
             {
-                "zh": "玩",
-                "en": "to play, to have fun"
+                "zh": "玩儿",
+                "en": "play"
             },
             {
                 "zh": "吧",
@@ -10559,6 +10968,10 @@
             {
                 "zh": "多",
                 "en": "many, much"
+            },
+            {
+                "zh": "网友",
+                "en": "internet friend / friend on the internet"
             }
         ]
     },
@@ -10573,11 +10986,11 @@
         "words": [
             {
                 "zh": "别",
-                "en": "don't, other"
+                "en": "don’t"
             },
             {
                 "zh": "忘",
-                "en": "to forget"
+                "en": "forget / overlook / neglect"
             },
             {
                 "zh": "了",
@@ -10615,8 +11028,8 @@
                 "en": "can, to be able to"
             },
             {
-                "zh": "忘",
-                "en": "to forget"
+                "zh": "忘记",
+                "en": "forget"
             },
             {
                 "zh": "的",
@@ -10787,6 +11200,18 @@
             {
                 "zh": "的",
                 "en": "possession particle"
+            },
+            {
+                "zh": "房子",
+                "en": "house / building"
+            },
+            {
+                "zh": "朝",
+                "en": "Not in word list."
+            },
+            {
+                "zh": "西",
+                "en": "west"
             }
         ]
     },
@@ -10812,8 +11237,8 @@
                 "en": "school"
             },
             {
-                "zh": "边",
-                "en": "side, edge"
+                "zh": "西边",
+                "en": "west / west side"
             }
         ]
     },
@@ -10836,7 +11261,7 @@
             },
             {
                 "zh": "帮",
-                "en": "to help"
+                "en": "help"
             },
             {
                 "zh": "我",
@@ -10844,7 +11269,7 @@
             },
             {
                 "zh": "洗",
-                "en": "to wash"
+                "en": "wash"
             },
             {
                 "zh": "车",
@@ -10867,7 +11292,7 @@
         "words": [
             {
                 "zh": "洗手间",
-                "en": "toilet, restroom"
+                "en": "restroom / washroom"
             },
             {
                 "zh": "在",
@@ -10879,7 +11304,7 @@
             },
             {
                 "zh": "楼",
-                "en": "building, floor"
+                "en": "floor"
             }
         ]
     },
@@ -10998,12 +11423,8 @@
                 "en": "table, desk"
             },
             {
-                "zh": "下",
-                "en": "down"
-            },
-            {
-                "zh": "边",
-                "en": "side, edge"
+                "zh": "下边",
+                "en": "underside / below / under"
             }
         ]
     },
@@ -11037,20 +11458,12 @@
                 "en": "one, a, an"
             },
             {
-                "zh": "路",
-                "en": "road, path, route"
+                "zh": "路口",
+                "en": "intersection / crossing"
             },
             {
-                "zh": "口",
-                "en": "mouth, measure word"
-            },
-            {
-                "zh": "下",
-                "en": "down"
-            },
-            {
-                "zh": "车",
-                "en": "vehicle, car"
+                "zh": "下车",
+                "en": "get off"
             }
         ]
     },
@@ -11064,12 +11477,8 @@
         },
         "words": [
             {
-                "zh": "下",
-                "en": "down"
-            },
-            {
-                "zh": "次",
-                "en": "time, occurrence"
+                "zh": "下次",
+                "en": "next time"
             },
             {
                 "zh": "见",
@@ -11172,8 +11581,16 @@
                 "en": "we, us"
             },
             {
+                "zh": "先",
+                "en": "before / first"
+            },
+            {
                 "zh": "做",
                 "en": "to do, to make"
+            },
+            {
+                "zh": "，",
+                "en": "Not in word list."
             },
             {
                 "zh": "再",
@@ -11182,6 +11599,14 @@
             {
                 "zh": "看",
                 "en": "to look, to see, to watch"
+            },
+            {
+                "zh": "电",
+                "en": "electricity"
+            },
+            {
+                "zh": "电视",
+                "en": "television"
             }
         ]
     },
@@ -11204,7 +11629,7 @@
             },
             {
                 "zh": "高",
-                "en": "high, tall"
+                "en": "high"
             },
             {
                 "zh": "先生",
@@ -11316,7 +11741,7 @@
             },
             {
                 "zh": "小孩儿",
-                "en": "child"
+                "en": "child / kid"
             },
             {
                 "zh": "吗",
@@ -11344,6 +11769,10 @@
             {
                 "zh": "小",
                 "en": "small, young"
+            },
+            {
+                "zh": "小姐",
+                "en": "Miss"
             }
         ]
     },
@@ -11431,12 +11860,24 @@
                 "en": "to be"
             },
             {
+                "zh": "小学",
+                "en": "primary school"
+            },
+            {
+                "zh": "老师",
+                "en": "teacher"
+            },
+            {
                 "zh": "小",
                 "en": "small, young"
             },
             {
                 "zh": "学",
                 "en": "to learn, to study"
+            },
+            {
+                "zh": "老",
+                "en": "old / aged"
             }
         ]
     },
@@ -11463,7 +11904,7 @@
             },
             {
                 "zh": "高",
-                "en": "high, tall"
+                "en": "high"
             }
         ]
     },
@@ -11486,7 +11927,7 @@
             },
             {
                 "zh": "笑",
-                "en": "to smile, to laugh"
+                "en": "laugh"
             },
             {
                 "zh": "什么",
@@ -11574,6 +12015,10 @@
                 "en": "hand"
             },
             {
+                "zh": "手机",
+                "en": "cellphone, mobile"
+            },
+            {
                 "zh": "吗",
                 "en": "interrogative particle"
             }
@@ -11589,6 +12034,14 @@
         },
         "words": [
             {
+                "zh": "新年",
+                "en": "New Year"
+            },
+            {
+                "zh": "快乐",
+                "en": "happy, merry"
+            },
+            {
                 "zh": "新",
                 "en": "new"
             },
@@ -11598,7 +12051,7 @@
             },
             {
                 "zh": "快",
-                "en": "quick, rapid, soon"
+                "en": "fast"
             }
         ]
     },
@@ -11622,6 +12075,10 @@
             {
                 "zh": "个",
                 "en": "one, a, an"
+            },
+            {
+                "zh": "星期",
+                "en": "week"
             },
             {
                 "zh": "要",
@@ -11708,6 +12165,10 @@
             "en": "Is it OK?"
         },
         "words": [
+            {
+                "zh": "行",
+                "en": "That's ok / good / OK"
+            },
             {
                 "zh": "吗",
                 "en": "interrogative particle"
@@ -11871,8 +12332,8 @@
                 "en": "this, this one"
             },
             {
-                "zh": "学",
-                "en": "to learn, to study"
+                "zh": "学院",
+                "en": "college / academy"
             },
             {
                 "zh": "大",
@@ -11906,6 +12367,10 @@
                 "en": "to eat"
             },
             {
+                "zh": "巧克力",
+                "en": "Not in word list."
+            },
+            {
                 "zh": "吗",
                 "en": "interrogative particle"
             }
@@ -11926,7 +12391,11 @@
             },
             {
                 "zh": "爷爷",
-                "en": "grandpa (paternal)"
+                "en": "grandpa"
+            },
+            {
+                "zh": "退休",
+                "en": "Not in word list."
             },
             {
                 "zh": "了",
@@ -11977,6 +12446,10 @@
             {
                 "zh": "几",
                 "en": "how many (1 to 10)"
+            },
+            {
+                "zh": "页",
+                "en": "page"
             }
         ]
     },
@@ -11989,6 +12462,10 @@
             "en": "The interest rate is one percent."
         },
         "words": [
+            {
+                "zh": "利息率",
+                "en": "Not in word list."
+            },
             {
                 "zh": "是",
                 "en": "to be"
@@ -12031,6 +12508,10 @@
             {
                 "zh": "的",
                 "en": "possession particle"
+            },
+            {
+                "zh": "质量",
+                "en": "Not in word list."
             },
             {
                 "zh": "很",
@@ -12138,11 +12619,11 @@
             },
             {
                 "zh": "等",
-                "en": "to wait, rank, equal to"
+                "en": "wait"
             },
             {
                 "zh": "一会儿",
-                "en": "a moment, a while"
+                "en": "a moment / a little while / in a moment"
             }
         ]
     },
@@ -12160,12 +12641,8 @@
                 "en": "we, us"
             },
             {
-                "zh": "一",
-                "en": "1, one"
-            },
-            {
-                "zh": "块",
-                "en": "piece of, lump of"
+                "zh": "一块儿",
+                "en": "together"
             },
             {
                 "zh": "玩",
@@ -12195,8 +12672,20 @@
                 "en": "can, may, able to"
             },
             {
+                "zh": "照顾",
+                "en": "Not in word list."
+            },
+            {
                 "zh": "一下",
                 "en": "a bit, briefly (after verb)"
+            },
+            {
+                "zh": "儿",
+                "en": "Not in word list."
+            },
+            {
+                "zh": "宝宝",
+                "en": "Not in word list."
             },
             {
                 "zh": "吗",
@@ -12218,12 +12707,12 @@
                 "en": "they (male+female / male, pl.)"
             },
             {
-                "zh": "一",
-                "en": "1, one"
+                "zh": "一样",
+                "en": "the same / equally"
             },
             {
                 "zh": "高",
-                "en": "high, tall"
+                "en": "high"
             }
         ]
     },
@@ -12249,24 +12738,20 @@
                 "en": "head"
             },
             {
-                "zh": "一",
-                "en": "1, one"
-            },
-            {
-                "zh": "边",
-                "en": "side, edge"
+                "zh": "一边",
+                "en": "one side"
             },
             {
                 "zh": "长",
                 "en": "length, long"
             },
             {
-                "zh": "一",
-                "en": "1, one"
+                "zh": "，",
+                "en": "Not in word list."
             },
             {
-                "zh": "边",
-                "en": "side, edge"
+                "zh": "短",
+                "en": "Not in word list."
             }
         ]
     },
@@ -12316,11 +12801,15 @@
             },
             {
                 "zh": "一起",
-                "en": "together, with"
+                "en": "together"
             },
             {
                 "zh": "去",
                 "en": "to go"
+            },
+            {
+                "zh": "行",
+                "en": "That's ok / good / OK"
             },
             {
                 "zh": "吧",
@@ -12375,6 +12864,14 @@
             {
                 "zh": "会",
                 "en": "can, to be able to"
+            },
+            {
+                "zh": "用",
+                "en": "use"
+            },
+            {
+                "zh": "子",
+                "en": "noun suffixe.g. 桌子 zhuō zi (table) 椅子 yǐ zi (chair)"
             },
             {
                 "zh": "吗",
@@ -12443,20 +12940,8 @@
                 "en": "cooked rice"
             },
             {
-                "zh": "有",
-                "en": "to have, to exist"
-            },
-            {
-                "zh": "的",
-                "en": "possession particle"
-            },
-            {
-                "zh": "人",
-                "en": "person, people"
-            },
-            {
-                "zh": "喜欢",
-                "en": "to like"
+                "zh": "，",
+                "en": "Not in word list."
             },
             {
                 "zh": "面",
@@ -12486,12 +12971,8 @@
                 "en": "quite, very"
             },
             {
-                "zh": "有",
-                "en": "to have, to exist"
-            },
-            {
-                "zh": "名",
-                "en": "name, measure word for people"
+                "zh": "有名",
+                "en": "famous"
             }
         ]
     },
@@ -12513,12 +12994,8 @@
                 "en": "sometimes, at times"
             },
             {
-                "zh": "在",
-                "en": "at, in, to be at"
-            },
-            {
-                "zh": "家",
-                "en": "home, family"
+                "zh": "在家",
+                "en": "at home"
             },
             {
                 "zh": "做饭",
@@ -12540,8 +13017,16 @@
                 "en": "to have, to exist"
             },
             {
+                "zh": "(",
+                "en": "Not in word list."
+            },
+            {
                 "zh": "一",
                 "en": "1, one"
+            },
+            {
+                "zh": ")",
+                "en": "Not in word list."
             },
             {
                 "zh": "些",
@@ -12561,7 +13046,7 @@
             },
             {
                 "zh": "班",
-                "en": "class, work shift"
+                "en": "class"
             }
         ]
     },
@@ -12587,8 +13072,20 @@
                 "en": "this, this one"
             },
             {
+                "zh": "视频",
+                "en": "Not in word list."
+            },
+            {
                 "zh": "有",
                 "en": "to have, to exist"
+            },
+            {
+                "zh": "有用",
+                "en": "useful"
+            },
+            {
+                "zh": "用",
+                "en": "use"
             },
             {
                 "zh": "吗",
@@ -12622,6 +13119,10 @@
                 "en": "hand"
             },
             {
+                "zh": "受伤",
+                "en": "Not in word list."
+            },
+            {
                 "zh": "了",
                 "en": "grammatical particle"
             }
@@ -12646,7 +13147,7 @@
             },
             {
                 "zh": "车站",
-                "en": "station, bus stop"
+                "en": "station"
             },
             {
                 "zh": "的",
@@ -12654,7 +13155,7 @@
             },
             {
                 "zh": "右边",
-                "en": "right, right side"
+                "en": "right side / right"
             }
         ]
     },
@@ -12682,6 +13183,10 @@
             {
                 "zh": "雨",
                 "en": "rain"
+            },
+            {
+                "zh": "中",
+                "en": "middle / in"
             }
         ]
     },
@@ -12743,15 +13248,19 @@
             },
             {
                 "zh": "地",
-                "en": "adverbial particle (-ly)"
+                "en": "ground"
+            },
+            {
+                "zh": "地铁",
+                "en": "subway, metro"
             },
             {
                 "zh": "站",
-                "en": "station, stop"
+                "en": "station / stand"
             },
             {
                 "zh": "远",
-                "en": "far, distant, remote"
+                "en": "far"
             },
             {
                 "zh": "吗",
@@ -12821,7 +13330,7 @@
             },
             {
                 "zh": "次",
-                "en": "time, occurrence"
+                "en": "measure word for times, frequency"
             }
         ]
     },
@@ -12858,6 +13367,10 @@
                 "en": "at, in, to be at"
             },
             {
+                "zh": "办公室",
+                "en": "Not in word list."
+            },
+            {
                 "zh": "吗",
                 "en": "interrogative particle"
             }
@@ -12877,12 +13390,8 @@
                 "en": "you (singular, informal)"
             },
             {
-                "zh": "在",
-                "en": "at, in, to be at"
-            },
-            {
-                "zh": "家",
-                "en": "home, family"
+                "zh": "在家",
+                "en": "at home"
             },
             {
                 "zh": "吗",
@@ -12916,8 +13425,8 @@
                 "en": "to sleep"
             },
             {
-                "zh": "早",
-                "en": "early, morning"
+                "zh": "起",
+                "en": "get up / start / rise"
             }
         ]
     },
@@ -12964,6 +13473,10 @@
             {
                 "zh": "早",
                 "en": "early, morning"
+            },
+            {
+                "zh": "早上",
+                "en": "morning (early)"
             },
             {
                 "zh": "上",
@@ -13033,7 +13546,7 @@
             },
             {
                 "zh": "等",
-                "en": "to wait, rank, equal to"
+                "en": "wait"
             },
             {
                 "zh": "你",
@@ -13063,10 +13576,6 @@
                 "en": "to look for, to seek"
             },
             {
-                "zh": "我",
-                "en": "I, me"
-            },
-            {
                 "zh": "的",
                 "en": "possession particle"
             },
@@ -13090,12 +13599,8 @@
                 "en": "you (singular, informal)"
             },
             {
-                "zh": "找",
-                "en": "to look for, to seek"
-            },
-            {
-                "zh": "到",
-                "en": "to arrive, to reach, to, until"
+                "zh": "找到",
+                "en": "find"
             },
             {
                 "zh": "工作",
@@ -13218,12 +13723,20 @@
                 "en": "I, me"
             },
             {
+                "zh": "常常",
+                "en": "often"
+            },
+            {
                 "zh": "在",
                 "en": "at, in, to be at"
             },
             {
                 "zh": "这儿",
                 "en": "here (colloquial)"
+            },
+            {
+                "zh": "健身",
+                "en": "Not in word list."
             }
         ]
     },
@@ -13285,11 +13798,11 @@
             },
             {
                 "zh": "站",
-                "en": "station, stop"
+                "en": "station / stand"
             },
             {
                 "zh": "着",
-                "en": "indicating action in progress"
+                "en": "particle: in process of(indicating action in progress)"
             }
         ]
     },
@@ -13309,6 +13822,10 @@
             {
                 "zh": "真",
                 "en": "really, true"
+            },
+            {
+                "zh": "聪明",
+                "en": "Not in word list."
             }
         ]
     },
@@ -13334,12 +13851,8 @@
                 "en": "to be"
             },
             {
-                "zh": "真",
-                "en": "really, true"
-            },
-            {
-                "zh": "的",
-                "en": "possession particle"
+                "zh": "真的",
+                "en": "true / real"
             },
             {
                 "zh": "吗",
@@ -13362,7 +13875,7 @@
             },
             {
                 "zh": "正",
-                "en": "just (doing something)"
+                "en": "just / exactly"
             },
             {
                 "zh": "开车",
@@ -13390,6 +13903,10 @@
             {
                 "zh": "正在",
                 "en": "in the middle of doing something"
+            },
+            {
+                "zh": "健身",
+                "en": "Not in word list."
             }
         ]
     },
@@ -13434,8 +13951,20 @@
                 "en": "possession particle"
             },
             {
+                "zh": "历史",
+                "en": "Not in word list."
+            },
+            {
+                "zh": "知识",
+                "en": "knowledge"
+            },
+            {
                 "zh": "很",
                 "en": "quite, very"
+            },
+            {
+                "zh": "浅薄",
+                "en": "Not in word list."
             }
         ]
     },
@@ -13459,6 +13988,14 @@
             {
                 "zh": "电影",
                 "en": "movie, film"
+            },
+            {
+                "zh": "中",
+                "en": "middle / in"
+            },
+            {
+                "zh": "演",
+                "en": "Not in word list."
             },
             {
                 "zh": "一",
@@ -13493,7 +14030,7 @@
             },
             {
                 "zh": "过",
-                "en": "to cross, to pass time"
+                "en": "pass"
             },
             {
                 "zh": "中国",
@@ -13527,12 +14064,16 @@
                 "en": "vehicle, car"
             },
             {
+                "zh": "停",
+                "en": "Not in word list."
+            },
+            {
                 "zh": "在",
                 "en": "at, in, to be at"
             },
             {
-                "zh": "间",
-                "en": "measure word for rooms"
+                "zh": "中间",
+                "en": "middle"
             }
         ]
     },
@@ -13582,7 +14123,7 @@
             },
             {
                 "zh": "一起",
-                "en": "together, with"
+                "en": "together"
             },
             {
                 "zh": "吃",
@@ -13616,8 +14157,24 @@
                 "en": "to be"
             },
             {
+                "zh": "中学",
+                "en": "secondary school"
+            },
+            {
+                "zh": "老师",
+                "en": "teacher"
+            },
+            {
+                "zh": "中",
+                "en": "middle / in"
+            },
+            {
                 "zh": "学",
                 "en": "to learn, to study"
+            },
+            {
+                "zh": "老",
+                "en": "old / aged"
             }
         ]
     },
@@ -13644,7 +14201,7 @@
             },
             {
                 "zh": "高",
-                "en": "high, tall"
+                "en": "high"
             }
         ]
     },
@@ -13666,8 +14223,16 @@
                 "en": "possession particle"
             },
             {
+                "zh": "行",
+                "en": "That's ok / good / OK"
+            },
+            {
                 "zh": "很",
                 "en": "quite, very"
+            },
+            {
+                "zh": "重",
+                "en": "heavy"
             }
         ]
     },
@@ -13685,12 +14250,16 @@
                 "en": "Chinese language, Mandarin"
             },
             {
+                "zh": "声调",
+                "en": "Not in word list."
+            },
+            {
                 "zh": "很",
                 "en": "quite, very"
             },
             {
-                "zh": "要",
-                "en": "important, to want, to ask for"
+                "zh": "重要",
+                "en": "important"
             }
         ]
     },
@@ -13740,7 +14309,7 @@
             },
             {
                 "zh": "准备",
-                "en": "to prepare, to be about to"
+                "en": "get ready / prepare"
             },
             {
                 "zh": "晚饭",
@@ -13828,6 +14397,10 @@
                 "en": "1, one"
             },
             {
+                "zh": "子",
+                "en": "noun suffixe.g. 桌子 zhuō zi (table) 椅子 yǐ zi (chair)"
+            },
+            {
                 "zh": "和",
                 "en": "and, with"
             }
@@ -13844,7 +14417,7 @@
         "words": [
             {
                 "zh": "走",
-                "en": "to walk, to leave"
+                "en": "go / walk"
             },
             {
                 "zh": "吧",
@@ -13866,8 +14439,12 @@
                 "en": "he, him"
             },
             {
+                "zh": "常常",
+                "en": "often"
+            },
+            {
                 "zh": "走路",
-                "en": "to walk"
+                "en": "walk / take a walk"
             },
             {
                 "zh": "去",
@@ -13894,7 +14471,7 @@
             },
             {
                 "zh": "最",
-                "en": "most, the most"
+                "en": "most"
             },
             {
                 "zh": "喜欢",
@@ -13903,6 +14480,10 @@
             {
                 "zh": "哪个",
                 "en": "which, which one"
+            },
+            {
+                "zh": "季节",
+                "en": "Not in word list."
             }
         ]
     },
@@ -13920,12 +14501,8 @@
                 "en": "you (singular, informal)"
             },
             {
-                "zh": "最",
-                "en": "most, the most"
-            },
-            {
-                "zh": "好",
-                "en": "good, nice"
+                "zh": "最好",
+                "en": "best"
             },
             {
                 "zh": "的",
@@ -13963,12 +14540,8 @@
                 "en": "to be"
             },
             {
-                "zh": "最",
-                "en": "most, the most"
-            },
-            {
-                "zh": "后",
-                "en": "behind, after"
+                "zh": "最后",
+                "en": "last"
             },
             {
                 "zh": "一",
@@ -13999,7 +14572,7 @@
             },
             {
                 "zh": "班",
-                "en": "class, work shift"
+                "en": "class"
             },
             {
                 "zh": "了",
@@ -14023,6 +14596,10 @@
             {
                 "zh": "你",
                 "en": "you (singular, informal)"
+            },
+            {
+                "zh": "用",
+                "en": "use"
             },
             {
                 "zh": "左",
@@ -14073,7 +14650,7 @@
             },
             {
                 "zh": "左边",
-                "en": "left, left side"
+                "en": "left side"
             }
         ]
     },
@@ -14126,16 +14703,16 @@
                 "en": "we, us"
             },
             {
-                "zh": "坐",
-                "en": "to sit"
-            },
-            {
-                "zh": "下",
-                "en": "down"
+                "zh": "坐下",
+                "en": "sit down"
             },
             {
                 "zh": "喝",
                 "en": "to drink"
+            },
+            {
+                "zh": "杯",
+                "en": "cup"
             },
             {
                 "zh": "茶",
