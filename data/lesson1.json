@@ -1,0 +1,20 @@
+{
+    "1": {
+        "id": "1",
+        "word": "爱",
+        "sentence": {
+            "pinyin": "nǐ ch.",
+            "zh": "我爱你。",
+            "en": "I love you."
+        }
+    },
+    "2": {
+        "id": "2",
+        "word": "爱好",
+        "sentence": {
+            "pinyin": "nǐ de ài hào shì shén me?",
+            "zh": "你的爱好是什么？",
+            "en": "What is your hobby?"
+        }
+    }
+}
