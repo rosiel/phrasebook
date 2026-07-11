@@ -1,0 +1,263 @@
+{
+  "1": {
+    "id": "1",
+    "word": "1",
+    "sentence": {
+      "pinyin": "yī",
+      "zh": "一",
+      "en": "One"
+    }
+  },
+  "2": {
+    "id": "2",
+    "word": "2",
+    "sentence": {
+      "pinyin": "èr / liǎng",
+      "zh": "二",
+      "en": "2"
+    }
+  },
+  "3": {
+    "id": "3",
+    "word": "3",
+    "sentence": {
+      "pinyin": "sān",
+      "zh": "三",
+      "en": "Three"
+    }
+  },
+  "4": {
+    "id": "4",
+    "word": "4",
+    "sentence": {
+      "pinyin": "sì",
+      "zh": "四",
+      "en": "Four"
+    }
+  },
+  "5": {
+    "id": "5",
+    "word": "5",
+    "sentence": {
+      "pinyin": "wǔ",
+      "zh": "五",
+      "en": "Five"
+    }
+  },
+  "6": {
+    "id": "6",
+    "word": "6",
+    "sentence": {
+      "pinyin": "liù",
+      "zh": "六",
+      "en": "Six"
+    }
+  },
+  "7": {
+    "id": "7",
+    "word": "7",
+    "sentence": {
+      "pinyin": "qī",
+      "zh": "七",
+      "en": "Seven"
+    }
+  },
+  "8": {
+    "id": "8",
+    "word": "8",
+    "sentence": {
+      "pinyin": "bā",
+      "zh": "八",
+      "en": "Eight"
+    }
+  },
+  "9": {
+    "id": "9",
+    "word": "9",
+    "sentence": {
+      "pinyin": "jiǔ",
+      "zh": "九",
+      "en": "Nine"
+    }
+  },
+  "10": {
+    "id": "10",
+    "word": "10",
+    "sentence": {
+      "pinyin": "shí",
+      "zh": "十",
+      "en": "Ten"
+    }
+  },
+  "11": {
+    "id": "11",
+    "word": "11",
+    "sentence": {
+      "pinyin": "shí yī",
+      "zh": "十一",
+      "en": "Eleven"
+    }
+  },
+  "12": {
+    "id": "12",
+    "word": "20",
+    "sentence": {
+      "pinyin": "èr shí",
+      "zh": "二十",
+      "en": "Tenty"
+    }
+  },
+  "13": {
+    "id": "13",
+    "word": "80",
+    "sentence": {
+      "pinyin": "bā shí",
+      "zh": "八十",
+      "en": "Eighty"
+    }
+  },
+  "14": {
+    "id": "14",
+    "word": "A pair of",
+    "sentence": {
+      "pinyin": "liǎng",
+      "zh": "两",
+      "en": "A pair of"
+    }
+  },
+  "15": {
+    "id": "15",
+    "word": "Jack",
+    "sentence": {
+      "pinyin": "Gōu",
+      "zh": "勾",
+      "en": "Jack"
+    }
+  },
+  "16": {
+    "id": "16",
+    "word": "Queen",
+    "sentence": {
+      "pinyin": "quānr",
+      "zh": "圈儿",
+      "en": "Queen (Circle - sounds like “queen”)"
+    }
+  },
+  "17": {
+    "id": "17",
+    "word": "King",
+    "sentence": {
+      "pinyin": "kǎi",
+      "zh": "凯",
+      "en": "King"
+    }
+  },
+  "18": {
+    "id": "18",
+    "word": "Ace",
+    "sentence": {
+      "pinyin": "jiānr",
+      "zh": "尖儿",
+      "en": "Ace"
+    }
+  },
+  "19": {
+    "id": "19",
+    "word": "Hearts",
+    "sentence": {
+      "pinyin": "Hóngxīn",
+      "zh": "红心",
+      "en": "Hearts (Red heart)"
+    }
+  },
+  "20": {
+    "id": "20",
+    "word": "Diamonds",
+    "sentence": {
+      "pinyin": "fāngkuài",
+      "zh": "方片",
+      "en": "Diamonds (square piece)"
+    }
+  },
+  "21": {
+    "id": "21",
+    "word": "Spades",
+    "sentence": {
+      "pinyin": "hēitáo",
+      "zh": "黑桃",
+      "en": "Spades (Black Peach / walnut)"
+    }
+  },
+  "22": {
+    "id": "22",
+    "word": "Clubs",
+    "sentence": {
+      "pinyin": "méihuā",
+      "zh": "梅花",
+      "en": "Clubs (Plum blossom)"
+    }
+  },
+  "23": {
+    "id": "23",
+    "word": "7 of Spades",
+    "sentence": {
+      "pinyin": "hēitáo qī",
+      "zh": "黑桃七",
+      "en": "7 of spades"
+    }
+  },
+  "24": {
+    "id": "24",
+    "word": "Deal",
+    "sentence": {
+      "pinyin": "fāpái",
+      "zh": "发牌",
+      "en": "Deal"
+    }
+  },
+  "25": {
+    "id": "25",
+    "word": "Draw",
+    "sentence": {
+      "pinyin": "Zhuā",
+      "zh": "抓牌",
+      "en": "Draw (Grasp) card"
+    }
+  },
+  "26": {
+    "id": "26",
+    "word": "Do you have any sevens?",
+    "sentence": {
+      "pinyin": "",
+      "zh": "你有七吗",
+      "en": "Do you have any sevens?"
+    }
+  },
+  "27": {
+    "id": "27",
+    "word": "I’ve got one",
+    "sentence": {
+      "pinyin": "Wǒ nádào le!",
+      "zh": "“我拿到了",
+      "en": "I’ve got one"
+    }
+  },
+  "28": {
+    "id": "28",
+    "word": "Go Fish!",
+    "sentence": {
+      "pinyin": "",
+      "zh": "钓鱼吧",
+      "en": "Go fish!"
+    }
+  },
+  "29": {
+    "id": "29",
+    "word": "No, I don’t",
+    "sentence": {
+      "pinyin": "Méiyǒu.",
+      "zh": "没有。",
+      "en": "No, I don't"
+    }
+  }
+}
