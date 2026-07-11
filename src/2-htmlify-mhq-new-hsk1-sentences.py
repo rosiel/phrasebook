@@ -16,6 +16,7 @@ with open("data/template.html") as fp:
         number_cell = soup.new_tag('td', string=data_row['id'])
         row.append(number_cell)
         word_cell = soup.new_tag('td', string=data_row['word'])
+        word_cell['class'] = ['headword']
         row.append(word_cell)
         sentence_cell = soup.new_tag('td')
         row.append(sentence_cell)
