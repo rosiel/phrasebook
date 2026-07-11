@@ -9,8 +9,16 @@
         },
         "words": [
             {
-                "zh": "我爱你",
-                "en": "Not found"
+                "zh": "我",
+                "en": "I, me"
+            },
+            {
+                "zh": "爱",
+                "en": "to love, love"
+            },
+            {
+                "zh": "你",
+                "en": "you (singular, informal)"
             }
         ]
     },
@@ -59,8 +67,12 @@
                 "en": "he, him"
             },
             {
-                "zh": "八岁",
-                "en": "Not found"
+                "zh": "八",
+                "en": "8, eight"
+            },
+            {
+                "zh": "岁",
+                "en": "year, years old"
             },
             {
                 "zh": "了",
@@ -132,8 +144,8 @@
                 "en": "to like"
             },
             {
-                "zh": "白衬衫",
-                "en": "Not found"
+                "zh": "白",
+                "en": "white, bright, pure"
             }
         ]
     },
@@ -182,8 +194,16 @@
                 "en": "to have, to exist"
             },
             {
-                "zh": "八百个",
-                "en": "Not found"
+                "zh": "八",
+                "en": "8, eight"
+            },
+            {
+                "zh": "百",
+                "en": "hundred, 100"
+            },
+            {
+                "zh": "个",
+                "en": "one, a, an"
             },
             {
                 "zh": "学生",
@@ -209,8 +229,12 @@
                 "en": "at, in, to be at"
             },
             {
-                "zh": "四班",
-                "en": "Not found"
+                "zh": "四",
+                "en": "4, four"
+            },
+            {
+                "zh": "班",
+                "en": "class, work shift"
             }
         ]
     },
@@ -236,12 +260,12 @@
                 "en": "grammatical particle"
             },
             {
-                "zh": "半个",
-                "en": "Not found"
+                "zh": "半",
+                "en": "half, semi-"
             },
             {
-                "zh": "蛋糕",
-                "en": "Not found"
+                "zh": "个",
+                "en": "one, a, an"
             }
         ]
     },
@@ -255,16 +279,24 @@
         },
         "words": [
             {
-                "zh": "我学",
-                "en": "Not found"
+                "zh": "我",
+                "en": "I, me"
+            },
+            {
+                "zh": "学",
+                "en": "to learn, to study"
             },
             {
                 "zh": "中文",
                 "en": "Chinese (language)"
             },
             {
-                "zh": "半年",
-                "en": "Not found"
+                "zh": "半",
+                "en": "half, semi-"
+            },
+            {
+                "zh": "年",
+                "en": "year"
             },
             {
                 "zh": "了",
@@ -294,8 +326,12 @@
                 "en": "grammatical particle"
             },
             {
-                "zh": "半天",
-                "en": "Not found"
+                "zh": "半",
+                "en": "half, semi-"
+            },
+            {
+                "zh": "天",
+                "en": "day, sky"
             }
         ]
     },
@@ -425,12 +461,16 @@
         },
         "words": [
             {
-                "zh": "我要",
-                "en": "Not found"
+                "zh": "我",
+                "en": "I, me"
             },
             {
-                "zh": "一杯",
-                "en": "Not found"
+                "zh": "要",
+                "en": "important, to want, to ask for"
+            },
+            {
+                "zh": "一",
+                "en": "1, one"
             },
             {
                 "zh": "咖啡",
@@ -448,8 +488,12 @@
         },
         "words": [
             {
-                "zh": "我要",
-                "en": "Not found"
+                "zh": "我",
+                "en": "I, me"
+            },
+            {
+                "zh": "要",
+                "en": "important, to want, to ask for"
             },
             {
                 "zh": "买",
@@ -477,18 +521,6 @@
             {
                 "zh": "这",
                 "en": "this, these"
-            },
-            {
-                "zh": "房子",
-                "en": "Not found"
-            },
-            {
-                "zh": "朝",
-                "en": "Not found"
-            },
-            {
-                "zh": "北",
-                "en": "Not found"
             }
         ]
     },
@@ -502,8 +534,8 @@
         },
         "words": [
             {
-                "zh": "图书馆",
-                "en": "Not found"
+                "zh": "书",
+                "en": "book"
             },
             {
                 "zh": "在",
@@ -518,8 +550,8 @@
                 "en": "possession particle"
             },
             {
-                "zh": "北边",
-                "en": "Not found"
+                "zh": "边",
+                "en": "side, edge"
             }
         ]
     },
@@ -537,8 +569,12 @@
                 "en": "you (singular, informal)"
             },
             {
-                "zh": "去过",
-                "en": "Not found"
+                "zh": "去",
+                "en": "to go"
+            },
+            {
+                "zh": "过",
+                "en": "to cross, to pass time"
             },
             {
                 "zh": "北京",
@@ -564,8 +600,12 @@
                 "en": "this, these"
             },
             {
-                "zh": "本书",
-                "en": "Not found"
+                "zh": "本",
+                "en": "classifier for books"
+            },
+            {
+                "zh": "书",
+                "en": "book"
             },
             {
                 "zh": "很",
@@ -591,12 +631,16 @@
                 "en": "I, me"
             },
             {
-                "zh": "需要",
-                "en": "Not found"
+                "zh": "要",
+                "en": "important, to want, to ask for"
             },
             {
-                "zh": "一个",
-                "en": "Not found"
+                "zh": "一",
+                "en": "1, one"
+            },
+            {
+                "zh": "个",
+                "en": "one, a, an"
             },
             {
                 "zh": "本子",
@@ -641,8 +685,12 @@
         },
         "words": [
             {
-                "zh": "别动",
-                "en": "Not found"
+                "zh": "别",
+                "en": "don't, other"
+            },
+            {
+                "zh": "动",
+                "en": "to move"
             }
         ]
     },
@@ -660,8 +708,12 @@
                 "en": "to have, to exist"
             },
             {
-                "zh": "别的",
-                "en": "Not found"
+                "zh": "别",
+                "en": "don't, other"
+            },
+            {
+                "zh": "的",
+                "en": "possession particle"
             },
             {
                 "zh": "颜色",
@@ -691,12 +743,12 @@
                 "en": "no, negation particle"
             },
             {
-                "zh": "像",
-                "en": "Not found"
+                "zh": "别",
+                "en": "don't, other"
             },
             {
-                "zh": "别人",
-                "en": "Not found"
+                "zh": "人",
+                "en": "person, people"
             }
         ]
     },
@@ -718,8 +770,8 @@
                 "en": "possession particle"
             },
             {
-                "zh": "皮肤病",
-                "en": "Not found"
+                "zh": "病",
+                "en": "illness, to be ill"
             },
             {
                 "zh": "好",
@@ -741,12 +793,16 @@
         },
         "words": [
             {
-                "zh": "病人",
-                "en": "Not found"
+                "zh": "病",
+                "en": "illness, to be ill"
             },
             {
-                "zh": "需要",
-                "en": "Not found"
+                "zh": "人",
+                "en": "person, people"
+            },
+            {
+                "zh": "要",
+                "en": "important, to want, to ask for"
             },
             {
                 "zh": "多",
@@ -776,10 +832,6 @@
                 "en": "possession particle"
             },
             {
-                "zh": "房子",
-                "en": "Not found"
-            },
-            {
                 "zh": "不",
                 "en": "no, negation particle"
             },
@@ -807,10 +859,6 @@
                 "en": "possession particle"
             },
             {
-                "zh": "答案",
-                "en": "Not found"
-            },
-            {
                 "zh": "不",
                 "en": "no, negation particle"
             },
@@ -832,10 +880,6 @@
             {
                 "zh": "不",
                 "en": "no, negation particle"
-            },
-            {
-                "zh": "客气",
-                "en": "Not found"
             }
         ]
     },
@@ -849,12 +893,12 @@
         },
         "words": [
             {
-                "zh": "不用",
-                "en": "Not found"
+                "zh": "不",
+                "en": "no, negation particle"
             },
             {
-                "zh": "着急",
-                "en": "Not found"
+                "zh": "着",
+                "en": "indicating action in progress"
             }
         ]
     },
@@ -874,10 +918,6 @@
             {
                 "zh": "不",
                 "en": "no, negation particle"
-            },
-            {
-                "zh": "紧张",
-                "en": "Not found"
             }
         ]
     },
@@ -903,8 +943,8 @@
                 "en": "this, these"
             },
             {
-                "zh": "道菜",
-                "en": "Not found"
+                "zh": "菜",
+                "en": "vegetable, dish"
             }
         ]
     },
@@ -922,12 +962,20 @@
                 "en": "I, me"
             },
             {
-                "zh": "每天",
-                "en": "Not found"
+                "zh": "每",
+                "en": "each, every"
             },
             {
-                "zh": "喝茶",
-                "en": "Not found"
+                "zh": "天",
+                "en": "day, sky"
+            },
+            {
+                "zh": "喝",
+                "en": "to drink"
+            },
+            {
+                "zh": "茶",
+                "en": "tea"
             }
         ]
     },
@@ -949,12 +997,8 @@
                 "en": "possession particle"
             },
             {
-                "zh": "态度",
-                "en": "Not found"
-            },
-            {
-                "zh": "很差",
-                "en": "Not found"
+                "zh": "很",
+                "en": "quite, very"
             }
         ]
     },
@@ -968,12 +1012,20 @@
         },
         "words": [
             {
-                "zh": "我常点",
-                "en": "Not found"
+                "zh": "我",
+                "en": "I, me"
             },
             {
-                "zh": "外卖",
-                "en": "Not found"
+                "zh": "点",
+                "en": "point, dot, o'clock"
+            },
+            {
+                "zh": "外",
+                "en": "foreign, external, outside"
+            },
+            {
+                "zh": "卖",
+                "en": "to sell"
             }
         ]
     },
@@ -989,10 +1041,6 @@
             {
                 "zh": "我",
                 "en": "I, me"
-            },
-            {
-                "zh": "常常",
-                "en": "Not found"
             },
             {
                 "zh": "做饭",
@@ -1072,8 +1120,12 @@
                 "en": "possession particle"
             },
             {
-                "zh": "车坏",
-                "en": "Not found"
+                "zh": "车",
+                "en": "vehicle, car"
+            },
+            {
+                "zh": "坏",
+                "en": "bad, broken"
             },
             {
                 "zh": "了",
@@ -1091,20 +1143,28 @@
         },
         "words": [
             {
-                "zh": "我要",
-                "en": "Not found"
+                "zh": "我",
+                "en": "I, me"
+            },
+            {
+                "zh": "要",
+                "en": "important, to want, to ask for"
             },
             {
                 "zh": "买",
                 "en": "to buy"
             },
             {
-                "zh": "一张",
-                "en": "Not found"
+                "zh": "一",
+                "en": "1, one"
             },
             {
-                "zh": "车票",
-                "en": "Not found"
+                "zh": "车",
+                "en": "vehicle, car"
+            },
+            {
+                "zh": "票",
+                "en": "ticket, ballot, banknote"
             }
         ]
     },
@@ -1134,8 +1194,12 @@
                 "en": "at, in, to be at"
             },
             {
-                "zh": "车上",
-                "en": "Not found"
+                "zh": "车",
+                "en": "vehicle, car"
+            },
+            {
+                "zh": "上",
+                "en": "up"
             }
         ]
     },
@@ -1172,8 +1236,12 @@
         },
         "words": [
             {
-                "zh": "我要",
-                "en": "Not found"
+                "zh": "我",
+                "en": "I, me"
+            },
+            {
+                "zh": "要",
+                "en": "important, to want, to ask for"
             },
             {
                 "zh": "吃",
@@ -1195,8 +1263,12 @@
         },
         "words": [
             {
-                "zh": "我要",
-                "en": "Not found"
+                "zh": "我",
+                "en": "I, me"
+            },
+            {
+                "zh": "要",
+                "en": "important, to want, to ask for"
             },
             {
                 "zh": "和",
@@ -1207,8 +1279,12 @@
                 "en": "friend"
             },
             {
-                "zh": "吃饭",
-                "en": "Not found"
+                "zh": "吃",
+                "en": "to eat"
+            },
+            {
+                "zh": "饭",
+                "en": "cooked rice, meal"
             }
         ]
     },
@@ -1226,16 +1302,24 @@
                 "en": "she, her"
             },
             {
-                "zh": "拿出",
-                "en": "Not found"
+                "zh": "拿",
+                "en": "to take, to hold"
+            },
+            {
+                "zh": "出",
+                "en": "to go out, to happen"
             },
             {
                 "zh": "了",
                 "en": "grammatical particle"
             },
             {
-                "zh": "钱包",
-                "en": "Not found"
+                "zh": "钱",
+                "en": "money, coin"
+            },
+            {
+                "zh": "包",
+                "en": "bag, to wrap"
             }
         ]
     },
@@ -1249,8 +1333,8 @@
         },
         "words": [
             {
-                "zh": "太阳",
-                "en": "Not found"
+                "zh": "太",
+                "en": "too much, very"
             },
             {
                 "zh": "出来",
@@ -1276,16 +1360,16 @@
                 "en": "I, me"
             },
             {
-                "zh": "每天",
-                "en": "Not found"
+                "zh": "每",
+                "en": "each, every"
+            },
+            {
+                "zh": "天",
+                "en": "day, sky"
             },
             {
                 "zh": "出去",
                 "en": "to go out"
-            },
-            {
-                "zh": "散步",
-                "en": "Not found"
             }
         ]
     },
@@ -1309,10 +1393,6 @@
             {
                 "zh": "穿",
                 "en": "to wear, to put on, to dress"
-            },
-            {
-                "zh": "短裤",
-                "en": "Not found"
             }
         ]
     },
@@ -1330,16 +1410,16 @@
                 "en": "he, him"
             },
             {
-                "zh": "躺",
-                "en": "Not found"
-            },
-            {
                 "zh": "在",
                 "en": "at, in, to be at"
             },
             {
-                "zh": "床上",
-                "en": "Not found"
+                "zh": "床",
+                "en": "bed"
+            },
+            {
+                "zh": "上",
+                "en": "up"
             }
         ]
     },
@@ -1357,16 +1437,20 @@
                 "en": "I, me"
             },
             {
-                "zh": "每周",
-                "en": "Not found"
+                "zh": "每",
+                "en": "each, every"
             },
             {
-                "zh": "健身",
-                "en": "Not found"
+                "zh": "周",
+                "en": "week"
             },
             {
-                "zh": "四次",
-                "en": "Not found"
+                "zh": "四",
+                "en": "4, four"
+            },
+            {
+                "zh": "次",
+                "en": "time, occurrence"
             }
         ]
     },
@@ -1400,8 +1484,12 @@
                 "en": "important, to want, to ask for"
             },
             {
-                "zh": "十分钟",
-                "en": "Not found"
+                "zh": "十",
+                "en": "10, ten"
+            },
+            {
+                "zh": "分",
+                "en": "minute, cent, to divide"
             }
         ]
     },
@@ -1415,8 +1503,12 @@
         },
         "words": [
             {
-                "zh": "我错",
-                "en": "Not found"
+                "zh": "我",
+                "en": "I, me"
+            },
+            {
+                "zh": "错",
+                "en": "mistake, error, wrong"
             },
             {
                 "zh": "了",
@@ -1446,8 +1538,12 @@
                 "en": "to hit, to play (ball games)"
             },
             {
-                "zh": "女人",
-                "en": "Not found"
+                "zh": "女",
+                "en": "woman, female"
+            },
+            {
+                "zh": "人",
+                "en": "person, people"
             }
         ]
     },
@@ -1461,8 +1557,12 @@
         },
         "words": [
             {
-                "zh": "我要",
-                "en": "Not found"
+                "zh": "我",
+                "en": "I, me"
+            },
+            {
+                "zh": "要",
+                "en": "important, to want, to ask for"
             },
             {
                 "zh": "打车",
@@ -1473,8 +1573,8 @@
                 "en": "to go"
             },
             {
-                "zh": "飞机场",
-                "en": "Not found"
+                "zh": "飞",
+                "en": "to fly"
             }
         ]
     },
@@ -1492,8 +1592,8 @@
                 "en": "I, me"
             },
             {
-                "zh": "需要",
-                "en": "Not found"
+                "zh": "要",
+                "en": "important, to want, to ask for"
             },
             {
                 "zh": "打电话",
@@ -1502,10 +1602,6 @@
             {
                 "zh": "给",
                 "en": "to, for, to give"
-            },
-            {
-                "zh": "顾客",
-                "en": "Not found"
             }
         ]
     },
@@ -1525,10 +1621,6 @@
             {
                 "zh": "打开",
                 "en": "to open, to turn on"
-            },
-            {
-                "zh": "空调",
-                "en": "Not found"
             }
         ]
     },
@@ -1558,8 +1650,12 @@
                 "en": "friend"
             },
             {
-                "zh": "打球",
-                "en": "Not found"
+                "zh": "打",
+                "en": "to hit, to play (ball games)"
+            },
+            {
+                "zh": "球",
+                "en": "ball"
             }
         ]
     },
@@ -1581,12 +1677,12 @@
                 "en": "possession particle"
             },
             {
-                "zh": "房子",
-                "en": "Not found"
+                "zh": "很",
+                "en": "quite, very"
             },
             {
-                "zh": "很大",
-                "en": "Not found"
+                "zh": "大",
+                "en": "large, big"
             }
         ]
     },
@@ -1612,8 +1708,8 @@
                 "en": "important, to want, to ask for"
             },
             {
-                "zh": "申请",
-                "en": "Not found"
+                "zh": "请",
+                "en": "to invite, please"
             },
             {
                 "zh": "大学",
@@ -1643,12 +1739,12 @@
                 "en": "university student"
             },
             {
-                "zh": "压力",
-                "en": "Not found"
+                "zh": "很",
+                "en": "quite, very"
             },
             {
-                "zh": "很大",
-                "en": "Not found"
+                "zh": "大",
+                "en": "large, big"
             }
         ]
     },
@@ -1666,8 +1762,12 @@
                 "en": "I, me"
             },
             {
-                "zh": "五分钟",
-                "en": "Not found"
+                "zh": "五",
+                "en": "5, five"
+            },
+            {
+                "zh": "分",
+                "en": "minute, cent, to divide"
             },
             {
                 "zh": "后",
@@ -1693,12 +1793,20 @@
                 "en": "he, him"
             },
             {
-                "zh": "想得到",
-                "en": "Not found"
+                "zh": "想",
+                "en": "to think, to want"
             },
             {
-                "zh": "奖学金",
-                "en": "Not found"
+                "zh": "得",
+                "en": "particle indicating effect, degree, possibility"
+            },
+            {
+                "zh": "到",
+                "en": "to arrive, to reach, to, until"
+            },
+            {
+                "zh": "学",
+                "en": "to learn, to study"
             }
         ]
     },
@@ -1716,12 +1824,8 @@
                 "en": "she, her"
             },
             {
-                "zh": "伤心地",
-                "en": "Not found"
-            },
-            {
-                "zh": "哭",
-                "en": "Not found"
+                "zh": "地",
+                "en": "adverbial particle (-ly)"
             },
             {
                 "zh": "了",
@@ -1739,12 +1843,12 @@
         },
         "words": [
             {
-                "zh": "这是",
-                "en": "Not found"
+                "zh": "这",
+                "en": "this, these"
             },
             {
-                "zh": "奥利",
-                "en": "Not found"
+                "zh": "是",
+                "en": "to be"
             },
             {
                 "zh": "的",
@@ -1766,8 +1870,12 @@
         },
         "words": [
             {
-                "zh": "我会",
-                "en": "Not found"
+                "zh": "我",
+                "en": "I, me"
+            },
+            {
+                "zh": "会",
+                "en": "can, to be able to"
             },
             {
                 "zh": "等",
@@ -1793,16 +1901,16 @@
         },
         "words": [
             {
-                "zh": "钥匙",
-                "en": "Not found"
-            },
-            {
                 "zh": "在",
                 "en": "at, in, to be at"
             },
             {
-                "zh": "地上",
-                "en": "Not found"
+                "zh": "地",
+                "en": "adverbial particle (-ly)"
+            },
+            {
+                "zh": "上",
+                "en": "up"
             }
         ]
     },
@@ -1816,12 +1924,16 @@
         },
         "words": [
             {
-                "zh": "会议",
-                "en": "Not found"
+                "zh": "会",
+                "en": "can, to be able to"
             },
             {
-                "zh": "地点",
-                "en": "Not found"
+                "zh": "地",
+                "en": "adverbial particle (-ly)"
+            },
+            {
+                "zh": "点",
+                "en": "point, dot, o'clock"
             },
             {
                 "zh": "在",
@@ -1847,8 +1959,8 @@
                 "en": "this, this one"
             },
             {
-                "zh": "地方",
-                "en": "Not found"
+                "zh": "地",
+                "en": "adverbial particle (-ly)"
             },
             {
                 "zh": "真",
@@ -1870,16 +1982,24 @@
         },
         "words": [
             {
-                "zh": "地上",
-                "en": "Not found"
+                "zh": "地",
+                "en": "adverbial particle (-ly)"
+            },
+            {
+                "zh": "上",
+                "en": "up"
             },
             {
                 "zh": "有",
                 "en": "to have, to exist"
             },
             {
-                "zh": "很多",
-                "en": "Not found"
+                "zh": "很",
+                "en": "quite, very"
+            },
+            {
+                "zh": "多",
+                "en": "many, much"
             },
             {
                 "zh": "水",
@@ -1897,16 +2017,20 @@
         },
         "words": [
             {
-                "zh": "这是",
-                "en": "Not found"
+                "zh": "这",
+                "en": "this, these"
+            },
+            {
+                "zh": "是",
+                "en": "to be"
             },
             {
                 "zh": "中国",
                 "en": "China"
             },
             {
-                "zh": "地图",
-                "en": "Not found"
+                "zh": "地",
+                "en": "adverbial particle (-ly)"
             }
         ]
     },
@@ -1928,8 +2052,12 @@
                 "en": "to have, to exist"
             },
             {
-                "zh": "一个",
-                "en": "Not found"
+                "zh": "一",
+                "en": "1, one"
+            },
+            {
+                "zh": "个",
+                "en": "one, a, an"
             },
             {
                 "zh": "弟弟",
@@ -1959,8 +2087,16 @@
                 "en": "I, me"
             },
             {
-                "zh": "第五次",
-                "en": "Not found"
+                "zh": "第",
+                "en": "ordinal prefix (-st, -nd, -th)"
+            },
+            {
+                "zh": "五",
+                "en": "5, five"
+            },
+            {
+                "zh": "次",
+                "en": "time, occurrence"
             },
             {
                 "zh": "来",
@@ -1986,8 +2122,12 @@
                 "en": "now"
             },
             {
-                "zh": "三点",
-                "en": "Not found"
+                "zh": "三",
+                "en": "3, three"
+            },
+            {
+                "zh": "点",
+                "en": "point, dot, o'clock"
             },
             {
                 "zh": "了",
@@ -2007,10 +2147,6 @@
             {
                 "zh": "没有",
                 "en": "no, haven't, hasn't"
-            },
-            {
-                "zh": "电",
-                "en": "Not found"
             }
         ]
     },
@@ -2032,8 +2168,8 @@
                 "en": "possession particle"
             },
             {
-                "zh": "电话号码",
-                "en": "Not found"
+                "zh": "号",
+                "en": "number"
             },
             {
                 "zh": "是",
@@ -2055,16 +2191,20 @@
         },
         "words": [
             {
-                "zh": "我要",
-                "en": "Not found"
+                "zh": "我",
+                "en": "I, me"
+            },
+            {
+                "zh": "要",
+                "en": "important, to want, to ask for"
             },
             {
                 "zh": "买",
                 "en": "to buy"
             },
             {
-                "zh": "一台",
-                "en": "Not found"
+                "zh": "一",
+                "en": "1, one"
             },
             {
                 "zh": "电脑",
@@ -2086,12 +2226,16 @@
                 "en": "he, him"
             },
             {
-                "zh": "每天",
-                "en": "Not found"
+                "zh": "每",
+                "en": "each, every"
             },
             {
-                "zh": "看电视",
-                "en": "Not found"
+                "zh": "天",
+                "en": "day, sky"
+            },
+            {
+                "zh": "看",
+                "en": "to look, to see, to watch"
             }
         ]
     },
@@ -2111,10 +2255,6 @@
             {
                 "zh": "的",
                 "en": "possession particle"
-            },
-            {
-                "zh": "电视机",
-                "en": "Not found"
             },
             {
                 "zh": "坏",
@@ -2152,8 +2292,8 @@
                 "en": "grammatical particle"
             },
             {
-                "zh": "一部",
-                "en": "Not found"
+                "zh": "一",
+                "en": "1, one"
             },
             {
                 "zh": "电影",
@@ -2192,20 +2332,7 @@
             "zh": "房子朝东。",
             "en": "The house faces east."
         },
-        "words": [
-            {
-                "zh": "房子",
-                "en": "Not found"
-            },
-            {
-                "zh": "朝",
-                "en": "Not found"
-            },
-            {
-                "zh": "东",
-                "en": "Not found"
-            }
-        ]
+        "words": []
     },
     "85": {
         "id": "85",
@@ -2217,24 +2344,20 @@
         },
         "words": [
             {
-                "zh": "车库",
-                "en": "Not found"
+                "zh": "车",
+                "en": "vehicle, car"
             },
             {
                 "zh": "在",
                 "en": "at, in, to be at"
             },
             {
-                "zh": "房子",
-                "en": "Not found"
-            },
-            {
                 "zh": "的",
                 "en": "possession particle"
             },
             {
-                "zh": "东边",
-                "en": "Not found"
+                "zh": "边",
+                "en": "side, edge"
             }
         ]
     },
@@ -2260,8 +2383,12 @@
                 "en": "grammatical particle"
             },
             {
-                "zh": "很多",
-                "en": "Not found"
+                "zh": "很",
+                "en": "quite, very"
+            },
+            {
+                "zh": "多",
+                "en": "many, much"
             },
             {
                 "zh": "东西",
@@ -2279,8 +2406,12 @@
         },
         "words": [
             {
-                "zh": "别动",
-                "en": "Not found"
+                "zh": "别",
+                "en": "don't, other"
+            },
+            {
+                "zh": "动",
+                "en": "to move"
             }
         ]
     },
@@ -2306,8 +2437,8 @@
                 "en": "to look, to see, to watch"
             },
             {
-                "zh": "动作片",
-                "en": "Not found"
+                "zh": "动",
+                "en": "to move"
             }
         ]
     },
@@ -2348,16 +2479,16 @@
         },
         "words": [
             {
-                "zh": "请读",
-                "en": "Not found"
+                "zh": "请",
+                "en": "to invite, please"
             },
             {
-                "zh": "这句",
-                "en": "Not found"
+                "zh": "读",
+                "en": "to read"
             },
             {
-                "zh": "话",
-                "en": "Not found"
+                "zh": "这",
+                "en": "this, these"
             }
         ]
     },
@@ -2444,8 +2575,8 @@
                 "en": "green tea"
             },
             {
-                "zh": "好处",
-                "en": "Not found"
+                "zh": "好",
+                "en": "good, nice"
             },
             {
                 "zh": "多",
@@ -2490,10 +2621,6 @@
                 "en": "I, me"
             },
             {
-                "zh": "饿",
-                "en": "Not found"
-            },
-            {
                 "zh": "了",
                 "en": "grammatical particle"
             }
@@ -2525,8 +2652,8 @@
                 "en": "really, true"
             },
             {
-                "zh": "可爱",
-                "en": "Not found"
+                "zh": "爱",
+                "en": "to love, love"
             }
         ]
     },
@@ -2540,16 +2667,20 @@
         },
         "words": [
             {
-                "zh": "利息率",
-                "en": "Not found"
-            },
-            {
                 "zh": "是",
                 "en": "to be"
             },
             {
-                "zh": "百分之二",
-                "en": "Not found"
+                "zh": "百",
+                "en": "hundred, 100"
+            },
+            {
+                "zh": "分",
+                "en": "minute, cent, to divide"
+            },
+            {
+                "zh": "二",
+                "en": "2, two"
             }
         ]
     },
@@ -2575,8 +2706,8 @@
                 "en": "grammatical particle"
             },
             {
-                "zh": "三碗",
-                "en": "Not found"
+                "zh": "三",
+                "en": "3, three"
             },
             {
                 "zh": "饭",
@@ -2594,8 +2725,12 @@
         },
         "words": [
             {
-                "zh": "这家",
-                "en": "Not found"
+                "zh": "这",
+                "en": "this, these"
+            },
+            {
+                "zh": "家",
+                "en": "home, family"
             },
             {
                 "zh": "饭店",
@@ -2643,10 +2778,6 @@
             {
                 "zh": "很",
                 "en": "quite, very"
-            },
-            {
-                "zh": "乱",
-                "en": "Not found"
             }
         ]
     },
@@ -2666,10 +2797,6 @@
             {
                 "zh": "的",
                 "en": "possession particle"
-            },
-            {
-                "zh": "房子",
-                "en": "Not found"
             },
             {
                 "zh": "很",
@@ -2695,20 +2822,20 @@
                 "en": "I, me"
             },
             {
-                "zh": "把",
-                "en": "Not found"
+                "zh": "钱",
+                "en": "money, coin"
+            },
+            {
+                "zh": "在",
+                "en": "at, in, to be at"
             },
             {
                 "zh": "钱",
                 "en": "money, coin"
             },
             {
-                "zh": "放在",
-                "en": "Not found"
-            },
-            {
-                "zh": "钱包",
-                "en": "Not found"
+                "zh": "包",
+                "en": "bag, to wrap"
             },
             {
                 "zh": "里",
@@ -2734,10 +2861,6 @@
                 "en": "to think, to want"
             },
             {
-                "zh": "放假",
-                "en": "Not found"
-            },
-            {
                 "zh": "吗",
                 "en": "interrogative particle"
             }
@@ -2757,16 +2880,24 @@
                 "en": "he, him"
             },
             {
-                "zh": "每天",
-                "en": "Not found"
+                "zh": "每",
+                "en": "each, every"
             },
             {
-                "zh": "四点",
-                "en": "Not found"
+                "zh": "天",
+                "en": "day, sky"
             },
             {
-                "zh": "放学",
-                "en": "Not found"
+                "zh": "四",
+                "en": "4, four"
+            },
+            {
+                "zh": "点",
+                "en": "point, dot, o'clock"
+            },
+            {
+                "zh": "学",
+                "en": "to learn, to study"
             }
         ]
     },
@@ -2819,8 +2950,8 @@
                 "en": "to buy"
             },
             {
-                "zh": "一架",
-                "en": "Not found"
+                "zh": "一",
+                "en": "1, one"
             },
             {
                 "zh": "飞机",
@@ -2861,8 +2992,12 @@
                 "en": "he, him"
             },
             {
-                "zh": "数学考试",
-                "en": "Not found"
+                "zh": "学",
+                "en": "to learn, to study"
+            },
+            {
+                "zh": "考",
+                "en": "to take an exam, to test"
             },
             {
                 "zh": "得",
@@ -2877,8 +3012,12 @@
                 "en": "8, eight"
             },
             {
-                "zh": "十分",
-                "en": "Not found"
+                "zh": "十",
+                "en": "10, ten"
+            },
+            {
+                "zh": "分",
+                "en": "minute, cent, to divide"
             }
         ]
     },
@@ -2898,10 +3037,6 @@
             {
                 "zh": "没有",
                 "en": "no, haven't, hasn't"
-            },
-            {
-                "zh": "风",
-                "en": "Not found"
             }
         ]
     },
@@ -2914,14 +3049,6 @@
             "en": "The socks are dry."
         },
         "words": [
-            {
-                "zh": "袜子",
-                "en": "Not found"
-            },
-            {
-                "zh": "干",
-                "en": "Not found"
-            },
             {
                 "zh": "了",
                 "en": "grammatical particle"
@@ -2952,10 +3079,6 @@
             {
                 "zh": "很",
                 "en": "quite, very"
-            },
-            {
-                "zh": "干净",
-                "en": "Not found"
             }
         ]
     },
@@ -2973,16 +3096,12 @@
                 "en": "you (singular, informal)"
             },
             {
-                "zh": "毕业",
-                "en": "Not found"
-            },
-            {
                 "zh": "后",
                 "en": "behind, after"
             },
             {
-                "zh": "想干什么",
-                "en": "Not found"
+                "zh": "想",
+                "en": "to think, to want"
             }
         ]
     },
@@ -3002,10 +3121,6 @@
             {
                 "zh": "在",
                 "en": "at, in, to be at"
-            },
-            {
-                "zh": "干什么",
-                "en": "Not found"
             }
         ]
     },
@@ -3019,12 +3134,8 @@
         },
         "words": [
             {
-                "zh": "这座",
-                "en": "Not found"
-            },
-            {
-                "zh": "山",
-                "en": "Not found"
+                "zh": "这",
+                "en": "this, these"
             },
             {
                 "zh": "很",
@@ -3135,8 +3246,8 @@
                 "en": "this, these"
             },
             {
-                "zh": "首歌",
-                "en": "Not found"
+                "zh": "歌",
+                "en": "song"
             },
             {
                 "zh": "吗",
@@ -3154,16 +3265,24 @@
         },
         "words": [
             {
-                "zh": "我要",
-                "en": "Not found"
+                "zh": "我",
+                "en": "I, me"
+            },
+            {
+                "zh": "要",
+                "en": "important, to want, to ask for"
             },
             {
                 "zh": "买",
                 "en": "to buy"
             },
             {
-                "zh": "五个",
-                "en": "Not found"
+                "zh": "五",
+                "en": "5, five"
+            },
+            {
+                "zh": "个",
+                "en": "one, a, an"
             },
             {
                 "zh": "西瓜",
@@ -3193,8 +3312,8 @@
                 "en": "I, me"
             },
             {
-                "zh": "一杯",
-                "en": "Not found"
+                "zh": "一",
+                "en": "1, one"
             },
             {
                 "zh": "水",
@@ -3243,8 +3362,8 @@
         },
         "words": [
             {
-                "zh": "工人",
-                "en": "Not found"
+                "zh": "人",
+                "en": "person, people"
             },
             {
                 "zh": "都",
@@ -3286,8 +3405,12 @@
                 "en": "to work, job"
             },
             {
-                "zh": "很多",
-                "en": "Not found"
+                "zh": "很",
+                "en": "quite, very"
+            },
+            {
+                "zh": "多",
+                "en": "many, much"
             }
         ]
     },
@@ -3305,8 +3428,8 @@
                 "en": "to invite, please"
             },
             {
-                "zh": "关门",
-                "en": "Not found"
+                "zh": "门",
+                "en": "gate, door"
             }
         ]
     },
@@ -3324,12 +3447,8 @@
                 "en": "to remember"
             },
             {
-                "zh": "把手",
-                "en": "Not found"
-            },
-            {
-                "zh": "机关",
-                "en": "Not found"
+                "zh": "手",
+                "en": "hand"
             },
             {
                 "zh": "上",
@@ -3347,12 +3466,12 @@
         },
         "words": [
             {
-                "zh": "房租",
-                "en": "Not found"
+                "zh": "太",
+                "en": "too much, very"
             },
             {
-                "zh": "太贵",
-                "en": "Not found"
+                "zh": "贵",
+                "en": "expensive, costly"
             },
             {
                 "zh": "了",
@@ -3382,8 +3501,12 @@
                 "en": "which, what"
             },
             {
-                "zh": "国人",
-                "en": "Not found"
+                "zh": "国",
+                "en": "country, nation"
+            },
+            {
+                "zh": "人",
+                "en": "person, people"
             }
         ]
     },
@@ -3405,20 +3528,24 @@
                 "en": "to be"
             },
             {
-                "zh": "一个",
-                "en": "Not found"
+                "zh": "一",
+                "en": "1, one"
             },
             {
-                "zh": "历史悠久",
-                "en": "Not found"
+                "zh": "个",
+                "en": "one, a, an"
             },
             {
                 "zh": "的",
                 "en": "possession particle"
             },
             {
-                "zh": "国家",
-                "en": "Not found"
+                "zh": "国",
+                "en": "country, nation"
+            },
+            {
+                "zh": "家",
+                "en": "home, family"
             }
         ]
     },
@@ -3440,8 +3567,12 @@
                 "en": "at, in, to be at"
             },
             {
-                "zh": "国外",
-                "en": "Not found"
+                "zh": "国",
+                "en": "country, nation"
+            },
+            {
+                "zh": "外",
+                "en": "foreign, external, outside"
             },
             {
                 "zh": "学习",
@@ -3471,8 +3602,8 @@
                 "en": "grammatical particle"
             },
             {
-                "zh": "口语",
-                "en": "Not found"
+                "zh": "口",
+                "en": "mouth, measure word"
             },
             {
                 "zh": "考试",
@@ -3556,32 +3687,36 @@
                 "en": "to understand, to know"
             },
             {
-                "zh": "手语",
-                "en": "Not found"
+                "zh": "手",
+                "en": "hand"
             },
             {
                 "zh": "的",
                 "en": "possession particle"
             },
             {
-                "zh": "，",
-                "en": "Not found"
-            },
-            {
-                "zh": "除了",
-                "en": "Not found"
+                "zh": "了",
+                "en": "grammatical particle"
             },
             {
                 "zh": "我",
                 "en": "I, me"
             },
             {
-                "zh": "还有",
-                "en": "Not found"
+                "zh": "还",
+                "en": "still, also, else, in addition"
             },
             {
-                "zh": "三个",
-                "en": "Not found"
+                "zh": "有",
+                "en": "to have, to exist"
+            },
+            {
+                "zh": "三",
+                "en": "3, three"
+            },
+            {
+                "zh": "个",
+                "en": "one, a, an"
             },
             {
                 "zh": "人",
@@ -3607,8 +3742,12 @@
                 "en": "to have, to exist"
             },
             {
-                "zh": "五个",
-                "en": "Not found"
+                "zh": "五",
+                "en": "5, five"
+            },
+            {
+                "zh": "个",
+                "en": "one, a, an"
             },
             {
                 "zh": "孩子",
@@ -3626,8 +3765,12 @@
         },
         "words": [
             {
-                "zh": "他会",
-                "en": "Not found"
+                "zh": "他",
+                "en": "he, him"
+            },
+            {
+                "zh": "会",
+                "en": "can, to be able to"
             },
             {
                 "zh": "说",
@@ -3657,12 +3800,20 @@
                 "en": "today"
             },
             {
-                "zh": "学了",
-                "en": "Not found"
+                "zh": "学",
+                "en": "to learn, to study"
             },
             {
-                "zh": "十个",
-                "en": "Not found"
+                "zh": "了",
+                "en": "grammatical particle"
+            },
+            {
+                "zh": "十",
+                "en": "10, ten"
+            },
+            {
+                "zh": "个",
+                "en": "one, a, an"
             },
             {
                 "zh": "汉字",
@@ -3688,8 +3839,12 @@
                 "en": "to be"
             },
             {
-                "zh": "一个",
-                "en": "Not found"
+                "zh": "一",
+                "en": "1, one"
+            },
+            {
+                "zh": "个",
+                "en": "one, a, an"
             },
             {
                 "zh": "好",
@@ -3713,10 +3868,6 @@
             {
                 "zh": "这",
                 "en": "this, these"
-            },
-            {
-                "zh": "巧克力",
-                "en": "Not found"
             },
             {
                 "zh": "真",
@@ -3765,8 +3916,8 @@
                 "en": "this, these"
             },
             {
-                "zh": "首歌",
-                "en": "Not found"
+                "zh": "歌",
+                "en": "song"
             },
             {
                 "zh": "好听",
@@ -3792,8 +3943,8 @@
                 "en": "this, this one"
             },
             {
-                "zh": "游戏",
-                "en": "Not found"
+                "zh": "游",
+                "en": "to swim"
             },
             {
                 "zh": "真",
@@ -3802,10 +3953,6 @@
             {
                 "zh": "好玩儿",
                 "en": "fun, amusing"
-            },
-            {
-                "zh": " ",
-                "en": "Not found"
             }
         ]
     },
@@ -3823,8 +3970,12 @@
                 "en": "today"
             },
             {
-                "zh": "几号",
-                "en": "Not found"
+                "zh": "几",
+                "en": "how many (1 to 10)"
+            },
+            {
+                "zh": "号",
+                "en": "number"
             }
         ]
     },
@@ -3842,16 +3993,12 @@
                 "en": "you (singular, informal)"
             },
             {
-                "zh": "喝咖啡",
-                "en": "Not found"
+                "zh": "喝",
+                "en": "to drink"
             },
             {
                 "zh": "吗",
                 "en": "interrogative particle"
-            },
-            {
-                "zh": "?",
-                "en": "Not found"
             }
         ]
     },
@@ -3935,10 +4082,6 @@
                 "en": "behind, after"
             },
             {
-                "zh": "，",
-                "en": "Not found"
-            },
-            {
                 "zh": "你",
                 "en": "you (singular, informal)"
             },
@@ -3947,8 +4090,12 @@
                 "en": "to come, to arrive"
             },
             {
-                "zh": "我家",
-                "en": "Not found"
+                "zh": "我",
+                "en": "I, me"
+            },
+            {
+                "zh": "家",
+                "en": "home, family"
             }
         ]
     },
@@ -3974,8 +4121,12 @@
                 "en": "hotel"
             },
             {
-                "zh": "后边",
-                "en": "Not found"
+                "zh": "后",
+                "en": "behind, after"
+            },
+            {
+                "zh": "边",
+                "en": "side, edge"
             }
         ]
     },
@@ -3993,16 +4144,16 @@
                 "en": "I, me"
             },
             {
-                "zh": "后天",
-                "en": "Not found"
+                "zh": "后",
+                "en": "behind, after"
+            },
+            {
+                "zh": "天",
+                "en": "day, sky"
             },
             {
                 "zh": "去",
                 "en": "to go"
-            },
-            {
-                "zh": "海南",
-                "en": "Not found"
             }
         ]
     },
@@ -4028,8 +4179,8 @@
                 "en": "this, these"
             },
             {
-                "zh": "朵花",
-                "en": "Not found"
+                "zh": "花",
+                "en": "flower"
             },
             {
                 "zh": "吗",
@@ -4055,16 +4206,16 @@
                 "en": "no, negation particle"
             },
             {
-                "zh": "明白",
-                "en": "Not found"
+                "zh": "白",
+                "en": "white, bright, pure"
             },
             {
                 "zh": "他",
                 "en": "he, him"
             },
             {
-                "zh": "的话",
-                "en": "Not found"
+                "zh": "的",
+                "en": "possession particle"
             }
         ]
     },
@@ -4078,10 +4229,6 @@
         },
         "words": [
             {
-                "zh": "吸烟",
-                "en": "Not found"
-            },
-            {
                 "zh": "是",
                 "en": "to be"
             },
@@ -4090,8 +4237,8 @@
                 "en": "one, a, an"
             },
             {
-                "zh": "坏习惯",
-                "en": "Not found"
+                "zh": "坏",
+                "en": "bad, broken"
             }
         ]
     },
@@ -4117,8 +4264,12 @@
                 "en": "time, moment, period"
             },
             {
-                "zh": "还车",
-                "en": "Not found"
+                "zh": "还",
+                "en": "still, also, else, in addition"
+            },
+            {
+                "zh": "车",
+                "en": "vehicle, car"
             }
         ]
     },
@@ -4171,8 +4322,8 @@
                 "en": "you (singular, informal)"
             },
             {
-                "zh": "回答",
-                "en": "Not found"
+                "zh": "回",
+                "en": "to return, to be back"
             }
         ]
     },
@@ -4194,12 +4345,16 @@
                 "en": "to think, to want"
             },
             {
-                "zh": "回到",
-                "en": "Not found"
+                "zh": "回",
+                "en": "to return, to be back"
             },
             {
-                "zh": "上海",
-                "en": "Not found"
+                "zh": "到",
+                "en": "to arrive, to reach, to, until"
+            },
+            {
+                "zh": "上",
+                "en": "up"
             }
         ]
     },
@@ -4217,12 +4372,20 @@
                 "en": "you (singular, informal)"
             },
             {
-                "zh": "几点",
-                "en": "Not found"
+                "zh": "几",
+                "en": "how many (1 to 10)"
             },
             {
-                "zh": "回家",
-                "en": "Not found"
+                "zh": "点",
+                "en": "point, dot, o'clock"
+            },
+            {
+                "zh": "回",
+                "en": "to return, to be back"
+            },
+            {
+                "zh": "家",
+                "en": "home, family"
             }
         ]
     },
@@ -4321,16 +4484,16 @@
                 "en": "I, me"
             },
             {
-                "zh": "坐火车",
-                "en": "Not found"
+                "zh": "坐",
+                "en": "to sit"
+            },
+            {
+                "zh": "车",
+                "en": "vehicle, car"
             },
             {
                 "zh": "去",
                 "en": "to go"
-            },
-            {
-                "zh": "深圳",
-                "en": "Not found"
             }
         ]
     },
@@ -4371,8 +4534,8 @@
                 "en": "you (singular, informal)"
             },
             {
-                "zh": "订机票",
-                "en": "Not found"
+                "zh": "票",
+                "en": "ticket, ballot, banknote"
             },
             {
                 "zh": "了",
@@ -4433,8 +4596,8 @@
                 "en": "important, to want, to ask for"
             },
             {
-                "zh": "几杯",
-                "en": "Not found"
+                "zh": "几",
+                "en": "how many (1 to 10)"
             },
             {
                 "zh": "咖啡",
@@ -4456,8 +4619,8 @@
                 "en": "to invite, please"
             },
             {
-                "zh": "记下",
-                "en": "Not found"
+                "zh": "下",
+                "en": "down"
             },
             {
                 "zh": "这些",
@@ -4506,12 +4669,16 @@
         },
         "words": [
             {
-                "zh": "我会",
-                "en": "Not found"
+                "zh": "我",
+                "en": "I, me"
             },
             {
-                "zh": "记住",
-                "en": "Not found"
+                "zh": "会",
+                "en": "can, to be able to"
+            },
+            {
+                "zh": "住",
+                "en": "to live"
             },
             {
                 "zh": "的",
@@ -4543,10 +4710,6 @@
             {
                 "zh": "在",
                 "en": "at, in, to be at"
-            },
-            {
-                "zh": "浦东",
-                "en": "Not found"
             }
         ]
     },
@@ -4568,16 +4731,16 @@
                 "en": "possession particle"
             },
             {
-                "zh": "钥匙",
-                "en": "Not found"
-            },
-            {
                 "zh": "在",
                 "en": "at, in, to be at"
             },
             {
-                "zh": "家里",
-                "en": "Not found"
+                "zh": "家",
+                "en": "home, family"
+            },
+            {
+                "zh": "里",
+                "en": "interior, inside"
             }
         ]
     },
@@ -4622,20 +4785,24 @@
         },
         "words": [
             {
-                "zh": "我要",
-                "en": "Not found"
+                "zh": "我",
+                "en": "I, me"
             },
             {
-                "zh": "订",
-                "en": "Not found"
+                "zh": "要",
+                "en": "important, to want, to ask for"
             },
             {
-                "zh": "三间",
-                "en": "Not found"
+                "zh": "三",
+                "en": "3, three"
             },
             {
-                "zh": "单人房",
-                "en": "Not found"
+                "zh": "间",
+                "en": "measure word for rooms"
+            },
+            {
+                "zh": "人",
+                "en": "person, people"
             }
         ]
     },
@@ -4653,8 +4820,12 @@
                 "en": "you (singular, informal)"
             },
             {
-                "zh": "想见",
-                "en": "Not found"
+                "zh": "想",
+                "en": "to think, to want"
+            },
+            {
+                "zh": "见",
+                "en": "to see, to meet"
             },
             {
                 "zh": "我",
@@ -4688,8 +4859,12 @@
                 "en": "where"
             },
             {
-                "zh": "见面",
-                "en": "Not found"
+                "zh": "见",
+                "en": "to see, to meet"
+            },
+            {
+                "zh": "面",
+                "en": "side, surface"
             }
         ]
     },
@@ -4748,10 +4923,6 @@
             {
                 "zh": "我",
                 "en": "I, me"
-            },
-            {
-                "zh": "Angel",
-                "en": "Not found"
             }
         ]
     },
@@ -4781,8 +4952,16 @@
                 "en": "at, in, to be at"
             },
             {
-                "zh": "教学楼",
-                "en": "Not found"
+                "zh": "教",
+                "en": "to teach"
+            },
+            {
+                "zh": "学",
+                "en": "to learn, to study"
+            },
+            {
+                "zh": "楼",
+                "en": "building, floor"
             }
         ]
     },
@@ -4806,10 +4985,6 @@
             {
                 "zh": "是",
                 "en": "to be"
-            },
-            {
-                "zh": "护士",
-                "en": "Not found"
             }
         ]
     },
@@ -4904,8 +5079,12 @@
         },
         "words": [
             {
-                "zh": "他进",
-                "en": "Not found"
+                "zh": "他",
+                "en": "he, him"
+            },
+            {
+                "zh": "进",
+                "en": "to advance, to enter"
             },
             {
                 "zh": "了",
@@ -4939,8 +5118,8 @@
                 "en": "to come in"
             },
             {
-                "zh": "喝杯",
-                "en": "Not found"
+                "zh": "喝",
+                "en": "to drink"
             },
             {
                 "zh": "咖啡",
@@ -4962,8 +5141,12 @@
         },
         "words": [
             {
-                "zh": "我要",
-                "en": "Not found"
+                "zh": "我",
+                "en": "I, me"
+            },
+            {
+                "zh": "要",
+                "en": "important, to want, to ask for"
             },
             {
                 "zh": "进去",
@@ -4985,12 +5168,16 @@
                 "en": "this, these"
             },
             {
-                "zh": "支笔",
-                "en": "Not found"
+                "zh": "笔",
+                "en": "pen, writing instrument"
             },
             {
-                "zh": "九块",
-                "en": "Not found"
+                "zh": "九",
+                "en": "9, nine"
+            },
+            {
+                "zh": "块",
+                "en": "piece of, lump of"
             },
             {
                 "zh": "钱",
@@ -5018,10 +5205,6 @@
             {
                 "zh": "了",
                 "en": "grammatical particle"
-            },
-            {
-                "zh": "，",
-                "en": "Not found"
             },
             {
                 "zh": "就",
@@ -5078,8 +5261,12 @@
                 "en": "to invite, please"
             },
             {
-                "zh": "开门",
-                "en": "Not found"
+                "zh": "开",
+                "en": "to open, to start, to drive"
+            },
+            {
+                "zh": "门",
+                "en": "gate, door"
             }
         ]
     },
@@ -5124,12 +5311,20 @@
                 "en": "we, us"
             },
             {
-                "zh": "几点",
-                "en": "Not found"
+                "zh": "几",
+                "en": "how many (1 to 10)"
             },
             {
-                "zh": "开会",
-                "en": "Not found"
+                "zh": "点",
+                "en": "point, dot, o'clock"
+            },
+            {
+                "zh": "开",
+                "en": "to open, to start, to drive"
+            },
+            {
+                "zh": "会",
+                "en": "can, to be able to"
             }
         ]
     },
@@ -5151,8 +5346,16 @@
                 "en": "to like"
             },
             {
-                "zh": "开玩笑",
-                "en": "Not found"
+                "zh": "开",
+                "en": "to open, to start, to drive"
+            },
+            {
+                "zh": "玩",
+                "en": "to play, to have fun"
+            },
+            {
+                "zh": "笑",
+                "en": "to smile, to laugh"
             },
             {
                 "zh": "吗",
@@ -5174,12 +5377,12 @@
                 "en": "to look, to see, to watch"
             },
             {
-                "zh": "一条",
-                "en": "Not found"
+                "zh": "一",
+                "en": "1, one"
             },
             {
-                "zh": "彩虹",
-                "en": "Not found"
+                "zh": "条",
+                "en": "measure word for long things"
             }
         ]
     },
@@ -5193,8 +5396,12 @@
         },
         "words": [
             {
-                "zh": "我要",
-                "en": "Not found"
+                "zh": "我",
+                "en": "I, me"
+            },
+            {
+                "zh": "要",
+                "en": "important, to want, to ask for"
             },
             {
                 "zh": "去",
@@ -5220,8 +5427,12 @@
                 "en": "you (singular, informal)"
             },
             {
-                "zh": "看到",
-                "en": "Not found"
+                "zh": "看",
+                "en": "to look, to see, to watch"
+            },
+            {
+                "zh": "到",
+                "en": "to arrive, to reach, to, until"
             },
             {
                 "zh": "了",
@@ -5266,8 +5477,12 @@
         },
         "words": [
             {
-                "zh": "我来",
-                "en": "Not found"
+                "zh": "我",
+                "en": "I, me"
+            },
+            {
+                "zh": "来",
+                "en": "to come, to arrive"
             },
             {
                 "zh": "考",
@@ -5324,8 +5539,8 @@
         },
         "words": [
             {
-                "zh": "我渴",
-                "en": "Not found"
+                "zh": "我",
+                "en": "I, me"
             },
             {
                 "zh": "了",
@@ -5390,8 +5605,12 @@
                 "en": "possession particle"
             },
             {
-                "zh": "课本",
-                "en": "Not found"
+                "zh": "课",
+                "en": "class, lesson, course"
+            },
+            {
+                "zh": "本",
+                "en": "classifier for books"
             }
         ]
     },
@@ -5417,8 +5636,8 @@
                 "en": "to read"
             },
             {
-                "zh": "课文",
-                "en": "Not found"
+                "zh": "课",
+                "en": "class, lesson, course"
             },
             {
                 "zh": "吗",
@@ -5479,12 +5698,12 @@
                 "en": "grammatical particle"
             },
             {
-                "zh": "五块",
-                "en": "Not found"
+                "zh": "五",
+                "en": "5, five"
             },
             {
-                "zh": "蛋糕",
-                "en": "Not found"
+                "zh": "块",
+                "en": "piece of, lump of"
             }
         ]
     },
@@ -5502,8 +5721,16 @@
                 "en": "he, him"
             },
             {
-                "zh": "跑得快",
-                "en": "Not found"
+                "zh": "跑",
+                "en": "to run"
+            },
+            {
+                "zh": "得",
+                "en": "particle indicating effect, degree, possibility"
+            },
+            {
+                "zh": "快",
+                "en": "quick, rapid, soon"
             }
         ]
     },
@@ -5521,16 +5748,28 @@
                 "en": "you (singular, informal)"
             },
             {
-                "zh": "想来",
-                "en": "Not found"
+                "zh": "想",
+                "en": "to think, to want"
             },
             {
-                "zh": "我家",
-                "en": "Not found"
+                "zh": "来",
+                "en": "to come, to arrive"
             },
             {
-                "zh": "打游戏",
-                "en": "Not found"
+                "zh": "我",
+                "en": "I, me"
+            },
+            {
+                "zh": "家",
+                "en": "home, family"
+            },
+            {
+                "zh": "打",
+                "en": "to hit, to play (ball games)"
+            },
+            {
+                "zh": "游",
+                "en": "to swim"
             },
             {
                 "zh": "吗",
@@ -5556,8 +5795,12 @@
                 "en": "last year"
             },
             {
-                "zh": "来到",
-                "en": "Not found"
+                "zh": "来",
+                "en": "to come, to arrive"
+            },
+            {
+                "zh": "到",
+                "en": "to arrive, to reach, to, until"
             },
             {
                 "zh": "中国",
@@ -5581,10 +5824,6 @@
             {
                 "zh": "是",
                 "en": "to be"
-            },
-            {
-                "zh": "老朋友",
-                "en": "Not found"
             }
         ]
     },
@@ -5602,8 +5841,8 @@
                 "en": "that, that one"
             },
             {
-                "zh": "老人",
-                "en": "Not found"
+                "zh": "人",
+                "en": "person, people"
             },
             {
                 "zh": "身体",
@@ -5729,16 +5968,16 @@
                 "en": "possession particle"
             },
             {
-                "zh": "护照",
-                "en": "Not found"
-            },
-            {
                 "zh": "在",
                 "en": "at, in, to be at"
             },
             {
-                "zh": "包里",
-                "en": "Not found"
+                "zh": "包",
+                "en": "bag, to wrap"
+            },
+            {
+                "zh": "里",
+                "en": "interior, inside"
             }
         ]
     },
@@ -5752,24 +5991,24 @@
         },
         "words": [
             {
-                "zh": "公园",
-                "en": "Not found"
+                "zh": "里",
+                "en": "interior, inside"
             },
             {
-                "zh": "里边",
-                "en": "Not found"
+                "zh": "边",
+                "en": "side, edge"
             },
             {
                 "zh": "有",
                 "en": "to have, to exist"
             },
             {
-                "zh": "一个",
-                "en": "Not found"
+                "zh": "一",
+                "en": "1, one"
             },
             {
-                "zh": "湖",
-                "en": "Not found"
+                "zh": "个",
+                "en": "one, a, an"
             }
         ]
     },
@@ -5791,8 +6030,8 @@
                 "en": "to have, to exist"
             },
             {
-                "zh": "两台",
-                "en": "Not found"
+                "zh": "两",
+                "en": "two, some, a few"
             },
             {
                 "zh": "电脑",
@@ -5810,8 +6049,16 @@
         },
         "words": [
             {
-                "zh": "从零开始",
-                "en": "Not found"
+                "zh": "从",
+                "en": "from, since"
+            },
+            {
+                "zh": "零",
+                "en": "0, zero"
+            },
+            {
+                "zh": "开",
+                "en": "to open, to start, to drive"
             }
         ]
     },
@@ -5825,12 +6072,20 @@
         },
         "words": [
             {
-                "zh": "我要",
-                "en": "Not found"
+                "zh": "我",
+                "en": "I, me"
             },
             {
-                "zh": "六个",
-                "en": "Not found"
+                "zh": "要",
+                "en": "important, to want, to ask for"
+            },
+            {
+                "zh": "六",
+                "en": "6, six"
+            },
+            {
+                "zh": "个",
+                "en": "one, a, an"
             },
             {
                 "zh": "饺子",
@@ -5860,8 +6115,12 @@
                 "en": "at, in, to be at"
             },
             {
-                "zh": "几楼",
-                "en": "Not found"
+                "zh": "几",
+                "en": "how many (1 to 10)"
+            },
+            {
+                "zh": "楼",
+                "en": "building, floor"
             }
         ]
     },
@@ -5883,8 +6142,12 @@
                 "en": "at, in, to be at"
             },
             {
-                "zh": "楼上",
-                "en": "Not found"
+                "zh": "楼",
+                "en": "building, floor"
+            },
+            {
+                "zh": "上",
+                "en": "up"
             }
         ]
     },
@@ -5898,12 +6161,20 @@
         },
         "words": [
             {
-                "zh": "楼下",
-                "en": "Not found"
+                "zh": "楼",
+                "en": "building, floor"
             },
             {
-                "zh": "有个",
-                "en": "Not found"
+                "zh": "下",
+                "en": "down"
+            },
+            {
+                "zh": "有",
+                "en": "to have, to exist"
+            },
+            {
+                "zh": "个",
+                "en": "one, a, an"
             },
             {
                 "zh": "超市",
@@ -5921,8 +6192,8 @@
         },
         "words": [
             {
-                "zh": "淮海路",
-                "en": "Not found"
+                "zh": "路",
+                "en": "road, path, route"
             },
             {
                 "zh": "在",
@@ -5952,12 +6223,16 @@
                 "en": "at, in, to be at"
             },
             {
-                "zh": "路口",
-                "en": "Not found"
+                "zh": "路",
+                "en": "road, path, route"
             },
             {
-                "zh": "停车",
-                "en": "Not found"
+                "zh": "口",
+                "en": "mouth, measure word"
+            },
+            {
+                "zh": "车",
+                "en": "vehicle, car"
             }
         ]
     },
@@ -6018,10 +6293,6 @@
                 "en": "mom, mother"
             },
             {
-                "zh": "退休",
-                "en": "Not found"
-            },
-            {
                 "zh": "了",
                 "en": "grammatical particle"
             }
@@ -6037,16 +6308,16 @@
         },
         "words": [
             {
-                "zh": "小心",
-                "en": "Not found"
+                "zh": "小",
+                "en": "small, young"
             },
             {
                 "zh": "过",
                 "en": "to cross, to pass time"
             },
             {
-                "zh": "马路",
-                "en": "Not found"
+                "zh": "路",
+                "en": "road, path, route"
             }
         ]
     },
@@ -6064,12 +6335,8 @@
                 "en": "I, me"
             },
             {
-                "zh": "马上",
-                "en": "Not found"
-            },
-            {
-                "zh": "付款",
-                "en": "Not found"
+                "zh": "上",
+                "en": "up"
             }
         ]
     },
@@ -6091,8 +6358,12 @@
                 "en": "important, to want, to ask for"
             },
             {
-                "zh": "喝水",
-                "en": "Not found"
+                "zh": "喝",
+                "en": "to drink"
+            },
+            {
+                "zh": "水",
+                "en": "water"
             },
             {
                 "zh": "吗",
@@ -6141,8 +6412,12 @@
                 "en": "slow"
             },
             {
-                "zh": "一点",
-                "en": "Not found"
+                "zh": "一",
+                "en": "1, one"
+            },
+            {
+                "zh": "点",
+                "en": "point, dot, o'clock"
             }
         ]
     },
@@ -6179,20 +6454,24 @@
         },
         "words": [
             {
-                "zh": "这杯",
-                "en": "Not found"
+                "zh": "这",
+                "en": "this, these"
             },
             {
                 "zh": "茶",
                 "en": "tea"
             },
             {
-                "zh": "八块",
-                "en": "Not found"
+                "zh": "八",
+                "en": "8, eight"
             },
             {
-                "zh": "五毛",
-                "en": "Not found"
+                "zh": "块",
+                "en": "piece of, lump of"
+            },
+            {
+                "zh": "五",
+                "en": "5, five"
             }
         ]
     },
@@ -6212,10 +6491,6 @@
             {
                 "zh": "没",
                 "en": "not, have not"
-            },
-            {
-                "zh": "吸烟",
-                "en": "Not found"
             }
         ]
     },
@@ -6244,8 +6519,8 @@
         },
         "words": [
             {
-                "zh": "没什么",
-                "en": "Not found"
+                "zh": "没",
+                "en": "not, have not"
             }
         ]
     },
@@ -6259,8 +6534,12 @@
         },
         "words": [
             {
-                "zh": "没事儿",
-                "en": "Not found"
+                "zh": "没",
+                "en": "not, have not"
+            },
+            {
+                "zh": "事",
+                "en": "matter, affair, thing"
             }
         ]
     },
@@ -6305,8 +6584,12 @@
                 "en": "younger sister"
             },
             {
-                "zh": "八岁",
-                "en": "Not found"
+                "zh": "八",
+                "en": "8, eight"
+            },
+            {
+                "zh": "岁",
+                "en": "year, years old"
             },
             {
                 "zh": "了",
@@ -6328,8 +6611,8 @@
                 "en": "you (singular, informal)"
             },
             {
-                "zh": "锁门",
-                "en": "Not found"
+                "zh": "门",
+                "en": "gate, door"
             },
             {
                 "zh": "了",
@@ -6367,8 +6650,8 @@
                 "en": "outside"
             },
             {
-                "zh": "停车",
-                "en": "Not found"
+                "zh": "车",
+                "en": "vehicle, car"
             }
         ]
     },
@@ -6429,8 +6712,8 @@
                 "en": "together, with"
             },
             {
-                "zh": "聊天",
-                "en": "Not found"
+                "zh": "天",
+                "en": "day, sky"
             }
         ]
     },
@@ -6456,8 +6739,8 @@
                 "en": "grammatical particle"
             },
             {
-                "zh": "三碗",
-                "en": "Not found"
+                "zh": "三",
+                "en": "3, three"
             },
             {
                 "zh": "米饭",
@@ -6483,8 +6766,12 @@
                 "en": "can, to be able to"
             },
             {
-                "zh": "烤面包",
-                "en": "Not found"
+                "zh": "面",
+                "en": "side, surface"
+            },
+            {
+                "zh": "包",
+                "en": "bag, to wrap"
             },
             {
                 "zh": "吗",
@@ -6568,8 +6855,8 @@
                 "en": "no, negation particle"
             },
             {
-                "zh": "明白",
-                "en": "Not found"
+                "zh": "白",
+                "en": "white, bright, pure"
             }
         ]
     },
@@ -6589,10 +6876,6 @@
             {
                 "zh": "明年",
                 "en": "next year"
-            },
-            {
-                "zh": "结婚",
-                "en": "Not found"
             }
         ]
     },
@@ -6631,10 +6914,6 @@
             {
                 "zh": "拿",
                 "en": "to take, to hold"
-            },
-            {
-                "zh": "护照",
-                "en": "Not found"
             },
             {
                 "zh": "了",
@@ -6779,8 +7058,8 @@
         },
         "words": [
             {
-                "zh": "图书馆",
-                "en": "Not found"
+                "zh": "书",
+                "en": "book"
             },
             {
                 "zh": "在",
@@ -6837,8 +7116,8 @@
                 "en": "possession particle"
             },
             {
-                "zh": "甜点",
-                "en": "Not found"
+                "zh": "点",
+                "en": "point, dot, o'clock"
             },
             {
                 "zh": "很",
@@ -6864,8 +7143,8 @@
                 "en": "those"
             },
             {
-                "zh": "甜点",
-                "en": "Not found"
+                "zh": "点",
+                "en": "point, dot, o'clock"
             },
             {
                 "zh": "我",
@@ -6926,16 +7205,12 @@
                 "en": "to be"
             },
             {
-                "zh": "由",
-                "en": "Not found"
-            },
-            {
                 "zh": "奶奶",
                 "en": "grandma (paternal)"
             },
             {
-                "zh": "带大",
-                "en": "Not found"
+                "zh": "大",
+                "en": "large, big"
             },
             {
                 "zh": "的",
@@ -6961,12 +7236,16 @@
                 "en": "interior, inside"
             },
             {
-                "zh": "男护士",
-                "en": "Not found"
+                "zh": "男",
+                "en": "man, male"
             },
             {
-                "zh": "很少",
-                "en": "Not found"
+                "zh": "很",
+                "en": "quite, very"
+            },
+            {
+                "zh": "少",
+                "en": "few, less"
             }
         ]
     },
@@ -6992,8 +7271,8 @@
                 "en": "really, true"
             },
             {
-                "zh": "可爱",
-                "en": "Not found"
+                "zh": "爱",
+                "en": "to love, love"
             }
         ]
     },
@@ -7038,8 +7317,12 @@
                 "en": "that, that one"
             },
             {
-                "zh": "男人",
-                "en": "Not found"
+                "zh": "男",
+                "en": "man, male"
+            },
+            {
+                "zh": "人",
+                "en": "person, people"
             },
             {
                 "zh": "是",
@@ -7065,8 +7348,8 @@
                 "en": "that, that one"
             },
             {
-                "zh": "男生",
-                "en": "Not found"
+                "zh": "男",
+                "en": "man, male"
             },
             {
                 "zh": "很",
@@ -7098,10 +7381,6 @@
             {
                 "zh": "房间",
                 "en": "room"
-            },
-            {
-                "zh": "朝南",
-                "en": "Not found"
             }
         ]
     },
@@ -7127,8 +7406,8 @@
                 "en": "hotel"
             },
             {
-                "zh": "南边",
-                "en": "Not found"
+                "zh": "边",
+                "en": "side, edge"
             }
         ]
     },
@@ -7154,10 +7433,6 @@
                 "en": "Chinese language, Mandarin"
             },
             {
-                "zh": "难",
-                "en": "Not found"
-            },
-            {
                 "zh": "吗",
                 "en": "interrogative particle"
             }
@@ -7173,16 +7448,16 @@
         },
         "words": [
             {
-                "zh": "我要",
-                "en": "Not found"
+                "zh": "我",
+                "en": "I, me"
             },
             {
-                "zh": "喝咖啡",
-                "en": "Not found"
+                "zh": "要",
+                "en": "important, to want, to ask for"
             },
             {
-                "zh": "，",
-                "en": "Not found"
+                "zh": "喝",
+                "en": "to drink"
             },
             {
                 "zh": "你",
@@ -7235,8 +7510,8 @@
                 "en": "to have, to exist"
             },
             {
-                "zh": "小孩",
-                "en": "Not found"
+                "zh": "小",
+                "en": "small, young"
             },
             {
                 "zh": "吗",
@@ -7285,16 +7560,24 @@
         },
         "words": [
             {
-                "zh": "他来",
-                "en": "Not found"
+                "zh": "他",
+                "en": "he, him"
+            },
+            {
+                "zh": "来",
+                "en": "to come, to arrive"
             },
             {
                 "zh": "中国",
                 "en": "China"
             },
             {
-                "zh": "五年",
-                "en": "Not found"
+                "zh": "五",
+                "en": "5, five"
+            },
+            {
+                "zh": "年",
+                "en": "year"
             },
             {
                 "zh": "了",
@@ -7320,8 +7603,12 @@
                 "en": "to be"
             },
             {
-                "zh": "哪位",
-                "en": "Not found"
+                "zh": "哪",
+                "en": "which, what"
+            },
+            {
+                "zh": "位",
+                "en": "measure word for people (polite)"
             }
         ]
     },
@@ -7334,10 +7621,6 @@
             "en": "There is no milk in the fridge."
         },
         "words": [
-            {
-                "zh": "冰箱",
-                "en": "Not found"
-            },
             {
                 "zh": "里",
                 "en": "interior, inside"
@@ -7378,12 +7661,16 @@
                 "en": "to have, to exist"
             },
             {
-                "zh": "很多",
-                "en": "Not found"
+                "zh": "很",
+                "en": "quite, very"
             },
             {
-                "zh": "女老师",
-                "en": "Not found"
+                "zh": "多",
+                "en": "many, much"
+            },
+            {
+                "zh": "女",
+                "en": "woman, female"
             }
         ]
     },
@@ -7409,8 +7696,12 @@
                 "en": "daughter"
             },
             {
-                "zh": "几岁",
-                "en": "Not found"
+                "zh": "几",
+                "en": "how many (1 to 10)"
+            },
+            {
+                "zh": "岁",
+                "en": "year, years old"
             },
             {
                 "zh": "了",
@@ -7490,8 +7781,12 @@
                 "en": "that, that one"
             },
             {
-                "zh": "女人",
-                "en": "Not found"
+                "zh": "女",
+                "en": "woman, female"
+            },
+            {
+                "zh": "人",
+                "en": "person, people"
             },
             {
                 "zh": "是",
@@ -7517,12 +7812,12 @@
                 "en": "that, that one"
             },
             {
-                "zh": "女生",
-                "en": "Not found"
+                "zh": "女",
+                "en": "woman, female"
             },
             {
-                "zh": "很漂亮",
-                "en": "Not found"
+                "zh": "很",
+                "en": "quite, very"
             }
         ]
     },
@@ -7536,16 +7831,8 @@
         },
         "words": [
             {
-                "zh": "咖啡馆",
-                "en": "Not found"
-            },
-            {
                 "zh": "在",
                 "en": "at, in, to be at"
-            },
-            {
-                "zh": "健身房",
-                "en": "Not found"
             },
             {
                 "zh": "旁边",
@@ -7567,8 +7854,16 @@
                 "en": "he, him"
             },
             {
-                "zh": "跑得快",
-                "en": "Not found"
+                "zh": "跑",
+                "en": "to run"
+            },
+            {
+                "zh": "得",
+                "en": "particle indicating effect, degree, possibility"
+            },
+            {
+                "zh": "快",
+                "en": "quick, rapid, soon"
             }
         ]
     },
@@ -7617,8 +7912,12 @@
                 "en": "you (singular, informal)"
             },
             {
-                "zh": "买票",
-                "en": "Not found"
+                "zh": "买",
+                "en": "to buy"
+            },
+            {
+                "zh": "票",
+                "en": "ticket, ballot, banknote"
             },
             {
                 "zh": "了",
@@ -7640,16 +7939,24 @@
         },
         "words": [
             {
-                "zh": "我要",
-                "en": "Not found"
+                "zh": "我",
+                "en": "I, me"
+            },
+            {
+                "zh": "要",
+                "en": "important, to want, to ask for"
             },
             {
                 "zh": "休息",
                 "en": "to rest"
             },
             {
-                "zh": "七天",
-                "en": "Not found"
+                "zh": "七",
+                "en": "7, seven"
+            },
+            {
+                "zh": "天",
+                "en": "day, sky"
             }
         ]
     },
@@ -7675,8 +7982,8 @@
                 "en": "important, to want, to ask for"
             },
             {
-                "zh": "早起",
-                "en": "Not found"
+                "zh": "早",
+                "en": "early, morning"
             }
         ]
     },
@@ -7694,12 +8001,12 @@
                 "en": "you (singular, informal)"
             },
             {
-                "zh": "通常",
-                "en": "Not found"
+                "zh": "几",
+                "en": "how many (1 to 10)"
             },
             {
-                "zh": "几点",
-                "en": "Not found"
+                "zh": "点",
+                "en": "point, dot, o'clock"
             },
             {
                 "zh": "起床",
@@ -7729,8 +8036,16 @@
                 "en": "already"
             },
             {
-                "zh": "十一点",
-                "en": "Not found"
+                "zh": "十",
+                "en": "10, ten"
+            },
+            {
+                "zh": "一",
+                "en": "1, one"
+            },
+            {
+                "zh": "点",
+                "en": "point, dot, o'clock"
             },
             {
                 "zh": "了",
@@ -7748,20 +8063,28 @@
         },
         "words": [
             {
-                "zh": "马路上",
-                "en": "Not found"
+                "zh": "路",
+                "en": "road, path, route"
+            },
+            {
+                "zh": "上",
+                "en": "up"
             },
             {
                 "zh": "有",
                 "en": "to have, to exist"
             },
             {
-                "zh": "很多",
-                "en": "Not found"
+                "zh": "很",
+                "en": "quite, very"
             },
             {
-                "zh": "汽车",
-                "en": "Not found"
+                "zh": "多",
+                "en": "many, much"
+            },
+            {
+                "zh": "车",
+                "en": "vehicle, car"
             }
         ]
     },
@@ -7783,16 +8106,20 @@
                 "en": "possession particle"
             },
             {
-                "zh": "包裹",
-                "en": "Not found"
+                "zh": "包",
+                "en": "bag, to wrap"
             },
             {
                 "zh": "在",
                 "en": "at, in, to be at"
             },
             {
-                "zh": "门前",
-                "en": "Not found"
+                "zh": "门",
+                "en": "gate, door"
+            },
+            {
+                "zh": "前",
+                "en": "front, before"
             }
         ]
     },
@@ -7810,20 +8137,24 @@
                 "en": "hotel"
             },
             {
-                "zh": "前边",
-                "en": "Not found"
+                "zh": "前",
+                "en": "front, before"
+            },
+            {
+                "zh": "边",
+                "en": "side, edge"
             },
             {
                 "zh": "有",
                 "en": "to have, to exist"
             },
             {
-                "zh": "一个",
-                "en": "Not found"
+                "zh": "一",
+                "en": "1, one"
             },
             {
-                "zh": "公园",
-                "en": "Not found"
+                "zh": "个",
+                "en": "one, a, an"
             }
         ]
     },
@@ -7841,8 +8172,12 @@
                 "en": "I, me"
             },
             {
-                "zh": "前天",
-                "en": "Not found"
+                "zh": "前",
+                "en": "front, before"
+            },
+            {
+                "zh": "天",
+                "en": "day, sky"
             },
             {
                 "zh": "给",
@@ -7853,16 +8188,12 @@
                 "en": "he, him"
             },
             {
-                "zh": "发",
-                "en": "Not found"
-            },
-            {
                 "zh": "了",
                 "en": "grammatical particle"
             },
             {
-                "zh": "邮件",
-                "en": "Not found"
+                "zh": "件",
+                "en": "component, item, classifier"
             }
         ]
     },
@@ -7907,16 +8238,24 @@
                 "en": "possession particle"
             },
             {
-                "zh": "钱包",
-                "en": "Not found"
+                "zh": "钱",
+                "en": "money, coin"
+            },
+            {
+                "zh": "包",
+                "en": "bag, to wrap"
             },
             {
                 "zh": "在",
                 "en": "at, in, to be at"
             },
             {
-                "zh": "车里",
-                "en": "Not found"
+                "zh": "车",
+                "en": "vehicle, car"
+            },
+            {
+                "zh": "里",
+                "en": "interior, inside"
             }
         ]
     },
@@ -7934,8 +8273,8 @@
                 "en": "to invite, please"
             },
             {
-                "zh": "回答",
-                "en": "Not found"
+                "zh": "回",
+                "en": "to return, to be back"
             }
         ]
     },
@@ -7957,12 +8296,12 @@
                 "en": "tomorrow"
             },
             {
-                "zh": "需要",
-                "en": "Not found"
+                "zh": "要",
+                "en": "important, to want, to ask for"
             },
             {
-                "zh": "请假",
-                "en": "Not found"
+                "zh": "请",
+                "en": "to invite, please"
             }
         ]
     },
@@ -7999,8 +8338,12 @@
                 "en": "excuse me, may I ask"
             },
             {
-                "zh": "地铁站",
-                "en": "Not found"
+                "zh": "地",
+                "en": "adverbial particle (-ly)"
+            },
+            {
+                "zh": "站",
+                "en": "station, stop"
             },
             {
                 "zh": "在",
@@ -8041,8 +8384,12 @@
         },
         "words": [
             {
-                "zh": "这是",
-                "en": "Not found"
+                "zh": "这",
+                "en": "this, these"
+            },
+            {
+                "zh": "是",
+                "en": "to be"
             },
             {
                 "zh": "什么",
@@ -8099,10 +8446,6 @@
                 "en": "last year"
             },
             {
-                "zh": "结婚",
-                "en": "Not found"
-            },
-            {
                 "zh": "了",
                 "en": "grammatical particle"
             }
@@ -8118,8 +8461,12 @@
         },
         "words": [
             {
-                "zh": "太热",
-                "en": "Not found"
+                "zh": "太",
+                "en": "too much, very"
+            },
+            {
+                "zh": "热",
+                "en": "hot, warm"
             },
             {
                 "zh": "了",
@@ -8149,8 +8496,12 @@
                 "en": "to have, to exist"
             },
             {
-                "zh": "很多",
-                "en": "Not found"
+                "zh": "很",
+                "en": "quite, very"
+            },
+            {
+                "zh": "多",
+                "en": "many, much"
             },
             {
                 "zh": "人",
@@ -8203,8 +8554,8 @@
                 "en": "to be"
             },
             {
-                "zh": "认真",
-                "en": "Not found"
+                "zh": "真",
+                "en": "really, true"
             },
             {
                 "zh": "的",
@@ -8230,12 +8581,20 @@
                 "en": "to be"
             },
             {
-                "zh": "十月",
-                "en": "Not found"
+                "zh": "十",
+                "en": "10, ten"
             },
             {
-                "zh": "一日",
-                "en": "Not found"
+                "zh": "月",
+                "en": "month, moon"
+            },
+            {
+                "zh": "一",
+                "en": "1, one"
+            },
+            {
+                "zh": "日",
+                "en": "sun, day"
             }
         ]
     },
@@ -8249,20 +8608,12 @@
         },
         "words": [
             {
-                "zh": "婚礼",
-                "en": "Not found"
-            },
-            {
                 "zh": "的",
                 "en": "possession particle"
             },
             {
-                "zh": "日期",
-                "en": "Not found"
-            },
-            {
-                "zh": "定",
-                "en": "Not found"
+                "zh": "日",
+                "en": "sun, day"
             },
             {
                 "zh": "了",
@@ -8323,8 +8674,8 @@
                 "en": "to have, to exist"
             },
             {
-                "zh": "三台",
-                "en": "Not found"
+                "zh": "三",
+                "en": "3, three"
             },
             {
                 "zh": "手机",
@@ -8342,20 +8693,12 @@
         },
         "words": [
             {
-                "zh": "这座",
-                "en": "Not found"
-            },
-            {
-                "zh": "山",
-                "en": "Not found"
+                "zh": "这",
+                "en": "this, these"
             },
             {
                 "zh": "很",
                 "en": "quite, very"
-            },
-            {
-                "zh": "美",
-                "en": "Not found"
             }
         ]
     },
@@ -8369,12 +8712,16 @@
         },
         "words": [
             {
-                "zh": "你家",
-                "en": "Not found"
+                "zh": "你",
+                "en": "you (singular, informal)"
             },
             {
-                "zh": "附近",
-                "en": "Not found"
+                "zh": "家",
+                "en": "home, family"
+            },
+            {
+                "zh": "近",
+                "en": "near, close"
             },
             {
                 "zh": "有",
@@ -8404,12 +8751,20 @@
                 "en": "you (singular, informal)"
             },
             {
-                "zh": "想开",
-                "en": "Not found"
+                "zh": "想",
+                "en": "to think, to want"
             },
             {
-                "zh": "一家",
-                "en": "Not found"
+                "zh": "开",
+                "en": "to open, to start, to drive"
+            },
+            {
+                "zh": "一",
+                "en": "1, one"
+            },
+            {
+                "zh": "家",
+                "en": "home, family"
             },
             {
                 "zh": "商店",
@@ -8431,8 +8786,8 @@
         },
         "words": [
             {
-                "zh": "桌上",
-                "en": "Not found"
+                "zh": "上",
+                "en": "up"
             },
             {
                 "zh": "有",
@@ -8462,12 +8817,12 @@
                 "en": "you (singular, informal)"
             },
             {
-                "zh": "通常",
-                "en": "Not found"
+                "zh": "几",
+                "en": "how many (1 to 10)"
             },
             {
-                "zh": "几点",
-                "en": "Not found"
+                "zh": "点",
+                "en": "point, dot, o'clock"
             },
             {
                 "zh": "上班",
@@ -8501,12 +8856,12 @@
                 "en": "at, in, to be at"
             },
             {
-                "zh": "冰箱",
-                "en": "Not found"
+                "zh": "上",
+                "en": "up"
             },
             {
-                "zh": "上边",
-                "en": "Not found"
+                "zh": "边",
+                "en": "side, edge"
             }
         ]
     },
@@ -8524,8 +8879,12 @@
                 "en": "you (singular, informal)"
             },
             {
-                "zh": "上车",
-                "en": "Not found"
+                "zh": "上",
+                "en": "up"
+            },
+            {
+                "zh": "车",
+                "en": "vehicle, car"
             },
             {
                 "zh": "了",
@@ -8551,8 +8910,12 @@
                 "en": "you (singular, informal)"
             },
             {
-                "zh": "上次",
-                "en": "Not found"
+                "zh": "上",
+                "en": "up"
+            },
+            {
+                "zh": "次",
+                "en": "time, occurrence"
             },
             {
                 "zh": "吃",
@@ -8625,8 +8988,12 @@
                 "en": "you (singular, informal)"
             },
             {
-                "zh": "每天",
-                "en": "Not found"
+                "zh": "每",
+                "en": "each, every"
+            },
+            {
+                "zh": "天",
+                "en": "day, sky"
             },
             {
                 "zh": "上网",
@@ -8660,8 +9027,8 @@
                 "en": "morning (before noon)"
             },
             {
-                "zh": "有空",
-                "en": "Not found"
+                "zh": "有",
+                "en": "to have, to exist"
             },
             {
                 "zh": "吗",
@@ -8706,12 +9073,16 @@
         },
         "words": [
             {
-                "zh": "请少放",
-                "en": "Not found"
+                "zh": "请",
+                "en": "to invite, please"
             },
             {
-                "zh": "大蒜",
-                "en": "Not found"
+                "zh": "少",
+                "en": "few, less"
+            },
+            {
+                "zh": "大",
+                "en": "large, big"
             }
         ]
     },
@@ -8733,8 +9104,8 @@
                 "en": "at, in, to be at"
             },
             {
-                "zh": "敲门",
-                "en": "Not found"
+                "zh": "门",
+                "en": "gate, door"
             }
         ]
     },
@@ -8752,20 +9123,20 @@
                 "en": "he, him"
             },
             {
-                "zh": "身上",
-                "en": "Not found"
+                "zh": "上",
+                "en": "up"
             },
             {
                 "zh": "有",
                 "en": "to have, to exist"
             },
             {
-                "zh": "一只",
-                "en": "Not found"
+                "zh": "一",
+                "en": "1, one"
             },
             {
-                "zh": "蜘蛛",
-                "en": "Not found"
+                "zh": "只",
+                "en": "measure word for animals"
             }
         ]
     },
@@ -8856,8 +9227,8 @@
         },
         "words": [
             {
-                "zh": "别生气",
-                "en": "Not found"
+                "zh": "别",
+                "en": "don't, other"
             }
         ]
     },
@@ -8871,8 +9242,12 @@
         },
         "words": [
             {
-                "zh": "生日快乐",
-                "en": "Not found"
+                "zh": "日",
+                "en": "sun, day"
+            },
+            {
+                "zh": "快",
+                "en": "quick, rapid, soon"
             }
         ]
     },
@@ -8898,8 +9273,12 @@
                 "en": "to rest"
             },
             {
-                "zh": "十天",
-                "en": "Not found"
+                "zh": "十",
+                "en": "10, ten"
+            },
+            {
+                "zh": "天",
+                "en": "day, sky"
             },
             {
                 "zh": "吗",
@@ -8979,8 +9358,12 @@
         },
         "words": [
             {
-                "zh": "这件",
-                "en": "Not found"
+                "zh": "这",
+                "en": "this, these"
+            },
+            {
+                "zh": "件",
+                "en": "component, item, classifier"
             },
             {
                 "zh": "事",
@@ -8989,10 +9372,6 @@
             {
                 "zh": "很",
                 "en": "quite, very"
-            },
-            {
-                "zh": "复杂",
-                "en": "Not found"
             }
         ]
     },
@@ -9014,12 +9393,12 @@
                 "en": "can, may, able to"
             },
             {
-                "zh": "试一下",
-                "en": "Not found"
+                "zh": "一",
+                "en": "1, one"
             },
             {
-                "zh": "鞋子",
-                "en": "Not found"
+                "zh": "下",
+                "en": "down"
             },
             {
                 "zh": "吗",
@@ -9068,12 +9447,16 @@
                 "en": "he, him"
             },
             {
-                "zh": "是不是",
-                "en": "Not found"
+                "zh": "是",
+                "en": "to be"
             },
             {
-                "zh": "老板",
-                "en": "Not found"
+                "zh": "不",
+                "en": "no, negation particle"
+            },
+            {
+                "zh": "是",
+                "en": "to be"
             }
         ]
     },
@@ -9087,12 +9470,20 @@
         },
         "words": [
             {
-                "zh": "我要",
-                "en": "Not found"
+                "zh": "我",
+                "en": "I, me"
             },
             {
-                "zh": "洗手",
-                "en": "Not found"
+                "zh": "要",
+                "en": "important, to want, to ask for"
+            },
+            {
+                "zh": "洗",
+                "en": "to wash"
+            },
+            {
+                "zh": "手",
+                "en": "hand"
             }
         ]
     },
@@ -9118,8 +9509,8 @@
                 "en": "cellphone, mobile"
             },
             {
-                "zh": "没电",
-                "en": "Not found"
+                "zh": "没",
+                "en": "not, have not"
             },
             {
                 "zh": "了",
@@ -9203,20 +9594,28 @@
         },
         "words": [
             {
-                "zh": "这家",
-                "en": "Not found"
+                "zh": "这",
+                "en": "this, these"
+            },
+            {
+                "zh": "家",
+                "en": "home, family"
             },
             {
                 "zh": "书店",
                 "en": "bookstore"
             },
             {
-                "zh": "营业",
-                "en": "Not found"
+                "zh": "二",
+                "en": "2, two"
             },
             {
-                "zh": "二十四",
-                "en": "Not found"
+                "zh": "十",
+                "en": "10, ten"
+            },
+            {
+                "zh": "四",
+                "en": "4, four"
             },
             {
                 "zh": "小时",
@@ -9234,16 +9633,16 @@
         },
         "words": [
             {
-                "zh": "这是",
-                "en": "Not found"
+                "zh": "这",
+                "en": "this, these"
+            },
+            {
+                "zh": "是",
+                "en": "to be"
             },
             {
                 "zh": "什么",
                 "en": "what"
-            },
-            {
-                "zh": "树",
-                "en": "Not found"
             }
         ]
     },
@@ -9261,16 +9660,20 @@
                 "en": "you (singular, informal)"
             },
             {
-                "zh": "每天",
-                "en": "Not found"
+                "zh": "每",
+                "en": "each, every"
+            },
+            {
+                "zh": "天",
+                "en": "day, sky"
             },
             {
                 "zh": "喝",
                 "en": "to drink"
             },
             {
-                "zh": "几杯",
-                "en": "Not found"
+                "zh": "几",
+                "en": "how many (1 to 10)"
             },
             {
                 "zh": "水",
@@ -9327,8 +9730,12 @@
                 "en": "you (singular, informal)"
             },
             {
-                "zh": "每天",
-                "en": "Not found"
+                "zh": "每",
+                "en": "each, every"
+            },
+            {
+                "zh": "天",
+                "en": "day, sky"
             },
             {
                 "zh": "睡",
@@ -9362,8 +9769,12 @@
                 "en": "you (singular, informal)"
             },
             {
-                "zh": "几点",
-                "en": "Not found"
+                "zh": "几",
+                "en": "how many (1 to 10)"
+            },
+            {
+                "zh": "点",
+                "en": "point, dot, o'clock"
             },
             {
                 "zh": "睡觉",
@@ -9443,12 +9854,8 @@
                 "en": "grammatical particle"
             },
             {
-                "zh": "四瓶",
-                "en": "Not found"
-            },
-            {
-                "zh": "可乐",
-                "en": "Not found"
+                "zh": "四",
+                "en": "4, four"
             }
         ]
     },
@@ -9470,8 +9877,12 @@
                 "en": "can, may, able to"
             },
             {
-                "zh": "送给",
-                "en": "Not found"
+                "zh": "送",
+                "en": "to deliver, to give, to send"
+            },
+            {
+                "zh": "给",
+                "en": "to, for, to give"
             },
             {
                 "zh": "我",
@@ -9501,8 +9912,16 @@
                 "en": "older brother"
             },
             {
-                "zh": "三十岁",
-                "en": "Not found"
+                "zh": "三",
+                "en": "3, three"
+            },
+            {
+                "zh": "十",
+                "en": "10, ten"
+            },
+            {
+                "zh": "岁",
+                "en": "year, years old"
             },
             {
                 "zh": "了",
@@ -9522,10 +9941,6 @@
             {
                 "zh": "你",
                 "en": "you (singular, informal)"
-            },
-            {
-                "zh": "讨厌",
-                "en": "Not found"
             },
             {
                 "zh": "他",
@@ -9603,10 +10018,6 @@
             {
                 "zh": "是",
                 "en": "to be"
-            },
-            {
-                "zh": "双胞胎",
-                "en": "Not found"
             }
         ]
     },
@@ -9620,8 +10031,12 @@
         },
         "words": [
             {
-                "zh": "太小",
-                "en": "Not found"
+                "zh": "太",
+                "en": "too much, very"
+            },
+            {
+                "zh": "小",
+                "en": "small, young"
             },
             {
                 "zh": "了",
@@ -9639,16 +10054,24 @@
         },
         "words": [
             {
-                "zh": "我要",
-                "en": "Not found"
+                "zh": "我",
+                "en": "I, me"
             },
             {
-                "zh": "出差",
-                "en": "Not found"
+                "zh": "要",
+                "en": "important, to want, to ask for"
             },
             {
-                "zh": "十天",
-                "en": "Not found"
+                "zh": "出",
+                "en": "to go out, to happen"
+            },
+            {
+                "zh": "十",
+                "en": "10, ten"
+            },
+            {
+                "zh": "天",
+                "en": "day, sky"
             }
         ]
     },
@@ -9662,8 +10085,12 @@
         },
         "words": [
             {
-                "zh": "今天天气",
-                "en": "Not found"
+                "zh": "天",
+                "en": "day, sky"
+            },
+            {
+                "zh": "天",
+                "en": "day, sky"
             },
             {
                 "zh": "真",
@@ -9724,8 +10151,12 @@
                 "en": "you (singular, informal)"
             },
             {
-                "zh": "听到",
-                "en": "Not found"
+                "zh": "听",
+                "en": "to listen, to hear"
+            },
+            {
+                "zh": "到",
+                "en": "to arrive, to reach, to, until"
             },
             {
                 "zh": "了",
@@ -9755,10 +10186,6 @@
                 "en": "to hear"
             },
             {
-                "zh": "雷声",
-                "en": "Not found"
-            },
-            {
                 "zh": "了",
                 "en": "grammatical particle"
             },
@@ -9786,12 +10213,16 @@
                 "en": "important, to want, to ask for"
             },
             {
-                "zh": "听写",
-                "en": "Not found"
+                "zh": "听",
+                "en": "to listen, to hear"
             },
             {
-                "zh": "生词",
-                "en": "Not found"
+                "zh": "写",
+                "en": "to write"
+            },
+            {
+                "zh": "词",
+                "en": "word"
             }
         ]
     },
@@ -9840,8 +10271,8 @@
         },
         "words": [
             {
-                "zh": "图书馆",
-                "en": "Not found"
+                "zh": "书",
+                "en": "book"
             },
             {
                 "zh": "在",
@@ -9871,16 +10302,16 @@
                 "en": "possession particle"
             },
             {
-                "zh": "披萨",
-                "en": "Not found"
-            },
-            {
                 "zh": "在",
                 "en": "at, in, to be at"
             },
             {
-                "zh": "门外",
-                "en": "Not found"
+                "zh": "门",
+                "en": "gate, door"
+            },
+            {
+                "zh": "外",
+                "en": "foreign, external, outside"
             }
         ]
     },
@@ -9898,12 +10329,12 @@
                 "en": "outside"
             },
             {
-                "zh": "风",
-                "en": "Not found"
+                "zh": "很",
+                "en": "quite, very"
             },
             {
-                "zh": "很大",
-                "en": "Not found"
+                "zh": "大",
+                "en": "large, big"
             }
         ]
     },
@@ -9956,16 +10387,20 @@
                 "en": "you (singular, informal)"
             },
             {
-                "zh": "想学",
-                "en": "Not found"
+                "zh": "想",
+                "en": "to think, to want"
+            },
+            {
+                "zh": "学",
+                "en": "to learn, to study"
             },
             {
                 "zh": "什么",
                 "en": "what"
             },
             {
-                "zh": "外语",
-                "en": "Not found"
+                "zh": "外",
+                "en": "foreign, external, outside"
             }
         ]
     },
@@ -9987,8 +10422,8 @@
                 "en": "together, with"
             },
             {
-                "zh": "玩儿",
-                "en": "Not found"
+                "zh": "玩",
+                "en": "to play, to have fun"
             },
             {
                 "zh": "吧",
@@ -10006,8 +10441,12 @@
         },
         "words": [
             {
-                "zh": "太晚",
-                "en": "Not found"
+                "zh": "太",
+                "en": "too much, very"
+            },
+            {
+                "zh": "晚",
+                "en": "late, evening"
             },
             {
                 "zh": "了",
@@ -10029,8 +10468,12 @@
                 "en": "dinner"
             },
             {
-                "zh": "做好",
-                "en": "Not found"
+                "zh": "做",
+                "en": "to do, to make"
+            },
+            {
+                "zh": "好",
+                "en": "good, nice"
             },
             {
                 "zh": "了",
@@ -10110,12 +10553,12 @@
                 "en": "to have, to exist"
             },
             {
-                "zh": "很多",
-                "en": "Not found"
+                "zh": "很",
+                "en": "quite, very"
             },
             {
-                "zh": "网友",
-                "en": "Not found"
+                "zh": "多",
+                "en": "many, much"
             }
         ]
     },
@@ -10129,8 +10572,16 @@
         },
         "words": [
             {
-                "zh": "别忘了",
-                "en": "Not found"
+                "zh": "别",
+                "en": "don't, other"
+            },
+            {
+                "zh": "忘",
+                "en": "to forget"
+            },
+            {
+                "zh": "了",
+                "en": "grammatical particle"
             },
             {
                 "zh": "买",
@@ -10156,12 +10607,16 @@
                 "en": "I, me"
             },
             {
-                "zh": "不会",
-                "en": "Not found"
+                "zh": "不",
+                "en": "no, negation particle"
             },
             {
-                "zh": "忘记",
-                "en": "Not found"
+                "zh": "会",
+                "en": "can, to be able to"
+            },
+            {
+                "zh": "忘",
+                "en": "to forget"
             },
             {
                 "zh": "的",
@@ -10210,8 +10665,16 @@
                 "en": "you (singular, informal)"
             },
             {
-                "zh": "爱我吗",
-                "en": "Not found"
+                "zh": "爱",
+                "en": "to love, love"
+            },
+            {
+                "zh": "我",
+                "en": "I, me"
+            },
+            {
+                "zh": "吗",
+                "en": "interrogative particle"
             }
         ]
     },
@@ -10252,16 +10715,24 @@
         },
         "words": [
             {
-                "zh": "他学",
-                "en": "Not found"
+                "zh": "他",
+                "en": "he, him"
+            },
+            {
+                "zh": "学",
+                "en": "to learn, to study"
             },
             {
                 "zh": "中文",
                 "en": "Chinese (language)"
             },
             {
-                "zh": "五年",
-                "en": "Not found"
+                "zh": "五",
+                "en": "5, five"
+            },
+            {
+                "zh": "年",
+                "en": "year"
             },
             {
                 "zh": "了",
@@ -10316,18 +10787,6 @@
             {
                 "zh": "的",
                 "en": "possession particle"
-            },
-            {
-                "zh": "房子",
-                "en": "Not found"
-            },
-            {
-                "zh": "朝",
-                "en": "Not found"
-            },
-            {
-                "zh": "西",
-                "en": "Not found"
             }
         ]
     },
@@ -10353,8 +10812,8 @@
                 "en": "school"
             },
             {
-                "zh": "西边",
-                "en": "Not found"
+                "zh": "边",
+                "en": "side, edge"
             }
         ]
     },
@@ -10384,8 +10843,12 @@
                 "en": "I, me"
             },
             {
-                "zh": "洗车",
-                "en": "Not found"
+                "zh": "洗",
+                "en": "to wash"
+            },
+            {
+                "zh": "车",
+                "en": "vehicle, car"
             },
             {
                 "zh": "吗",
@@ -10411,8 +10874,12 @@
                 "en": "at, in, to be at"
             },
             {
-                "zh": "二楼",
-                "en": "Not found"
+                "zh": "二",
+                "en": "2, two"
+            },
+            {
+                "zh": "楼",
+                "en": "building, floor"
             }
         ]
     },
@@ -10488,8 +10955,12 @@
                 "en": "you (singular, informal)"
             },
             {
-                "zh": "几点",
-                "en": "Not found"
+                "zh": "几",
+                "en": "how many (1 to 10)"
+            },
+            {
+                "zh": "点",
+                "en": "point, dot, o'clock"
             },
             {
                 "zh": "下班",
@@ -10527,8 +10998,12 @@
                 "en": "table, desk"
             },
             {
-                "zh": "下边",
-                "en": "Not found"
+                "zh": "下",
+                "en": "down"
+            },
+            {
+                "zh": "边",
+                "en": "side, edge"
             }
         ]
     },
@@ -10554,16 +11029,28 @@
                 "en": "down"
             },
             {
-                "zh": "一个",
-                "en": "Not found"
+                "zh": "一",
+                "en": "1, one"
             },
             {
-                "zh": "路口",
-                "en": "Not found"
+                "zh": "个",
+                "en": "one, a, an"
             },
             {
-                "zh": "下车",
-                "en": "Not found"
+                "zh": "路",
+                "en": "road, path, route"
+            },
+            {
+                "zh": "口",
+                "en": "mouth, measure word"
+            },
+            {
+                "zh": "下",
+                "en": "down"
+            },
+            {
+                "zh": "车",
+                "en": "vehicle, car"
             }
         ]
     },
@@ -10577,8 +11064,12 @@
         },
         "words": [
             {
-                "zh": "下次",
-                "en": "Not found"
+                "zh": "下",
+                "en": "down"
+            },
+            {
+                "zh": "次",
+                "en": "time, occurrence"
             },
             {
                 "zh": "见",
@@ -10604,8 +11095,12 @@
                 "en": "today"
             },
             {
-                "zh": "几点",
-                "en": "Not found"
+                "zh": "几",
+                "en": "how many (1 to 10)"
+            },
+            {
+                "zh": "点",
+                "en": "point, dot, o'clock"
             },
             {
                 "zh": "下课",
@@ -10631,8 +11126,8 @@
                 "en": "afternoon"
             },
             {
-                "zh": "有空",
-                "en": "Not found"
+                "zh": "有",
+                "en": "to have, to exist"
             },
             {
                 "zh": "吗",
@@ -10677,24 +11172,16 @@
                 "en": "we, us"
             },
             {
-                "zh": "先",
-                "en": "Not found"
-            },
-            {
-                "zh": "做作业",
-                "en": "Not found"
-            },
-            {
-                "zh": "，",
-                "en": "Not found"
+                "zh": "做",
+                "en": "to do, to make"
             },
             {
                 "zh": "再",
                 "en": "again, once more, then"
             },
             {
-                "zh": "看电视",
-                "en": "Not found"
+                "zh": "看",
+                "en": "to look, to see, to watch"
             }
         ]
     },
@@ -10743,8 +11230,12 @@
                 "en": "now"
             },
             {
-                "zh": "几点",
-                "en": "Not found"
+                "zh": "几",
+                "en": "how many (1 to 10)"
+            },
+            {
+                "zh": "点",
+                "en": "point, dot, o'clock"
             }
         ]
     },
@@ -10762,8 +11253,8 @@
                 "en": "I, me"
             },
             {
-                "zh": "需要",
-                "en": "Not found"
+                "zh": "要",
+                "en": "important, to want, to ask for"
             },
             {
                 "zh": "想",
@@ -10797,8 +11288,12 @@
                 "en": "home, family"
             },
             {
-                "zh": "很小",
-                "en": "Not found"
+                "zh": "很",
+                "en": "quite, very"
+            },
+            {
+                "zh": "小",
+                "en": "small, young"
             }
         ]
     },
@@ -10839,12 +11334,16 @@
         },
         "words": [
             {
-                "zh": "这是",
-                "en": "Not found"
+                "zh": "这",
+                "en": "this, these"
             },
             {
-                "zh": "赵小姐",
-                "en": "Not found"
+                "zh": "是",
+                "en": "to be"
+            },
+            {
+                "zh": "小",
+                "en": "small, young"
             }
         ]
     },
@@ -10870,8 +11369,8 @@
                 "en": "quite, very"
             },
             {
-                "zh": "可爱",
-                "en": "Not found"
+                "zh": "爱",
+                "en": "to love, love"
             }
         ]
     },
@@ -10889,16 +11388,24 @@
                 "en": "you (singular, informal)"
             },
             {
-                "zh": "每天",
-                "en": "Not found"
+                "zh": "每",
+                "en": "each, every"
+            },
+            {
+                "zh": "天",
+                "en": "day, sky"
             },
             {
                 "zh": "工作",
                 "en": "to work, job"
             },
             {
-                "zh": "几个",
-                "en": "Not found"
+                "zh": "几",
+                "en": "how many (1 to 10)"
+            },
+            {
+                "zh": "个",
+                "en": "one, a, an"
             },
             {
                 "zh": "小时",
@@ -10924,8 +11431,12 @@
                 "en": "to be"
             },
             {
-                "zh": "小学老师",
-                "en": "Not found"
+                "zh": "小",
+                "en": "small, young"
+            },
+            {
+                "zh": "学",
+                "en": "to learn, to study"
             }
         ]
     },
@@ -11055,8 +11566,12 @@
                 "en": "possession particle"
             },
             {
-                "zh": "新手机",
-                "en": "Not found"
+                "zh": "新",
+                "en": "new"
+            },
+            {
+                "zh": "手",
+                "en": "hand"
             },
             {
                 "zh": "吗",
@@ -11074,8 +11589,16 @@
         },
         "words": [
             {
-                "zh": "新年快乐",
-                "en": "Not found"
+                "zh": "新",
+                "en": "new"
+            },
+            {
+                "zh": "年",
+                "en": "year"
+            },
+            {
+                "zh": "快",
+                "en": "quick, rapid, soon"
             }
         ]
     },
@@ -11093,16 +11616,20 @@
                 "en": "I, me"
             },
             {
-                "zh": "下个星期",
-                "en": "Not found"
+                "zh": "下",
+                "en": "down"
+            },
+            {
+                "zh": "个",
+                "en": "one, a, an"
             },
             {
                 "zh": "要",
                 "en": "important, to want, to ask for"
             },
             {
-                "zh": "搬家",
-                "en": "Not found"
+                "zh": "家",
+                "en": "home, family"
             }
         ]
     },
@@ -11163,8 +11690,8 @@
                 "en": "Sunday"
             },
             {
-                "zh": "有空",
-                "en": "Not found"
+                "zh": "有",
+                "en": "to have, to exist"
             },
             {
                 "zh": "吗",
@@ -11181,10 +11708,6 @@
             "en": "Is it OK?"
         },
         "words": [
-            {
-                "zh": "行",
-                "en": "Not found"
-            },
             {
                 "zh": "吗",
                 "en": "interrogative particle"
@@ -11228,16 +11751,20 @@
         },
         "words": [
             {
-                "zh": "你学",
-                "en": "Not found"
+                "zh": "你",
+                "en": "you (singular, informal)"
+            },
+            {
+                "zh": "学",
+                "en": "to learn, to study"
             },
             {
                 "zh": "中文",
                 "en": "Chinese (language)"
             },
             {
-                "zh": "多久",
-                "en": "Not found"
+                "zh": "多",
+                "en": "many, much"
             },
             {
                 "zh": "了",
@@ -11263,8 +11790,12 @@
                 "en": "to be"
             },
             {
-                "zh": "一个",
-                "en": "Not found"
+                "zh": "一",
+                "en": "1, one"
+            },
+            {
+                "zh": "个",
+                "en": "one, a, an"
             },
             {
                 "zh": "好",
@@ -11340,8 +11871,8 @@
                 "en": "this, this one"
             },
             {
-                "zh": "学院",
-                "en": "Not found"
+                "zh": "学",
+                "en": "to learn, to study"
             },
             {
                 "zh": "大",
@@ -11375,10 +11906,6 @@
                 "en": "to eat"
             },
             {
-                "zh": "巧克力",
-                "en": "Not found"
-            },
-            {
                 "zh": "吗",
                 "en": "interrogative particle"
             }
@@ -11400,10 +11927,6 @@
             {
                 "zh": "爷爷",
                 "en": "grandpa (paternal)"
-            },
-            {
-                "zh": "退休",
-                "en": "Not found"
             },
             {
                 "zh": "了",
@@ -11448,8 +11971,12 @@
         },
         "words": [
             {
-                "zh": "第几页",
-                "en": "Not found"
+                "zh": "第",
+                "en": "ordinal prefix (-st, -nd, -th)"
+            },
+            {
+                "zh": "几",
+                "en": "how many (1 to 10)"
             }
         ]
     },
@@ -11463,16 +11990,20 @@
         },
         "words": [
             {
-                "zh": "利息率",
-                "en": "Not found"
-            },
-            {
                 "zh": "是",
                 "en": "to be"
             },
             {
-                "zh": "百分之一",
-                "en": "Not found"
+                "zh": "百",
+                "en": "hundred, 100"
+            },
+            {
+                "zh": "分",
+                "en": "minute, cent, to divide"
+            },
+            {
+                "zh": "一",
+                "en": "1, one"
             }
         ]
     },
@@ -11486,8 +12017,12 @@
         },
         "words": [
             {
-                "zh": "这件",
-                "en": "Not found"
+                "zh": "这",
+                "en": "this, these"
+            },
+            {
+                "zh": "件",
+                "en": "component, item, classifier"
             },
             {
                 "zh": "衣服",
@@ -11496,10 +12031,6 @@
             {
                 "zh": "的",
                 "en": "possession particle"
-            },
-            {
-                "zh": "质量",
-                "en": "Not found"
             },
             {
                 "zh": "很",
@@ -11544,8 +12075,8 @@
         },
         "words": [
             {
-                "zh": "附近",
-                "en": "Not found"
+                "zh": "近",
+                "en": "near, close"
             },
             {
                 "zh": "有",
@@ -11629,12 +12160,20 @@
                 "en": "we, us"
             },
             {
-                "zh": "一块儿",
-                "en": "Not found"
+                "zh": "一",
+                "en": "1, one"
             },
             {
-                "zh": "玩吧",
-                "en": "Not found"
+                "zh": "块",
+                "en": "piece of, lump of"
+            },
+            {
+                "zh": "玩",
+                "en": "to play, to have fun"
+            },
+            {
+                "zh": "吧",
+                "en": "particle indicating suggestion"
             }
         ]
     },
@@ -11656,20 +12195,8 @@
                 "en": "can, may, able to"
             },
             {
-                "zh": "照顾",
-                "en": "Not found"
-            },
-            {
                 "zh": "一下",
                 "en": "a bit, briefly (after verb)"
-            },
-            {
-                "zh": "儿",
-                "en": "Not found"
-            },
-            {
-                "zh": "宝宝",
-                "en": "Not found"
             },
             {
                 "zh": "吗",
@@ -11691,8 +12218,8 @@
                 "en": "they (male+female / male, pl.)"
             },
             {
-                "zh": "一样",
-                "en": "Not found"
+                "zh": "一",
+                "en": "1, one"
             },
             {
                 "zh": "高",
@@ -11718,28 +12245,28 @@
                 "en": "possession particle"
             },
             {
-                "zh": "头发",
-                "en": "Not found"
+                "zh": "头",
+                "en": "head"
             },
             {
-                "zh": "一边",
-                "en": "Not found"
+                "zh": "一",
+                "en": "1, one"
+            },
+            {
+                "zh": "边",
+                "en": "side, edge"
             },
             {
                 "zh": "长",
                 "en": "length, long"
             },
             {
-                "zh": "，",
-                "en": "Not found"
+                "zh": "一",
+                "en": "1, one"
             },
             {
-                "zh": "一边",
-                "en": "Not found"
-            },
-            {
-                "zh": "短",
-                "en": "Not found"
+                "zh": "边",
+                "en": "side, edge"
             }
         ]
     },
@@ -11753,8 +12280,12 @@
         },
         "words": [
             {
-                "zh": "我会",
-                "en": "Not found"
+                "zh": "我",
+                "en": "I, me"
+            },
+            {
+                "zh": "会",
+                "en": "can, to be able to"
             },
             {
                 "zh": "说",
@@ -11790,10 +12321,6 @@
             {
                 "zh": "去",
                 "en": "to go"
-            },
-            {
-                "zh": "旅行",
-                "en": "Not found"
             },
             {
                 "zh": "吧",
@@ -11842,12 +12369,12 @@
         },
         "words": [
             {
-                "zh": "你会用",
-                "en": "Not found"
+                "zh": "你",
+                "en": "you (singular, informal)"
             },
             {
-                "zh": "筷子",
-                "en": "Not found"
+                "zh": "会",
+                "en": "can, to be able to"
             },
             {
                 "zh": "吗",
@@ -11873,8 +12400,12 @@
                 "en": "to have, to exist"
             },
             {
-                "zh": "一个",
-                "en": "Not found"
+                "zh": "一",
+                "en": "1, one"
+            },
+            {
+                "zh": "个",
+                "en": "one, a, an"
             },
             {
                 "zh": "哥哥",
@@ -11912,10 +12443,6 @@
                 "en": "cooked rice"
             },
             {
-                "zh": "，",
-                "en": "Not found"
-            },
-            {
                 "zh": "有",
                 "en": "to have, to exist"
             },
@@ -11932,8 +12459,12 @@
                 "en": "to like"
             },
             {
-                "zh": "面条",
-                "en": "Not found"
+                "zh": "面",
+                "en": "side, surface"
+            },
+            {
+                "zh": "条",
+                "en": "measure word for long things"
             }
         ]
     },
@@ -11955,8 +12486,12 @@
                 "en": "quite, very"
             },
             {
-                "zh": "有名",
-                "en": "Not found"
+                "zh": "有",
+                "en": "to have, to exist"
+            },
+            {
+                "zh": "名",
+                "en": "name, measure word for people"
             }
         ]
     },
@@ -11978,8 +12513,12 @@
                 "en": "sometimes, at times"
             },
             {
-                "zh": "在家",
-                "en": "Not found"
+                "zh": "在",
+                "en": "at, in, to be at"
+            },
+            {
+                "zh": "家",
+                "en": "home, family"
             },
             {
                 "zh": "做饭",
@@ -12001,16 +12540,8 @@
                 "en": "to have, to exist"
             },
             {
-                "zh": "(",
-                "en": "Not found"
-            },
-            {
                 "zh": "一",
                 "en": "1, one"
-            },
-            {
-                "zh": ")",
-                "en": "Not found"
             },
             {
                 "zh": "些",
@@ -12029,8 +12560,8 @@
                 "en": "up"
             },
             {
-                "zh": "夜班",
-                "en": "Not found"
+                "zh": "班",
+                "en": "class, work shift"
             }
         ]
     },
@@ -12056,12 +12587,12 @@
                 "en": "this, this one"
             },
             {
-                "zh": "视频",
-                "en": "Not found"
+                "zh": "有",
+                "en": "to have, to exist"
             },
             {
-                "zh": "有用吗",
-                "en": "Not found"
+                "zh": "吗",
+                "en": "interrogative particle"
             }
         ]
     },
@@ -12083,12 +12614,12 @@
                 "en": "possession particle"
             },
             {
-                "zh": "右手",
-                "en": "Not found"
+                "zh": "右",
+                "en": "right"
             },
             {
-                "zh": "受伤",
-                "en": "Not found"
+                "zh": "手",
+                "en": "hand"
             },
             {
                 "zh": "了",
@@ -12149,8 +12680,8 @@
                 "en": "at, in, to be at"
             },
             {
-                "zh": "雨中散步",
-                "en": "Not found"
+                "zh": "雨",
+                "en": "rain"
             }
         ]
     },
@@ -12176,8 +12707,16 @@
                 "en": "trousers, pants"
             },
             {
-                "zh": "五百元",
-                "en": "Not found"
+                "zh": "五",
+                "en": "5, five"
+            },
+            {
+                "zh": "百",
+                "en": "hundred, 100"
+            },
+            {
+                "zh": "元",
+                "en": "yuan (currency unit)"
             }
         ]
     },
@@ -12191,16 +12730,24 @@
         },
         "words": [
             {
-                "zh": "你家",
-                "en": "Not found"
+                "zh": "你",
+                "en": "you (singular, informal)"
+            },
+            {
+                "zh": "家",
+                "en": "home, family"
             },
             {
                 "zh": "离",
                 "en": "to leave, to be away from, to part from"
             },
             {
-                "zh": "地铁站",
-                "en": "Not found"
+                "zh": "地",
+                "en": "adverbial particle (-ly)"
+            },
+            {
+                "zh": "站",
+                "en": "station, stop"
             },
             {
                 "zh": "远",
@@ -12222,16 +12769,28 @@
         },
         "words": [
             {
-                "zh": "他学",
-                "en": "Not found"
+                "zh": "他",
+                "en": "he, him"
+            },
+            {
+                "zh": "学",
+                "en": "to learn, to study"
             },
             {
                 "zh": "中文",
                 "en": "Chinese (language)"
             },
             {
-                "zh": "六个月",
-                "en": "Not found"
+                "zh": "六",
+                "en": "6, six"
+            },
+            {
+                "zh": "个",
+                "en": "one, a, an"
+            },
+            {
+                "zh": "月",
+                "en": "month, moon"
             },
             {
                 "zh": "了",
@@ -12257,8 +12816,12 @@
                 "en": "to do, to make"
             },
             {
-                "zh": "一次",
-                "en": "Not found"
+                "zh": "一",
+                "en": "1, one"
+            },
+            {
+                "zh": "次",
+                "en": "time, occurrence"
             }
         ]
     },
@@ -12295,10 +12858,6 @@
                 "en": "at, in, to be at"
             },
             {
-                "zh": "办公室",
-                "en": "Not found"
-            },
-            {
                 "zh": "吗",
                 "en": "interrogative particle"
             }
@@ -12318,8 +12877,12 @@
                 "en": "you (singular, informal)"
             },
             {
-                "zh": "在家",
-                "en": "Not found"
+                "zh": "在",
+                "en": "at, in, to be at"
+            },
+            {
+                "zh": "家",
+                "en": "home, family"
             },
             {
                 "zh": "吗",
@@ -12337,12 +12900,24 @@
         },
         "words": [
             {
-                "zh": "我要",
-                "en": "Not found"
+                "zh": "我",
+                "en": "I, me"
             },
             {
-                "zh": "早睡早起",
-                "en": "Not found"
+                "zh": "要",
+                "en": "important, to want, to ask for"
+            },
+            {
+                "zh": "早",
+                "en": "early, morning"
+            },
+            {
+                "zh": "睡",
+                "en": "to sleep"
+            },
+            {
+                "zh": "早",
+                "en": "early, morning"
             }
         ]
     },
@@ -12387,8 +12962,16 @@
         },
         "words": [
             {
-                "zh": "早上好",
-                "en": "Not found"
+                "zh": "早",
+                "en": "early, morning"
+            },
+            {
+                "zh": "上",
+                "en": "up"
+            },
+            {
+                "zh": "好",
+                "en": "good, nice"
             }
         ]
     },
@@ -12507,8 +13090,12 @@
                 "en": "you (singular, informal)"
             },
             {
-                "zh": "找到",
-                "en": "Not found"
+                "zh": "找",
+                "en": "to look for, to seek"
+            },
+            {
+                "zh": "到",
+                "en": "to arrive, to reach, to, until"
             },
             {
                 "zh": "工作",
@@ -12631,20 +13218,12 @@
                 "en": "I, me"
             },
             {
-                "zh": "常常",
-                "en": "Not found"
-            },
-            {
                 "zh": "在",
                 "en": "at, in, to be at"
             },
             {
                 "zh": "这儿",
                 "en": "here (colloquial)"
-            },
-            {
-                "zh": "健身",
-                "en": "Not found"
             }
         ]
     },
@@ -12662,8 +13241,8 @@
                 "en": "these"
             },
             {
-                "zh": "甜点",
-                "en": "Not found"
+                "zh": "点",
+                "en": "point, dot, o'clock"
             },
             {
                 "zh": "都",
@@ -12730,10 +13309,6 @@
             {
                 "zh": "真",
                 "en": "really, true"
-            },
-            {
-                "zh": "聪明",
-                "en": "Not found"
             }
         ]
     },
@@ -12751,16 +13326,20 @@
                 "en": "this, these"
             },
             {
-                "zh": "新闻",
-                "en": "Not found"
+                "zh": "新",
+                "en": "new"
             },
             {
                 "zh": "是",
                 "en": "to be"
             },
             {
-                "zh": "真的",
-                "en": "Not found"
+                "zh": "真",
+                "en": "really, true"
+            },
+            {
+                "zh": "的",
+                "en": "possession particle"
             },
             {
                 "zh": "吗",
@@ -12811,10 +13390,6 @@
             {
                 "zh": "正在",
                 "en": "in the middle of doing something"
-            },
-            {
-                "zh": "健身",
-                "en": "Not found"
             }
         ]
     },
@@ -12859,20 +13434,8 @@
                 "en": "possession particle"
             },
             {
-                "zh": "历史",
-                "en": "Not found"
-            },
-            {
-                "zh": "知识",
-                "en": "Not found"
-            },
-            {
                 "zh": "很",
                 "en": "quite, very"
-            },
-            {
-                "zh": "浅薄",
-                "en": "Not found"
             }
         ]
     },
@@ -12898,16 +13461,12 @@
                 "en": "movie, film"
             },
             {
-                "zh": "中",
-                "en": "Not found"
+                "zh": "一",
+                "en": "1, one"
             },
             {
-                "zh": "演",
-                "en": "Not found"
-            },
-            {
-                "zh": "一个",
-                "en": "Not found"
+                "zh": "个",
+                "en": "one, a, an"
             },
             {
                 "zh": "妈妈",
@@ -12929,8 +13488,12 @@
                 "en": "you (singular, informal)"
             },
             {
-                "zh": "去过",
-                "en": "Not found"
+                "zh": "去",
+                "en": "to go"
+            },
+            {
+                "zh": "过",
+                "en": "to cross, to pass time"
             },
             {
                 "zh": "中国",
@@ -12964,16 +13527,12 @@
                 "en": "vehicle, car"
             },
             {
-                "zh": "停",
-                "en": "Not found"
-            },
-            {
                 "zh": "在",
                 "en": "at, in, to be at"
             },
             {
-                "zh": "中间",
-                "en": "Not found"
+                "zh": "间",
+                "en": "measure word for rooms"
             }
         ]
     },
@@ -13057,8 +13616,8 @@
                 "en": "to be"
             },
             {
-                "zh": "中学老师",
-                "en": "Not found"
+                "zh": "学",
+                "en": "to learn, to study"
             }
         ]
     },
@@ -13107,16 +13666,8 @@
                 "en": "possession particle"
             },
             {
-                "zh": "行李",
-                "en": "Not found"
-            },
-            {
                 "zh": "很",
                 "en": "quite, very"
-            },
-            {
-                "zh": "重",
-                "en": "Not found"
             }
         ]
     },
@@ -13134,16 +13685,12 @@
                 "en": "Chinese language, Mandarin"
             },
             {
-                "zh": "声调",
-                "en": "Not found"
-            },
-            {
                 "zh": "很",
                 "en": "quite, very"
             },
             {
-                "zh": "重要",
-                "en": "Not found"
+                "zh": "要",
+                "en": "important, to want, to ask for"
             }
         ]
     },
@@ -13184,8 +13731,12 @@
         },
         "words": [
             {
-                "zh": "我要",
-                "en": "Not found"
+                "zh": "我",
+                "en": "I, me"
+            },
+            {
+                "zh": "要",
+                "en": "important, to want, to ask for"
             },
             {
                 "zh": "准备",
@@ -13207,16 +13758,20 @@
         },
         "words": [
             {
-                "zh": "这张",
-                "en": "Not found"
+                "zh": "这",
+                "en": "this, these"
             },
             {
                 "zh": "桌子",
                 "en": "table, desk"
             },
             {
-                "zh": "多长",
-                "en": "Not found"
+                "zh": "多",
+                "en": "many, much"
+            },
+            {
+                "zh": "长",
+                "en": "length, long"
             }
         ]
     },
@@ -13230,8 +13785,12 @@
         },
         "words": [
             {
-                "zh": "这是",
-                "en": "Not found"
+                "zh": "这",
+                "en": "this, these"
+            },
+            {
+                "zh": "是",
+                "en": "to be"
             },
             {
                 "zh": "什么",
@@ -13265,20 +13824,12 @@
                 "en": "I, me"
             },
             {
-                "zh": "一把",
-                "en": "Not found"
-            },
-            {
-                "zh": "刀子",
-                "en": "Not found"
+                "zh": "一",
+                "en": "1, one"
             },
             {
                 "zh": "和",
                 "en": "and, with"
-            },
-            {
-                "zh": "叉子",
-                "en": "Not found"
             }
         ]
     },
@@ -13313,10 +13864,6 @@
             {
                 "zh": "他",
                 "en": "he, him"
-            },
-            {
-                "zh": "常常",
-                "en": "Not found"
             },
             {
                 "zh": "走路",
@@ -13356,10 +13903,6 @@
             {
                 "zh": "哪个",
                 "en": "which, which one"
-            },
-            {
-                "zh": "季节",
-                "en": "Not found"
             }
         ]
     },
@@ -13377,8 +13920,12 @@
                 "en": "you (singular, informal)"
             },
             {
-                "zh": "最好",
-                "en": "Not found"
+                "zh": "最",
+                "en": "most, the most"
+            },
+            {
+                "zh": "好",
+                "en": "good, nice"
             },
             {
                 "zh": "的",
@@ -13416,12 +13963,20 @@
                 "en": "to be"
             },
             {
-                "zh": "最后",
-                "en": "Not found"
+                "zh": "最",
+                "en": "most, the most"
             },
             {
-                "zh": "一天",
-                "en": "Not found"
+                "zh": "后",
+                "en": "behind, after"
+            },
+            {
+                "zh": "一",
+                "en": "1, one"
+            },
+            {
+                "zh": "天",
+                "en": "day, sky"
             }
         ]
     },
@@ -13443,8 +13998,8 @@
                 "en": "yesterday"
             },
             {
-                "zh": "加班",
-                "en": "Not found"
+                "zh": "班",
+                "en": "class, work shift"
             },
             {
                 "zh": "了",
@@ -13470,16 +14025,20 @@
                 "en": "you (singular, informal)"
             },
             {
-                "zh": "用",
-                "en": "Not found"
+                "zh": "左",
+                "en": "left"
             },
             {
-                "zh": "左手",
-                "en": "Not found"
+                "zh": "手",
+                "en": "hand"
             },
             {
-                "zh": "写字",
-                "en": "Not found"
+                "zh": "写",
+                "en": "to write"
+            },
+            {
+                "zh": "字",
+                "en": "word, character"
             },
             {
                 "zh": "吗",
@@ -13497,8 +14056,8 @@
         },
         "words": [
             {
-                "zh": "停车场",
-                "en": "Not found"
+                "zh": "车",
+                "en": "vehicle, car"
             },
             {
                 "zh": "在",
@@ -13536,8 +14095,12 @@
                 "en": "can, may, able to"
             },
             {
-                "zh": "坐在",
-                "en": "Not found"
+                "zh": "坐",
+                "en": "to sit"
+            },
+            {
+                "zh": "在",
+                "en": "at, in, to be at"
             },
             {
                 "zh": "这里",
@@ -13563,12 +14126,16 @@
                 "en": "we, us"
             },
             {
-                "zh": "坐下",
-                "en": "Not found"
+                "zh": "坐",
+                "en": "to sit"
             },
             {
-                "zh": "喝杯",
-                "en": "Not found"
+                "zh": "下",
+                "en": "down"
+            },
+            {
+                "zh": "喝",
+                "en": "to drink"
             },
             {
                 "zh": "茶",
@@ -13598,8 +14165,12 @@
                 "en": "to finish work"
             },
             {
-                "zh": "后要",
-                "en": "Not found"
+                "zh": "后",
+                "en": "behind, after"
+            },
+            {
+                "zh": "要",
+                "en": "important, to want, to ask for"
             },
             {
                 "zh": "做",

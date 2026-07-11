@@ -1,3 +1,5 @@
+#! /usr/bin/env python3
+
 import json
 import jieba
 
@@ -26,10 +28,13 @@ with open(source_file, 'r') as fp:
             if word in ['？', '。', '！']:
                 continue
             if word not in definitions.keys():
-                row['words'].append({
-                    'zh': word,
-                    'en': 'Not found'
-                })
+                for character in word:
+                    if character not in definitions.keys():
+                        continue
+                    row['words'].append({
+                        'zh': character,
+                        'en': definitions[character]['translations']['en']
+                    })
                 continue
             row['words'].append({
                 'zh': word,
