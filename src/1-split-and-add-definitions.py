@@ -19,24 +19,55 @@ for f in definition_files:
 
 
 def get_def_for_word(word, definitions):
-    word = word.strip()
-    if word in ['？', '。', '！', ',']:
-        return []
-    
     result = []
+    word = word.strip()
+    if word in ['？', '。', '！', ',', '']:
+        return result
+    
     if word not in definitions.keys():
-        resolved = False
-        if len(word) == 4:
-            subwords = [word[:2], word[2:]]
-            for subword in subwords:
-                result.extend(get_def_for_word(subword, definitions))
-        if len(word) >= 3:
-            subwords = [word[0], word[:-1],  word[1:], word[-1]]
-            for subword in subwords:
-                result.extend(get_def_for_word(subword, definitions))
-        if len(word) == 2:
-            for subword in word:
-                result.extend(get_def_for_word(subword, definitions))  
+        print(word)
+
+        # Create subwords of all combinations.
+        subwords = []
+        for i in range(len(word)):
+            subwords += [word[i:j+1] for j in range(i, len(word))]
+        if word not in subwords:
+            a=2;    
+        subwords.remove(word)
+
+        # Get definitions for subwords:
+        subwords_with_defs = {}
+        for subword in subwords:
+            if subword in definitions.keys():
+                subwords_with_defs[subword] = {
+                    'zh': subword,
+                    'en': definitions[subword]['translations']['en']
+                }
+                
+        # If this word has any definitions, go through the characters and add related definitions, marking missing chars as missing.
+        if len(subwords_with_defs) > 0:
+            for zi in word:
+                related_defs = [x for x in subwords_with_defs.keys() if zi in x]
+                if len(related_defs) == 0:
+                    result.append({
+                            'zh': zi,
+                            'en': 'Not in word list.'
+                        })
+                else:
+                    for this_def in related_defs:
+                        # Check if it's already in results.
+                        if len([x for x in result if x['zh'] == this_def]) == 0:
+                            result.append(subwords_with_defs[this_def])
+                        
+
+        # If this word has no definitions, mark it missing.
+        else:
+            result.append({
+                'zh': word,
+                'en': 'Not in word list.'
+            })
+        print(result)
+
     else:
         result.append({
             'zh': word,

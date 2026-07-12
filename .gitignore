@@ -4,3 +4,4 @@ vendor/hsk-words
 .DS_Store
 *.egg-info
 egg-info/*
+*/__pycache__/*
