@@ -1,1 +1,4502 @@
-{"1": {"id": "1", "word": "爱", "sentence": {"pinyin": "wǒ ài nǐ.", "zh": "我爱你。", "en": "I love you."}}, "2": {"id": "2", "word": "爱好", "sentence": {"pinyin": "nǐ de ài hào shì shén me?", "zh": "你的爱好是什么？", "en": "What is your hobby?"}}, "3": {"id": "3", "word": "八", "sentence": {"pinyin": "tā bā suì le.", "zh": "他八岁了。", "en": "He is eight years old."}}, "4": {"id": "4", "word": "爸爸 / 爸", "sentence": {"pinyin": "zhè shì wǒ bà ba.", "zh": "这是我爸爸。", "en": "This is my dad."}}, "5": {"id": "5", "word": "吧", "sentence": {"pinyin": "zǒu ba！", "zh": "走吧！", "en": "Let's go!"}}, "6": {"id": "6", "word": "白", "sentence": {"pinyin": "tā xǐ huan bái chèn shān.", "zh": "他喜欢白衬衫。", "en": "He likes white shirts."}}, "7": {"id": "7", "word": "白天", "sentence": {"pinyin": "zhè lǐ bái tiān hěn rè.", "zh": "这里白天很热。", "en": "It's really hot here in the daytime."}}, "8": {"id": "8", "word": "百", "sentence": {"pinyin": "zhè lǐ yǒu bā bǎi gè xué sheng.", "zh": "这里有八百个学生。", "en": "There are eight hundred students here."}}, "9": {"id": "9", "word": "班", "sentence": {"pinyin": "tā zài sì bān.", "zh": "她在四班。", "en": "She's in class four."}}, "10": {"id": "10", "word": "半", "sentence": {"pinyin": "wǒ chī le bàn gè dàn gāo.", "zh": "我吃了半个蛋糕。", "en": "I ate half a cake."}}, "11": {"id": "11", "word": "半年", "sentence": {"pinyin": "wǒ xué zhōng wén bàn nián le.", "zh": "我学中文半年了。", "en": "I have been learning Chinese for half a year."}}, "12": {"id": "12", "word": "半天", "sentence": {"pinyin": "wǒ gōng zuò le bàn tiān.", "zh": "我工作了半天。", "en": "I worked for half a day."}}, "13": {"id": "13", "word": "帮", "sentence": {"pinyin": "nǐ kě yǐ bāng wǒ ma？", "zh": "你可以帮我吗？", "en": "Can you help me?"}}, "14": {"id": "14", "word": "帮忙", "sentence": {"pinyin": "xiè xie nǐ de bāng máng！", "zh": "谢谢你的帮忙！", "en": "Thank you for your help!"}}, "15": {"id": "15", "word": "包", "sentence": {"pinyin": "zhè shì wǒ de bāo.", "zh": "这是我的包。", "en": "This is my bag."}}, "16": {"id": "16", "word": "包子", "sentence": {"pinyin": "tā xǐ huan chī bāo zi.", "zh": "他喜欢吃包子。", "en": "He likes to eat buns."}}, "17": {"id": "17", "word": "杯", "sentence": {"pinyin": "wǒ yào yī bēi kā fēi.", "zh": "我要一杯咖啡。", "en": "I want a cup of coffee."}}, "18": {"id": "18", "word": "杯子", "sentence": {"pinyin": "wǒ yào mǎi zhè gè bēi zi.", "zh": "我要买这个杯子。", "en": "I want to buy this cup."}}, "19": {"id": "19", "word": "北", "sentence": {"pinyin": "zhè fáng zi cháo běi.", "zh": "这房子朝北。", "en": "This house faces north."}}, "20": {"id": "20", "word": "北边", "sentence": {"pinyin": "tú shū guǎn zài xué xiào de běi biān.", "zh": "图书馆在学校的北边。", "en": "The library is on the north side of the school."}}, "21": {"id": "21", "word": "北京", "sentence": {"pinyin": "nǐ qù guò běi jīng ma？", "zh": "你去过北京吗？", "en": "Have you been to Beijing?"}}, "22": {"id": "22", "word": "本", "sentence": {"pinyin": "zhè běn shū hěn yǒu yì si.", "zh": "这本书很有意思。", "en": "This book is very interesting. "}}, "23": {"id": "23", "word": "本子", "sentence": {"pinyin": "wǒ xū yào yī gè běn zi.", "zh": "我需要一个本子。", "en": "I need a notebook."}}, "24": {"id": "24", "word": "比", "sentence": {"pinyin": "tā bǐ wǒ gāo.", "zh": "他比我高。", "en": "He is taller than me."}}, "25": {"id": "25", "word": "别", "sentence": {"pinyin": "bié dòng！", "zh": "别动！", "en": "Don't move!"}}, "26": {"id": "26", "word": "别的", "sentence": {"pinyin": "yǒu bié de yán sè ma？", "zh": "有别的颜色吗？", "en": "Are there any other colors?"}}, "27": {"id": "27", "word": "别人", "sentence": {"pinyin": "tā bú xiàng bié rén.", "zh": "她不像别人。", "en": "She is not like other people."}}, "28": {"id": "28", "word": "病", "sentence": {"pinyin": "tā de pí fū bìng hǎo le.", "zh": "他的皮肤病好了。", "en": "His skin disease is cured."}}, "29": {"id": "29", "word": "病人", "sentence": {"pinyin": "bìng rén xū yào duō xiū xi.", "zh": "病人需要多休息。", "en": "The patient needs more rest."}}, "30": {"id": "30", "word": "不大", "sentence": {"pinyin": "wǒ de fáng zi bú dà.", "zh": "我的房子不大。", "en": "My house is not big."}}, "31": {"id": "31", "word": "不对", "sentence": {"pinyin": "nǐ de dá àn bú duì.", "zh": "你的答案不对。", "en": "Your answer is wrong."}}, "32": {"id": "32", "word": "不客气", "sentence": {"pinyin": "bú kè qi！", "zh": "不客气！", "en": "You're welcome!"}}, "33": {"id": "33", "word": "不用", "sentence": {"pinyin": "bú yòng zháo jí.", "zh": "不用着急。", "en": "There is no need to worry."}}, "34": {"id": "34", "word": "不", "sentence": {"pinyin": "tā bù jǐn zhāng.", "zh": "他不紧张。", "en": "He is not nervous."}}, "35": {"id": "35", "word": "菜", "sentence": {"pinyin": "tā xǐ huan zhè dào cài.", "zh": "他喜欢这道菜。", "en": "He likes this dish."}}, "36": {"id": "36", "word": "茶", "sentence": {"pinyin": "wǒ měi tiān hē chá.", "zh": "我每天喝茶。", "en": "I drink tea every day."}}, "37": {"id": "37", "word": "差", "sentence": {"pinyin": "tā de tài dù hěn chà.", "zh": "他的态度很差。", "en": "His attitude is bad."}}, "38": {"id": "38", "word": "常", "sentence": {"pinyin": "wǒ cháng diǎn wài mài.", "zh": "我常点外卖。", "en": "I often order takeout."}}, "39": {"id": "39", "word": "常常", "sentence": {"pinyin": "wǒ cháng cháng zuò fàn.", "zh": "我常常做饭。", "en": "I often cook."}}, "40": {"id": "40", "word": "唱", "sentence": {"pinyin": "tā xǐ huan chàng zhōng wén gē.", "zh": "他喜欢唱中文歌。", "en": "He likes to sing Chinese songs."}}, "41": {"id": "41", "word": "唱歌", "sentence": {"pinyin": "tā xǐ huan chàng gē.", "zh": "她喜欢唱歌。", "en": "She likes to sing."}}, "42": {"id": "42", "word": "车", "sentence": {"pinyin": "wǒ de chē huài le.", "zh": "我的车坏了。", "en": "My car broke down."}}, "43": {"id": "43", "word": "车票", "sentence": {"pinyin": "wǒ yào mǎi yī zhāng chē piào.", "zh": "我要买一张车票。", "en": "I want to buy a ticket."}}, "44": {"id": "44", "word": "车上", "sentence": {"pinyin": "wǒ de shǒu jī zài chē shàng.", "zh": "我的手机在车上。", "en": "My phone is in the car."}}, "45": {"id": "45", "word": "车站", "sentence": {"pinyin": "wǒ zài chē zhàn.", "zh": "我在车站。", "en": "I'm at the station."}}, "46": {"id": "46", "word": "吃", "sentence": {"pinyin": "wǒ yào chī ròu.", "zh": "我要吃肉。", "en": "I want to eat meat."}}, "47": {"id": "47", "word": "吃饭", "sentence": {"pinyin": "wǒ yào hé péng you chī fàn.", "zh": "我要和朋友吃饭。", "en": "I'm going to have a meal with my friend."}}, "48": {"id": "48", "word": "出", "sentence": {"pinyin": "tā ná chū le qián bāo.", "zh": "她拿出了钱包。", "en": "She took out her wallet."}}, "49": {"id": "49", "word": "出来", "sentence": {"pinyin": "tài yáng chū lái le.", "zh": "太阳出来了。", "en": "The sun has come out."}}, "50": {"id": "50", "word": "出去", "sentence": {"pinyin": "wǒ měi tiān chū qù sàn bù.", "zh": "我每天出去散步。", "en": "I go out for a walk every day."}}, "51": {"id": "51", "word": "穿", "sentence": {"pinyin": "tā xǐ huan chuān duǎn kù.", "zh": "他喜欢穿短裤。", "en": "He likes to wear shorts."}}, "52": {"id": "52", "word": "床", "sentence": {"pinyin": "tā tǎng zài chuáng shàng.", "zh": "他躺在床上。", "en": "He is lying on the bed."}}, "53": {"id": "53", "word": "次", "sentence": {"pinyin": "wǒ měi zhōu jiàn shēn sì cì.", "zh": "我每周健身四次。", "en": "I work out four times a week."}}, "54": {"id": "54", "word": "从", "sentence": {"pinyin": "cóng zhè lǐ dào chē zhàn yào shí fēn zhōng.", "zh": "从这里到车站要十分钟。", "en": "It takes ten minutes from here to the station."}}, "55": {"id": "55", "word": "错", "sentence": {"pinyin": "wǒ cuò le.", "zh": "我错了。", "en": "I was wrong."}}, "56": {"id": "56", "word": "打", "sentence": {"pinyin": "tā bù dǎ nǚ rén.", "zh": "他不打女人。", "en": "He doesn't hit women. "}}, "57": {"id": "57", "word": "打车", "sentence": {"pinyin": "wǒ yào dǎ chē qù fēi jī chǎng.", "zh": "我要打车去飞机场。", "en": "I'm going to take a taxi to the airport."}}, "58": {"id": "58", "word": "打电话", "sentence": {"pinyin": "wǒ xū yào dǎ diàn huà gěi gù kè.", "zh": "我需要打电话给顾客。", "en": "I need to make a phone call to the customer."}}, "59": {"id": "59", "word": "打开", "sentence": {"pinyin": "qǐng dǎ kāi kōng tiáo.", "zh": "请打开空调。", "en": "Please turn on the air conditioner."}}, "60": {"id": "60", "word": "打球", "sentence": {"pinyin": "wǒ xǐ huan hé péng you dǎ qiú.", "zh": "我喜欢和朋友打球。", "en": "I like to play ball with my friends."}}, "61": {"id": "61", "word": "大", "sentence": {"pinyin": "tā de fáng zi hěn dà.", "zh": "他的房子很大。", "en": "His house is big."}}, "62": {"id": "62", "word": "大学", "sentence": {"pinyin": "wǒ míng nián yào shēn qǐng dà xué.", "zh": "我明年要申请大学。", "en": "I'm going to apply to a university next year."}}, "63": {"id": "63", "word": "大学生", "sentence": {"pinyin": "xiàn zài de dà xué shēng yā lì hěn dà.", "zh": "现在的大学生压力很大。", "en": "University students of today are under a lot of pressure."}}, "64": {"id": "64", "word": "到", "sentence": {"pinyin": "wǒ wǔ fēn zhōng hòu dào.", "zh": "我五分钟后到。", "en": "I will arrive in five minutes."}}, "65": {"id": "65", "word": "得到", "sentence": {"pinyin": "tā xiǎng dé dào jiǎng xué jīn.", "zh": "他想得到奖学金。", "en": "He wants to get the scholarship."}}, "66": {"id": "66", "word": "地", "sentence": {"pinyin": "tā shāng xīn de kū le.", "zh": "她伤心地哭了。", "en": "She cried sadly."}}, "67": {"id": "67", "word": "的", "sentence": {"pinyin": "zhè shì ào lì de shǒu jī.", "zh": "这是奥利的手机。", "en": "This is Ollie's phone."}}, "68": {"id": "68", "word": "等", "sentence": {"pinyin": "wǒ huì děng nǐ de.", "zh": "我会等你的。", "en": "I will wait for you."}}, "69": {"id": "69", "word": "地", "sentence": {"pinyin": "yào shi zài dì shang.", "zh": "钥匙在地上。", "en": "The key is on the ground."}}, "70": {"id": "70", "word": "地点", "sentence": {"pinyin": "huì yì dì diǎn zài nǎ lǐ？", "zh": "会议地点在哪里？", "en": "Where's the meeting location?"}}, "71": {"id": "71", "word": "地方", "sentence": {"pinyin": "zhè gè dì fang zhēn piào liang.", "zh": "这个地方真漂亮。", "en": "This place is so beautiful."}}, "72": {"id": "72", "word": "地上", "sentence": {"pinyin": "dì shang yǒu hěn duō shuǐ.", "zh": "地上有很多水。", "en": "There is a lot of water on the ground."}}, "73": {"id": "73", "word": "地图", "sentence": {"pinyin": "zhè shì zhōng guó dì tú.", "zh": "这是中国地图。", "en": "This is a map of China."}}, "74": {"id": "74", "word": "弟弟 / 弟", "sentence": {"pinyin": "wǒ yǒu yí gè dì di.", "zh": "我有一个弟弟。", "en": "I have a younger brother."}}, "75": {"id": "75", "word": "第...", "sentence": {"pinyin": "zhè shì wǒ dì wǔ cì lái zhōng guó.", "zh": "这是我第五次来中国。", "en": "This is my fifth visit to China."}}, "76": {"id": "76", "word": "点", "sentence": {"pinyin": "xiàn zài sān diǎn le.", "zh": "现在三点了。", "en": "It's three o'clock now."}}, "77": {"id": "77", "word": "电", "sentence": {"pinyin": "méi yǒu diàn.", "zh": "没有电。", "en": "No electricity."}}, "78": {"id": "78", "word": "电话", "sentence": {"pinyin": "nǐ de diàn huà hào mǎ shì duō shao？", "zh": "你的电话号码是多少？", "en": "What is your phone number?"}}, "79": {"id": "79", "word": "电脑", "sentence": {"pinyin": "wǒ yào mǎi yī tái diàn nǎo.", "zh": "我要买一台电脑。", "en": "I want to buy a computer."}}, "80": {"id": "80", "word": "电视", "sentence": {"pinyin": "tā měi tiān kàn diàn shì.", "zh": "他每天看电视。", "en": "He watches TV every day."}}, "81": {"id": "81", "word": "电视机", "sentence": {"pinyin": "wǒ de diàn shì jī huài le.", "zh": "我的电视机坏了。", "en": "My TV is broken."}}, "82": {"id": "82", "word": "电影", "sentence": {"pinyin": "wǒ zuó tiān kàn le yí bù diàn yǐng.", "zh": "我昨天看了一部电影。", "en": "I watched a movie yesterday."}}, "83": {"id": "83", "word": "电影院", "sentence": {"pinyin": "diàn yǐng yuàn zài nǎ lǐ？", "zh": "电影院在哪里？", "en": "Where is the cinema?"}}, "84": {"id": "84", "word": "东", "sentence": {"pinyin": "fáng zi cháo dōng.", "zh": "房子朝东。", "en": "The house faces east."}}, "85": {"id": "85", "word": "东边", "sentence": {"pinyin": "chē kù zài fáng zi de dōng bian.", "zh": "车库在房子的东边。", "en": "The garage is on the east side of the house."}}, "86": {"id": "86", "word": "东西", "sentence": {"pinyin": "tā mǎi le hěn duō dōng xi.", "zh": "他买了很多东西。", "en": "He bought a lot of things."}}, "87": {"id": "87", "word": "动", "sentence": {"pinyin": "bié dòng.", "zh": "别动。", "en": "Don't move."}}, "88": {"id": "88", "word": "动作", "sentence": {"pinyin": "tā xǐ huan kàn dòng zuò piàn.", "zh": "他喜欢看动作片。", "en": "He likes to watch action movies."}}, "89": {"id": "89", "word": "都", "sentence": {"pinyin": "wǒ men dōu shì péng you.", "zh": "我们都是朋友。", "en": "We are all friends."}}, "90": {"id": "90", "word": "读", "sentence": {"pinyin": "qǐng dú zhè jù huà.", "zh": "请读这句话。", "en": "Please read this sentence."}}, "91": {"id": "91", "word": "读书", "sentence": {"pinyin": "tā xǐ huan dú shū.", "zh": "他喜欢读书。", "en": "He likes reading."}}, "92": {"id": "92", "word": "对", "sentence": {"pinyin": "nǐ zuò duì le.", "zh": "你做对了。", "en": "You did it right."}}, "93": {"id": "93", "word": "对不起", "sentence": {"pinyin": "duì bu qǐ.", "zh": "对不起。", "en": "Sorry."}}, "94": {"id": "94", "word": "多", "sentence": {"pinyin": "hē lǜ chá hǎo chù duō.", "zh": "喝绿茶好处多。", "en": "Drinking green tea has many benefits."}}, "95": {"id": "95", "word": "多少", "sentence": {"pinyin": "zhè gè duō shao qián？", "zh": "这个多少钱？", "en": "How much is this?"}}, "96": {"id": "96", "word": "饿", "sentence": {"pinyin": "wǒ è le.", "zh": "我饿了。", "en": "I'm hungry."}}, "97": {"id": "97", "word": "儿子", "sentence": {"pinyin": "nǐ de ér zi zhēn kě ài.", "zh": "你的儿子真可爱。", "en": "Your son is so cute."}}, "98": {"id": "98", "word": "二", "sentence": {"pinyin": "lì xī lǜ shì bǎi fēn zhī èr.", "zh": "利息率是百分之二。", "en": "The interest rate is two percent."}}, "99": {"id": "99", "word": "饭", "sentence": {"pinyin": "wǒ chī le sān wǎn fàn.", "zh": "我吃了三碗饭。", "en": "I ate three bowls of rice."}}, "100": {"id": "100", "word": "饭店", "sentence": {"pinyin": "zhè jiā fàn diàn de cài hěn guì.", "zh": "这家饭店的菜很贵。", "en": "The food in this restaurant is expensive."}}, "101": {"id": "101", "word": "房间", "sentence": {"pinyin": "wǒ de fáng jiān hěn luàn.", "zh": "我的房间很乱。", "en": "My room is messy."}}, "102": {"id": "102", "word": "房子", "sentence": {"pinyin": "tā de fáng zi hěn hǎo.", "zh": "他的房子很好。", "en": "His house is nice."}}, "103": {"id": "103", "word": "放", "sentence": {"pinyin": "wǒ bǎ qián fàng zài qián bāo lǐ.", "zh": "我把钱放在钱包里。", "en": "I put the money in my wallet."}}, "104": {"id": "104", "word": "放假", "sentence": {"pinyin": "nǐ xiǎng fàng jià ma？", "zh": "你想放假吗？", "en": "Do you want to have a holiday?"}}, "105": {"id": "105", "word": "放学", "sentence": {"pinyin": "tā měi tiān sì diǎn fàng xué.", "zh": "他每天四点放学。", "en": "He finishes school at four o'clock every day."}}, "106": {"id": "106", "word": "飞", "sentence": {"pinyin": "nǐ huì fēi ma？", "zh": "你会飞吗？", "en": "Can you fly?"}}, "107": {"id": "107", "word": "飞机", "sentence": {"pinyin": "tā xiǎng mǎi yī jià fēi jī.", "zh": "他想买一架飞机。", "en": "He wants to buy a plane."}}, "108": {"id": "108", "word": "非常", "sentence": {"pinyin": "fēi cháng hǎo！", "zh": "非常好！", "en": "Very good!"}}, "109": {"id": "109", "word": "分", "sentence": {"pinyin": "tā shù xué kǎo shì dé le bā shí fēn.", "zh": "他数学考试得了八十分。", "en": "He got eighty points on his math test."}}, "110": {"id": "110", "word": "风", "sentence": {"pinyin": "jīn tiān méi yǒu fēng.", "zh": "今天没有风。", "en": "There is no wind today."}}, "111": {"id": "111", "word": "干", "sentence": {"pinyin": "wà zi gān le.", "zh": "袜子干了。", "en": "The socks are dry."}}, "112": {"id": "112", "word": "干净", "sentence": {"pinyin": "tā de jiā hěn gān jìng.", "zh": "她的家很干净。", "en": "Her home is clean."}}, "113": {"id": "113", "word": "干", "sentence": {"pinyin": "nǐ bì yè hòu xiǎng gàn shén me？", "zh": "你毕业后想干什么？", "en": "What do you want to do after graduation?"}}, "114": {"id": "114", "word": "干什么", "sentence": {"pinyin": "nǐ zài gàn shén me？", "zh": "你在干什么？", "en": "What are you doing?"}}, "115": {"id": "115", "word": "高", "sentence": {"pinyin": "zhè zuò shān hěn gāo.", "zh": "这座山很高。", "en": "This mountain is very high."}}, "116": {"id": "116", "word": "高兴", "sentence": {"pinyin": "wǒ hěn gāo xìng.", "zh": "我很高兴。", "en": "I'm happy."}}, "117": {"id": "117", "word": "告诉", "sentence": {"pinyin": "bié gào su tā.", "zh": "别告诉她。", "en": "Don't tell her."}}, "118": {"id": "118", "word": "哥哥 / 哥", "sentence": {"pinyin": "wǒ gē ge shì lǎo shī.", "zh": "我哥哥是老师。", "en": "My elder brother is a teacher."}}, "119": {"id": "119", "word": "歌", "sentence": {"pinyin": "nǐ huì chàng zhè shǒu gē ma？", "zh": "你会唱这首歌吗？", "en": "Can you sing this song?"}}, "120": {"id": "120", "word": "个", "sentence": {"pinyin": "wǒ yào mǎi wǔ gè xī guā.", "zh": "我要买五个西瓜。", "en": "I want to buy five watermelons."}}, "121": {"id": "121", "word": "给", "sentence": {"pinyin": "qǐng gěi wǒ yī bēi shuǐ.", "zh": "请给我一杯水。", "en": "Please give me a glass of water."}}, "122": {"id": "122", "word": "跟", "sentence": {"pinyin": "wǒ gēn nǐ yī qǐ qù.", "zh": "我跟你一起去。", "en": "I will go with you."}}, "123": {"id": "123", "word": "工人", "sentence": {"pinyin": "gōng rén dōu xià bān le.", "zh": "工人都下班了。", "en": "The workers are all off work."}}, "124": {"id": "124", "word": "工作", "sentence": {"pinyin": "wǒ jīn tiān de gōng zuò hěn duō.", "zh": "我今天的工作很多。", "en": "I have a lot of work today."}}, "125": {"id": "125", "word": "关", "sentence": {"pinyin": "qǐng guān mén.", "zh": "请关门。", "en": "Please close the door."}}, "126": {"id": "126", "word": "关上", "sentence": {"pinyin": "jì dé bǎ shǒu jī guān shang.", "zh": "记得把手机关上。", "en": "Remember to turn off your cell phone."}}, "127": {"id": "127", "word": "贵", "sentence": {"pinyin": "fáng zū tài guì le.", "zh": "房租太贵了。", "en": "The rent is too expensive."}}, "128": {"id": "128", "word": "国", "sentence": {"pinyin": "nǐ shì nǎ guó rén？", "zh": "你是哪国人？", "en": "Which country are you from?"}}, "129": {"id": "129", "word": "国家", "sentence": {"pinyin": "zhōng guó shì yī gè lì shǐ yōu jiǔ de guó jiā.", "zh": "中国是一个历史悠久的国家。", "en": "China is a country with a long history."}}, "130": {"id": "130", "word": "国外", "sentence": {"pinyin": "tā zài guó wài xué xí.", "zh": "他在国外学习。", "en": "He is studying abroad."}}, "131": {"id": "131", "word": "过", "sentence": {"pinyin": "tā guò le kǒu yǔ kǎo shì.", "zh": "他过了口语考试。", "en": "He passed the speaking test."}}, "132": {"id": "132", "word": "还", "sentence": {"pinyin": "wǒ hái méi zuò wán.", "zh": "我还没做完。", "en": "I'm not done yet."}}, "133": {"id": "133", "word": "还是", "sentence": {"pinyin": "nǐ yào kā fēi hái shì chá？", "zh": "你要咖啡还是茶？", "en": "Do you want coffee or tea?"}}, "134": {"id": "134", "word": "还有", "sentence": {"pinyin": "dǒng shǒu yǔ de，chú le wǒ hái yǒu sān gè rén.", "zh": "懂手语的，除了我还有三个人。", "en": "There are three people besides me who know sign language."}}, "135": {"id": "135", "word": "孩子", "sentence": {"pinyin": "tā yǒu wǔ gè hái zi.", "zh": "她有五个孩子。", "en": "She has five children."}}, "136": {"id": "136", "word": "汉语", "sentence": {"pinyin": "tā huì shuō hàn yǔ.", "zh": "他会说汉语。", "en": "He can speak Mandarin Chinese."}}, "137": {"id": "137", "word": "汉字", "sentence": {"pinyin": "tā jīn tiān xué le shí gè hàn zì.", "zh": "他今天学了十个汉字。", "en": "He learned ten Chinese characters today."}}, "138": {"id": "138", "word": "好", "sentence": {"pinyin": "tā shì yí gè hǎo lǎo shī.", "zh": "她是一个好老师。", "en": "She is a good teacher."}}, "139": {"id": "139", "word": "好吃", "sentence": {"pinyin": "zhè qiǎo kè lì zhēn hǎo chī.", "zh": "这巧克力真好吃。", "en": "This chocolate is so delicious."}}, "140": {"id": "140", "word": "好看", "sentence": {"pinyin": "zhè gè hǎo kàn ma？", "zh": "这个好看吗？", "en": "Does this look good?"}}, "141": {"id": "141", "word": "好听", "sentence": {"pinyin": "zhè shǒu gē hǎo tīng ma？", "zh": "这首歌好听吗？", "en": "Is this song good (pleasant to hear)?"}}, "142": {"id": "142", "word": "好玩儿", "sentence": {"pinyin": "zhè gè yóu xì zhēn hǎo wánr.", "zh": "这个游戏真好玩儿。 ", "en": "This game is really fun."}}, "143": {"id": "143", "word": "号", "sentence": {"pinyin": "jīn tiān jǐ hào？", "zh": "今天几号？", "en": "What's the date today?"}}, "144": {"id": "144", "word": "喝", "sentence": {"pinyin": "nǐ hē kā fēi ma?", "zh": "你喝咖啡吗?", "en": "Do you drink coffee?"}}, "145": {"id": "145", "word": "和", "sentence": {"pinyin": "wǒ xǐ huan hēi sè hé bái sè.", "zh": "我喜欢黑色和白色。", "en": "I like black and white."}}, "146": {"id": "146", "word": "很", "sentence": {"pinyin": "tā de chē hěn guì.", "zh": "她的车很贵。", "en": "Her car is (very) expensive."}}, "147": {"id": "147", "word": "后", "sentence": {"pinyin": "xià bān hòu，nǐ lái wǒ jiā.", "zh": "下班后，你来我家。", "en": "After work, you come to my place."}}, "148": {"id": "148", "word": "后边", "sentence": {"pinyin": "chē zhàn zài jiǔ diàn hòu bian.", "zh": "车站在酒店后边。", "en": "The station is behind the hotel."}}, "149": {"id": "149", "word": "后天", "sentence": {"pinyin": "wǒ hòu tiān qù hǎi nán.", "zh": "我后天去海南。", "en": "I'm going to Hainan the day after tomorrow."}}, "150": {"id": "150", "word": "花", "sentence": {"pinyin": "nǐ xǐ huan zhè duǒ huā ma？", "zh": "你喜欢这朵花吗？", "en": "Do you like this flower?"}}, "151": {"id": "151", "word": "话", "sentence": {"pinyin": "wǒ bù míng bai tā de huà.", "zh": "我不明白他的话。", "en": "I don't understand his words."}}, "152": {"id": "152", "word": "坏", "sentence": {"pinyin": "xī yān shì gè huài xí guàn.", "zh": "吸烟是个坏习惯。", "en": "Smoking is a bad habit."}}, "153": {"id": "153", "word": "还", "sentence": {"pinyin": "nǐ shén me shí hou hái chē？", "zh": "你什么时候还车？", "en": "When will you return the car?"}}, "154": {"id": "154", "word": "回", "sentence": {"pinyin": "nǐ shén me shí hou huí zhōng guó？", "zh": "你什么时候回中国？", "en": "When will you go back to China?"}}, "155": {"id": "155", "word": "回答", "sentence": {"pinyin": "qǐng nǐ huí dá.", "zh": "请你回答。", "en": "Please answer."}}, "156": {"id": "156", "word": "回到", "sentence": {"pinyin": "tā xiǎng huí dào shàng hǎi.", "zh": "他想回到上海。", "en": "He wants to return to Shanghai."}}, "157": {"id": "157", "word": "回家", "sentence": {"pinyin": "nǐ jǐ diǎn huí jiā？", "zh": "你几点回家？", "en": "What time do you go home?"}}, "158": {"id": "158", "word": "回来", "sentence": {"pinyin": "nǐ shén me shí hou huí lái？", "zh": "你什么时候回来？", "en": "When will you come back?"}}, "159": {"id": "159", "word": "回去", "sentence": {"pinyin": "nǐ zěn me huí qù？", "zh": "你怎么回去？", "en": "How do you go back?"}}, "160": {"id": "160", "word": "会", "sentence": {"pinyin": "nǐ huì shuō zhōng wén ma？", "zh": "你会说中文吗？", "en": "Can you speak Chinese?"}}, "161": {"id": "161", "word": "火车", "sentence": {"pinyin": "wǒ zuò huǒ chē qù shēn zhèn.", "zh": "我坐火车去深圳。", "en": "I take the train to Shenzhen."}}, "162": {"id": "162", "word": "机场", "sentence": {"pinyin": "wǒ zài jī chǎng.", "zh": "我在机场。", "en": "I'm at the airport."}}, "163": {"id": "163", "word": "机票", "sentence": {"pinyin": "nǐ dìng jī piào le ma？", "zh": "你订机票了吗？", "en": "Have you booked an air ticket?"}}, "164": {"id": "164", "word": "鸡蛋", "sentence": {"pinyin": "nǐ xǐ huan chī jī dàn ma？", "zh": "你喜欢吃鸡蛋吗？", "en": "Do you like to eat eggs?"}}, "165": {"id": "165", "word": "几", "sentence": {"pinyin": "nǐ yào jǐ bēi kā fēi？", "zh": "你要几杯咖啡？", "en": "How many cups of coffee do you want?"}}, "166": {"id": "166", "word": "记", "sentence": {"pinyin": "qǐng jì xià zhè xiē hàn zì.", "zh": "请记下这些汉字。", "en": "Please note down these Chinese characters."}}, "167": {"id": "167", "word": "记得", "sentence": {"pinyin": "nǐ jì de wǒ ma？", "zh": "你记得我吗？", "en": "Do you remember me?"}}, "168": {"id": "168", "word": "记住", "sentence": {"pinyin": "wǒ huì jì zhù de.", "zh": "我会记住的。", "en": "I will remember."}}, "169": {"id": "169", "word": "家", "sentence": {"pinyin": "wǒ zài jiā zài pǔ dōng.", "zh": "我的家在浦东。", "en": "My home is in Pudong."}}, "170": {"id": "170", "word": "家里", "sentence": {"pinyin": "wǒ de yào shi zài jiā lǐ.", "zh": "我的钥匙在家里。", "en": "My keys are at home."}}, "171": {"id": "171", "word": "家人", "sentence": {"pinyin": "nǐ de jiā rén hǎo ma？", "zh": "你的家人好吗？", "en": "How is your family?"}}, "172": {"id": "172", "word": "间", "sentence": {"pinyin": "wǒ yào dìng sān jiān dān rén fáng.", "zh": "我要订三间单人房。", "en": "I want to book three single rooms."}}, "173": {"id": "173", "word": "见", "sentence": {"pinyin": "nǐ xiǎng jiàn wǒ ma？", "zh": "你想见我吗？", "en": "Do you want to see me?"}}, "174": {"id": "174", "word": "见面", "sentence": {"pinyin": "wǒ men zài nǎ lǐ jiàn miàn？", "zh": "我们在哪里见面？", "en": "Where shall we meet?"}}, "175": {"id": "175", "word": "教", "sentence": {"pinyin": "nǐ kě yǐ jiāo wǒ ma？", "zh": "你可以教我吗？", "en": "Can you teach me?"}}, "176": {"id": "176", "word": "叫", "sentence": {"pinyin": "nǐ kě yǐ jiào wǒ Angel.", "zh": "你可以叫我Angel。", "en": "You can call me Angel."}}, "177": {"id": "177", "word": "教学楼", "sentence": {"pinyin": "wǒ de shū zài jiào xué lóu.", "zh": "我的书在教学楼。", "en": "My book is in the teaching building."}}, "178": {"id": "178", "word": "姐姐 / 姐", "sentence": {"pinyin": "wǒ jiě jie shì hù shì.", "zh": "我姐姐是护士。", "en": "My elder sister is a nurse."}}, "179": {"id": "179", "word": "介绍", "sentence": {"pinyin": "ràng wǒ jiè shào yí xià.", "zh": "让我介绍一下。", "en": "Let me introduce."}}, "180": {"id": "180", "word": "今年", "sentence": {"pinyin": "wǒ jīn nián yào qù zhōng guó.", "zh": "我今年要去中国。", "en": "I am going to China this year."}}, "181": {"id": "181", "word": "今天", "sentence": {"pinyin": "jīn tiān xīng qī jǐ？", "zh": "今天星期几？", "en": "What day is it today?"}}, "182": {"id": "182", "word": "进", "sentence": {"pinyin": "tā jìn le jiào shì.", "zh": "他进了教室。", "en": "He entered the classroom."}}, "183": {"id": "183", "word": "进来", "sentence": {"pinyin": "nǐ xiǎng jìn lái hē bēi kā fēi ma？", "zh": "你想进来喝杯咖啡吗？", "en": "Would you like to come in for a coffee?"}}, "184": {"id": "184", "word": "进去", "sentence": {"pinyin": "wǒ yào jìn qù.", "zh": "我要进去。", "en": "I want to go in."}}, "185": {"id": "185", "word": "九", "sentence": {"pinyin": "zhè zhī bǐ jiǔ kuài qián.", "zh": "这支笔九块钱。", "en": "This pen costs 9 yuan."}}, "186": {"id": "186", "word": "就", "sentence": {"pinyin": "wǒ dào le，jiù gěi nǐ dǎ diàn huà.", "zh": "我到了，就给你打电话。", "en": "I'll call you as soon as I arrive."}}, "187": {"id": "187", "word": "觉得", "sentence": {"pinyin": "nǐ jué de zěn me yàng？", "zh": "你觉得怎么样？", "en": "What do you think?"}}, "188": {"id": "188", "word": "开", "sentence": {"pinyin": "qǐng kāi mén.", "zh": "请开门。", "en": "Please open the door"}}, "189": {"id": "189", "word": "开车", "sentence": {"pinyin": "nǐ huì kāi chē ma？", "zh": "你会开车吗？", "en": "Can you drive?"}}, "190": {"id": "190", "word": "开会", "sentence": {"pinyin": "wǒ men jǐ diǎn kāi huì？", "zh": "我们几点开会？", "en": "What time do we have a meeting?"}}, "191": {"id": "191", "word": "开玩笑", "sentence": {"pinyin": "nǐ xǐ huan kāi wán xiào ma？", "zh": "你喜欢开玩笑吗？", "en": "Do you like to joke?"}}, "192": {"id": "192", "word": "看", "sentence": {"pinyin": "kàn！ yī tiáo cǎi hóng.", "zh": "看！一条彩虹。", "en": "Look! A rainbow."}}, "193": {"id": "193", "word": "看病", "sentence": {"pinyin": "wǒ yào qù kàn bìng.", "zh": "我要去看病。", "en": "I'm going to see a doctor."}}, "194": {"id": "194", "word": "看到", "sentence": {"pinyin": "nǐ kàn dào le ma？", "zh": "你看到了吗？", "en": "Did you see it?"}}, "195": {"id": "195", "word": "看见", "sentence": {"pinyin": "wǒ méi kàn jiàn.", "zh": "我没看见。", "en": "I didn't see it."}}, "196": {"id": "196", "word": "考", "sentence": {"pinyin": "wǒ lái kǎo nǐ yí xià.", "zh": "我来考你一下。", "en": "I'll test you."}}, "197": {"id": "197", "word": "考试", "sentence": {"pinyin": "nǐ zuó tiān de kǎo shì zěn me yàng？", "zh": "你昨天的考试怎么样？", "en": "How was your exam yesterday?"}}, "198": {"id": "198", "word": "渴", "sentence": {"pinyin": "wǒ kě le.", "zh": "我渴了。", "en": "I'm thirsty."}}, "199": {"id": "199", "word": "课", "sentence": {"pinyin": "wǒ xǐ huan nǐ de kè.", "zh": "我喜欢你的课。", "en": "I like your course / lesson."}}, "200": {"id": "200", "word": "课本", "sentence": {"pinyin": "zhè shì nǐ de kè běn.", "zh": "这是你的课本。", "en": "This is your textbook."}}, "201": {"id": "201", "word": "课文", "sentence": {"pinyin": "nǐ kě yǐ dú kè wén ma？", "zh": "你可以读课文吗？", "en": "Can you read the text?"}}, "202": {"id": "202", "word": "口", "sentence": {"pinyin": "nǐ de kǒu téng ma？", "zh": "你的口疼吗？", "en": "Does your mouth hurt?"}}, "203": {"id": "203", "word": "块", "sentence": {"pinyin": "wǒ chī le wǔ kuài dàn gāo.", "zh": "我吃了五块蛋糕。", "en": "I ate five pieces of cake."}}, "204": {"id": "204", "word": "快", "sentence": {"pinyin": "tā pǎo de kuài.", "zh": "他跑得快。", "en": "He runs fast."}}, "205": {"id": "205", "word": "来", "sentence": {"pinyin": "nǐ xiǎng lái wǒ jiā dǎ yóu xì ma？", "zh": "你想来我家打游戏吗？", "en": "Do you want to come to my place to play games?"}}, "206": {"id": "206", "word": "来到", "sentence": {"pinyin": "tā qù nián lái dào zhōng guó.", "zh": "他去年来到中国。", "en": "He came to China last year."}}, "207": {"id": "207", "word": "老", "sentence": {"pinyin": "tā men shì lǎo péng you.", "zh": "他们是老朋友。", "en": "They are old friends."}}, "208": {"id": "208", "word": "老人", "sentence": {"pinyin": "nà gè lǎo rén shēn tǐ hěn hǎo.", "zh": "那个老人身体很好。", "en": "The old man is in good health."}}, "209": {"id": "209", "word": "老师", "sentence": {"pinyin": "nǐ de lǎo shī zěn me yàng？", "zh": "你的老师怎么样？", "en": "How is your teacher?"}}, "210": {"id": "210", "word": "了", "sentence": {"pinyin": "xià yǔ le.", "zh": "下雨了。", "en": "It's raining now."}}, "211": {"id": "211", "word": "累", "sentence": {"pinyin": "nǐ lèi ma？", "zh": "你累吗？", "en": "Are you tired?"}}, "212": {"id": "212", "word": "冷", "sentence": {"pinyin": "jīn tiān hěn lěng.", "zh": "今天很冷。", "en": "It's cold today."}}, "213": {"id": "213", "word": "里", "sentence": {"pinyin": "wǒ de hù zhào zài bāo lǐ.", "zh": "我的护照在包里。", "en": "My passport is in the bag."}}, "214": {"id": "214", "word": "里边", "sentence": {"pinyin": "gōng yuán lǐ bian yǒu yí gè hú", "zh": "公园里边有一个湖。", "en": "There is a lake in the park."}}, "215": {"id": "215", "word": "两", "sentence": {"pinyin": "wǒ yǒu liǎng tái diàn nǎo.", "zh": "我有两台电脑。", "en": "I have two computers."}}, "216": {"id": "216", "word": "零", "sentence": {"pinyin": "cóng líng kāi shǐ.", "zh": "从零开始。", "en": "Start from zero."}}, "217": {"id": "217", "word": "六", "sentence": {"pinyin": "wǒ yào liù gè jiǎo zi.", "zh": "我要六个饺子。", "en": "I want six dumplings."}}, "218": {"id": "218", "word": "楼", "sentence": {"pinyin": "nǐ zhù zài jǐ lóu？", "zh": "你住在几楼？", "en": "Which floor do you live on?"}}, "219": {"id": "219", "word": "楼上", "sentence": {"pinyin": "wǒ zài lóu shàng.", "zh": "我在楼上。", "en": "I'm upstairs."}}, "220": {"id": "220", "word": "楼下", "sentence": {"pinyin": "lóu xià yǒu gè chāo shì.", "zh": "楼下有个超市。", "en": "There is a supermarket downstairs."}}, "221": {"id": "221", "word": "路", "sentence": {"pinyin": "huái hǎi lù zài nǎ lǐ？", "zh": "淮海路在哪里？", "en": "Where is Huaihai Road?"}}, "222": {"id": "222", "word": "路口", "sentence": {"pinyin": "qǐng zài lù kǒu tíng chē.", "zh": "请在路口停车。", "en": "Please stop at the intersection."}}, "223": {"id": "223", "word": "路上", "sentence": {"pinyin": "tā de chē zài lù shang huài le.", "zh": "他的车在路上坏了。", "en": "His car broke down on the road."}}, "224": {"id": "224", "word": "妈妈 / 妈", "sentence": {"pinyin": "wǒ mā ma tuì xiū le.", "zh": "我妈妈退休了。", "en": "My mom is retired."}}, "225": {"id": "225", "word": "马路", "sentence": {"pinyin": "xiǎo xīn guò mǎ lù.", "zh": "小心过马路。", "en": "Be careful crossing the road."}}, "226": {"id": "226", "word": "马上", "sentence": {"pinyin": "wǒ mǎ shàng fù kuǎn.", "zh": "我马上付款。", "en": "I will pay right away."}}, "227": {"id": "227", "word": "吗", "sentence": {"pinyin": "nǐ yào hē shuǐ ma？", "zh": "你要喝水吗？", "en": "Do you want water?"}}, "228": {"id": "228", "word": "买", "sentence": {"pinyin": "nǐ yào mǎi shén me？", "zh": "你要买什么？", "en": "What do you want to buy?"}}, "229": {"id": "229", "word": "慢", "sentence": {"pinyin": "màn yī diǎn.", "zh": "慢一点。", "en": "Slow down."}}, "230": {"id": "230", "word": "忙", "sentence": {"pinyin": "nǐ máng ma？", "zh": "你忙吗？", "en": "Are you busy?"}}, "231": {"id": "231", "word": "毛", "sentence": {"pinyin": "zhè bēi chá bā kuài wǔ máo.", "zh": "这杯茶八块五毛。", "en": "This cup of tea costs eight yuan and fifty cents."}}, "232": {"id": "232", "word": "没", "sentence": {"pinyin": "tā méi xī yān.", "zh": "他没吸烟。", "en": "He didn't smoke."}}, "233": {"id": "233", "word": "没关系", "sentence": {"pinyin": "méi guān xi.", "zh": "没关系。", "en": "It doesn't matter."}}, "234": {"id": "234", "word": "没什么", "sentence": {"pinyin": "méi shén me.", "zh": "没什么。", "en": "It's nothing."}}, "235": {"id": "235", "word": "没事儿", "sentence": {"pinyin": "méi shìr.", "zh": "没事儿。", "en": "It's okay / It's all rigtht."}}, "236": {"id": "236", "word": "没有", "sentence": {"pinyin": "zhè lǐ méi yǒu chāo shì.", "zh": "这里没有超市。", "en": "There is no supermarket here."}}, "237": {"id": "237", "word": "妹妹 / 妹", "sentence": {"pinyin": "wǒ mèi mei bā suì le.", "zh": "我妹妹八岁了。", "en": "My younger sister is eight years old."}}, "238": {"id": "238", "word": "门", "sentence": {"pinyin": "nǐ suǒ mén le ma？", "zh": "你锁门了吗？", "en": "Did you lock the door?"}}, "239": {"id": "239", "word": "门口", "sentence": {"pinyin": "bié zài mén kǒu wài miàn tíng chē.", "zh": "别在门口外面停车。", "en": "Don't park outside the doorway."}}, "240": {"id": "240", "word": "门票", "sentence": {"pinyin": "mén piào duō shao qián？", "zh": "门票多少钱？", "en": "How much is the ticket?"}}, "241": {"id": "241", "word": "们", "sentence": {"pinyin": "wǒ xǐ huan hé péng you men yī qǐ liáo tiān.", "zh": "我喜欢和朋友们一起聊天。", "en": "I like to chat with friends. "}}, "242": {"id": "242", "word": "米饭", "sentence": {"pinyin": "tā chī le sān wǎn mǐ fàn.", "zh": "他吃了三碗米饭。", "en": "He ate three bowls of rice."}}, "243": {"id": "243", "word": "面包", "sentence": {"pinyin": "nǐ huì kǎo miàn bāo ma？", "zh": "你会烤面包吗？", "en": "Can you bake bread?"}}, "244": {"id": "244", "word": "面条儿", "sentence": {"pinyin": "nǐ xiǎng chī miàn tiáor ma？", "zh": "你想吃面条儿吗？", "en": "Do you want some noodles?"}}, "245": {"id": "245", "word": "名字", "sentence": {"pinyin": "nǐ jiào shén me míng zi？", "zh": "你叫什么名字？", "en": "What's your name?"}}, "246": {"id": "246", "word": "明白", "sentence": {"pinyin": "wǒ bù míng bai.", "zh": "我不明白。", "en": "I don't understand."}}, "247": {"id": "247", "word": "明年", "sentence": {"pinyin": "tā míng nián jié hūn.", "zh": "他明年结婚。", "en": "He is getting married next year."}}, "248": {"id": "248", "word": "明天", "sentence": {"pinyin": "míng tiān jiàn.", "zh": "明天见。", "en": "See you tomorrow."}}, "249": {"id": "249", "word": "拿", "sentence": {"pinyin": "nǐ ná hù zhào le ma？", "zh": "你拿护照了吗？", "en": "Did you take your passport?"}}, "250": {"id": "250", "word": "哪", "sentence": {"pinyin": "nǐ yào nǎ gè？", "zh": "你要哪个？", "en": "Which one do you want?"}}, "251": {"id": "251", "word": "哪里", "sentence": {"pinyin": "nǐ zài nǎ lǐ？", "zh": "你在哪里？", "en": "Where are you?"}}, "252": {"id": "252", "word": "哪儿", "sentence": {"pinyin": "nǐ zhù zài nǎr？", "zh": "你住在哪儿？", "en": "Where do you live?"}}, "253": {"id": "253", "word": "哪些", "sentence": {"pinyin": "nǎ xiē shì nǐ de？", "zh": "哪些是你的？", "en": "Which ones are yours?"}}, "254": {"id": "254", "word": "那", "sentence": {"pinyin": "nà shì shén me？", "zh": "那是什么？", "en": "What's that?"}}, "255": {"id": "255", "word": "那边", "sentence": {"pinyin": "tú shū guǎn zài nà bian.", "zh": "图书馆在那边。", "en": "The library is over there."}}, "256": {"id": "256", "word": "那里", "sentence": {"pinyin": "nà lǐ de tiān qì zěn me yàng？", "zh": "那里的天气怎么样？", "en": "What's the weather like there?"}}, "257": {"id": "257", "word": "那儿", "sentence": {"pinyin": "nàr de tián diǎn hěn hǎo chī.", "zh": "那儿的甜点很好吃。", "en": "The desserts there are delicious."}}, "258": {"id": "258", "word": "那些", "sentence": {"pinyin": "nà xiē tián diǎn wǒ dōu xǐ huan.", "zh": "那些甜点我都喜欢。", "en": "I like all those desserts."}}, "259": {"id": "259", "word": "奶", "sentence": {"pinyin": "nǐ xǐ huan hē nǎi chá？", "zh": "你喜欢喝奶茶？", "en": "Do you like to drink milk tea?"}}, "260": {"id": "260", "word": "奶奶", "sentence": {"pinyin": "tā shì yóu nǎi nai dài dà de.", "zh": "他是由奶奶带大的。", "en": "He was brought up by his grandma."}}, "261": {"id": "261", "word": "男", "sentence": {"pinyin": "yī yuàn lǐ nán hù shì hěn shǎo.", "zh": "医院里男护士很少。", "en": "There are very few male nurses in the hospital."}}, "262": {"id": "262", "word": "男孩儿", "sentence": {"pinyin": "nà gè nán háir zhēn kě ài.", "zh": "那个男孩儿真可爱。", "en": "That boy is so cute"}}, "263": {"id": "263", "word": "男朋友", "sentence": {"pinyin": "tā yǒu nán péng you ma？", "zh": "她有男朋友吗？", "en": "Does she have a boyfriend?"}}, "264": {"id": "264", "word": "男人", "sentence": {"pinyin": "nà gè nán rén shì shéi？", "zh": "那个男人是谁？", "en": "Who is that man?"}}, "265": {"id": "265", "word": "男生", "sentence": {"pinyin": "nà gè nán shēng hěn gāo.", "zh": "那个男生很高。", "en": "That boy is tall."}}, "266": {"id": "266", "word": "南", "sentence": {"pinyin": "tā de fáng jiān cháo nán.", "zh": "他的房间朝南。", "en": "His room faces south."}}, "267": {"id": "267", "word": "南边", "sentence": {"pinyin": "chāo shì zài jiǔ diàn nán bian.", "zh": "超市在酒店南边。", "en": "The supermarket is on the south side of the hotel."}}, "268": {"id": "268", "word": "难", "sentence": {"pinyin": "nǐ jué de hàn yǔ nán ma？", "zh": "你觉得汉语难吗？", "en": "Do you think Chinese is difficult?"}}, "269": {"id": "269", "word": "呢", "sentence": {"pinyin": "wǒ yào hē kā fēi， nǐ ne？", "zh": "我要喝咖啡，你呢？", "en": "I want coffee, how about you?"}}, "270": {"id": "270", "word": "能", "sentence": {"pinyin": "tā néng lái.", "zh": "他能来。", "en": "He can come."}}, "271": {"id": "271", "word": "你", "sentence": {"pinyin": "nǐ yǒu xiǎo hái ma？", "zh": "你有小孩吗？", "en": "Do you have children?"}}, "272": {"id": "272", "word": "你们", "sentence": {"pinyin": "nǐ men dōu shì xué sheng ma？", "zh": "你们都是学生吗？", "en": "Are you all students?"}}, "273": {"id": "273", "word": "年", "sentence": {"pinyin": "tā lái zhōng guó wǔ nián le.", "zh": "他来中国五年了。", "en": "He has been in China for five years."}}, "274": {"id": "274", "word": "您", "sentence": {"pinyin": "nín shì nǎ wèi？", "zh": "您是哪位？", "en": "Who are you?"}}, "275": {"id": "275", "word": "牛奶", "sentence": {"pinyin": "bīng xiāng lǐ méi yǒu niú nǎi le.", "zh": "冰箱里没有牛奶了。", "en": "There is no milk in the fridge."}}, "276": {"id": "276", "word": "女", "sentence": {"pinyin": "wǒ men xué xiào yǒu hěn duō nǚ lǎo shī.", "zh": "我们学校有很多女老师。", "en": "There are many female teachers in our school."}}, "277": {"id": "277", "word": "女儿", "sentence": {"pinyin": "nǐ de nǚ'ér jǐ suì le？", "zh": "你的女儿几岁了？", "en": "How old is your daughter?"}}, "278": {"id": "278", "word": "女孩儿", "sentence": {"pinyin": "nǐ rèn shi nà gè nǚ háir ma？", "zh": "你认识那个女孩儿吗？", "en": "Do you know that girl?"}}, "279": {"id": "279", "word": "女朋友", "sentence": {"pinyin": "nǐ yǒu nǚ péng you ma？", "zh": "你有女朋友吗？", "en": "Do you have a girlfriend?"}}, "280": {"id": "280", "word": "女人", "sentence": {"pinyin": "nà gè nǚ rén shì shéi？", "zh": "那个女人是谁？", "en": "Who is that woman?"}}, "281": {"id": "281", "word": "女生", "sentence": {"pinyin": "nà gè nǚ shēng hěn piào liang.", "zh": "那个女生很漂亮。", "en": "That girl is beautiful."}}, "282": {"id": "282", "word": "旁边", "sentence": {"pinyin": "kā fēi guǎn zài jiàn shēn fáng páng biān.", "zh": "咖啡馆在健身房旁边。", "en": "The cafe is next to the gym."}}, "283": {"id": "283", "word": "跑", "sentence": {"pinyin": "tā pǎo de kuài", "zh": "他跑得快。", "en": "He runs fast."}}, "284": {"id": "284", "word": "朋友", "sentence": {"pinyin": "zhè shì wǒ de péng you.", "zh": "这是我的朋友。", "en": "This is my friend."}}, "285": {"id": "285", "word": "票", "sentence": {"pinyin": "nǐ mǎi piào le ma？", "zh": "你买票了吗？", "en": "Have you bought the ticket?"}}, "286": {"id": "286", "word": "七", "sentence": {"pinyin": "wǒ yào xiū xi qī tiān.", "zh": "我要休息七天。", "en": "I'm taking seven days off."}}, "287": {"id": "287", "word": "起", "sentence": {"pinyin": "wǒ míng tiān yào zǎo qǐ.", "zh": "我明天要早起。", "en": "I'm going to get up early tomorrow."}}, "288": {"id": "288", "word": "起床", "sentence": {"pinyin": "nǐ tōng cháng jǐ diǎn qǐ chuáng？", "zh": "你通常几点起床？", "en": "What time do you usually get up?"}}, "289": {"id": "289", "word": "起来", "sentence": {"pinyin": "kuài qǐ lái！ yǐ jīng shí yī diǎn le.", "zh": "快起来！已经十一点了。", "en": "Get up quickly! It's already eleven o'clock."}}, "290": {"id": "290", "word": "汽车", "sentence": {"pinyin": "mǎ lù shàng yǒu hěn duō qì chē.", "zh": "马路上有很多汽车。", "en": "There are many cars on the road."}}, "291": {"id": "291", "word": "前", "sentence": {"pinyin": "nǐ de bāo guǒ zài mén qián.", "zh": "你的包裹在门前。", "en": "Your package is in front of the door."}}, "292": {"id": "292", "word": "前边", "sentence": {"pinyin": "jiǔ diàn qián bian yǒu yī gè gōng yuán.", "zh": "酒店前边有一个公园。", "en": "There is a park in front of the hotel."}}, "293": {"id": "293", "word": "前天", "sentence": {"pinyin": "wǒ qián tiān gěi tā fā le yóu jiàn.", "zh": "我前天给他发了邮件。", "en": "I emailed him the day before yesterday."}}, "294": {"id": "294", "word": "钱", "sentence": {"pinyin": "wǒ méi yǒu qián.", "zh": "我没有钱。", "en": "I don't have money."}}, "295": {"id": "295", "word": "钱包", "sentence": {"pinyin": "wǒ de qián bāo zài chē lǐ.", "zh": "我的钱包在车里。", "en": "My wallet is in the car."}}, "296": {"id": "296", "word": "请", "sentence": {"pinyin": "qǐng huí dá.", "zh": "请回答。", "en": "Please answer."}}, "297": {"id": "297", "word": "请假", "sentence": {"pinyin": "wǒ míng tiān xū yào qǐng jià.", "zh": "我明天需要请假。", "en": "I need to ask for leave tomorrow."}}, "298": {"id": "298", "word": "请进", "sentence": {"pinyin": "qǐng jìn.", "zh": "请进。", "en": "Please come in."}}, "299": {"id": "299", "word": "请问", "sentence": {"pinyin": "qǐng wèn dì tiě zhàn zài nǎ lǐ？", "zh": "请问地铁站在哪里？", "en": "Excuse me, where is the subway station?"}}, "300": {"id": "300", "word": "请坐", "sentence": {"pinyin": "qǐng zuò.", "zh": "请坐。", "en": "Please have a seat."}}, "301": {"id": "301", "word": "球", "sentence": {"pinyin": "zhè shì shén me qiú？", "zh": "这是什么球？", "en": "What type of ball is this?"}}, "302": {"id": "302", "word": "去", "sentence": {"pinyin": "tā qù nǎ lǐ le？", "zh": "他去哪里了？", "en": "Where did he go?"}}, "303": {"id": "303", "word": "去年", "sentence": {"pinyin": "tā qù nián jié hūn le.", "zh": "他去年结婚了。", "en": "He got married last year."}}, "304": {"id": "304", "word": "热", "sentence": {"pinyin": "tài rè le！", "zh": "太热了！", "en": "It's too hot!"}}, "305": {"id": "305", "word": "人", "sentence": {"pinyin": "dì tiě shàng yǒu hěn duō rén.", "zh": "地铁上有很多人。", "en": "There are lots of people on the metro."}}, "306": {"id": "306", "word": "认识", "sentence": {"pinyin": "nǐ rèn shi tā ma？", "zh": "你认识他吗？", "en": "Do you know him?"}}, "307": {"id": "307", "word": "认真", "sentence": {"pinyin": "wǒ shì rèn zhēn de.", "zh": "我是认真的。", "en": "I'm serious."}}, "308": {"id": "308", "word": "日", "sentence": {"pinyin": "jīn tiān shì shí yuè yī rì.", "zh": "今天是十月一日。", "en": "Today is the first day of October."}}, "309": {"id": "309", "word": "日期", "sentence": {"pinyin": "hūn lǐ de rì qī dìng le ma？", "zh": "婚礼的日期定了吗？", "en": "Has the wedding date been set?"}}, "310": {"id": "310", "word": "肉", "sentence": {"pinyin": "nǐ xǐ huan chī ròu ma？", "zh": "你喜欢吃肉吗？", "en": "Do you like to eat meat?"}}, "311": {"id": "311", "word": "三", "sentence": {"pinyin": "wǒ yǒu sān tái shǒu jī.", "zh": "我有三台手机。", "en": "I have three cell phones."}}, "312": {"id": "312", "word": "山", "sentence": {"pinyin": "zhè zuò shān hěn měi.", "zh": "这座山很美。", "en": "This mountain is beautiful."}}, "313": {"id": "313", "word": "商场", "sentence": {"pinyin": "nǐ jiā fù jìn yǒu shāng chǎng ma？", "zh": "你家附近有商场吗？", "en": "Is there a shopping mall near your home?"}}, "314": {"id": "314", "word": "商店", "sentence": {"pinyin": "nǐ xiǎng kāi yī jiā shāng diàn ma？", "zh": "你想开一家商店吗？", "en": "Do you want to open a shop?"}}, "315": {"id": "315", "word": "上", "sentence": {"pinyin": "zhuō shàng yǒu yī xiē miàn bāo.", "zh": "桌上有一些面包。", "en": "There is some bread on the table."}}, "316": {"id": "316", "word": "上班", "sentence": {"pinyin": "nǐ tōng cháng jǐ diǎn shàng bān？", "zh": "你通常几点上班？", "en": "What time do you usually go to work?"}}, "317": {"id": "317", "word": "上边", "sentence": {"pinyin": "nǐ de shū zài bīng xiāng shàng bian.", "zh": "你的书在冰箱上边。", "en": "Your book is on top of the fridege."}}, "318": {"id": "318", "word": "上车", "sentence": {"pinyin": "nǐ shàng chē le ma？", "zh": "你上车了吗？", "en": "Did you get in the car?"}}, "319": {"id": "319", "word": "上次", "sentence": {"pinyin": "nǐ shàng cì chī zhōng guó cài shì shén me shí hou？", "zh": "你上次吃中国菜是什么时候？", "en": "When was the last time you had Chinese food?"}}, "320": {"id": "320", "word": "上课", "sentence": {"pinyin": "nǐ jīn tiān yào shàng kè ma？", "zh": "你今天要上课吗？", "en": "Are you going to have a class today?"}}, "321": {"id": "321", "word": "上网", "sentence": {"pinyin": "nǐ měi tiān shàng wǎng ma？", "zh": "你每天上网吗？", "en": "Do you go online every day?"}}, "322": {"id": "322", "word": "上午", "sentence": {"pinyin": "nǐ míng tiān shàng wǔ yǒu kòng ma？", "zh": "你明天上午有空吗？", "en": "Are you free tomorrow morning?"}}, "323": {"id": "323", "word": "上学", "sentence": {"pinyin": "nǐ zài nǎ lǐ shàng xué？", "zh": "你在哪里上学？", "en": "Where do you go to school?"}}, "324": {"id": "324", "word": "少", "sentence": {"pinyin": "qǐng shǎo fàng dà suàn.", "zh": "请少放大蒜。", "en": "Please put less garlic."}}, "325": {"id": "325", "word": "谁", "sentence": {"pinyin": "shéi zài qiāo mén？", "zh": "谁在敲门？", "en": "Who is knocking on the door?"}}, "326": {"id": "326", "word": "身上", "sentence": {"pinyin": "tā shēn shang yǒu yī zhǐ zhī zhū.", "zh": "他身上有一只蜘蛛。", "en": "There is a spider on him (on his body)."}}, "327": {"id": "327", "word": "身体", "sentence": {"pinyin": "nǐ de shēn tǐ zěn me yàng？", "zh": "你的身体怎么样？", "en": "How is your body? (How is your heath?)"}}, "328": {"id": "328", "word": "什么", "sentence": {"pinyin": "nǐ xiǎng chī shén me？", "zh": "你想吃什么？", "en": "What do you want to eat?"}}, "329": {"id": "329", "word": "生病", "sentence": {"pinyin": "tā méi shēng bìng.", "zh": "他没生病。", "en": "He didn't get sick."}}, "330": {"id": "330", "word": "生气", "sentence": {"pinyin": "bié shēng qì.", "zh": "别生气。", "en": "Don't get angry."}}, "331": {"id": "331", "word": "生日", "sentence": {"pinyin": "shēng rì kuài lè！", "zh": "生日快乐！", "en": "Happy birthday!"}}, "332": {"id": "332", "word": "十", "sentence": {"pinyin": "nǐ xiǎng xiū xi shí tiān ma？", "zh": "你想休息十天吗？", "en": "Do you want to take ten days off?"}}, "333": {"id": "333", "word": "时候", "sentence": {"pinyin": "nà gè shí hou wǒ bù rèn shi tā.", "zh": "那个时候我不认识他。", "en": "I didn't know him at that time."}}, "334": {"id": "334", "word": "时间", "sentence": {"pinyin": "nǐ yǒu shí jiān ma？", "zh": "你有时间吗？", "en": "Do you have time?"}}, "335": {"id": "335", "word": "事", "sentence": {"pinyin": "zhè jiàn shì hěn fù zá.", "zh": "这件事很复杂。", "en": "This thing is complicated."}}, "336": {"id": "336", "word": "试", "sentence": {"pinyin": "wǒ kě yǐ shì yí xià xié zi ma？", "zh": "我可以试一下鞋子吗？", "en": "Can I try on the shoes?"}}, "337": {"id": "337", "word": "是", "sentence": {"pinyin": "nǐ shì xué sheng ma？", "zh": "你是学生吗？", "en": "Are you a student?"}}, "338": {"id": "338", "word": "是不是", "sentence": {"pinyin": "tā shì bú shì lǎo bǎn？", "zh": "他是不是老板？", "en": "Is he the boss?"}}, "339": {"id": "339", "word": "手", "sentence": {"pinyin": "wǒ yào xǐ shǒu.", "zh": "我要洗手。", "en": "I want to wash my hands."}}, "340": {"id": "340", "word": "手机", "sentence": {"pinyin": "wǒ de shǒu jī méi diàn le.", "zh": "我的手机没电了。", "en": "My cell phone is out of battery."}}, "341": {"id": "341", "word": "书", "sentence": {"pinyin": "nǐ xǐ huan kàn shén me shū？", "zh": "你喜欢看什么书？", "en": "What type of books do you like to read?"}}, "342": {"id": "342", "word": "书包", "sentence": {"pinyin": "nǐ de shū bāo lǐ yǒu shén me？", "zh": "你的书包里有什么？", "en": "What's in your school bag?"}}, "343": {"id": "343", "word": "书店", "sentence": {"pinyin": "zhè jiā shū diàn yíng yè èr shí sì xiǎo shí.", "zh": "这家书店营业二十四小时。", "en": "The bookstore is open twenty-four hours."}}, "344": {"id": "344", "word": "树", "sentence": {"pinyin": "zhè shì shén me shù？", "zh": "这是什么树？", "en": "What type of tree is this?"}}, "345": {"id": "345", "word": "水", "sentence": {"pinyin": "nǐ měi tiān hē jǐ bēi shuǐ？", "zh": "你每天喝几杯水？", "en": "How many glasses of water do you drink per day?"}}, "346": {"id": "346", "word": "水果", "sentence": {"pinyin": "nǐ zuì xǐ huan chī shén me shuǐ guǒ？", "zh": "你最喜欢吃什么水果？", "en": "What's your favorite fruit?"}}, "347": {"id": "347", "word": "睡", "sentence": {"pinyin": "nǐ měi tiān shuì duō shao gè xiǎo shí？", "zh": "你每天睡多少个小时？", "en": "How many hours do you sleep per day?"}}, "348": {"id": "348", "word": "睡觉", "sentence": {"pinyin": "nǐ jǐ diǎn shuì jiào？", "zh": "你几点睡觉？", "en": "What time do you sleep?"}}, "349": {"id": "349", "word": "说", "sentence": {"pinyin": "nǐ huì shuō hàn yǔ ma？", "zh": "你会说汉语吗？", "en": "Do you speak Chinese?"}}, "350": {"id": "350", "word": "说话", "sentence": {"pinyin": "bié shuō huà.", "zh": "别说话。", "en": "Don't talk."}}, "351": {"id": "351", "word": "四", "sentence": {"pinyin": "tā hē le sì píng kě lè.", "zh": "他喝了四瓶可乐。", "en": "He drank four bottles of coke."}}, "352": {"id": "352", "word": "送", "sentence": {"pinyin": "nǐ kě yǐ sòng gěi wǒ ma？", "zh": "你可以送给我吗？", "en": "Can you give it to me (as a gift)?"}}, "353": {"id": "353", "word": "岁", "sentence": {"pinyin": "wǒ gē ge sān shí suì le.", "zh": "我哥哥三十岁了。", "en": "My elder brother is thirty years old."}}, "354": {"id": "354", "word": "他", "sentence": {"pinyin": "nǐ tǎo yàn tā ma？", "zh": "你讨厌他吗？", "en": "Do you hate him?"}}, "355": {"id": "355", "word": "他们", "sentence": {"pinyin": "tā men shì tóng xué.", "zh": "他们是同学。", "en": "They are classmates."}}, "356": {"id": "356", "word": "她", "sentence": {"pinyin": "tā shì wǒ nǚ péng you.", "zh": "她是我女朋友。", "en": "She is my girlfriend."}}, "357": {"id": "357", "word": "她们", "sentence": {"pinyin": "tā men shì shuāng bāo tāi.", "zh": "她们是双胞胎。", "en": "They (for females) are twins."}}, "358": {"id": "358", "word": "太", "sentence": {"pinyin": "tài xiǎo le.", "zh": "太小了。", "en": "It's too small."}}, "359": {"id": "359", "word": "天", "sentence": {"pinyin": "wǒ yào chū chāi shí tiān.", "zh": "我要出差十天。", "en": "I'm going on a business trip for ten days."}}, "360": {"id": "360", "word": "天气", "sentence": {"pinyin": "jīn tiān tiān qì zhēn hǎo.", "zh": "今天天气真好。", "en": "The weather is so nice today."}}, "361": {"id": "361", "word": "听", "sentence": {"pinyin": "nǐ xǐ huan tīng zhōng wén gē ma？", "zh": "你喜欢听中文歌吗？", "en": "Do you like to listen to Chinese songs?"}}, "362": {"id": "362", "word": "听到", "sentence": {"pinyin": "nǐ tīng dào le ma？", "zh": "你听到了吗？", "en": "Did you hear it?"}}, "363": {"id": "363", "word": "听见", "sentence": {"pinyin": "nǐ tīng jiàn léi shēng le ma？", "zh": "你听见雷声了吗？", "en": "Did you hear the thunder?"}}, "364": {"id": "364", "word": "听写", "sentence": {"pinyin": "wǒ men yào tīng xiě shēng cí.", "zh": "我们要听写生词。", "en": "We are going to dictate the new words."}}, "365": {"id": "365", "word": "同学", "sentence": {"pinyin": "tā shì wǒ de dà xué tóng xué.", "zh": "她是我的大学同学。", "en": "She is my college classmate."}}, "366": {"id": "366", "word": "图书馆", "sentence": {"pinyin": "tú shū guǎn zài nǎ lǐ？", "zh": "图书馆在哪里？", "en": "Where is the library?"}}, "367": {"id": "367", "word": "外", "sentence": {"pinyin": "nǐ de pī sà zài mén wài.", "zh": "你的披萨在门外。", "en": "Your pizza is outside the door."}}, "368": {"id": "368", "word": "外边", "sentence": {"pinyin": "wài bian fēng hěn dà.", "zh": "外边风很大。", "en": "It's very windy outside."}}, "369": {"id": "369", "word": "外国", "sentence": {"pinyin": "nǐ xǐ huan kàn wài guó diàn yǐng ma？", "zh": "你喜欢看外国电影吗？", "en": "Do you like to watch foreign movies?"}}, "370": {"id": "370", "word": "外语", "sentence": {"pinyin": "nǐ xiǎng xué shén me wài yǔ？", "zh": "你想学什么外语？", "en": "What foreign language do you want to learn?"}}, "371": {"id": "371", "word": "玩儿", "sentence": {"pinyin": "wǒ men yī qǐ wánr ba！", "zh": "我们一起玩儿吧！", "en": "Let's play together！"}}, "372": {"id": "372", "word": "晚", "sentence": {"pinyin": "tài wǎn le.", "zh": "太晚了。", "en": "It's too late"}}, "373": {"id": "373", "word": "晚饭", "sentence": {"pinyin": "wǎn fàn zuò hǎo le.", "zh": "晚饭做好了。", "en": "Dinner is ready."}}, "374": {"id": "374", "word": "晚上", "sentence": {"pinyin": "wǎn shang hǎo！", "zh": "晚上好！", "en": "Good evening!"}}, "375": {"id": "375", "word": "网上", "sentence": {"pinyin": "wǒ men shì zài wǎng shàng rèn shi de.", "zh": "我们是在网上认识的。", "en": "We met online."}}, "376": {"id": "376", "word": "网友", "sentence": {"pinyin": "tā yǒu hěn duō wǎng yǒu.", "zh": "他有很多网友。", "en": "He has many friends on the internet."}}, "377": {"id": "377", "word": "忘", "sentence": {"pinyin": "bié wàng le mǎi miàn bāo.", "zh": "别忘了买面包。", "en": "Don't forget to buy bread."}}, "378": {"id": "378", "word": "忘记", "sentence": {"pinyin": "wǒ bù huì wàng jì de.", "zh": "我不会忘记的。", "en": "I won't forget."}}, "379": {"id": "379", "word": "问", "sentence": {"pinyin": "nǐ kě yǐ wèn lǎo shī.", "zh": "你可以问老师。", "en": "You can ask the teacher."}}, "380": {"id": "380", "word": "我", "sentence": {"pinyin": "nǐ ài wǒ ma？", "zh": "你爱我吗？", "en": "Do you love me?"}}, "381": {"id": "381", "word": "我们", "sentence": {"pinyin": "wǒ men dōu shuō zhōng wén.", "zh": "我们会说中文。", "en": "We can speak Chinese."}}, "382": {"id": "382", "word": "五", "sentence": {"pinyin": "tā xué zhōng wén wǔ nián le.", "zh": "他学中文五年了。", "en": "He has been studying Chinese for five years."}}, "383": {"id": "383", "word": "午饭", "sentence": {"pinyin": "nǐ chī wǔ fàn le ma？", "zh": "你吃午饭了吗？", "en": "Did you have lunch?"}}, "384": {"id": "384", "word": "西", "sentence": {"pinyin": "tā de fáng zi cháo xī.", "zh": "他的房子朝西。", "en": "His house faces west."}}, "385": {"id": "385", "word": "西边", "sentence": {"pinyin": "yī yuàn zài xué xiào xī bian.", "zh": "医院在学校西边。", "en": "The hospital is on the west side of the school."}}, "386": {"id": "386", "word": "洗", "sentence": {"pinyin": "nǐ kě yǐ bāng wǒ xǐ chē ma？", "zh": "你可以帮我洗车吗？", "en": "Can you wash my car for me?"}}, "387": {"id": "387", "word": "洗手间", "sentence": {"pinyin": "xǐ shǒu jiān zài èr lóu.", "zh": "洗手间在二楼。", "en": "The washroom is on the second floor."}}, "388": {"id": "388", "word": "喜欢", "sentence": {"pinyin": "nǐ xǐ huan chī shén me？", "zh": "你喜欢吃什么？", "en": "What do you like to eat?"}}, "389": {"id": "389", "word": "下", "sentence": {"pinyin": "nǐ xià fēi jī le ma？", "zh": "你下飞机了吗？", "en": "Did you get off the plane?"}}, "390": {"id": "390", "word": "下班", "sentence": {"pinyin": "nǐ jǐ diǎn xià bān？", "zh": "你几点下班？", "en": "What time do you get off work?"}}, "391": {"id": "391", "word": "下边", "sentence": {"pinyin": "nǐ de bǐ zài zhuō zi xià bian.", "zh": "你的笔在桌子下边。", "en": "Your pen is under the table."}}, "392": {"id": "392", "word": "下车", "sentence": {"pinyin": "wǒ zài xià yí gè lù kǒu xià chē.", "zh": "我在下一个路口下车。", "en": "I get off at the next intersection."}}, "393": {"id": "393", "word": "下次", "sentence": {"pinyin": "xià cì jiàn！ ", "zh": "下次见！", "en": "See you next time!"}}, "394": {"id": "394", "word": "下课", "sentence": {"pinyin": "nǐ jīn tiān jǐ diǎn xià kè？", "zh": "你今天几点下课？", "en": "What time do you finish class today?"}}, "395": {"id": "395", "word": "下午", "sentence": {"pinyin": "nǐ xià wǔ yǒu kòng ma？", "zh": "你下午有空吗？", "en": "Are you free this afternoon?"}}, "396": {"id": "396", "word": "下雨", "sentence": {"pinyin": "míng tiān huì xià yǔ.", "zh": "明天会下雨。", "en": "It will rain tomorrow."}}, "397": {"id": "397", "word": "先", "sentence": {"pinyin": "wǒ men xiān zuò zuò yè， zài kàn diàn shì.", "zh": "我们先做作业，再看电视。", "en": "We do our homework first and then watch TV."}}, "398": {"id": "398", "word": "先生", "sentence": {"pinyin": "nǐ shì gāo xiān sheng ma？", "zh": "你是高先生吗？", "en": "Are you Mr. Gao?"}}, "399": {"id": "399", "word": "现在", "sentence": {"pinyin": "xiàn zài jǐ diǎn？", "zh": "现在几点？", "en": "What time is it now?"}}, "400": {"id": "400", "word": "想", "sentence": {"pinyin": "wǒ xū yào xiǎng yí xià.", "zh": "我需要想一下。", "en": "I need to think about it."}}, "401": {"id": "401", "word": "小", "sentence": {"pinyin": "wǒ de jiā hěn xiǎo.", "zh": "我的家很小。", "en": "My home is small."}}, "402": {"id": "402", "word": "小孩儿", "sentence": {"pinyin": "nǐ yǒu xiǎo háir ma？", "zh": "你有小孩儿吗？", "en": "Do you have children?"}}, "403": {"id": "403", "word": "小姐", "sentence": {"pinyin": "zhè shì zhào xiǎo jiě.", "zh": "这是赵小姐。", "en": "This is Miss Zhao."}}, "404": {"id": "404", "word": "小朋友", "sentence": {"pinyin": "nà gè xiǎo péng you hěn kě ài.", "zh": "那个小朋友很可爱。", "en": "That kid is so cute."}}, "405": {"id": "405", "word": "小时", "sentence": {"pinyin": "nǐ měi tiān gōng zuò jǐ gè xiǎo shí？", "zh": "你每天工作几个小时？", "en": "How many hours do you work per day?"}}, "406": {"id": "406", "word": "小学", "sentence": {"pinyin": "tā shì xiǎo xué lǎo shī.", "zh": "她是小学老师。", "en": "She is an elementary school teacher."}}, "407": {"id": "407", "word": "小学生", "sentence": {"pinyin": "nà gè xiǎo xué shēng hěn gāo.", "zh": "那个小学生很高。", "en": "That elementary school student is tall."}}, "408": {"id": "408", "word": "笑", "sentence": {"pinyin": "tā zài xiào shén me？", "zh": "他在笑什么？", "en": "What is he laughing at?"}}, "409": {"id": "409", "word": "写", "sentence": {"pinyin": "nǐ huì xiě hàn zì ma？", "zh": "你会写汉字吗？", "en": "Can you write Chinese characters?"}}, "410": {"id": "410", "word": "谢谢", "sentence": {"pinyin": "xiè xie！", "zh": "谢谢！", "en": "Thank you！"}}, "411": {"id": "411", "word": "新", "sentence": {"pinyin": "zhè shì nǐ de xīn shǒu jī ma？", "zh": "这是你的新手机吗？", "en": "Is this your new phone?"}}, "412": {"id": "412", "word": "新年", "sentence": {"pinyin": "xīn nián kuài lè！", "zh": "新年快乐！", "en": "Happy New Year!"}}, "413": {"id": "413", "word": "星期", "sentence": {"pinyin": "wǒ xià gè xīng qī yào bān jiā.", "zh": "我下个星期要搬家。", "en": "I'm moving next week."}}, "414": {"id": "414", "word": "星期日", "sentence": {"pinyin": "wǒ zhè gè xīng qī rì yǒu zhōng wén kè.", "zh": "我这个星期日有中文课。", "en": "I have Chinese class this Sunday."}}, "415": {"id": "415", "word": "星期天", "sentence": {"pinyin": "nǐ zhè gè xīng qī tiān yǒu kòng ma？", "zh": "你这个星期天有空吗？", "en": "Are you free this Sunday?"}}, "416": {"id": "416", "word": "行", "sentence": {"pinyin": "xíng ma？", "zh": "行吗？", "en": "Is it OK?"}}, "417": {"id": "417", "word": "休息", "sentence": {"pinyin": "nǐ yào xiū xi ma？", "zh": "你要休息吗？", "en": "Do you want to rest?"}}, "418": {"id": "418", "word": "学", "sentence": {"pinyin": "nǐ xué zhōng wén duō jiǔ le？", "zh": "你学中文多久了？", "en": "How long have you been studying Chinese?"}}, "419": {"id": "419", "word": "学生", "sentence": {"pinyin": "tā shì yí gè hǎo xué sheng.", "zh": "他是一个好学生。", "en": "He is a good student."}}, "420": {"id": "420", "word": "学习", "sentence": {"pinyin": "nǐ xiǎng xué xí ma？", "zh": "你想学习吗？", "en": "Do you want to study?"}}, "421": {"id": "421", "word": "学校", "sentence": {"pinyin": "zhè gè xué xiào zěn me yàng？", "zh": "这个学校怎么样？", "en": "How is this school?"}}, "422": {"id": "422", "word": "学院", "sentence": {"pinyin": "zhè gè xué yuàn dà ma？", "zh": "这个学院大吗？", "en": "Is this college big?"}}, "423": {"id": "423", "word": "要", "sentence": {"pinyin": "nǐ yào chī qiǎo kè lì ma？", "zh": "你要吃巧克力吗？", "en": "Do you want some chocolate?"}}, "424": {"id": "424", "word": "爷爷", "sentence": {"pinyin": "wǒ yé ye tuì xiū le.", "zh": "我爷爷退休了。", "en": "My grandpa is retired."}}, "425": {"id": "425", "word": "也", "sentence": {"pinyin": "wǒ yě xǐ huan tiào wǔ.", "zh": "我也喜欢跳舞。", "en": "I also like to dance."}}, "426": {"id": "426", "word": "页", "sentence": {"pinyin": "dì jǐ yè？", "zh": "第几页？", "en": "Which page?"}}, "427": {"id": "427", "word": "一", "sentence": {"pinyin": "lì xī lǜ shì bǎi fēn zhī yī.", "zh": "利息率是百分之一。", "en": "The interest rate is one percent."}}, "428": {"id": "428", "word": "衣服", "sentence": {"pinyin": "zhè jiàn yī fu de zhì liàng hěn hǎo.", "zh": "这件衣服的质量很好。", "en": "The quality of these clothes is good."}}, "429": {"id": "429", "word": "医生", "sentence": {"pinyin": "tā shì yī shēng.", "zh": "他是医生。", "en": "He is a doctor."}}, "430": {"id": "430", "word": "医院", "sentence": {"pinyin": "fù jìn yǒu yī yuàn ma？", "zh": "附近有医院吗？", "en": "Is there a hospital nearby?"}}, "431": {"id": "431", "word": "一半", "sentence": {"pinyin": "zhè shì nǐ de yí bàn.", "zh": "这是你的一半。", "en": "This is your half."}}, "432": {"id": "432", "word": "一会儿", "sentence": {"pinyin": "qǐng děng yí huìr.", "zh": "请等一会儿。", "en": "Please wait a moment."}}, "433": {"id": "433", "word": "一块儿", "sentence": {"pinyin": "wǒ men yí kuàir wán ba！", "zh": "我们一块儿玩吧！", "en": "Let's play together!"}}, "434": {"id": "434", "word": "一下儿", "sentence": {"pinyin": "nǐ kě yǐ zhào gù yí xiàr bǎo bǎo ma？ ", "zh": "你可以照顾一下儿宝宝吗？", "en": "Can you look after the baby for a bit?"}}, "435": {"id": "435", "word": "一样", "sentence": {"pinyin": "tā men yí yàng gāo. ", "zh": "他们一样高。", "en": "They are the same height."}}, "436": {"id": "436", "word": "一边", "sentence": {"pinyin": "tā de tóu fa yì biān cháng， yì biān duǎn. ", "zh": "她的头发一边长，一边短。", "en": "Her hair is long on one side and short on the other (one side)."}}, "437": {"id": "437", "word": "一点儿", "sentence": {"pinyin": "wǒ huì shuō yī diǎnr zhōng wén. ", "zh": "我会说一点儿中文。", "en": "I can speak a little bit Chinese."}}, "438": {"id": "438", "word": "一起", "sentence": {"pinyin": "wǒ men yì qǐ qù lǚ xíng ba！", "zh": "我们一起去旅行吧！", "en": "Let's travel together!"}}, "439": {"id": "439", "word": "一些", "sentence": {"pinyin": "tā mǎi le yì xiē yī fu.", "zh": "他买了一些衣服。", "en": "He bought some clothes."}}, "440": {"id": "440", "word": "用", "sentence": {"pinyin": "nǐ huì yòng kuài zi ma？", "zh": "你会用筷子吗？", "en": "Can you use chopsticks?"}}, "441": {"id": "441", "word": "有", "sentence": {"pinyin": "wǒ yǒu yí gè gē ge.", "zh": "我有一个哥哥。", "en": "I have an elder brother."}}, "442": {"id": "442", "word": "有的", "sentence": {"pinyin": "yǒu de rén xǐ huan mǐ fàn， yǒu de rén xǐ huan miàn tiáo.", "zh": "有的人喜欢米饭，有的人喜欢面条。", "en": "Some people like rice, some people like noodles."}}, "443": {"id": "443", "word": "有名", "sentence": {"pinyin": "tā hěn yǒu míng.", "zh": "她很有名。", "en": "She is famous."}}, "444": {"id": "444", "word": "有时候 / 有时", "sentence": {"pinyin": "wǒ yǒu shí hou zài jiā zuò fàn.", "zh": "我有时候在家做饭。", "en": "I sometimes cook at home."}}, "445": {"id": "445", "word": "有（一）些", "sentence": {"pinyin": "yǒu (yì) xiē rén xǐ huan shàng yè bān.", "zh": "有(一)些人喜欢上夜班。", "en": "Some people like to work at night."}}, "446": {"id": "446", "word": "有用", "sentence": {"pinyin": "nǐ jué de zhè gè shì pín yǒu yòng ma？", "zh": "你觉得这个视频有用吗？", "en": "Did you find this video useful?"}}, "447": {"id": "447", "word": "右", "sentence": {"pinyin": "wǒ de yòu shǒu shòu shāng le.", "zh": "我的右手受伤了。", "en": "My right hand is injured."}}, "448": {"id": "448", "word": "右边", "sentence": {"pinyin": "jiǔ diàn zài chē zhàn de yòu bian.", "zh": "酒店在车站的右边。", "en": "The hotel is on the right side of the station."}}, "449": {"id": "449", "word": "雨", "sentence": {"pinyin": "wǒ xǐ huan zài yǔ zhōng sàn bù.", "zh": "我喜欢在雨中散步。", "en": "I like to walk in the rain."}}, "450": {"id": "450", "word": "元", "sentence": {"pinyin": "zhè tiáo kù zi wǔ bǎi yuán.", "zh": "这条裤子五百元。", "en": "The pair of pants costs five hundred yuan."}}, "451": {"id": "451", "word": "远", "sentence": {"pinyin": "nǐ jiā lí dì tiě zhàn yuǎn ma？", "zh": "你家离地铁站远吗？", "en": "Is your home far from the metro station?"}}, "452": {"id": "452", "word": "月", "sentence": {"pinyin": "tā xué zhōng wén liù gè yuè le.", "zh": "他学中文六个月了。", "en": "He has been learning Chinese for 6 months."}}, "453": {"id": "453", "word": "再", "sentence": {"pinyin": "zài zuò yí cì.", "zh": "再做一次。", "en": "Do it again."}}, "454": {"id": "454", "word": "再见", "sentence": {"pinyin": "zài jiàn！", "zh": "再见！", "en": "Goodbye!"}}, "455": {"id": "455", "word": "在", "sentence": {"pinyin": "nǐ zài bàn gōng shì ma？", "zh": "你在办公室吗？", "en": "Are you in the office?"}}, "456": {"id": "456", "word": "在家", "sentence": {"pinyin": "nǐ zài jiā ma？", "zh": "你在家吗？", "en": "Are you at home?"}}, "457": {"id": "457", "word": "早", "sentence": {"pinyin": "wǒ yào zǎo shuì zǎo qǐ.", "zh": "我要早睡早起。", "en": "I want to go to bed early and get up early."}}, "458": {"id": "458", "word": "早饭", "sentence": {"pinyin": "nǐ zǎo fàn chī le shén me？", "zh": "你早饭吃了什么？", "en": "What did you eat for breakfast?"}}, "459": {"id": "459", "word": "早上", "sentence": {"pinyin": "zǎo shang hǎo！", "zh": "早上好！", "en": "Good morning!"}}, "460": {"id": "460", "word": "怎么", "sentence": {"pinyin": "nǐ zhī dào zěn me zuò jiǎo zi ma？", "zh": "你知道怎么做饺子吗？", "en": "Do you know how to make dumplings?"}}, "461": {"id": "461", "word": "站", "sentence": {"pinyin": "wǒ zài huǒ chē zhàn děng nǐ.", "zh": "我在火车站等你。", "en": "I'm waiting for you at the train station."}}, "462": {"id": "462", "word": "找", "sentence": {"pinyin": "wǒ zài zhǎo wǒ de shǒu jī.", "zh": "我在找我的手机。", "en": "I'm looking for my phone."}}, "463": {"id": "463", "word": "找到", "sentence": {"pinyin": "nǐ zhǎo dào gōng zuò le ma？", "zh": "你找到工作了吗？", "en": "Have you found a job?"}}, "464": {"id": "464", "word": "这", "sentence": {"pinyin": "zhè shì wǒ de shǒu jī.", "zh": "这是我的手机。", "en": "This is my cell phone."}}, "465": {"id": "465", "word": "这边", "sentence": {"pinyin": "nǐ de jiào shì zài zhè biān.", "zh": "你的教室在这边。", "en": "Your classroom is here."}}, "466": {"id": "466", "word": "这里", "sentence": {"pinyin": "zhè lǐ de cài hěn hǎo chī.", "zh": "这里的菜很好吃。", "en": "The food here is delicious."}}, "467": {"id": "467", "word": "这儿", "sentence": {"pinyin": "wǒ cháng cháng zài zhèr jiàn shēn.", "zh": "我常常在这儿健身。", "en": "I often work out here."}}, "468": {"id": "468", "word": "这些", "sentence": {"pinyin": "zhè xiē tián diǎn dōu shì nǐ zuò de ma？", "zh": "这些甜点都是你做的吗？", "en": "Did you make all these desserts?"}}, "469": {"id": "469", "word": "着", "sentence": {"pinyin": "tā zhàn zhe.", "zh": "他站着。", "en": "He is standing."}}, "470": {"id": "470", "word": "真", "sentence": {"pinyin": "nǐ zhēn cōng ming.", "zh": "你真聪明。", "en": "You are really smart."}}, "471": {"id": "471", "word": "真的", "sentence": {"pinyin": "zhè xīn wén shì zhēn de ma？", "zh": "这新闻是真的吗？", "en": "Is this news true?"}}, "472": {"id": "472", "word": "正", "sentence": {"pinyin": "wǒ zhèng kāi chē ne.", "zh": "我正开车呢。", "en": "I am driving."}}, "473": {"id": "473", "word": "正在", "sentence": {"pinyin": "wǒ zhèng zài jiàn shēn.", "zh": "我正在健身。", "en": "I'm working out."}}, "474": {"id": "474", "word": "知道", "sentence": {"pinyin": "wǒ bù zhī dào.", "zh": "我不知道。", "en": "I don't know."}}, "475": {"id": "475", "word": "知识", "sentence": {"pinyin": "tā de lì shǐ zhī shi hěn qiǎn bó.", "zh": "他的历史知识很浅薄。", "en": "His historical knowledge is shallow."}}, "476": {"id": "476", "word": "中", "sentence": {"pinyin": "tā zài diàn yǐng zhōng yǎn yí gè mā ma.", "zh": "她在电影中演一个妈妈。", "en": "She plays a mom in the movie."}}, "477": {"id": "477", "word": "中国", "sentence": {"pinyin": "nǐ qù guò zhōng guó ma？", "zh": "你去过中国吗？", "en": "Have you been to China?"}}, "478": {"id": "478", "word": "中间", "sentence": {"pinyin": "wǒ de chē tíng zài zhōng jiān.", "zh": "我的车停在中间。", "en": "My car is parked in the middle."}}, "479": {"id": "479", "word": "中文", "sentence": {"pinyin": "nǐ de zhōng wén zěn me yàng？", "zh": "你的中文怎么样？", "en": "How is your Chinese?"}}, "480": {"id": "480", "word": "中午", "sentence": {"pinyin": "wǒ men zhōng wǔ yī qǐ chī wǔ fàn ba！", "zh": "我们中午一起吃午饭吧！", "en": "Let's have lunch together at noon！"}}, "481": {"id": "481", "word": "中学", "sentence": {"pinyin": "tā shì zhōng xué lǎo shī.", "zh": "他是中学老师。", "en": "He is a middle school teacher."}}, "482": {"id": "482", "word": "中学生", "sentence": {"pinyin": "nà gè zhōng xué shēng hěn gāo.", "zh": "那个中学生很高。", "en": "That middle school student is tall."}}, "483": {"id": "483", "word": "重", "sentence": {"pinyin": "wǒ de xíng lǐ hěn zhòng.", "zh": "我的行李很重。", "en": "My luggage is heavy."}}, "484": {"id": "484", "word": "重要", "sentence": {"pinyin": "hàn yǔ shēng diào hěn zhòng yào.", "zh": "汉语声调很重要。", "en": "Chinese tones are very important."}}, "485": {"id": "485", "word": "住", "sentence": {"pinyin": "nǐ zhù zài nǎ lǐ？", "zh": "你住在哪里？", "en": "Where do you live?"}}, "486": {"id": "486", "word": "准备", "sentence": {"pinyin": "wǒ yào zhǔn bèi wǎn fàn.", "zh": "我要准备晚饭。", "en": "I'm going to prepare dinner."}}, "487": {"id": "487", "word": "桌子", "sentence": {"pinyin": "zhè zhāng zhuō zi duō cháng？", "zh": "这张桌子多长？", "en": "How long is this table?"}}, "488": {"id": "488", "word": "字", "sentence": {"pinyin": "zhè shì shén me zì？", "zh": "这是什么字？", "en": "What character is this?"}}, "489": {"id": "489", "word": "子", "sentence": {"pinyin": "qǐng gěi wǒ yī bǎ dāo zi hé chā zi.", "zh": "请给我一把刀子和叉子。", "en": "Please give me a knife and fork."}}, "490": {"id": "490", "word": "走", "sentence": {"pinyin": "zǒu ba！", "zh": "走吧！", "en": "Let's go!"}}, "491": {"id": "491", "word": "走路", "sentence": {"pinyin": "tā cháng cháng zǒu lù qù xué xiào.", "zh": "他常常走路去学校。", "en": "He often walks to school."}}, "492": {"id": "492", "word": "最", "sentence": {"pinyin": "nǐ zuì xǐ huan nǎ gè jì jié？", "zh": "你最喜欢哪个季节？", "en": "Which season do you like the most?"}}, "493": {"id": "493", "word": "最好", "sentence": {"pinyin": "nǐ zuì hǎo de péng you shì shéi？", "zh": "你最好的朋友是谁？", "en": "Who is your best friend?"}}, "494": {"id": "494", "word": "最后", "sentence": {"pinyin": "jīn tiān shì zuì hòu yī tiān.", "zh": "今天是最后一天。", "en": "Today is the last day."}}, "495": {"id": "495", "word": "昨天", "sentence": {"pinyin": "nǐ zuó tiān jiā bān le ma？", "zh": "你昨天加班了吗？", "en": "Did you work overtime yesterday?"}}, "496": {"id": "496", "word": "左", "sentence": {"pinyin": "nǐ yòng zuǒ shǒu xiě zì ma？", "zh": "你用左手写字吗？", "en": "Do you write with your left hand?"}}, "497": {"id": "497", "word": "左边", "sentence": {"pinyin": "tíng chē chǎng zài chāo shì de zuǒ bian.", "zh": "停车场在超市的左边。", "en": "The parking lot is on the left side of the supermarket."}}, "498": {"id": "498", "word": "坐", "sentence": {"pinyin": "wǒ kě yǐ zuò zài zhè lǐ ma？", "zh": "我可以坐在这里吗？", "en": "Can I sit here?"}}, "499": {"id": "499", "word": "坐下", "sentence": {"pinyin": "wǒ men zuò xià hē bēi chá ba.", "zh": "我们坐下喝杯茶吧。", "en": "Let's sit down and have a cup of tea."}}, "500": {"id": "500", "word": "做", "sentence": {"pinyin": "nǐ xià bān hòu yào zuò shén me？", "zh": "你下班后要做什么？", "en": "What are you going to do after work?"}}}
+{
+    "1": {
+        "id": "1",
+        "word": "爱",
+        "sentence": {
+            "pinyin": "wǒ ài nǐ.",
+            "zh": "我爱你。",
+            "en": "I love you."
+        }
+    },
+    "2": {
+        "id": "2",
+        "word": "爱好",
+        "sentence": {
+            "pinyin": "nǐ de ài hào shì shén me?",
+            "zh": "你的爱好是什么？",
+            "en": "What is your hobby?"
+        }
+    },
+    "3": {
+        "id": "3",
+        "word": "八",
+        "sentence": {
+            "pinyin": "tā bā suì le.",
+            "zh": "他八岁了。",
+            "en": "He is eight years old."
+        }
+    },
+    "4": {
+        "id": "4",
+        "word": "爸爸 / 爸",
+        "sentence": {
+            "pinyin": "zhè shì wǒ bà ba.",
+            "zh": "这是我爸爸。",
+            "en": "This is my dad."
+        }
+    },
+    "5": {
+        "id": "5",
+        "word": "吧",
+        "sentence": {
+            "pinyin": "zǒu ba！",
+            "zh": "走吧！",
+            "en": "Let's go!"
+        }
+    },
+    "6": {
+        "id": "6",
+        "word": "白",
+        "sentence": {
+            "pinyin": "tā xǐ huan bái chèn shān.",
+            "zh": "他喜欢白衬衫。",
+            "en": "He likes white shirts."
+        }
+    },
+    "7": {
+        "id": "7",
+        "word": "白天",
+        "sentence": {
+            "pinyin": "zhè lǐ bái tiān hěn rè.",
+            "zh": "这里白天很热。",
+            "en": "It's really hot here in the daytime."
+        }
+    },
+    "8": {
+        "id": "8",
+        "word": "百",
+        "sentence": {
+            "pinyin": "zhè lǐ yǒu bā bǎi gè xué sheng.",
+            "zh": "这里有八百个学生。",
+            "en": "There are eight hundred students here."
+        }
+    },
+    "9": {
+        "id": "9",
+        "word": "班",
+        "sentence": {
+            "pinyin": "tā zài sì bān.",
+            "zh": "她在四班。",
+            "en": "She's in class four."
+        }
+    },
+    "10": {
+        "id": "10",
+        "word": "半",
+        "sentence": {
+            "pinyin": "wǒ chī le bàn gè dàn gāo.",
+            "zh": "我吃了半个蛋糕。",
+            "en": "I ate half a cake."
+        }
+    },
+    "11": {
+        "id": "11",
+        "word": "半年",
+        "sentence": {
+            "pinyin": "wǒ xué zhōng wén bàn nián le.",
+            "zh": "我学中文半年了。",
+            "en": "I have been learning Chinese for half a year."
+        }
+    },
+    "12": {
+        "id": "12",
+        "word": "半天",
+        "sentence": {
+            "pinyin": "wǒ gōng zuò le bàn tiān.",
+            "zh": "我工作了半天。",
+            "en": "I worked for half a day."
+        }
+    },
+    "13": {
+        "id": "13",
+        "word": "帮",
+        "sentence": {
+            "pinyin": "nǐ kě yǐ bāng wǒ ma？",
+            "zh": "你可以帮我吗？",
+            "en": "Can you help me?"
+        }
+    },
+    "14": {
+        "id": "14",
+        "word": "帮忙",
+        "sentence": {
+            "pinyin": "xiè xie nǐ de bāng máng！",
+            "zh": "谢谢你的帮忙！",
+            "en": "Thank you for your help!"
+        }
+    },
+    "15": {
+        "id": "15",
+        "word": "包",
+        "sentence": {
+            "pinyin": "zhè shì wǒ de bāo.",
+            "zh": "这是我的包。",
+            "en": "This is my bag."
+        }
+    },
+    "16": {
+        "id": "16",
+        "word": "包子",
+        "sentence": {
+            "pinyin": "tā xǐ huan chī bāo zi.",
+            "zh": "他喜欢吃包子。",
+            "en": "He likes to eat buns."
+        }
+    },
+    "17": {
+        "id": "17",
+        "word": "杯",
+        "sentence": {
+            "pinyin": "wǒ yào yī bēi kā fēi.",
+            "zh": "我要一杯咖啡。",
+            "en": "I want a cup of coffee."
+        }
+    },
+    "18": {
+        "id": "18",
+        "word": "杯子",
+        "sentence": {
+            "pinyin": "wǒ yào mǎi zhè gè bēi zi.",
+            "zh": "我要买这个杯子。",
+            "en": "I want to buy this cup."
+        }
+    },
+    "19": {
+        "id": "19",
+        "word": "北",
+        "sentence": {
+            "pinyin": "zhè fáng zi cháo běi.",
+            "zh": "这房子朝北。",
+            "en": "This house faces north."
+        }
+    },
+    "20": {
+        "id": "20",
+        "word": "北边",
+        "sentence": {
+            "pinyin": "tú shū guǎn zài xué xiào de běi biān.",
+            "zh": "图书馆在学校的北边。",
+            "en": "The library is on the north side of the school."
+        }
+    },
+    "21": {
+        "id": "21",
+        "word": "北京",
+        "sentence": {
+            "pinyin": "nǐ qù guò běi jīng ma？",
+            "zh": "你去过北京吗？",
+            "en": "Have you been to Beijing?"
+        }
+    },
+    "22": {
+        "id": "22",
+        "word": "本",
+        "sentence": {
+            "pinyin": "zhè běn shū hěn yǒu yì si.",
+            "zh": "这本书很有意思。",
+            "en": "This book is very interesting. "
+        }
+    },
+    "23": {
+        "id": "23",
+        "word": "本子",
+        "sentence": {
+            "pinyin": "wǒ xū yào yī gè běn zi.",
+            "zh": "我需要一个本子。",
+            "en": "I need a notebook."
+        }
+    },
+    "24": {
+        "id": "24",
+        "word": "比",
+        "sentence": {
+            "pinyin": "tā bǐ wǒ gāo.",
+            "zh": "他比我高。",
+            "en": "He is taller than me."
+        }
+    },
+    "25": {
+        "id": "25",
+        "word": "别",
+        "sentence": {
+            "pinyin": "bié dòng！",
+            "zh": "别动！",
+            "en": "Don't move!"
+        }
+    },
+    "26": {
+        "id": "26",
+        "word": "别的",
+        "sentence": {
+            "pinyin": "yǒu bié de yán sè ma？",
+            "zh": "有别的颜色吗？",
+            "en": "Are there any other colors?"
+        }
+    },
+    "27": {
+        "id": "27",
+        "word": "别人",
+        "sentence": {
+            "pinyin": "tā bú xiàng bié rén.",
+            "zh": "她不像别人。",
+            "en": "She is not like other people."
+        }
+    },
+    "28": {
+        "id": "28",
+        "word": "病",
+        "sentence": {
+            "pinyin": "tā de pí fū bìng hǎo le.",
+            "zh": "他的皮肤病好了。",
+            "en": "His skin disease is cured."
+        }
+    },
+    "29": {
+        "id": "29",
+        "word": "病人",
+        "sentence": {
+            "pinyin": "bìng rén xū yào duō xiū xi.",
+            "zh": "病人需要多休息。",
+            "en": "The patient needs more rest."
+        }
+    },
+    "30": {
+        "id": "30",
+        "word": "不大",
+        "sentence": {
+            "pinyin": "wǒ de fáng zi bú dà.",
+            "zh": "我的房子不大。",
+            "en": "My house is not big."
+        }
+    },
+    "31": {
+        "id": "31",
+        "word": "不对",
+        "sentence": {
+            "pinyin": "nǐ de dá àn bú duì.",
+            "zh": "你的答案不对。",
+            "en": "Your answer is wrong."
+        }
+    },
+    "32": {
+        "id": "32",
+        "word": "不客气",
+        "sentence": {
+            "pinyin": "bú kè qi！",
+            "zh": "不客气！",
+            "en": "You're welcome!"
+        }
+    },
+    "33": {
+        "id": "33",
+        "word": "不用",
+        "sentence": {
+            "pinyin": "bú yòng zháo jí.",
+            "zh": "不用着急。",
+            "en": "There is no need to worry."
+        }
+    },
+    "34": {
+        "id": "34",
+        "word": "不",
+        "sentence": {
+            "pinyin": "tā bù jǐn zhāng.",
+            "zh": "他不紧张。",
+            "en": "He is not nervous."
+        }
+    },
+    "35": {
+        "id": "35",
+        "word": "菜",
+        "sentence": {
+            "pinyin": "tā xǐ huan zhè dào cài.",
+            "zh": "他喜欢这道菜。",
+            "en": "He likes this dish."
+        }
+    },
+    "36": {
+        "id": "36",
+        "word": "茶",
+        "sentence": {
+            "pinyin": "wǒ měi tiān hē chá.",
+            "zh": "我每天喝茶。",
+            "en": "I drink tea every day."
+        }
+    },
+    "37": {
+        "id": "37",
+        "word": "差",
+        "sentence": {
+            "pinyin": "tā de tài dù hěn chà.",
+            "zh": "他的态度很差。",
+            "en": "His attitude is bad."
+        }
+    },
+    "38": {
+        "id": "38",
+        "word": "常",
+        "sentence": {
+            "pinyin": "wǒ cháng diǎn wài mài.",
+            "zh": "我常点外卖。",
+            "en": "I often order takeout."
+        }
+    },
+    "39": {
+        "id": "39",
+        "word": "常常",
+        "sentence": {
+            "pinyin": "wǒ cháng cháng zuò fàn.",
+            "zh": "我常常做饭。",
+            "en": "I often cook."
+        }
+    },
+    "40": {
+        "id": "40",
+        "word": "唱",
+        "sentence": {
+            "pinyin": "tā xǐ huan chàng zhōng wén gē.",
+            "zh": "他喜欢唱中文歌。",
+            "en": "He likes to sing Chinese songs."
+        }
+    },
+    "41": {
+        "id": "41",
+        "word": "唱歌",
+        "sentence": {
+            "pinyin": "tā xǐ huan chàng gē.",
+            "zh": "她喜欢唱歌。",
+            "en": "She likes to sing."
+        }
+    },
+    "42": {
+        "id": "42",
+        "word": "车",
+        "sentence": {
+            "pinyin": "wǒ de chē huài le.",
+            "zh": "我的车坏了。",
+            "en": "My car broke down."
+        }
+    },
+    "43": {
+        "id": "43",
+        "word": "车票",
+        "sentence": {
+            "pinyin": "wǒ yào mǎi yī zhāng chē piào.",
+            "zh": "我要买一张车票。",
+            "en": "I want to buy a ticket."
+        }
+    },
+    "44": {
+        "id": "44",
+        "word": "车上",
+        "sentence": {
+            "pinyin": "wǒ de shǒu jī zài chē shàng.",
+            "zh": "我的手机在车上。",
+            "en": "My phone is in the car."
+        }
+    },
+    "45": {
+        "id": "45",
+        "word": "车站",
+        "sentence": {
+            "pinyin": "wǒ zài chē zhàn.",
+            "zh": "我在车站。",
+            "en": "I'm at the station."
+        }
+    },
+    "46": {
+        "id": "46",
+        "word": "吃",
+        "sentence": {
+            "pinyin": "wǒ yào chī ròu.",
+            "zh": "我要吃肉。",
+            "en": "I want to eat meat."
+        }
+    },
+    "47": {
+        "id": "47",
+        "word": "吃饭",
+        "sentence": {
+            "pinyin": "wǒ yào hé péng you chī fàn.",
+            "zh": "我要和朋友吃饭。",
+            "en": "I'm going to have a meal with my friend."
+        }
+    },
+    "48": {
+        "id": "48",
+        "word": "出",
+        "sentence": {
+            "pinyin": "tā ná chū le qián bāo.",
+            "zh": "她拿出了钱包。",
+            "en": "She took out her wallet."
+        }
+    },
+    "49": {
+        "id": "49",
+        "word": "出来",
+        "sentence": {
+            "pinyin": "tài yáng chū lái le.",
+            "zh": "太阳出来了。",
+            "en": "The sun has come out."
+        }
+    },
+    "50": {
+        "id": "50",
+        "word": "出去",
+        "sentence": {
+            "pinyin": "wǒ měi tiān chū qù sàn bù.",
+            "zh": "我每天出去散步。",
+            "en": "I go out for a walk every day."
+        }
+    },
+    "51": {
+        "id": "51",
+        "word": "穿",
+        "sentence": {
+            "pinyin": "tā xǐ huan chuān duǎn kù.",
+            "zh": "他喜欢穿短裤。",
+            "en": "He likes to wear shorts."
+        }
+    },
+    "52": {
+        "id": "52",
+        "word": "床",
+        "sentence": {
+            "pinyin": "tā tǎng zài chuáng shàng.",
+            "zh": "他躺在床上。",
+            "en": "He is lying on the bed."
+        }
+    },
+    "53": {
+        "id": "53",
+        "word": "次",
+        "sentence": {
+            "pinyin": "wǒ měi zhōu jiàn shēn sì cì.",
+            "zh": "我每周健身四次。",
+            "en": "I work out four times a week."
+        }
+    },
+    "54": {
+        "id": "54",
+        "word": "从",
+        "sentence": {
+            "pinyin": "cóng zhè lǐ dào chē zhàn yào shí fēn zhōng.",
+            "zh": "从这里到车站要十分钟。",
+            "en": "It takes ten minutes from here to the station."
+        }
+    },
+    "55": {
+        "id": "55",
+        "word": "错",
+        "sentence": {
+            "pinyin": "wǒ cuò le.",
+            "zh": "我错了。",
+            "en": "I was wrong."
+        }
+    },
+    "56": {
+        "id": "56",
+        "word": "打",
+        "sentence": {
+            "pinyin": "tā bù dǎ nǚ rén.",
+            "zh": "他不打女人。",
+            "en": "He doesn't hit women. "
+        }
+    },
+    "57": {
+        "id": "57",
+        "word": "打车",
+        "sentence": {
+            "pinyin": "wǒ yào dǎ chē qù fēi jī chǎng.",
+            "zh": "我要打车去飞机场。",
+            "en": "I'm going to take a taxi to the airport."
+        }
+    },
+    "58": {
+        "id": "58",
+        "word": "打电话",
+        "sentence": {
+            "pinyin": "wǒ xū yào dǎ diàn huà gěi gù kè.",
+            "zh": "我需要打电话给顾客。",
+            "en": "I need to make a phone call to the customer."
+        }
+    },
+    "59": {
+        "id": "59",
+        "word": "打开",
+        "sentence": {
+            "pinyin": "qǐng dǎ kāi kōng tiáo.",
+            "zh": "请打开空调。",
+            "en": "Please turn on the air conditioner."
+        }
+    },
+    "60": {
+        "id": "60",
+        "word": "打球",
+        "sentence": {
+            "pinyin": "wǒ xǐ huan hé péng you dǎ qiú.",
+            "zh": "我喜欢和朋友打球。",
+            "en": "I like to play ball with my friends."
+        }
+    },
+    "61": {
+        "id": "61",
+        "word": "大",
+        "sentence": {
+            "pinyin": "tā de fáng zi hěn dà.",
+            "zh": "他的房子很大。",
+            "en": "His house is big."
+        }
+    },
+    "62": {
+        "id": "62",
+        "word": "大学",
+        "sentence": {
+            "pinyin": "wǒ míng nián yào shēn qǐng dà xué.",
+            "zh": "我明年要申请大学。",
+            "en": "I'm going to apply to a university next year."
+        }
+    },
+    "63": {
+        "id": "63",
+        "word": "大学生",
+        "sentence": {
+            "pinyin": "xiàn zài de dà xué shēng yā lì hěn dà.",
+            "zh": "现在的大学生压力很大。",
+            "en": "University students of today are under a lot of pressure."
+        }
+    },
+    "64": {
+        "id": "64",
+        "word": "到",
+        "sentence": {
+            "pinyin": "wǒ wǔ fēn zhōng hòu dào.",
+            "zh": "我五分钟后到。",
+            "en": "I will arrive in five minutes."
+        }
+    },
+    "65": {
+        "id": "65",
+        "word": "得到",
+        "sentence": {
+            "pinyin": "tā xiǎng dé dào jiǎng xué jīn.",
+            "zh": "他想得到奖学金。",
+            "en": "He wants to get the scholarship."
+        }
+    },
+    "66": {
+        "id": "66",
+        "word": "地",
+        "sentence": {
+            "pinyin": "tā shāng xīn de kū le.",
+            "zh": "她伤心地哭了。",
+            "en": "She cried sadly."
+        }
+    },
+    "67": {
+        "id": "67",
+        "word": "的",
+        "sentence": {
+            "pinyin": "zhè shì ào lì de shǒu jī.",
+            "zh": "这是奥利的手机。",
+            "en": "This is Ollie's phone."
+        }
+    },
+    "68": {
+        "id": "68",
+        "word": "等",
+        "sentence": {
+            "pinyin": "wǒ huì děng nǐ de.",
+            "zh": "我会等你的。",
+            "en": "I will wait for you."
+        }
+    },
+    "69": {
+        "id": "69",
+        "word": "地",
+        "sentence": {
+            "pinyin": "yào shi zài dì shang.",
+            "zh": "钥匙在地上。",
+            "en": "The key is on the ground."
+        }
+    },
+    "70": {
+        "id": "70",
+        "word": "地点",
+        "sentence": {
+            "pinyin": "huì yì dì diǎn zài nǎ lǐ？",
+            "zh": "会议地点在哪里？",
+            "en": "Where's the meeting location?"
+        }
+    },
+    "71": {
+        "id": "71",
+        "word": "地方",
+        "sentence": {
+            "pinyin": "zhè gè dì fang zhēn piào liang.",
+            "zh": "这个地方真漂亮。",
+            "en": "This place is so beautiful."
+        }
+    },
+    "72": {
+        "id": "72",
+        "word": "地上",
+        "sentence": {
+            "pinyin": "dì shang yǒu hěn duō shuǐ.",
+            "zh": "地上有很多水。",
+            "en": "There is a lot of water on the ground."
+        }
+    },
+    "73": {
+        "id": "73",
+        "word": "地图",
+        "sentence": {
+            "pinyin": "zhè shì zhōng guó dì tú.",
+            "zh": "这是中国地图。",
+            "en": "This is a map of China."
+        }
+    },
+    "74": {
+        "id": "74",
+        "word": "弟弟 / 弟",
+        "sentence": {
+            "pinyin": "wǒ yǒu yí gè dì di.",
+            "zh": "我有一个弟弟。",
+            "en": "I have a younger brother."
+        }
+    },
+    "75": {
+        "id": "75",
+        "word": "第...",
+        "sentence": {
+            "pinyin": "zhè shì wǒ dì wǔ cì lái zhōng guó.",
+            "zh": "这是我第五次来中国。",
+            "en": "This is my fifth visit to China."
+        }
+    },
+    "76": {
+        "id": "76",
+        "word": "点",
+        "sentence": {
+            "pinyin": "xiàn zài sān diǎn le.",
+            "zh": "现在三点了。",
+            "en": "It's three o'clock now."
+        }
+    },
+    "77": {
+        "id": "77",
+        "word": "电",
+        "sentence": {
+            "pinyin": "méi yǒu diàn.",
+            "zh": "没有电。",
+            "en": "No electricity."
+        }
+    },
+    "78": {
+        "id": "78",
+        "word": "电话",
+        "sentence": {
+            "pinyin": "nǐ de diàn huà hào mǎ shì duō shao？",
+            "zh": "你的电话号码是多少？",
+            "en": "What is your phone number?"
+        }
+    },
+    "79": {
+        "id": "79",
+        "word": "电脑",
+        "sentence": {
+            "pinyin": "wǒ yào mǎi yī tái diàn nǎo.",
+            "zh": "我要买一台电脑。",
+            "en": "I want to buy a computer."
+        }
+    },
+    "80": {
+        "id": "80",
+        "word": "电视",
+        "sentence": {
+            "pinyin": "tā měi tiān kàn diàn shì.",
+            "zh": "他每天看电视。",
+            "en": "He watches TV every day."
+        }
+    },
+    "81": {
+        "id": "81",
+        "word": "电视机",
+        "sentence": {
+            "pinyin": "wǒ de diàn shì jī huài le.",
+            "zh": "我的电视机坏了。",
+            "en": "My TV is broken."
+        }
+    },
+    "82": {
+        "id": "82",
+        "word": "电影",
+        "sentence": {
+            "pinyin": "wǒ zuó tiān kàn le yí bù diàn yǐng.",
+            "zh": "我昨天看了一部电影。",
+            "en": "I watched a movie yesterday."
+        }
+    },
+    "83": {
+        "id": "83",
+        "word": "电影院",
+        "sentence": {
+            "pinyin": "diàn yǐng yuàn zài nǎ lǐ？",
+            "zh": "电影院在哪里？",
+            "en": "Where is the cinema?"
+        }
+    },
+    "84": {
+        "id": "84",
+        "word": "东",
+        "sentence": {
+            "pinyin": "fáng zi cháo dōng.",
+            "zh": "房子朝东。",
+            "en": "The house faces east."
+        }
+    },
+    "85": {
+        "id": "85",
+        "word": "东边",
+        "sentence": {
+            "pinyin": "chē kù zài fáng zi de dōng bian.",
+            "zh": "车库在房子的东边。",
+            "en": "The garage is on the east side of the house."
+        }
+    },
+    "86": {
+        "id": "86",
+        "word": "东西",
+        "sentence": {
+            "pinyin": "tā mǎi le hěn duō dōng xi.",
+            "zh": "他买了很多东西。",
+            "en": "He bought a lot of things."
+        }
+    },
+    "87": {
+        "id": "87",
+        "word": "动",
+        "sentence": {
+            "pinyin": "bié dòng.",
+            "zh": "别动。",
+            "en": "Don't move."
+        }
+    },
+    "88": {
+        "id": "88",
+        "word": "动作",
+        "sentence": {
+            "pinyin": "tā xǐ huan kàn dòng zuò piàn.",
+            "zh": "他喜欢看动作片。",
+            "en": "He likes to watch action movies."
+        }
+    },
+    "89": {
+        "id": "89",
+        "word": "都",
+        "sentence": {
+            "pinyin": "wǒ men dōu shì péng you.",
+            "zh": "我们都是朋友。",
+            "en": "We are all friends."
+        }
+    },
+    "90": {
+        "id": "90",
+        "word": "读",
+        "sentence": {
+            "pinyin": "qǐng dú zhè jù huà.",
+            "zh": "请读这句话。",
+            "en": "Please read this sentence."
+        }
+    },
+    "91": {
+        "id": "91",
+        "word": "读书",
+        "sentence": {
+            "pinyin": "tā xǐ huan dú shū.",
+            "zh": "他喜欢读书。",
+            "en": "He likes reading."
+        }
+    },
+    "92": {
+        "id": "92",
+        "word": "对",
+        "sentence": {
+            "pinyin": "nǐ zuò duì le.",
+            "zh": "你做对了。",
+            "en": "You did it right."
+        }
+    },
+    "93": {
+        "id": "93",
+        "word": "对不起",
+        "sentence": {
+            "pinyin": "duì bu qǐ.",
+            "zh": "对不起。",
+            "en": "Sorry."
+        }
+    },
+    "94": {
+        "id": "94",
+        "word": "多",
+        "sentence": {
+            "pinyin": "hē lǜ chá hǎo chù duō.",
+            "zh": "喝绿茶好处多。",
+            "en": "Drinking green tea has many benefits."
+        }
+    },
+    "95": {
+        "id": "95",
+        "word": "多少",
+        "sentence": {
+            "pinyin": "zhè gè duō shao qián？",
+            "zh": "这个多少钱？",
+            "en": "How much is this?"
+        }
+    },
+    "96": {
+        "id": "96",
+        "word": "饿",
+        "sentence": {
+            "pinyin": "wǒ è le.",
+            "zh": "我饿了。",
+            "en": "I'm hungry."
+        }
+    },
+    "97": {
+        "id": "97",
+        "word": "儿子",
+        "sentence": {
+            "pinyin": "nǐ de ér zi zhēn kě ài.",
+            "zh": "你的儿子真可爱。",
+            "en": "Your son is so cute."
+        }
+    },
+    "98": {
+        "id": "98",
+        "word": "二",
+        "sentence": {
+            "pinyin": "lì xī lǜ shì bǎi fēn zhī èr.",
+            "zh": "利息率是百分之二。",
+            "en": "The interest rate is two percent."
+        }
+    },
+    "99": {
+        "id": "99",
+        "word": "饭",
+        "sentence": {
+            "pinyin": "wǒ chī le sān wǎn fàn.",
+            "zh": "我吃了三碗饭。",
+            "en": "I ate three bowls of rice."
+        }
+    },
+    "100": {
+        "id": "100",
+        "word": "饭店",
+        "sentence": {
+            "pinyin": "zhè jiā fàn diàn de cài hěn guì.",
+            "zh": "这家饭店的菜很贵。",
+            "en": "The food in this restaurant is expensive."
+        }
+    },
+    "101": {
+        "id": "101",
+        "word": "房间",
+        "sentence": {
+            "pinyin": "wǒ de fáng jiān hěn luàn.",
+            "zh": "我的房间很乱。",
+            "en": "My room is messy."
+        }
+    },
+    "102": {
+        "id": "102",
+        "word": "房子",
+        "sentence": {
+            "pinyin": "tā de fáng zi hěn hǎo.",
+            "zh": "他的房子很好。",
+            "en": "His house is nice."
+        }
+    },
+    "103": {
+        "id": "103",
+        "word": "放",
+        "sentence": {
+            "pinyin": "wǒ bǎ qián fàng zài qián bāo lǐ.",
+            "zh": "我把钱放在钱包里。",
+            "en": "I put the money in my wallet."
+        }
+    },
+    "104": {
+        "id": "104",
+        "word": "放假",
+        "sentence": {
+            "pinyin": "nǐ xiǎng fàng jià ma？",
+            "zh": "你想放假吗？",
+            "en": "Do you want to have a holiday?"
+        }
+    },
+    "105": {
+        "id": "105",
+        "word": "放学",
+        "sentence": {
+            "pinyin": "tā měi tiān sì diǎn fàng xué.",
+            "zh": "他每天四点放学。",
+            "en": "He finishes school at four o'clock every day."
+        }
+    },
+    "106": {
+        "id": "106",
+        "word": "飞",
+        "sentence": {
+            "pinyin": "nǐ huì fēi ma？",
+            "zh": "你会飞吗？",
+            "en": "Can you fly?"
+        }
+    },
+    "107": {
+        "id": "107",
+        "word": "飞机",
+        "sentence": {
+            "pinyin": "tā xiǎng mǎi yī jià fēi jī.",
+            "zh": "他想买一架飞机。",
+            "en": "He wants to buy a plane."
+        }
+    },
+    "108": {
+        "id": "108",
+        "word": "非常",
+        "sentence": {
+            "pinyin": "fēi cháng hǎo！",
+            "zh": "非常好！",
+            "en": "Very good!"
+        }
+    },
+    "109": {
+        "id": "109",
+        "word": "分",
+        "sentence": {
+            "pinyin": "tā shù xué kǎo shì dé le bā shí fēn.",
+            "zh": "他数学考试得了八十分。",
+            "en": "He got eighty points on his math test."
+        }
+    },
+    "110": {
+        "id": "110",
+        "word": "风",
+        "sentence": {
+            "pinyin": "jīn tiān méi yǒu fēng.",
+            "zh": "今天没有风。",
+            "en": "There is no wind today."
+        }
+    },
+    "111": {
+        "id": "111",
+        "word": "干",
+        "sentence": {
+            "pinyin": "wà zi gān le.",
+            "zh": "袜子干了。",
+            "en": "The socks are dry."
+        }
+    },
+    "112": {
+        "id": "112",
+        "word": "干净",
+        "sentence": {
+            "pinyin": "tā de jiā hěn gān jìng.",
+            "zh": "她的家很干净。",
+            "en": "Her home is clean."
+        }
+    },
+    "113": {
+        "id": "113",
+        "word": "干",
+        "sentence": {
+            "pinyin": "nǐ bì yè hòu xiǎng gàn shén me？",
+            "zh": "你毕业后想干什么？",
+            "en": "What do you want to do after graduation?"
+        }
+    },
+    "114": {
+        "id": "114",
+        "word": "干什么",
+        "sentence": {
+            "pinyin": "nǐ zài gàn shén me？",
+            "zh": "你在干什么？",
+            "en": "What are you doing?"
+        }
+    },
+    "115": {
+        "id": "115",
+        "word": "高",
+        "sentence": {
+            "pinyin": "zhè zuò shān hěn gāo.",
+            "zh": "这座山很高。",
+            "en": "This mountain is very high."
+        }
+    },
+    "116": {
+        "id": "116",
+        "word": "高兴",
+        "sentence": {
+            "pinyin": "wǒ hěn gāo xìng.",
+            "zh": "我很高兴。",
+            "en": "I'm happy."
+        }
+    },
+    "117": {
+        "id": "117",
+        "word": "告诉",
+        "sentence": {
+            "pinyin": "bié gào su tā.",
+            "zh": "别告诉她。",
+            "en": "Don't tell her."
+        }
+    },
+    "118": {
+        "id": "118",
+        "word": "哥哥 / 哥",
+        "sentence": {
+            "pinyin": "wǒ gē ge shì lǎo shī.",
+            "zh": "我哥哥是老师。",
+            "en": "My elder brother is a teacher."
+        }
+    },
+    "119": {
+        "id": "119",
+        "word": "歌",
+        "sentence": {
+            "pinyin": "nǐ huì chàng zhè shǒu gē ma？",
+            "zh": "你会唱这首歌吗？",
+            "en": "Can you sing this song?"
+        }
+    },
+    "120": {
+        "id": "120",
+        "word": "个",
+        "sentence": {
+            "pinyin": "wǒ yào mǎi wǔ gè xī guā.",
+            "zh": "我要买五个西瓜。",
+            "en": "I want to buy five watermelons."
+        }
+    },
+    "121": {
+        "id": "121",
+        "word": "给",
+        "sentence": {
+            "pinyin": "qǐng gěi wǒ yī bēi shuǐ.",
+            "zh": "请给我一杯水。",
+            "en": "Please give me a glass of water."
+        }
+    },
+    "122": {
+        "id": "122",
+        "word": "跟",
+        "sentence": {
+            "pinyin": "wǒ gēn nǐ yī qǐ qù.",
+            "zh": "我跟你一起去。",
+            "en": "I will go with you."
+        }
+    },
+    "123": {
+        "id": "123",
+        "word": "工人",
+        "sentence": {
+            "pinyin": "gōng rén dōu xià bān le.",
+            "zh": "工人都下班了。",
+            "en": "The workers are all off work."
+        }
+    },
+    "124": {
+        "id": "124",
+        "word": "工作",
+        "sentence": {
+            "pinyin": "wǒ jīn tiān de gōng zuò hěn duō.",
+            "zh": "我今天的工作很多。",
+            "en": "I have a lot of work today."
+        }
+    },
+    "125": {
+        "id": "125",
+        "word": "关",
+        "sentence": {
+            "pinyin": "qǐng guān mén.",
+            "zh": "请关门。",
+            "en": "Please close the door."
+        }
+    },
+    "126": {
+        "id": "126",
+        "word": "关上",
+        "sentence": {
+            "pinyin": "jì dé bǎ shǒu jī guān shang.",
+            "zh": "记得把手机关上。",
+            "en": "Remember to turn off your cell phone."
+        }
+    },
+    "127": {
+        "id": "127",
+        "word": "贵",
+        "sentence": {
+            "pinyin": "fáng zū tài guì le.",
+            "zh": "房租太贵了。",
+            "en": "The rent is too expensive."
+        }
+    },
+    "128": {
+        "id": "128",
+        "word": "国",
+        "sentence": {
+            "pinyin": "nǐ shì nǎ guó rén？",
+            "zh": "你是哪国人？",
+            "en": "Which country are you from?"
+        }
+    },
+    "129": {
+        "id": "129",
+        "word": "国家",
+        "sentence": {
+            "pinyin": "zhōng guó shì yī gè lì shǐ yōu jiǔ de guó jiā.",
+            "zh": "中国是一个历史悠久的国家。",
+            "en": "China is a country with a long history."
+        }
+    },
+    "130": {
+        "id": "130",
+        "word": "国外",
+        "sentence": {
+            "pinyin": "tā zài guó wài xué xí.",
+            "zh": "他在国外学习。",
+            "en": "He is studying abroad."
+        }
+    },
+    "131": {
+        "id": "131",
+        "word": "过",
+        "sentence": {
+            "pinyin": "tā guò le kǒu yǔ kǎo shì.",
+            "zh": "他过了口语考试。",
+            "en": "He passed the speaking test."
+        }
+    },
+    "132": {
+        "id": "132",
+        "word": "还",
+        "sentence": {
+            "pinyin": "wǒ hái méi zuò wán.",
+            "zh": "我还没做完。",
+            "en": "I'm not done yet."
+        }
+    },
+    "133": {
+        "id": "133",
+        "word": "还是",
+        "sentence": {
+            "pinyin": "nǐ yào kā fēi hái shì chá？",
+            "zh": "你要咖啡还是茶？",
+            "en": "Do you want coffee or tea?"
+        }
+    },
+    "134": {
+        "id": "134",
+        "word": "还有",
+        "sentence": {
+            "pinyin": "dǒng shǒu yǔ de，chú le wǒ hái yǒu sān gè rén.",
+            "zh": "懂手语的，除了我还有三个人。",
+            "en": "There are three people besides me who know sign language."
+        }
+    },
+    "135": {
+        "id": "135",
+        "word": "孩子",
+        "sentence": {
+            "pinyin": "tā yǒu wǔ gè hái zi.",
+            "zh": "她有五个孩子。",
+            "en": "She has five children."
+        }
+    },
+    "136": {
+        "id": "136",
+        "word": "汉语",
+        "sentence": {
+            "pinyin": "tā huì shuō hàn yǔ.",
+            "zh": "他会说汉语。",
+            "en": "He can speak Mandarin Chinese."
+        }
+    },
+    "137": {
+        "id": "137",
+        "word": "汉字",
+        "sentence": {
+            "pinyin": "tā jīn tiān xué le shí gè hàn zì.",
+            "zh": "他今天学了十个汉字。",
+            "en": "He learned ten Chinese characters today."
+        }
+    },
+    "138": {
+        "id": "138",
+        "word": "好",
+        "sentence": {
+            "pinyin": "tā shì yí gè hǎo lǎo shī.",
+            "zh": "她是一个好老师。",
+            "en": "She is a good teacher."
+        }
+    },
+    "139": {
+        "id": "139",
+        "word": "好吃",
+        "sentence": {
+            "pinyin": "zhè qiǎo kè lì zhēn hǎo chī.",
+            "zh": "这巧克力真好吃。",
+            "en": "This chocolate is so delicious."
+        }
+    },
+    "140": {
+        "id": "140",
+        "word": "好看",
+        "sentence": {
+            "pinyin": "zhè gè hǎo kàn ma？",
+            "zh": "这个好看吗？",
+            "en": "Does this look good?"
+        }
+    },
+    "141": {
+        "id": "141",
+        "word": "好听",
+        "sentence": {
+            "pinyin": "zhè shǒu gē hǎo tīng ma？",
+            "zh": "这首歌好听吗？",
+            "en": "Is this song good (pleasant to hear)?"
+        }
+    },
+    "142": {
+        "id": "142",
+        "word": "好玩儿",
+        "sentence": {
+            "pinyin": "zhè gè yóu xì zhēn hǎo wánr.",
+            "zh": "这个游戏真好玩儿。 ",
+            "en": "This game is really fun."
+        }
+    },
+    "143": {
+        "id": "143",
+        "word": "号",
+        "sentence": {
+            "pinyin": "jīn tiān jǐ hào？",
+            "zh": "今天几号？",
+            "en": "What's the date today?"
+        }
+    },
+    "144": {
+        "id": "144",
+        "word": "喝",
+        "sentence": {
+            "pinyin": "nǐ hē kā fēi ma?",
+            "zh": "你喝咖啡吗?",
+            "en": "Do you drink coffee?"
+        }
+    },
+    "145": {
+        "id": "145",
+        "word": "和",
+        "sentence": {
+            "pinyin": "wǒ xǐ huan hēi sè hé bái sè.",
+            "zh": "我喜欢黑色和白色。",
+            "en": "I like black and white."
+        }
+    },
+    "146": {
+        "id": "146",
+        "word": "很",
+        "sentence": {
+            "pinyin": "tā de chē hěn guì.",
+            "zh": "她的车很贵。",
+            "en": "Her car is (very) expensive."
+        }
+    },
+    "147": {
+        "id": "147",
+        "word": "后",
+        "sentence": {
+            "pinyin": "xià bān hòu，nǐ lái wǒ jiā.",
+            "zh": "下班后，你来我家。",
+            "en": "After work, you come to my place."
+        }
+    },
+    "148": {
+        "id": "148",
+        "word": "后边",
+        "sentence": {
+            "pinyin": "chē zhàn zài jiǔ diàn hòu bian.",
+            "zh": "车站在酒店后边。",
+            "en": "The station is behind the hotel."
+        }
+    },
+    "149": {
+        "id": "149",
+        "word": "后天",
+        "sentence": {
+            "pinyin": "wǒ hòu tiān qù hǎi nán.",
+            "zh": "我后天去海南。",
+            "en": "I'm going to Hainan the day after tomorrow."
+        }
+    },
+    "150": {
+        "id": "150",
+        "word": "花",
+        "sentence": {
+            "pinyin": "nǐ xǐ huan zhè duǒ huā ma？",
+            "zh": "你喜欢这朵花吗？",
+            "en": "Do you like this flower?"
+        }
+    },
+    "151": {
+        "id": "151",
+        "word": "话",
+        "sentence": {
+            "pinyin": "wǒ bù míng bai tā de huà.",
+            "zh": "我不明白他的话。",
+            "en": "I don't understand his words."
+        }
+    },
+    "152": {
+        "id": "152",
+        "word": "坏",
+        "sentence": {
+            "pinyin": "xī yān shì gè huài xí guàn.",
+            "zh": "吸烟是个坏习惯。",
+            "en": "Smoking is a bad habit."
+        }
+    },
+    "153": {
+        "id": "153",
+        "word": "还",
+        "sentence": {
+            "pinyin": "nǐ shén me shí hou hái chē？",
+            "zh": "你什么时候还车？",
+            "en": "When will you return the car?"
+        }
+    },
+    "154": {
+        "id": "154",
+        "word": "回",
+        "sentence": {
+            "pinyin": "nǐ shén me shí hou huí zhōng guó？",
+            "zh": "你什么时候回中国？",
+            "en": "When will you go back to China?"
+        }
+    },
+    "155": {
+        "id": "155",
+        "word": "回答",
+        "sentence": {
+            "pinyin": "qǐng nǐ huí dá.",
+            "zh": "请你回答。",
+            "en": "Please answer."
+        }
+    },
+    "156": {
+        "id": "156",
+        "word": "回到",
+        "sentence": {
+            "pinyin": "tā xiǎng huí dào shàng hǎi.",
+            "zh": "他想回到上海。",
+            "en": "He wants to return to Shanghai."
+        }
+    },
+    "157": {
+        "id": "157",
+        "word": "回家",
+        "sentence": {
+            "pinyin": "nǐ jǐ diǎn huí jiā？",
+            "zh": "你几点回家？",
+            "en": "What time do you go home?"
+        }
+    },
+    "158": {
+        "id": "158",
+        "word": "回来",
+        "sentence": {
+            "pinyin": "nǐ shén me shí hou huí lái？",
+            "zh": "你什么时候回来？",
+            "en": "When will you come back?"
+        }
+    },
+    "159": {
+        "id": "159",
+        "word": "回去",
+        "sentence": {
+            "pinyin": "nǐ zěn me huí qù？",
+            "zh": "你怎么回去？",
+            "en": "How do you go back?"
+        }
+    },
+    "160": {
+        "id": "160",
+        "word": "会",
+        "sentence": {
+            "pinyin": "nǐ huì shuō zhōng wén ma？",
+            "zh": "你会说中文吗？",
+            "en": "Can you speak Chinese?"
+        }
+    },
+    "161": {
+        "id": "161",
+        "word": "火车",
+        "sentence": {
+            "pinyin": "wǒ zuò huǒ chē qù shēn zhèn.",
+            "zh": "我坐火车去深圳。",
+            "en": "I take the train to Shenzhen."
+        }
+    },
+    "162": {
+        "id": "162",
+        "word": "机场",
+        "sentence": {
+            "pinyin": "wǒ zài jī chǎng.",
+            "zh": "我在机场。",
+            "en": "I'm at the airport."
+        }
+    },
+    "163": {
+        "id": "163",
+        "word": "机票",
+        "sentence": {
+            "pinyin": "nǐ dìng jī piào le ma？",
+            "zh": "你订机票了吗？",
+            "en": "Have you booked an air ticket?"
+        }
+    },
+    "164": {
+        "id": "164",
+        "word": "鸡蛋",
+        "sentence": {
+            "pinyin": "nǐ xǐ huan chī jī dàn ma？",
+            "zh": "你喜欢吃鸡蛋吗？",
+            "en": "Do you like to eat eggs?"
+        }
+    },
+    "165": {
+        "id": "165",
+        "word": "几",
+        "sentence": {
+            "pinyin": "nǐ yào jǐ bēi kā fēi？",
+            "zh": "你要几杯咖啡？",
+            "en": "How many cups of coffee do you want?"
+        }
+    },
+    "166": {
+        "id": "166",
+        "word": "记",
+        "sentence": {
+            "pinyin": "qǐng jì xià zhè xiē hàn zì.",
+            "zh": "请记下这些汉字。",
+            "en": "Please note down these Chinese characters."
+        }
+    },
+    "167": {
+        "id": "167",
+        "word": "记得",
+        "sentence": {
+            "pinyin": "nǐ jì de wǒ ma？",
+            "zh": "你记得我吗？",
+            "en": "Do you remember me?"
+        }
+    },
+    "168": {
+        "id": "168",
+        "word": "记住",
+        "sentence": {
+            "pinyin": "wǒ huì jì zhù de.",
+            "zh": "我会记住的。",
+            "en": "I will remember."
+        }
+    },
+    "169": {
+        "id": "169",
+        "word": "家",
+        "sentence": {
+            "pinyin": "wǒ zài jiā zài pǔ dōng.",
+            "zh": "我的家在浦东。",
+            "en": "My home is in Pudong."
+        }
+    },
+    "170": {
+        "id": "170",
+        "word": "家里",
+        "sentence": {
+            "pinyin": "wǒ de yào shi zài jiā lǐ.",
+            "zh": "我的钥匙在家里。",
+            "en": "My keys are at home."
+        }
+    },
+    "171": {
+        "id": "171",
+        "word": "家人",
+        "sentence": {
+            "pinyin": "nǐ de jiā rén hǎo ma？",
+            "zh": "你的家人好吗？",
+            "en": "How is your family?"
+        }
+    },
+    "172": {
+        "id": "172",
+        "word": "间",
+        "sentence": {
+            "pinyin": "wǒ yào dìng sān jiān dān rén fáng.",
+            "zh": "我要订三间单人房。",
+            "en": "I want to book three single rooms."
+        }
+    },
+    "173": {
+        "id": "173",
+        "word": "见",
+        "sentence": {
+            "pinyin": "nǐ xiǎng jiàn wǒ ma？",
+            "zh": "你想见我吗？",
+            "en": "Do you want to see me?"
+        }
+    },
+    "174": {
+        "id": "174",
+        "word": "见面",
+        "sentence": {
+            "pinyin": "wǒ men zài nǎ lǐ jiàn miàn？",
+            "zh": "我们在哪里见面？",
+            "en": "Where shall we meet?"
+        }
+    },
+    "175": {
+        "id": "175",
+        "word": "教",
+        "sentence": {
+            "pinyin": "nǐ kě yǐ jiāo wǒ ma？",
+            "zh": "你可以教我吗？",
+            "en": "Can you teach me?"
+        }
+    },
+    "176": {
+        "id": "176",
+        "word": "叫",
+        "sentence": {
+            "pinyin": "nǐ kě yǐ jiào wǒ Angel.",
+            "zh": "你可以叫我Angel。",
+            "en": "You can call me Angel."
+        }
+    },
+    "177": {
+        "id": "177",
+        "word": "教学楼",
+        "sentence": {
+            "pinyin": "wǒ de shū zài jiào xué lóu.",
+            "zh": "我的书在教学楼。",
+            "en": "My book is in the teaching building."
+        }
+    },
+    "178": {
+        "id": "178",
+        "word": "姐姐 / 姐",
+        "sentence": {
+            "pinyin": "wǒ jiě jie shì hù shì.",
+            "zh": "我姐姐是护士。",
+            "en": "My elder sister is a nurse."
+        }
+    },
+    "179": {
+        "id": "179",
+        "word": "介绍",
+        "sentence": {
+            "pinyin": "ràng wǒ jiè shào yí xià.",
+            "zh": "让我介绍一下。",
+            "en": "Let me introduce."
+        }
+    },
+    "180": {
+        "id": "180",
+        "word": "今年",
+        "sentence": {
+            "pinyin": "wǒ jīn nián yào qù zhōng guó.",
+            "zh": "我今年要去中国。",
+            "en": "I am going to China this year."
+        }
+    },
+    "181": {
+        "id": "181",
+        "word": "今天",
+        "sentence": {
+            "pinyin": "jīn tiān xīng qī jǐ？",
+            "zh": "今天星期几？",
+            "en": "What day is it today?"
+        }
+    },
+    "182": {
+        "id": "182",
+        "word": "进",
+        "sentence": {
+            "pinyin": "tā jìn le jiào shì.",
+            "zh": "他进了教室。",
+            "en": "He entered the classroom."
+        }
+    },
+    "183": {
+        "id": "183",
+        "word": "进来",
+        "sentence": {
+            "pinyin": "nǐ xiǎng jìn lái hē bēi kā fēi ma？",
+            "zh": "你想进来喝杯咖啡吗？",
+            "en": "Would you like to come in for a coffee?"
+        }
+    },
+    "184": {
+        "id": "184",
+        "word": "进去",
+        "sentence": {
+            "pinyin": "wǒ yào jìn qù.",
+            "zh": "我要进去。",
+            "en": "I want to go in."
+        }
+    },
+    "185": {
+        "id": "185",
+        "word": "九",
+        "sentence": {
+            "pinyin": "zhè zhī bǐ jiǔ kuài qián.",
+            "zh": "这支笔九块钱。",
+            "en": "This pen costs 9 yuan."
+        }
+    },
+    "186": {
+        "id": "186",
+        "word": "就",
+        "sentence": {
+            "pinyin": "wǒ dào le，jiù gěi nǐ dǎ diàn huà.",
+            "zh": "我到了，就给你打电话。",
+            "en": "I'll call you as soon as I arrive."
+        }
+    },
+    "187": {
+        "id": "187",
+        "word": "觉得",
+        "sentence": {
+            "pinyin": "nǐ jué de zěn me yàng？",
+            "zh": "你觉得怎么样？",
+            "en": "What do you think?"
+        }
+    },
+    "188": {
+        "id": "188",
+        "word": "开",
+        "sentence": {
+            "pinyin": "qǐng kāi mén.",
+            "zh": "请开门。",
+            "en": "Please open the door"
+        }
+    },
+    "189": {
+        "id": "189",
+        "word": "开车",
+        "sentence": {
+            "pinyin": "nǐ huì kāi chē ma？",
+            "zh": "你会开车吗？",
+            "en": "Can you drive?"
+        }
+    },
+    "190": {
+        "id": "190",
+        "word": "开会",
+        "sentence": {
+            "pinyin": "wǒ men jǐ diǎn kāi huì？",
+            "zh": "我们几点开会？",
+            "en": "What time do we have a meeting?"
+        }
+    },
+    "191": {
+        "id": "191",
+        "word": "开玩笑",
+        "sentence": {
+            "pinyin": "nǐ xǐ huan kāi wán xiào ma？",
+            "zh": "你喜欢开玩笑吗？",
+            "en": "Do you like to joke?"
+        }
+    },
+    "192": {
+        "id": "192",
+        "word": "看",
+        "sentence": {
+            "pinyin": "kàn！ yī tiáo cǎi hóng.",
+            "zh": "看！一条彩虹。",
+            "en": "Look! A rainbow."
+        }
+    },
+    "193": {
+        "id": "193",
+        "word": "看病",
+        "sentence": {
+            "pinyin": "wǒ yào qù kàn bìng.",
+            "zh": "我要去看病。",
+            "en": "I'm going to see a doctor."
+        }
+    },
+    "194": {
+        "id": "194",
+        "word": "看到",
+        "sentence": {
+            "pinyin": "nǐ kàn dào le ma？",
+            "zh": "你看到了吗？",
+            "en": "Did you see it?"
+        }
+    },
+    "195": {
+        "id": "195",
+        "word": "看见",
+        "sentence": {
+            "pinyin": "wǒ méi kàn jiàn.",
+            "zh": "我没看见。",
+            "en": "I didn't see it."
+        }
+    },
+    "196": {
+        "id": "196",
+        "word": "考",
+        "sentence": {
+            "pinyin": "wǒ lái kǎo nǐ yí xià.",
+            "zh": "我来考你一下。",
+            "en": "I'll test you."
+        }
+    },
+    "197": {
+        "id": "197",
+        "word": "考试",
+        "sentence": {
+            "pinyin": "nǐ zuó tiān de kǎo shì zěn me yàng？",
+            "zh": "你昨天的考试怎么样？",
+            "en": "How was your exam yesterday?"
+        }
+    },
+    "198": {
+        "id": "198",
+        "word": "渴",
+        "sentence": {
+            "pinyin": "wǒ kě le.",
+            "zh": "我渴了。",
+            "en": "I'm thirsty."
+        }
+    },
+    "199": {
+        "id": "199",
+        "word": "课",
+        "sentence": {
+            "pinyin": "wǒ xǐ huan nǐ de kè.",
+            "zh": "我喜欢你的课。",
+            "en": "I like your course / lesson."
+        }
+    },
+    "200": {
+        "id": "200",
+        "word": "课本",
+        "sentence": {
+            "pinyin": "zhè shì nǐ de kè běn.",
+            "zh": "这是你的课本。",
+            "en": "This is your textbook."
+        }
+    },
+    "201": {
+        "id": "201",
+        "word": "课文",
+        "sentence": {
+            "pinyin": "nǐ kě yǐ dú kè wén ma？",
+            "zh": "你可以读课文吗？",
+            "en": "Can you read the text?"
+        }
+    },
+    "202": {
+        "id": "202",
+        "word": "口",
+        "sentence": {
+            "pinyin": "nǐ de kǒu téng ma？",
+            "zh": "你的口疼吗？",
+            "en": "Does your mouth hurt?"
+        }
+    },
+    "203": {
+        "id": "203",
+        "word": "块",
+        "sentence": {
+            "pinyin": "wǒ chī le wǔ kuài dàn gāo.",
+            "zh": "我吃了五块蛋糕。",
+            "en": "I ate five pieces of cake."
+        }
+    },
+    "204": {
+        "id": "204",
+        "word": "快",
+        "sentence": {
+            "pinyin": "tā pǎo de kuài.",
+            "zh": "他跑得快。",
+            "en": "He runs fast."
+        }
+    },
+    "205": {
+        "id": "205",
+        "word": "来",
+        "sentence": {
+            "pinyin": "nǐ xiǎng lái wǒ jiā dǎ yóu xì ma？",
+            "zh": "你想来我家打游戏吗？",
+            "en": "Do you want to come to my place to play games?"
+        }
+    },
+    "206": {
+        "id": "206",
+        "word": "来到",
+        "sentence": {
+            "pinyin": "tā qù nián lái dào zhōng guó.",
+            "zh": "他去年来到中国。",
+            "en": "He came to China last year."
+        }
+    },
+    "207": {
+        "id": "207",
+        "word": "老",
+        "sentence": {
+            "pinyin": "tā men shì lǎo péng you.",
+            "zh": "他们是老朋友。",
+            "en": "They are old friends."
+        }
+    },
+    "208": {
+        "id": "208",
+        "word": "老人",
+        "sentence": {
+            "pinyin": "nà gè lǎo rén shēn tǐ hěn hǎo.",
+            "zh": "那个老人身体很好。",
+            "en": "The old man is in good health."
+        }
+    },
+    "209": {
+        "id": "209",
+        "word": "老师",
+        "sentence": {
+            "pinyin": "nǐ de lǎo shī zěn me yàng？",
+            "zh": "你的老师怎么样？",
+            "en": "How is your teacher?"
+        }
+    },
+    "210": {
+        "id": "210",
+        "word": "了",
+        "sentence": {
+            "pinyin": "xià yǔ le.",
+            "zh": "下雨了。",
+            "en": "It's raining now."
+        }
+    },
+    "211": {
+        "id": "211",
+        "word": "累",
+        "sentence": {
+            "pinyin": "nǐ lèi ma？",
+            "zh": "你累吗？",
+            "en": "Are you tired?"
+        }
+    },
+    "212": {
+        "id": "212",
+        "word": "冷",
+        "sentence": {
+            "pinyin": "jīn tiān hěn lěng.",
+            "zh": "今天很冷。",
+            "en": "It's cold today."
+        }
+    },
+    "213": {
+        "id": "213",
+        "word": "里",
+        "sentence": {
+            "pinyin": "wǒ de hù zhào zài bāo lǐ.",
+            "zh": "我的护照在包里。",
+            "en": "My passport is in the bag."
+        }
+    },
+    "214": {
+        "id": "214",
+        "word": "里边",
+        "sentence": {
+            "pinyin": "gōng yuán lǐ bian yǒu yí gè hú",
+            "zh": "公园里边有一个湖。",
+            "en": "There is a lake in the park."
+        }
+    },
+    "215": {
+        "id": "215",
+        "word": "两",
+        "sentence": {
+            "pinyin": "wǒ yǒu liǎng tái diàn nǎo.",
+            "zh": "我有两台电脑。",
+            "en": "I have two computers."
+        }
+    },
+    "216": {
+        "id": "216",
+        "word": "零",
+        "sentence": {
+            "pinyin": "cóng líng kāi shǐ.",
+            "zh": "从零开始。",
+            "en": "Start from zero."
+        }
+    },
+    "217": {
+        "id": "217",
+        "word": "六",
+        "sentence": {
+            "pinyin": "wǒ yào liù gè jiǎo zi.",
+            "zh": "我要六个饺子。",
+            "en": "I want six dumplings."
+        }
+    },
+    "218": {
+        "id": "218",
+        "word": "楼",
+        "sentence": {
+            "pinyin": "nǐ zhù zài jǐ lóu？",
+            "zh": "你住在几楼？",
+            "en": "Which floor do you live on?"
+        }
+    },
+    "219": {
+        "id": "219",
+        "word": "楼上",
+        "sentence": {
+            "pinyin": "wǒ zài lóu shàng.",
+            "zh": "我在楼上。",
+            "en": "I'm upstairs."
+        }
+    },
+    "220": {
+        "id": "220",
+        "word": "楼下",
+        "sentence": {
+            "pinyin": "lóu xià yǒu gè chāo shì.",
+            "zh": "楼下有个超市。",
+            "en": "There is a supermarket downstairs."
+        }
+    },
+    "221": {
+        "id": "221",
+        "word": "路",
+        "sentence": {
+            "pinyin": "huái hǎi lù zài nǎ lǐ？",
+            "zh": "淮海路在哪里？",
+            "en": "Where is Huaihai Road?"
+        }
+    },
+    "222": {
+        "id": "222",
+        "word": "路口",
+        "sentence": {
+            "pinyin": "qǐng zài lù kǒu tíng chē.",
+            "zh": "请在路口停车。",
+            "en": "Please stop at the intersection."
+        }
+    },
+    "223": {
+        "id": "223",
+        "word": "路上",
+        "sentence": {
+            "pinyin": "tā de chē zài lù shang huài le.",
+            "zh": "他的车在路上坏了。",
+            "en": "His car broke down on the road."
+        }
+    },
+    "224": {
+        "id": "224",
+        "word": "妈妈 / 妈",
+        "sentence": {
+            "pinyin": "wǒ mā ma tuì xiū le.",
+            "zh": "我妈妈退休了。",
+            "en": "My mom is retired."
+        }
+    },
+    "225": {
+        "id": "225",
+        "word": "马路",
+        "sentence": {
+            "pinyin": "xiǎo xīn guò mǎ lù.",
+            "zh": "小心过马路。",
+            "en": "Be careful crossing the road."
+        }
+    },
+    "226": {
+        "id": "226",
+        "word": "马上",
+        "sentence": {
+            "pinyin": "wǒ mǎ shàng fù kuǎn.",
+            "zh": "我马上付款。",
+            "en": "I will pay right away."
+        }
+    },
+    "227": {
+        "id": "227",
+        "word": "吗",
+        "sentence": {
+            "pinyin": "nǐ yào hē shuǐ ma？",
+            "zh": "你要喝水吗？",
+            "en": "Do you want water?"
+        }
+    },
+    "228": {
+        "id": "228",
+        "word": "买",
+        "sentence": {
+            "pinyin": "nǐ yào mǎi shén me？",
+            "zh": "你要买什么？",
+            "en": "What do you want to buy?"
+        }
+    },
+    "229": {
+        "id": "229",
+        "word": "慢",
+        "sentence": {
+            "pinyin": "màn yī diǎn.",
+            "zh": "慢一点。",
+            "en": "Slow down."
+        }
+    },
+    "230": {
+        "id": "230",
+        "word": "忙",
+        "sentence": {
+            "pinyin": "nǐ máng ma？",
+            "zh": "你忙吗？",
+            "en": "Are you busy?"
+        }
+    },
+    "231": {
+        "id": "231",
+        "word": "毛",
+        "sentence": {
+            "pinyin": "zhè bēi chá bā kuài wǔ máo.",
+            "zh": "这杯茶八块五毛。",
+            "en": "This cup of tea costs eight yuan and fifty cents."
+        }
+    },
+    "232": {
+        "id": "232",
+        "word": "没",
+        "sentence": {
+            "pinyin": "tā méi xī yān.",
+            "zh": "他没吸烟。",
+            "en": "He didn't smoke."
+        }
+    },
+    "233": {
+        "id": "233",
+        "word": "没关系",
+        "sentence": {
+            "pinyin": "méi guān xi.",
+            "zh": "没关系。",
+            "en": "It doesn't matter."
+        }
+    },
+    "234": {
+        "id": "234",
+        "word": "没什么",
+        "sentence": {
+            "pinyin": "méi shén me.",
+            "zh": "没什么。",
+            "en": "It's nothing."
+        }
+    },
+    "235": {
+        "id": "235",
+        "word": "没事儿",
+        "sentence": {
+            "pinyin": "méi shìr.",
+            "zh": "没事儿。",
+            "en": "It's okay / It's all rigtht."
+        }
+    },
+    "236": {
+        "id": "236",
+        "word": "没有",
+        "sentence": {
+            "pinyin": "zhè lǐ méi yǒu chāo shì.",
+            "zh": "这里没有超市。",
+            "en": "There is no supermarket here."
+        }
+    },
+    "237": {
+        "id": "237",
+        "word": "妹妹 / 妹",
+        "sentence": {
+            "pinyin": "wǒ mèi mei bā suì le.",
+            "zh": "我妹妹八岁了。",
+            "en": "My younger sister is eight years old."
+        }
+    },
+    "238": {
+        "id": "238",
+        "word": "门",
+        "sentence": {
+            "pinyin": "nǐ suǒ mén le ma？",
+            "zh": "你锁门了吗？",
+            "en": "Did you lock the door?"
+        }
+    },
+    "239": {
+        "id": "239",
+        "word": "门口",
+        "sentence": {
+            "pinyin": "bié zài mén kǒu wài miàn tíng chē.",
+            "zh": "别在门口外面停车。",
+            "en": "Don't park outside the doorway."
+        }
+    },
+    "240": {
+        "id": "240",
+        "word": "门票",
+        "sentence": {
+            "pinyin": "mén piào duō shao qián？",
+            "zh": "门票多少钱？",
+            "en": "How much is the ticket?"
+        }
+    },
+    "241": {
+        "id": "241",
+        "word": "们",
+        "sentence": {
+            "pinyin": "wǒ xǐ huan hé péng you men yī qǐ liáo tiān.",
+            "zh": "我喜欢和朋友们一起聊天。",
+            "en": "I like to chat with friends. "
+        }
+    },
+    "242": {
+        "id": "242",
+        "word": "米饭",
+        "sentence": {
+            "pinyin": "tā chī le sān wǎn mǐ fàn.",
+            "zh": "他吃了三碗米饭。",
+            "en": "He ate three bowls of rice."
+        }
+    },
+    "243": {
+        "id": "243",
+        "word": "面包",
+        "sentence": {
+            "pinyin": "nǐ huì kǎo miàn bāo ma？",
+            "zh": "你会烤面包吗？",
+            "en": "Can you bake bread?"
+        }
+    },
+    "244": {
+        "id": "244",
+        "word": "面条儿",
+        "sentence": {
+            "pinyin": "nǐ xiǎng chī miàn tiáor ma？",
+            "zh": "你想吃面条儿吗？",
+            "en": "Do you want some noodles?"
+        }
+    },
+    "245": {
+        "id": "245",
+        "word": "名字",
+        "sentence": {
+            "pinyin": "nǐ jiào shén me míng zi？",
+            "zh": "你叫什么名字？",
+            "en": "What's your name?"
+        }
+    },
+    "246": {
+        "id": "246",
+        "word": "明白",
+        "sentence": {
+            "pinyin": "wǒ bù míng bai.",
+            "zh": "我不明白。",
+            "en": "I don't understand."
+        }
+    },
+    "247": {
+        "id": "247",
+        "word": "明年",
+        "sentence": {
+            "pinyin": "tā míng nián jié hūn.",
+            "zh": "他明年结婚。",
+            "en": "He is getting married next year."
+        }
+    },
+    "248": {
+        "id": "248",
+        "word": "明天",
+        "sentence": {
+            "pinyin": "míng tiān jiàn.",
+            "zh": "明天见。",
+            "en": "See you tomorrow."
+        }
+    },
+    "249": {
+        "id": "249",
+        "word": "拿",
+        "sentence": {
+            "pinyin": "nǐ ná hù zhào le ma？",
+            "zh": "你拿护照了吗？",
+            "en": "Did you take your passport?"
+        }
+    },
+    "250": {
+        "id": "250",
+        "word": "哪",
+        "sentence": {
+            "pinyin": "nǐ yào nǎ gè？",
+            "zh": "你要哪个？",
+            "en": "Which one do you want?"
+        }
+    },
+    "251": {
+        "id": "251",
+        "word": "哪里",
+        "sentence": {
+            "pinyin": "nǐ zài nǎ lǐ？",
+            "zh": "你在哪里？",
+            "en": "Where are you?"
+        }
+    },
+    "252": {
+        "id": "252",
+        "word": "哪儿",
+        "sentence": {
+            "pinyin": "nǐ zhù zài nǎr？",
+            "zh": "你住在哪儿？",
+            "en": "Where do you live?"
+        }
+    },
+    "253": {
+        "id": "253",
+        "word": "哪些",
+        "sentence": {
+            "pinyin": "nǎ xiē shì nǐ de？",
+            "zh": "哪些是你的？",
+            "en": "Which ones are yours?"
+        }
+    },
+    "254": {
+        "id": "254",
+        "word": "那",
+        "sentence": {
+            "pinyin": "nà shì shén me？",
+            "zh": "那是什么？",
+            "en": "What's that?"
+        }
+    },
+    "255": {
+        "id": "255",
+        "word": "那边",
+        "sentence": {
+            "pinyin": "tú shū guǎn zài nà bian.",
+            "zh": "图书馆在那边。",
+            "en": "The library is over there."
+        }
+    },
+    "256": {
+        "id": "256",
+        "word": "那里",
+        "sentence": {
+            "pinyin": "nà lǐ de tiān qì zěn me yàng？",
+            "zh": "那里的天气怎么样？",
+            "en": "What's the weather like there?"
+        }
+    },
+    "257": {
+        "id": "257",
+        "word": "那儿",
+        "sentence": {
+            "pinyin": "nàr de tián diǎn hěn hǎo chī.",
+            "zh": "那儿的甜点很好吃。",
+            "en": "The desserts there are delicious."
+        }
+    },
+    "258": {
+        "id": "258",
+        "word": "那些",
+        "sentence": {
+            "pinyin": "nà xiē tián diǎn wǒ dōu xǐ huan.",
+            "zh": "那些甜点我都喜欢。",
+            "en": "I like all those desserts."
+        }
+    },
+    "259": {
+        "id": "259",
+        "word": "奶",
+        "sentence": {
+            "pinyin": "nǐ xǐ huan hē nǎi chá？",
+            "zh": "你喜欢喝奶茶？",
+            "en": "Do you like to drink milk tea?"
+        }
+    },
+    "260": {
+        "id": "260",
+        "word": "奶奶",
+        "sentence": {
+            "pinyin": "tā shì yóu nǎi nai dài dà de.",
+            "zh": "他是由奶奶带大的。",
+            "en": "He was brought up by his grandma."
+        }
+    },
+    "261": {
+        "id": "261",
+        "word": "男",
+        "sentence": {
+            "pinyin": "yī yuàn lǐ nán hù shì hěn shǎo.",
+            "zh": "医院里男护士很少。",
+            "en": "There are very few male nurses in the hospital."
+        }
+    },
+    "262": {
+        "id": "262",
+        "word": "男孩儿",
+        "sentence": {
+            "pinyin": "nà gè nán háir zhēn kě ài.",
+            "zh": "那个男孩儿真可爱。",
+            "en": "That boy is so cute"
+        }
+    },
+    "263": {
+        "id": "263",
+        "word": "男朋友",
+        "sentence": {
+            "pinyin": "tā yǒu nán péng you ma？",
+            "zh": "她有男朋友吗？",
+            "en": "Does she have a boyfriend?"
+        }
+    },
+    "264": {
+        "id": "264",
+        "word": "男人",
+        "sentence": {
+            "pinyin": "nà gè nán rén shì shéi？",
+            "zh": "那个男人是谁？",
+            "en": "Who is that man?"
+        }
+    },
+    "265": {
+        "id": "265",
+        "word": "男生",
+        "sentence": {
+            "pinyin": "nà gè nán shēng hěn gāo.",
+            "zh": "那个男生很高。",
+            "en": "That boy is tall."
+        }
+    },
+    "266": {
+        "id": "266",
+        "word": "南",
+        "sentence": {
+            "pinyin": "tā de fáng jiān cháo nán.",
+            "zh": "他的房间朝南。",
+            "en": "His room faces south."
+        }
+    },
+    "267": {
+        "id": "267",
+        "word": "南边",
+        "sentence": {
+            "pinyin": "chāo shì zài jiǔ diàn nán bian.",
+            "zh": "超市在酒店南边。",
+            "en": "The supermarket is on the south side of the hotel."
+        }
+    },
+    "268": {
+        "id": "268",
+        "word": "难",
+        "sentence": {
+            "pinyin": "nǐ jué de hàn yǔ nán ma？",
+            "zh": "你觉得汉语难吗？",
+            "en": "Do you think Chinese is difficult?"
+        }
+    },
+    "269": {
+        "id": "269",
+        "word": "呢",
+        "sentence": {
+            "pinyin": "wǒ yào hē kā fēi， nǐ ne？",
+            "zh": "我要喝咖啡，你呢？",
+            "en": "I want coffee, how about you?"
+        }
+    },
+    "270": {
+        "id": "270",
+        "word": "能",
+        "sentence": {
+            "pinyin": "tā néng lái.",
+            "zh": "他能来。",
+            "en": "He can come."
+        }
+    },
+    "271": {
+        "id": "271",
+        "word": "你",
+        "sentence": {
+            "pinyin": "nǐ yǒu xiǎo hái ma？",
+            "zh": "你有小孩吗？",
+            "en": "Do you have children?"
+        }
+    },
+    "272": {
+        "id": "272",
+        "word": "你们",
+        "sentence": {
+            "pinyin": "nǐ men dōu shì xué sheng ma？",
+            "zh": "你们都是学生吗？",
+            "en": "Are you all students?"
+        }
+    },
+    "273": {
+        "id": "273",
+        "word": "年",
+        "sentence": {
+            "pinyin": "tā lái zhōng guó wǔ nián le.",
+            "zh": "他来中国五年了。",
+            "en": "He has been in China for five years."
+        }
+    },
+    "274": {
+        "id": "274",
+        "word": "您",
+        "sentence": {
+            "pinyin": "nín shì nǎ wèi？",
+            "zh": "您是哪位？",
+            "en": "Who are you?"
+        }
+    },
+    "275": {
+        "id": "275",
+        "word": "牛奶",
+        "sentence": {
+            "pinyin": "bīng xiāng lǐ méi yǒu niú nǎi le.",
+            "zh": "冰箱里没有牛奶了。",
+            "en": "There is no milk in the fridge."
+        }
+    },
+    "276": {
+        "id": "276",
+        "word": "女",
+        "sentence": {
+            "pinyin": "wǒ men xué xiào yǒu hěn duō nǚ lǎo shī.",
+            "zh": "我们学校有很多女老师。",
+            "en": "There are many female teachers in our school."
+        }
+    },
+    "277": {
+        "id": "277",
+        "word": "女儿",
+        "sentence": {
+            "pinyin": "nǐ de nǚ'ér jǐ suì le？",
+            "zh": "你的女儿几岁了？",
+            "en": "How old is your daughter?"
+        }
+    },
+    "278": {
+        "id": "278",
+        "word": "女孩儿",
+        "sentence": {
+            "pinyin": "nǐ rèn shi nà gè nǚ háir ma？",
+            "zh": "你认识那个女孩儿吗？",
+            "en": "Do you know that girl?"
+        }
+    },
+    "279": {
+        "id": "279",
+        "word": "女朋友",
+        "sentence": {
+            "pinyin": "nǐ yǒu nǚ péng you ma？",
+            "zh": "你有女朋友吗？",
+            "en": "Do you have a girlfriend?"
+        }
+    },
+    "280": {
+        "id": "280",
+        "word": "女人",
+        "sentence": {
+            "pinyin": "nà gè nǚ rén shì shéi？",
+            "zh": "那个女人是谁？",
+            "en": "Who is that woman?"
+        }
+    },
+    "281": {
+        "id": "281",
+        "word": "女生",
+        "sentence": {
+            "pinyin": "nà gè nǚ shēng hěn piào liang.",
+            "zh": "那个女生很漂亮。",
+            "en": "That girl is beautiful."
+        }
+    },
+    "282": {
+        "id": "282",
+        "word": "旁边",
+        "sentence": {
+            "pinyin": "kā fēi guǎn zài jiàn shēn fáng páng biān.",
+            "zh": "咖啡馆在健身房旁边。",
+            "en": "The cafe is next to the gym."
+        }
+    },
+    "283": {
+        "id": "283",
+        "word": "跑",
+        "sentence": {
+            "pinyin": "tā pǎo de kuài",
+            "zh": "他跑得快。",
+            "en": "He runs fast."
+        }
+    },
+    "284": {
+        "id": "284",
+        "word": "朋友",
+        "sentence": {
+            "pinyin": "zhè shì wǒ de péng you.",
+            "zh": "这是我的朋友。",
+            "en": "This is my friend."
+        }
+    },
+    "285": {
+        "id": "285",
+        "word": "票",
+        "sentence": {
+            "pinyin": "nǐ mǎi piào le ma？",
+            "zh": "你买票了吗？",
+            "en": "Have you bought the ticket?"
+        }
+    },
+    "286": {
+        "id": "286",
+        "word": "七",
+        "sentence": {
+            "pinyin": "wǒ yào xiū xi qī tiān.",
+            "zh": "我要休息七天。",
+            "en": "I'm taking seven days off."
+        }
+    },
+    "287": {
+        "id": "287",
+        "word": "起",
+        "sentence": {
+            "pinyin": "wǒ míng tiān yào zǎo qǐ.",
+            "zh": "我明天要早起。",
+            "en": "I'm going to get up early tomorrow."
+        }
+    },
+    "288": {
+        "id": "288",
+        "word": "起床",
+        "sentence": {
+            "pinyin": "nǐ tōng cháng jǐ diǎn qǐ chuáng？",
+            "zh": "你通常几点起床？",
+            "en": "What time do you usually get up?"
+        }
+    },
+    "289": {
+        "id": "289",
+        "word": "起来",
+        "sentence": {
+            "pinyin": "kuài qǐ lái！ yǐ jīng shí yī diǎn le.",
+            "zh": "快起来！已经十一点了。",
+            "en": "Get up quickly! It's already eleven o'clock."
+        }
+    },
+    "290": {
+        "id": "290",
+        "word": "汽车",
+        "sentence": {
+            "pinyin": "mǎ lù shàng yǒu hěn duō qì chē.",
+            "zh": "马路上有很多汽车。",
+            "en": "There are many cars on the road."
+        }
+    },
+    "291": {
+        "id": "291",
+        "word": "前",
+        "sentence": {
+            "pinyin": "nǐ de bāo guǒ zài mén qián.",
+            "zh": "你的包裹在门前。",
+            "en": "Your package is in front of the door."
+        }
+    },
+    "292": {
+        "id": "292",
+        "word": "前边",
+        "sentence": {
+            "pinyin": "jiǔ diàn qián bian yǒu yī gè gōng yuán.",
+            "zh": "酒店前边有一个公园。",
+            "en": "There is a park in front of the hotel."
+        }
+    },
+    "293": {
+        "id": "293",
+        "word": "前天",
+        "sentence": {
+            "pinyin": "wǒ qián tiān gěi tā fā le yóu jiàn.",
+            "zh": "我前天给他发了邮件。",
+            "en": "I emailed him the day before yesterday."
+        }
+    },
+    "294": {
+        "id": "294",
+        "word": "钱",
+        "sentence": {
+            "pinyin": "wǒ méi yǒu qián.",
+            "zh": "我没有钱。",
+            "en": "I don't have money."
+        }
+    },
+    "295": {
+        "id": "295",
+        "word": "钱包",
+        "sentence": {
+            "pinyin": "wǒ de qián bāo zài chē lǐ.",
+            "zh": "我的钱包在车里。",
+            "en": "My wallet is in the car."
+        }
+    },
+    "296": {
+        "id": "296",
+        "word": "请",
+        "sentence": {
+            "pinyin": "qǐng huí dá.",
+            "zh": "请回答。",
+            "en": "Please answer."
+        }
+    },
+    "297": {
+        "id": "297",
+        "word": "请假",
+        "sentence": {
+            "pinyin": "wǒ míng tiān xū yào qǐng jià.",
+            "zh": "我明天需要请假。",
+            "en": "I need to ask for leave tomorrow."
+        }
+    },
+    "298": {
+        "id": "298",
+        "word": "请进",
+        "sentence": {
+            "pinyin": "qǐng jìn.",
+            "zh": "请进。",
+            "en": "Please come in."
+        }
+    },
+    "299": {
+        "id": "299",
+        "word": "请问",
+        "sentence": {
+            "pinyin": "qǐng wèn dì tiě zhàn zài nǎ lǐ？",
+            "zh": "请问地铁站在哪里？",
+            "en": "Excuse me, where is the subway station?"
+        }
+    },
+    "300": {
+        "id": "300",
+        "word": "请坐",
+        "sentence": {
+            "pinyin": "qǐng zuò.",
+            "zh": "请坐。",
+            "en": "Please have a seat."
+        }
+    },
+    "301": {
+        "id": "301",
+        "word": "球",
+        "sentence": {
+            "pinyin": "zhè shì shén me qiú？",
+            "zh": "这是什么球？",
+            "en": "What type of ball is this?"
+        }
+    },
+    "302": {
+        "id": "302",
+        "word": "去",
+        "sentence": {
+            "pinyin": "tā qù nǎ lǐ le？",
+            "zh": "他去哪里了？",
+            "en": "Where did he go?"
+        }
+    },
+    "303": {
+        "id": "303",
+        "word": "去年",
+        "sentence": {
+            "pinyin": "tā qù nián jié hūn le.",
+            "zh": "他去年结婚了。",
+            "en": "He got married last year."
+        }
+    },
+    "304": {
+        "id": "304",
+        "word": "热",
+        "sentence": {
+            "pinyin": "tài rè le！",
+            "zh": "太热了！",
+            "en": "It's too hot!"
+        }
+    },
+    "305": {
+        "id": "305",
+        "word": "人",
+        "sentence": {
+            "pinyin": "dì tiě shàng yǒu hěn duō rén.",
+            "zh": "地铁上有很多人。",
+            "en": "There are lots of people on the metro."
+        }
+    },
+    "306": {
+        "id": "306",
+        "word": "认识",
+        "sentence": {
+            "pinyin": "nǐ rèn shi tā ma？",
+            "zh": "你认识他吗？",
+            "en": "Do you know him?"
+        }
+    },
+    "307": {
+        "id": "307",
+        "word": "认真",
+        "sentence": {
+            "pinyin": "wǒ shì rèn zhēn de.",
+            "zh": "我是认真的。",
+            "en": "I'm serious."
+        }
+    },
+    "308": {
+        "id": "308",
+        "word": "日",
+        "sentence": {
+            "pinyin": "jīn tiān shì shí yuè yī rì.",
+            "zh": "今天是十月一日。",
+            "en": "Today is the first day of October."
+        }
+    },
+    "309": {
+        "id": "309",
+        "word": "日期",
+        "sentence": {
+            "pinyin": "hūn lǐ de rì qī dìng le ma？",
+            "zh": "婚礼的日期定了吗？",
+            "en": "Has the wedding date been set?"
+        }
+    },
+    "310": {
+        "id": "310",
+        "word": "肉",
+        "sentence": {
+            "pinyin": "nǐ xǐ huan chī ròu ma？",
+            "zh": "你喜欢吃肉吗？",
+            "en": "Do you like to eat meat?"
+        }
+    },
+    "311": {
+        "id": "311",
+        "word": "三",
+        "sentence": {
+            "pinyin": "wǒ yǒu sān tái shǒu jī.",
+            "zh": "我有三台手机。",
+            "en": "I have three cell phones."
+        }
+    },
+    "312": {
+        "id": "312",
+        "word": "山",
+        "sentence": {
+            "pinyin": "zhè zuò shān hěn měi.",
+            "zh": "这座山很美。",
+            "en": "This mountain is beautiful."
+        }
+    },
+    "313": {
+        "id": "313",
+        "word": "商场",
+        "sentence": {
+            "pinyin": "nǐ jiā fù jìn yǒu shāng chǎng ma？",
+            "zh": "你家附近有商场吗？",
+            "en": "Is there a shopping mall near your home?"
+        }
+    },
+    "314": {
+        "id": "314",
+        "word": "商店",
+        "sentence": {
+            "pinyin": "nǐ xiǎng kāi yī jiā shāng diàn ma？",
+            "zh": "你想开一家商店吗？",
+            "en": "Do you want to open a shop?"
+        }
+    },
+    "315": {
+        "id": "315",
+        "word": "上",
+        "sentence": {
+            "pinyin": "zhuō shàng yǒu yī xiē miàn bāo.",
+            "zh": "桌上有一些面包。",
+            "en": "There is some bread on the table."
+        }
+    },
+    "316": {
+        "id": "316",
+        "word": "上班",
+        "sentence": {
+            "pinyin": "nǐ tōng cháng jǐ diǎn shàng bān？",
+            "zh": "你通常几点上班？",
+            "en": "What time do you usually go to work?"
+        }
+    },
+    "317": {
+        "id": "317",
+        "word": "上边",
+        "sentence": {
+            "pinyin": "nǐ de shū zài bīng xiāng shàng bian.",
+            "zh": "你的书在冰箱上边。",
+            "en": "Your book is on top of the fridege."
+        }
+    },
+    "318": {
+        "id": "318",
+        "word": "上车",
+        "sentence": {
+            "pinyin": "nǐ shàng chē le ma？",
+            "zh": "你上车了吗？",
+            "en": "Did you get in the car?"
+        }
+    },
+    "319": {
+        "id": "319",
+        "word": "上次",
+        "sentence": {
+            "pinyin": "nǐ shàng cì chī zhōng guó cài shì shén me shí hou？",
+            "zh": "你上次吃中国菜是什么时候？",
+            "en": "When was the last time you had Chinese food?"
+        }
+    },
+    "320": {
+        "id": "320",
+        "word": "上课",
+        "sentence": {
+            "pinyin": "nǐ jīn tiān yào shàng kè ma？",
+            "zh": "你今天要上课吗？",
+            "en": "Are you going to have a class today?"
+        }
+    },
+    "321": {
+        "id": "321",
+        "word": "上网",
+        "sentence": {
+            "pinyin": "nǐ měi tiān shàng wǎng ma？",
+            "zh": "你每天上网吗？",
+            "en": "Do you go online every day?"
+        }
+    },
+    "322": {
+        "id": "322",
+        "word": "上午",
+        "sentence": {
+            "pinyin": "nǐ míng tiān shàng wǔ yǒu kòng ma？",
+            "zh": "你明天上午有空吗？",
+            "en": "Are you free tomorrow morning?"
+        }
+    },
+    "323": {
+        "id": "323",
+        "word": "上学",
+        "sentence": {
+            "pinyin": "nǐ zài nǎ lǐ shàng xué？",
+            "zh": "你在哪里上学？",
+            "en": "Where do you go to school?"
+        }
+    },
+    "324": {
+        "id": "324",
+        "word": "少",
+        "sentence": {
+            "pinyin": "qǐng shǎo fàng dà suàn.",
+            "zh": "请少放大蒜。",
+            "en": "Please put less garlic."
+        }
+    },
+    "325": {
+        "id": "325",
+        "word": "谁",
+        "sentence": {
+            "pinyin": "shéi zài qiāo mén？",
+            "zh": "谁在敲门？",
+            "en": "Who is knocking on the door?"
+        }
+    },
+    "326": {
+        "id": "326",
+        "word": "身上",
+        "sentence": {
+            "pinyin": "tā shēn shang yǒu yī zhǐ zhī zhū.",
+            "zh": "他身上有一只蜘蛛。",
+            "en": "There is a spider on him (on his body)."
+        }
+    },
+    "327": {
+        "id": "327",
+        "word": "身体",
+        "sentence": {
+            "pinyin": "nǐ de shēn tǐ zěn me yàng？",
+            "zh": "你的身体怎么样？",
+            "en": "How is your body? (How is your heath?)"
+        }
+    },
+    "328": {
+        "id": "328",
+        "word": "什么",
+        "sentence": {
+            "pinyin": "nǐ xiǎng chī shén me？",
+            "zh": "你想吃什么？",
+            "en": "What do you want to eat?"
+        }
+    },
+    "329": {
+        "id": "329",
+        "word": "生病",
+        "sentence": {
+            "pinyin": "tā méi shēng bìng.",
+            "zh": "他没生病。",
+            "en": "He didn't get sick."
+        }
+    },
+    "330": {
+        "id": "330",
+        "word": "生气",
+        "sentence": {
+            "pinyin": "bié shēng qì.",
+            "zh": "别生气。",
+            "en": "Don't get angry."
+        }
+    },
+    "331": {
+        "id": "331",
+        "word": "生日",
+        "sentence": {
+            "pinyin": "shēng rì kuài lè！",
+            "zh": "生日快乐！",
+            "en": "Happy birthday!"
+        }
+    },
+    "332": {
+        "id": "332",
+        "word": "十",
+        "sentence": {
+            "pinyin": "nǐ xiǎng xiū xi shí tiān ma？",
+            "zh": "你想休息十天吗？",
+            "en": "Do you want to take ten days off?"
+        }
+    },
+    "333": {
+        "id": "333",
+        "word": "时候",
+        "sentence": {
+            "pinyin": "nà gè shí hou wǒ bù rèn shi tā.",
+            "zh": "那个时候我不认识他。",
+            "en": "I didn't know him at that time."
+        }
+    },
+    "334": {
+        "id": "334",
+        "word": "时间",
+        "sentence": {
+            "pinyin": "nǐ yǒu shí jiān ma？",
+            "zh": "你有时间吗？",
+            "en": "Do you have time?"
+        }
+    },
+    "335": {
+        "id": "335",
+        "word": "事",
+        "sentence": {
+            "pinyin": "zhè jiàn shì hěn fù zá.",
+            "zh": "这件事很复杂。",
+            "en": "This thing is complicated."
+        }
+    },
+    "336": {
+        "id": "336",
+        "word": "试",
+        "sentence": {
+            "pinyin": "wǒ kě yǐ shì yí xià xié zi ma？",
+            "zh": "我可以试一下鞋子吗？",
+            "en": "Can I try on the shoes?"
+        }
+    },
+    "337": {
+        "id": "337",
+        "word": "是",
+        "sentence": {
+            "pinyin": "nǐ shì xué sheng ma？",
+            "zh": "你是学生吗？",
+            "en": "Are you a student?"
+        }
+    },
+    "338": {
+        "id": "338",
+        "word": "是不是",
+        "sentence": {
+            "pinyin": "tā shì bú shì lǎo bǎn？",
+            "zh": "他是不是老板？",
+            "en": "Is he the boss?"
+        }
+    },
+    "339": {
+        "id": "339",
+        "word": "手",
+        "sentence": {
+            "pinyin": "wǒ yào xǐ shǒu.",
+            "zh": "我要洗手。",
+            "en": "I want to wash my hands."
+        }
+    },
+    "340": {
+        "id": "340",
+        "word": "手机",
+        "sentence": {
+            "pinyin": "wǒ de shǒu jī méi diàn le.",
+            "zh": "我的手机没电了。",
+            "en": "My cell phone is out of battery."
+        }
+    },
+    "341": {
+        "id": "341",
+        "word": "书",
+        "sentence": {
+            "pinyin": "nǐ xǐ huan kàn shén me shū？",
+            "zh": "你喜欢看什么书？",
+            "en": "What type of books do you like to read?"
+        }
+    },
+    "342": {
+        "id": "342",
+        "word": "书包",
+        "sentence": {
+            "pinyin": "nǐ de shū bāo lǐ yǒu shén me？",
+            "zh": "你的书包里有什么？",
+            "en": "What's in your school bag?"
+        }
+    },
+    "343": {
+        "id": "343",
+        "word": "书店",
+        "sentence": {
+            "pinyin": "zhè jiā shū diàn yíng yè èr shí sì xiǎo shí.",
+            "zh": "这家书店营业二十四小时。",
+            "en": "The bookstore is open twenty-four hours."
+        }
+    },
+    "344": {
+        "id": "344",
+        "word": "树",
+        "sentence": {
+            "pinyin": "zhè shì shén me shù？",
+            "zh": "这是什么树？",
+            "en": "What type of tree is this?"
+        }
+    },
+    "345": {
+        "id": "345",
+        "word": "水",
+        "sentence": {
+            "pinyin": "nǐ měi tiān hē jǐ bēi shuǐ？",
+            "zh": "你每天喝几杯水？",
+            "en": "How many glasses of water do you drink per day?"
+        }
+    },
+    "346": {
+        "id": "346",
+        "word": "水果",
+        "sentence": {
+            "pinyin": "nǐ zuì xǐ huan chī shén me shuǐ guǒ？",
+            "zh": "你最喜欢吃什么水果？",
+            "en": "What's your favorite fruit?"
+        }
+    },
+    "347": {
+        "id": "347",
+        "word": "睡",
+        "sentence": {
+            "pinyin": "nǐ měi tiān shuì duō shao gè xiǎo shí？",
+            "zh": "你每天睡多少个小时？",
+            "en": "How many hours do you sleep per day?"
+        }
+    },
+    "348": {
+        "id": "348",
+        "word": "睡觉",
+        "sentence": {
+            "pinyin": "nǐ jǐ diǎn shuì jiào？",
+            "zh": "你几点睡觉？",
+            "en": "What time do you sleep?"
+        }
+    },
+    "349": {
+        "id": "349",
+        "word": "说",
+        "sentence": {
+            "pinyin": "nǐ huì shuō hàn yǔ ma？",
+            "zh": "你会说汉语吗？",
+            "en": "Do you speak Chinese?"
+        }
+    },
+    "350": {
+        "id": "350",
+        "word": "说话",
+        "sentence": {
+            "pinyin": "bié shuō huà.",
+            "zh": "别说话。",
+            "en": "Don't talk."
+        }
+    },
+    "351": {
+        "id": "351",
+        "word": "四",
+        "sentence": {
+            "pinyin": "tā hē le sì píng kě lè.",
+            "zh": "他喝了四瓶可乐。",
+            "en": "He drank four bottles of coke."
+        }
+    },
+    "352": {
+        "id": "352",
+        "word": "送",
+        "sentence": {
+            "pinyin": "nǐ kě yǐ sòng gěi wǒ ma？",
+            "zh": "你可以送给我吗？",
+            "en": "Can you give it to me (as a gift)?"
+        }
+    },
+    "353": {
+        "id": "353",
+        "word": "岁",
+        "sentence": {
+            "pinyin": "wǒ gē ge sān shí suì le.",
+            "zh": "我哥哥三十岁了。",
+            "en": "My elder brother is thirty years old."
+        }
+    },
+    "354": {
+        "id": "354",
+        "word": "他",
+        "sentence": {
+            "pinyin": "nǐ tǎo yàn tā ma？",
+            "zh": "你讨厌他吗？",
+            "en": "Do you hate him?"
+        }
+    },
+    "355": {
+        "id": "355",
+        "word": "他们",
+        "sentence": {
+            "pinyin": "tā men shì tóng xué.",
+            "zh": "他们是同学。",
+            "en": "They are classmates."
+        }
+    },
+    "356": {
+        "id": "356",
+        "word": "她",
+        "sentence": {
+            "pinyin": "tā shì wǒ nǚ péng you.",
+            "zh": "她是我女朋友。",
+            "en": "She is my girlfriend."
+        }
+    },
+    "357": {
+        "id": "357",
+        "word": "她们",
+        "sentence": {
+            "pinyin": "tā men shì shuāng bāo tāi.",
+            "zh": "她们是双胞胎。",
+            "en": "They (for females) are twins."
+        }
+    },
+    "358": {
+        "id": "358",
+        "word": "太",
+        "sentence": {
+            "pinyin": "tài xiǎo le.",
+            "zh": "太小了。",
+            "en": "It's too small."
+        }
+    },
+    "359": {
+        "id": "359",
+        "word": "天",
+        "sentence": {
+            "pinyin": "wǒ yào chū chāi shí tiān.",
+            "zh": "我要出差十天。",
+            "en": "I'm going on a business trip for ten days."
+        }
+    },
+    "360": {
+        "id": "360",
+        "word": "天气",
+        "sentence": {
+            "pinyin": "jīn tiān tiān qì zhēn hǎo.",
+            "zh": "今天天气真好。",
+            "en": "The weather is so nice today."
+        }
+    },
+    "361": {
+        "id": "361",
+        "word": "听",
+        "sentence": {
+            "pinyin": "nǐ xǐ huan tīng zhōng wén gē ma？",
+            "zh": "你喜欢听中文歌吗？",
+            "en": "Do you like to listen to Chinese songs?"
+        }
+    },
+    "362": {
+        "id": "362",
+        "word": "听到",
+        "sentence": {
+            "pinyin": "nǐ tīng dào le ma？",
+            "zh": "你听到了吗？",
+            "en": "Did you hear it?"
+        }
+    },
+    "363": {
+        "id": "363",
+        "word": "听见",
+        "sentence": {
+            "pinyin": "nǐ tīng jiàn léi shēng le ma？",
+            "zh": "你听见雷声了吗？",
+            "en": "Did you hear the thunder?"
+        }
+    },
+    "364": {
+        "id": "364",
+        "word": "听写",
+        "sentence": {
+            "pinyin": "wǒ men yào tīng xiě shēng cí.",
+            "zh": "我们要听写生词。",
+            "en": "We are going to dictate the new words."
+        }
+    },
+    "365": {
+        "id": "365",
+        "word": "同学",
+        "sentence": {
+            "pinyin": "tā shì wǒ de dà xué tóng xué.",
+            "zh": "她是我的大学同学。",
+            "en": "She is my college classmate."
+        }
+    },
+    "366": {
+        "id": "366",
+        "word": "图书馆",
+        "sentence": {
+            "pinyin": "tú shū guǎn zài nǎ lǐ？",
+            "zh": "图书馆在哪里？",
+            "en": "Where is the library?"
+        }
+    },
+    "367": {
+        "id": "367",
+        "word": "外",
+        "sentence": {
+            "pinyin": "nǐ de pī sà zài mén wài.",
+            "zh": "你的披萨在门外。",
+            "en": "Your pizza is outside the door."
+        }
+    },
+    "368": {
+        "id": "368",
+        "word": "外边",
+        "sentence": {
+            "pinyin": "wài bian fēng hěn dà.",
+            "zh": "外边风很大。",
+            "en": "It's very windy outside."
+        }
+    },
+    "369": {
+        "id": "369",
+        "word": "外国",
+        "sentence": {
+            "pinyin": "nǐ xǐ huan kàn wài guó diàn yǐng ma？",
+            "zh": "你喜欢看外国电影吗？",
+            "en": "Do you like to watch foreign movies?"
+        }
+    },
+    "370": {
+        "id": "370",
+        "word": "外语",
+        "sentence": {
+            "pinyin": "nǐ xiǎng xué shén me wài yǔ？",
+            "zh": "你想学什么外语？",
+            "en": "What foreign language do you want to learn?"
+        }
+    },
+    "371": {
+        "id": "371",
+        "word": "玩儿",
+        "sentence": {
+            "pinyin": "wǒ men yī qǐ wánr ba！",
+            "zh": "我们一起玩儿吧！",
+            "en": "Let's play together！"
+        }
+    },
+    "372": {
+        "id": "372",
+        "word": "晚",
+        "sentence": {
+            "pinyin": "tài wǎn le.",
+            "zh": "太晚了。",
+            "en": "It's too late"
+        }
+    },
+    "373": {
+        "id": "373",
+        "word": "晚饭",
+        "sentence": {
+            "pinyin": "wǎn fàn zuò hǎo le.",
+            "zh": "晚饭做好了。",
+            "en": "Dinner is ready."
+        }
+    },
+    "374": {
+        "id": "374",
+        "word": "晚上",
+        "sentence": {
+            "pinyin": "wǎn shang hǎo！",
+            "zh": "晚上好！",
+            "en": "Good evening!"
+        }
+    },
+    "375": {
+        "id": "375",
+        "word": "网上",
+        "sentence": {
+            "pinyin": "wǒ men shì zài wǎng shàng rèn shi de.",
+            "zh": "我们是在网上认识的。",
+            "en": "We met online."
+        }
+    },
+    "376": {
+        "id": "376",
+        "word": "网友",
+        "sentence": {
+            "pinyin": "tā yǒu hěn duō wǎng yǒu.",
+            "zh": "他有很多网友。",
+            "en": "He has many friends on the internet."
+        }
+    },
+    "377": {
+        "id": "377",
+        "word": "忘",
+        "sentence": {
+            "pinyin": "bié wàng le mǎi miàn bāo.",
+            "zh": "别忘了买面包。",
+            "en": "Don't forget to buy bread."
+        }
+    },
+    "378": {
+        "id": "378",
+        "word": "忘记",
+        "sentence": {
+            "pinyin": "wǒ bù huì wàng jì de.",
+            "zh": "我不会忘记的。",
+            "en": "I won't forget."
+        }
+    },
+    "379": {
+        "id": "379",
+        "word": "问",
+        "sentence": {
+            "pinyin": "nǐ kě yǐ wèn lǎo shī.",
+            "zh": "你可以问老师。",
+            "en": "You can ask the teacher."
+        }
+    },
+    "380": {
+        "id": "380",
+        "word": "我",
+        "sentence": {
+            "pinyin": "nǐ ài wǒ ma？",
+            "zh": "你爱我吗？",
+            "en": "Do you love me?"
+        }
+    },
+    "381": {
+        "id": "381",
+        "word": "我们",
+        "sentence": {
+            "pinyin": "wǒ men dōu shuō zhōng wén.",
+            "zh": "我们会说中文。",
+            "en": "We can speak Chinese."
+        }
+    },
+    "382": {
+        "id": "382",
+        "word": "五",
+        "sentence": {
+            "pinyin": "tā xué zhōng wén wǔ nián le.",
+            "zh": "他学中文五年了。",
+            "en": "He has been studying Chinese for five years."
+        }
+    },
+    "383": {
+        "id": "383",
+        "word": "午饭",
+        "sentence": {
+            "pinyin": "nǐ chī wǔ fàn le ma？",
+            "zh": "你吃午饭了吗？",
+            "en": "Did you have lunch?"
+        }
+    },
+    "384": {
+        "id": "384",
+        "word": "西",
+        "sentence": {
+            "pinyin": "tā de fáng zi cháo xī.",
+            "zh": "他的房子朝西。",
+            "en": "His house faces west."
+        }
+    },
+    "385": {
+        "id": "385",
+        "word": "西边",
+        "sentence": {
+            "pinyin": "yī yuàn zài xué xiào xī bian.",
+            "zh": "医院在学校西边。",
+            "en": "The hospital is on the west side of the school."
+        }
+    },
+    "386": {
+        "id": "386",
+        "word": "洗",
+        "sentence": {
+            "pinyin": "nǐ kě yǐ bāng wǒ xǐ chē ma？",
+            "zh": "你可以帮我洗车吗？",
+            "en": "Can you wash my car for me?"
+        }
+    },
+    "387": {
+        "id": "387",
+        "word": "洗手间",
+        "sentence": {
+            "pinyin": "xǐ shǒu jiān zài èr lóu.",
+            "zh": "洗手间在二楼。",
+            "en": "The washroom is on the second floor."
+        }
+    },
+    "388": {
+        "id": "388",
+        "word": "喜欢",
+        "sentence": {
+            "pinyin": "nǐ xǐ huan chī shén me？",
+            "zh": "你喜欢吃什么？",
+            "en": "What do you like to eat?"
+        }
+    },
+    "389": {
+        "id": "389",
+        "word": "下",
+        "sentence": {
+            "pinyin": "nǐ xià fēi jī le ma？",
+            "zh": "你下飞机了吗？",
+            "en": "Did you get off the plane?"
+        }
+    },
+    "390": {
+        "id": "390",
+        "word": "下班",
+        "sentence": {
+            "pinyin": "nǐ jǐ diǎn xià bān？",
+            "zh": "你几点下班？",
+            "en": "What time do you get off work?"
+        }
+    },
+    "391": {
+        "id": "391",
+        "word": "下边",
+        "sentence": {
+            "pinyin": "nǐ de bǐ zài zhuō zi xià bian.",
+            "zh": "你的笔在桌子下边。",
+            "en": "Your pen is under the table."
+        }
+    },
+    "392": {
+        "id": "392",
+        "word": "下车",
+        "sentence": {
+            "pinyin": "wǒ zài xià yí gè lù kǒu xià chē.",
+            "zh": "我在下一个路口下车。",
+            "en": "I get off at the next intersection."
+        }
+    },
+    "393": {
+        "id": "393",
+        "word": "下次",
+        "sentence": {
+            "pinyin": "xià cì jiàn！ ",
+            "zh": "下次见！",
+            "en": "See you next time!"
+        }
+    },
+    "394": {
+        "id": "394",
+        "word": "下课",
+        "sentence": {
+            "pinyin": "nǐ jīn tiān jǐ diǎn xià kè？",
+            "zh": "你今天几点下课？",
+            "en": "What time do you finish class today?"
+        }
+    },
+    "395": {
+        "id": "395",
+        "word": "下午",
+        "sentence": {
+            "pinyin": "nǐ xià wǔ yǒu kòng ma？",
+            "zh": "你下午有空吗？",
+            "en": "Are you free this afternoon?"
+        }
+    },
+    "396": {
+        "id": "396",
+        "word": "下雨",
+        "sentence": {
+            "pinyin": "míng tiān huì xià yǔ.",
+            "zh": "明天会下雨。",
+            "en": "It will rain tomorrow."
+        }
+    },
+    "397": {
+        "id": "397",
+        "word": "先",
+        "sentence": {
+            "pinyin": "wǒ men xiān zuò zuò yè， zài kàn diàn shì.",
+            "zh": "我们先做作业，再看电视。",
+            "en": "We do our homework first and then watch TV."
+        }
+    },
+    "398": {
+        "id": "398",
+        "word": "先生",
+        "sentence": {
+            "pinyin": "nǐ shì gāo xiān sheng ma？",
+            "zh": "你是高先生吗？",
+            "en": "Are you Mr. Gao?"
+        }
+    },
+    "399": {
+        "id": "399",
+        "word": "现在",
+        "sentence": {
+            "pinyin": "xiàn zài jǐ diǎn？",
+            "zh": "现在几点？",
+            "en": "What time is it now?"
+        }
+    },
+    "400": {
+        "id": "400",
+        "word": "想",
+        "sentence": {
+            "pinyin": "wǒ xū yào xiǎng yí xià.",
+            "zh": "我需要想一下。",
+            "en": "I need to think about it."
+        }
+    },
+    "401": {
+        "id": "401",
+        "word": "小",
+        "sentence": {
+            "pinyin": "wǒ de jiā hěn xiǎo.",
+            "zh": "我的家很小。",
+            "en": "My home is small."
+        }
+    },
+    "402": {
+        "id": "402",
+        "word": "小孩儿",
+        "sentence": {
+            "pinyin": "nǐ yǒu xiǎo háir ma？",
+            "zh": "你有小孩儿吗？",
+            "en": "Do you have children?"
+        }
+    },
+    "403": {
+        "id": "403",
+        "word": "小姐",
+        "sentence": {
+            "pinyin": "zhè shì zhào xiǎo jiě.",
+            "zh": "这是赵小姐。",
+            "en": "This is Miss Zhao."
+        }
+    },
+    "404": {
+        "id": "404",
+        "word": "小朋友",
+        "sentence": {
+            "pinyin": "nà gè xiǎo péng you hěn kě ài.",
+            "zh": "那个小朋友很可爱。",
+            "en": "That kid is so cute."
+        }
+    },
+    "405": {
+        "id": "405",
+        "word": "小时",
+        "sentence": {
+            "pinyin": "nǐ měi tiān gōng zuò jǐ gè xiǎo shí？",
+            "zh": "你每天工作几个小时？",
+            "en": "How many hours do you work per day?"
+        }
+    },
+    "406": {
+        "id": "406",
+        "word": "小学",
+        "sentence": {
+            "pinyin": "tā shì xiǎo xué lǎo shī.",
+            "zh": "她是小学老师。",
+            "en": "She is an elementary school teacher."
+        }
+    },
+    "407": {
+        "id": "407",
+        "word": "小学生",
+        "sentence": {
+            "pinyin": "nà gè xiǎo xué shēng hěn gāo.",
+            "zh": "那个小学生很高。",
+            "en": "That elementary school student is tall."
+        }
+    },
+    "408": {
+        "id": "408",
+        "word": "笑",
+        "sentence": {
+            "pinyin": "tā zài xiào shén me？",
+            "zh": "他在笑什么？",
+            "en": "What is he laughing at?"
+        }
+    },
+    "409": {
+        "id": "409",
+        "word": "写",
+        "sentence": {
+            "pinyin": "nǐ huì xiě hàn zì ma？",
+            "zh": "你会写汉字吗？",
+            "en": "Can you write Chinese characters?"
+        }
+    },
+    "410": {
+        "id": "410",
+        "word": "谢谢",
+        "sentence": {
+            "pinyin": "xiè xie！",
+            "zh": "谢谢！",
+            "en": "Thank you！"
+        }
+    },
+    "411": {
+        "id": "411",
+        "word": "新",
+        "sentence": {
+            "pinyin": "zhè shì nǐ de xīn shǒu jī ma？",
+            "zh": "这是你的新手机吗？",
+            "en": "Is this your new phone?"
+        }
+    },
+    "412": {
+        "id": "412",
+        "word": "新年",
+        "sentence": {
+            "pinyin": "xīn nián kuài lè！",
+            "zh": "新年快乐！",
+            "en": "Happy New Year!"
+        }
+    },
+    "413": {
+        "id": "413",
+        "word": "星期",
+        "sentence": {
+            "pinyin": "wǒ xià gè xīng qī yào bān jiā.",
+            "zh": "我下个星期要搬家。",
+            "en": "I'm moving next week."
+        }
+    },
+    "414": {
+        "id": "414",
+        "word": "星期日",
+        "sentence": {
+            "pinyin": "wǒ zhè gè xīng qī rì yǒu zhōng wén kè.",
+            "zh": "我这个星期日有中文课。",
+            "en": "I have Chinese class this Sunday."
+        }
+    },
+    "415": {
+        "id": "415",
+        "word": "星期天",
+        "sentence": {
+            "pinyin": "nǐ zhè gè xīng qī tiān yǒu kòng ma？",
+            "zh": "你这个星期天有空吗？",
+            "en": "Are you free this Sunday?"
+        }
+    },
+    "416": {
+        "id": "416",
+        "word": "行",
+        "sentence": {
+            "pinyin": "xíng ma？",
+            "zh": "行吗？",
+            "en": "Is it OK?"
+        }
+    },
+    "417": {
+        "id": "417",
+        "word": "休息",
+        "sentence": {
+            "pinyin": "nǐ yào xiū xi ma？",
+            "zh": "你要休息吗？",
+            "en": "Do you want to rest?"
+        }
+    },
+    "418": {
+        "id": "418",
+        "word": "学",
+        "sentence": {
+            "pinyin": "nǐ xué zhōng wén duō jiǔ le？",
+            "zh": "你学中文多久了？",
+            "en": "How long have you been studying Chinese?"
+        }
+    },
+    "419": {
+        "id": "419",
+        "word": "学生",
+        "sentence": {
+            "pinyin": "tā shì yí gè hǎo xué sheng.",
+            "zh": "他是一个好学生。",
+            "en": "He is a good student."
+        }
+    },
+    "420": {
+        "id": "420",
+        "word": "学习",
+        "sentence": {
+            "pinyin": "nǐ xiǎng xué xí ma？",
+            "zh": "你想学习吗？",
+            "en": "Do you want to study?"
+        }
+    },
+    "421": {
+        "id": "421",
+        "word": "学校",
+        "sentence": {
+            "pinyin": "zhè gè xué xiào zěn me yàng？",
+            "zh": "这个学校怎么样？",
+            "en": "How is this school?"
+        }
+    },
+    "422": {
+        "id": "422",
+        "word": "学院",
+        "sentence": {
+            "pinyin": "zhè gè xué yuàn dà ma？",
+            "zh": "这个学院大吗？",
+            "en": "Is this college big?"
+        }
+    },
+    "423": {
+        "id": "423",
+        "word": "要",
+        "sentence": {
+            "pinyin": "nǐ yào chī qiǎo kè lì ma？",
+            "zh": "你要吃巧克力吗？",
+            "en": "Do you want some chocolate?"
+        }
+    },
+    "424": {
+        "id": "424",
+        "word": "爷爷",
+        "sentence": {
+            "pinyin": "wǒ yé ye tuì xiū le.",
+            "zh": "我爷爷退休了。",
+            "en": "My grandpa is retired."
+        }
+    },
+    "425": {
+        "id": "425",
+        "word": "也",
+        "sentence": {
+            "pinyin": "wǒ yě xǐ huan tiào wǔ.",
+            "zh": "我也喜欢跳舞。",
+            "en": "I also like to dance."
+        }
+    },
+    "426": {
+        "id": "426",
+        "word": "页",
+        "sentence": {
+            "pinyin": "dì jǐ yè？",
+            "zh": "第几页？",
+            "en": "Which page?"
+        }
+    },
+    "427": {
+        "id": "427",
+        "word": "一",
+        "sentence": {
+            "pinyin": "lì xī lǜ shì bǎi fēn zhī yī.",
+            "zh": "利息率是百分之一。",
+            "en": "The interest rate is one percent."
+        }
+    },
+    "428": {
+        "id": "428",
+        "word": "衣服",
+        "sentence": {
+            "pinyin": "zhè jiàn yī fu de zhì liàng hěn hǎo.",
+            "zh": "这件衣服的质量很好。",
+            "en": "The quality of these clothes is good."
+        }
+    },
+    "429": {
+        "id": "429",
+        "word": "医生",
+        "sentence": {
+            "pinyin": "tā shì yī shēng.",
+            "zh": "他是医生。",
+            "en": "He is a doctor."
+        }
+    },
+    "430": {
+        "id": "430",
+        "word": "医院",
+        "sentence": {
+            "pinyin": "fù jìn yǒu yī yuàn ma？",
+            "zh": "附近有医院吗？",
+            "en": "Is there a hospital nearby?"
+        }
+    },
+    "431": {
+        "id": "431",
+        "word": "一半",
+        "sentence": {
+            "pinyin": "zhè shì nǐ de yí bàn.",
+            "zh": "这是你的一半。",
+            "en": "This is your half."
+        }
+    },
+    "432": {
+        "id": "432",
+        "word": "一会儿",
+        "sentence": {
+            "pinyin": "qǐng děng yí huìr.",
+            "zh": "请等一会儿。",
+            "en": "Please wait a moment."
+        }
+    },
+    "433": {
+        "id": "433",
+        "word": "一块儿",
+        "sentence": {
+            "pinyin": "wǒ men yí kuàir wán ba！",
+            "zh": "我们一块儿玩吧！",
+            "en": "Let's play together!"
+        }
+    },
+    "434": {
+        "id": "434",
+        "word": "一下儿",
+        "sentence": {
+            "pinyin": "nǐ kě yǐ zhào gù yí xiàr bǎo bǎo ma？ ",
+            "zh": "你可以照顾一下儿宝宝吗？",
+            "en": "Can you look after the baby for a bit?"
+        }
+    },
+    "435": {
+        "id": "435",
+        "word": "一样",
+        "sentence": {
+            "pinyin": "tā men yí yàng gāo. ",
+            "zh": "他们一样高。",
+            "en": "They are the same height."
+        }
+    },
+    "436": {
+        "id": "436",
+        "word": "一边",
+        "sentence": {
+            "pinyin": "tā de tóu fa yì biān cháng， yì biān duǎn. ",
+            "zh": "她的头发一边长，一边短。",
+            "en": "Her hair is long on one side and short on the other (one side)."
+        }
+    },
+    "437": {
+        "id": "437",
+        "word": "一点儿",
+        "sentence": {
+            "pinyin": "wǒ huì shuō yī diǎnr zhōng wén. ",
+            "zh": "我会说一点儿中文。",
+            "en": "I can speak a little bit Chinese."
+        }
+    },
+    "438": {
+        "id": "438",
+        "word": "一起",
+        "sentence": {
+            "pinyin": "wǒ men yì qǐ qù lǚ xíng ba！",
+            "zh": "我们一起去旅行吧！",
+            "en": "Let's travel together!"
+        }
+    },
+    "439": {
+        "id": "439",
+        "word": "一些",
+        "sentence": {
+            "pinyin": "tā mǎi le yì xiē yī fu.",
+            "zh": "他买了一些衣服。",
+            "en": "He bought some clothes."
+        }
+    },
+    "440": {
+        "id": "440",
+        "word": "用",
+        "sentence": {
+            "pinyin": "nǐ huì yòng kuài zi ma？",
+            "zh": "你会用筷子吗？",
+            "en": "Can you use chopsticks?"
+        }
+    },
+    "441": {
+        "id": "441",
+        "word": "有",
+        "sentence": {
+            "pinyin": "wǒ yǒu yí gè gē ge.",
+            "zh": "我有一个哥哥。",
+            "en": "I have an elder brother."
+        }
+    },
+    "442": {
+        "id": "442",
+        "word": "有的",
+        "sentence": {
+            "pinyin": "yǒu de rén xǐ huan mǐ fàn， yǒu de rén xǐ huan miàn tiáo.",
+            "zh": "有的人喜欢米饭，有的人喜欢面条。",
+            "en": "Some people like rice, some people like noodles."
+        }
+    },
+    "443": {
+        "id": "443",
+        "word": "有名",
+        "sentence": {
+            "pinyin": "tā hěn yǒu míng.",
+            "zh": "她很有名。",
+            "en": "She is famous."
+        }
+    },
+    "444": {
+        "id": "444",
+        "word": "有时候 / 有时",
+        "sentence": {
+            "pinyin": "wǒ yǒu shí hou zài jiā zuò fàn.",
+            "zh": "我有时候在家做饭。",
+            "en": "I sometimes cook at home."
+        }
+    },
+    "445": {
+        "id": "445",
+        "word": "有（一）些",
+        "sentence": {
+            "pinyin": "yǒu (yì) xiē rén xǐ huan shàng yè bān.",
+            "zh": "有(一)些人喜欢上夜班。",
+            "en": "Some people like to work at night."
+        }
+    },
+    "446": {
+        "id": "446",
+        "word": "有用",
+        "sentence": {
+            "pinyin": "nǐ jué de zhè gè shì pín yǒu yòng ma？",
+            "zh": "你觉得这个视频有用吗？",
+            "en": "Did you find this video useful?"
+        }
+    },
+    "447": {
+        "id": "447",
+        "word": "右",
+        "sentence": {
+            "pinyin": "wǒ de yòu shǒu shòu shāng le.",
+            "zh": "我的右手受伤了。",
+            "en": "My right hand is injured."
+        }
+    },
+    "448": {
+        "id": "448",
+        "word": "右边",
+        "sentence": {
+            "pinyin": "jiǔ diàn zài chē zhàn de yòu bian.",
+            "zh": "酒店在车站的右边。",
+            "en": "The hotel is on the right side of the station."
+        }
+    },
+    "449": {
+        "id": "449",
+        "word": "雨",
+        "sentence": {
+            "pinyin": "wǒ xǐ huan zài yǔ zhōng sàn bù.",
+            "zh": "我喜欢在雨中散步。",
+            "en": "I like to walk in the rain."
+        }
+    },
+    "450": {
+        "id": "450",
+        "word": "元",
+        "sentence": {
+            "pinyin": "zhè tiáo kù zi wǔ bǎi yuán.",
+            "zh": "这条裤子五百元。",
+            "en": "The pair of pants costs five hundred yuan."
+        }
+    },
+    "451": {
+        "id": "451",
+        "word": "远",
+        "sentence": {
+            "pinyin": "nǐ jiā lí dì tiě zhàn yuǎn ma？",
+            "zh": "你家离地铁站远吗？",
+            "en": "Is your home far from the metro station?"
+        }
+    },
+    "452": {
+        "id": "452",
+        "word": "月",
+        "sentence": {
+            "pinyin": "tā xué zhōng wén liù gè yuè le.",
+            "zh": "他学中文六个月了。",
+            "en": "He has been learning Chinese for 6 months."
+        }
+    },
+    "453": {
+        "id": "453",
+        "word": "再",
+        "sentence": {
+            "pinyin": "zài zuò yí cì.",
+            "zh": "再做一次。",
+            "en": "Do it again."
+        }
+    },
+    "454": {
+        "id": "454",
+        "word": "再见",
+        "sentence": {
+            "pinyin": "zài jiàn！",
+            "zh": "再见！",
+            "en": "Goodbye!"
+        }
+    },
+    "455": {
+        "id": "455",
+        "word": "在",
+        "sentence": {
+            "pinyin": "nǐ zài bàn gōng shì ma？",
+            "zh": "你在办公室吗？",
+            "en": "Are you in the office?"
+        }
+    },
+    "456": {
+        "id": "456",
+        "word": "在家",
+        "sentence": {
+            "pinyin": "nǐ zài jiā ma？",
+            "zh": "你在家吗？",
+            "en": "Are you at home?"
+        }
+    },
+    "457": {
+        "id": "457",
+        "word": "早",
+        "sentence": {
+            "pinyin": "wǒ yào zǎo shuì zǎo qǐ.",
+            "zh": "我要早睡早起。",
+            "en": "I want to go to bed early and get up early."
+        }
+    },
+    "458": {
+        "id": "458",
+        "word": "早饭",
+        "sentence": {
+            "pinyin": "nǐ zǎo fàn chī le shén me？",
+            "zh": "你早饭吃了什么？",
+            "en": "What did you eat for breakfast?"
+        }
+    },
+    "459": {
+        "id": "459",
+        "word": "早上",
+        "sentence": {
+            "pinyin": "zǎo shang hǎo！",
+            "zh": "早上好！",
+            "en": "Good morning!"
+        }
+    },
+    "460": {
+        "id": "460",
+        "word": "怎么",
+        "sentence": {
+            "pinyin": "nǐ zhī dào zěn me zuò jiǎo zi ma？",
+            "zh": "你知道怎么做饺子吗？",
+            "en": "Do you know how to make dumplings?"
+        }
+    },
+    "461": {
+        "id": "461",
+        "word": "站",
+        "sentence": {
+            "pinyin": "wǒ zài huǒ chē zhàn děng nǐ.",
+            "zh": "我在火车站等你。",
+            "en": "I'm waiting for you at the train station."
+        }
+    },
+    "462": {
+        "id": "462",
+        "word": "找",
+        "sentence": {
+            "pinyin": "wǒ zài zhǎo wǒ de shǒu jī.",
+            "zh": "我在找我的手机。",
+            "en": "I'm looking for my phone."
+        }
+    },
+    "463": {
+        "id": "463",
+        "word": "找到",
+        "sentence": {
+            "pinyin": "nǐ zhǎo dào gōng zuò le ma？",
+            "zh": "你找到工作了吗？",
+            "en": "Have you found a job?"
+        }
+    },
+    "464": {
+        "id": "464",
+        "word": "这",
+        "sentence": {
+            "pinyin": "zhè shì wǒ de shǒu jī.",
+            "zh": "这是我的手机。",
+            "en": "This is my cell phone."
+        }
+    },
+    "465": {
+        "id": "465",
+        "word": "这边",
+        "sentence": {
+            "pinyin": "nǐ de jiào shì zài zhè biān.",
+            "zh": "你的教室在这边。",
+            "en": "Your classroom is here."
+        }
+    },
+    "466": {
+        "id": "466",
+        "word": "这里",
+        "sentence": {
+            "pinyin": "zhè lǐ de cài hěn hǎo chī.",
+            "zh": "这里的菜很好吃。",
+            "en": "The food here is delicious."
+        }
+    },
+    "467": {
+        "id": "467",
+        "word": "这儿",
+        "sentence": {
+            "pinyin": "wǒ cháng cháng zài zhèr jiàn shēn.",
+            "zh": "我常常在这儿健身。",
+            "en": "I often work out here."
+        }
+    },
+    "468": {
+        "id": "468",
+        "word": "这些",
+        "sentence": {
+            "pinyin": "zhè xiē tián diǎn dōu shì nǐ zuò de ma？",
+            "zh": "这些甜点都是你做的吗？",
+            "en": "Did you make all these desserts?"
+        }
+    },
+    "469": {
+        "id": "469",
+        "word": "着",
+        "sentence": {
+            "pinyin": "tā zhàn zhe.",
+            "zh": "他站着。",
+            "en": "He is standing."
+        }
+    },
+    "470": {
+        "id": "470",
+        "word": "真",
+        "sentence": {
+            "pinyin": "nǐ zhēn cōng ming.",
+            "zh": "你真聪明。",
+            "en": "You are really smart."
+        }
+    },
+    "471": {
+        "id": "471",
+        "word": "真的",
+        "sentence": {
+            "pinyin": "zhè xīn wén shì zhēn de ma？",
+            "zh": "这新闻是真的吗？",
+            "en": "Is this news true?"
+        }
+    },
+    "472": {
+        "id": "472",
+        "word": "正",
+        "sentence": {
+            "pinyin": "wǒ zhèng kāi chē ne.",
+            "zh": "我正开车呢。",
+            "en": "I am driving."
+        }
+    },
+    "473": {
+        "id": "473",
+        "word": "正在",
+        "sentence": {
+            "pinyin": "wǒ zhèng zài jiàn shēn.",
+            "zh": "我正在健身。",
+            "en": "I'm working out."
+        }
+    },
+    "474": {
+        "id": "474",
+        "word": "知道",
+        "sentence": {
+            "pinyin": "wǒ bù zhī dào.",
+            "zh": "我不知道。",
+            "en": "I don't know."
+        }
+    },
+    "475": {
+        "id": "475",
+        "word": "知识",
+        "sentence": {
+            "pinyin": "tā de lì shǐ zhī shi hěn qiǎn bó.",
+            "zh": "他的历史知识很浅薄。",
+            "en": "His historical knowledge is shallow."
+        }
+    },
+    "476": {
+        "id": "476",
+        "word": "中",
+        "sentence": {
+            "pinyin": "tā zài diàn yǐng zhōng yǎn yí gè mā ma.",
+            "zh": "她在电影中演一个妈妈。",
+            "en": "She plays a mom in the movie."
+        }
+    },
+    "477": {
+        "id": "477",
+        "word": "中国",
+        "sentence": {
+            "pinyin": "nǐ qù guò zhōng guó ma？",
+            "zh": "你去过中国吗？",
+            "en": "Have you been to China?"
+        }
+    },
+    "478": {
+        "id": "478",
+        "word": "中间",
+        "sentence": {
+            "pinyin": "wǒ de chē tíng zài zhōng jiān.",
+            "zh": "我的车停在中间。",
+            "en": "My car is parked in the middle."
+        }
+    },
+    "479": {
+        "id": "479",
+        "word": "中文",
+        "sentence": {
+            "pinyin": "nǐ de zhōng wén zěn me yàng？",
+            "zh": "你的中文怎么样？",
+            "en": "How is your Chinese?"
+        }
+    },
+    "480": {
+        "id": "480",
+        "word": "中午",
+        "sentence": {
+            "pinyin": "wǒ men zhōng wǔ yī qǐ chī wǔ fàn ba！",
+            "zh": "我们中午一起吃午饭吧！",
+            "en": "Let's have lunch together at noon！"
+        }
+    },
+    "481": {
+        "id": "481",
+        "word": "中学",
+        "sentence": {
+            "pinyin": "tā shì zhōng xué lǎo shī.",
+            "zh": "他是中学老师。",
+            "en": "He is a middle school teacher."
+        }
+    },
+    "482": {
+        "id": "482",
+        "word": "中学生",
+        "sentence": {
+            "pinyin": "nà gè zhōng xué shēng hěn gāo.",
+            "zh": "那个中学生很高。",
+            "en": "That middle school student is tall."
+        }
+    },
+    "483": {
+        "id": "483",
+        "word": "重",
+        "sentence": {
+            "pinyin": "wǒ de xíng lǐ hěn zhòng.",
+            "zh": "我的行李很重。",
+            "en": "My luggage is heavy."
+        }
+    },
+    "484": {
+        "id": "484",
+        "word": "重要",
+        "sentence": {
+            "pinyin": "hàn yǔ shēng diào hěn zhòng yào.",
+            "zh": "汉语声调很重要。",
+            "en": "Chinese tones are very important."
+        }
+    },
+    "485": {
+        "id": "485",
+        "word": "住",
+        "sentence": {
+            "pinyin": "nǐ zhù zài nǎ lǐ？",
+            "zh": "你住在哪里？",
+            "en": "Where do you live?"
+        }
+    },
+    "486": {
+        "id": "486",
+        "word": "准备",
+        "sentence": {
+            "pinyin": "wǒ yào zhǔn bèi wǎn fàn.",
+            "zh": "我要准备晚饭。",
+            "en": "I'm going to prepare dinner."
+        }
+    },
+    "487": {
+        "id": "487",
+        "word": "桌子",
+        "sentence": {
+            "pinyin": "zhè zhāng zhuō zi duō cháng？",
+            "zh": "这张桌子多长？",
+            "en": "How long is this table?"
+        }
+    },
+    "488": {
+        "id": "488",
+        "word": "字",
+        "sentence": {
+            "pinyin": "zhè shì shén me zì？",
+            "zh": "这是什么字？",
+            "en": "What character is this?"
+        }
+    },
+    "489": {
+        "id": "489",
+        "word": "子",
+        "sentence": {
+            "pinyin": "qǐng gěi wǒ yī bǎ dāo zi hé chā zi.",
+            "zh": "请给我一把刀子和叉子。",
+            "en": "Please give me a knife and fork."
+        }
+    },
+    "490": {
+        "id": "490",
+        "word": "走",
+        "sentence": {
+            "pinyin": "zǒu ba！",
+            "zh": "走吧！",
+            "en": "Let's go!"
+        }
+    },
+    "491": {
+        "id": "491",
+        "word": "走路",
+        "sentence": {
+            "pinyin": "tā cháng cháng zǒu lù qù xué xiào.",
+            "zh": "他常常走路去学校。",
+            "en": "He often walks to school."
+        }
+    },
+    "492": {
+        "id": "492",
+        "word": "最",
+        "sentence": {
+            "pinyin": "nǐ zuì xǐ huan nǎ gè jì jié？",
+            "zh": "你最喜欢哪个季节？",
+            "en": "Which season do you like the most?"
+        }
+    },
+    "493": {
+        "id": "493",
+        "word": "最好",
+        "sentence": {
+            "pinyin": "nǐ zuì hǎo de péng you shì shéi？",
+            "zh": "你最好的朋友是谁？",
+            "en": "Who is your best friend?"
+        }
+    },
+    "494": {
+        "id": "494",
+        "word": "最后",
+        "sentence": {
+            "pinyin": "jīn tiān shì zuì hòu yī tiān.",
+            "zh": "今天是最后一天。",
+            "en": "Today is the last day."
+        }
+    },
+    "495": {
+        "id": "495",
+        "word": "昨天",
+        "sentence": {
+            "pinyin": "nǐ zuó tiān jiā bān le ma？",
+            "zh": "你昨天加班了吗？",
+            "en": "Did you work overtime yesterday?"
+        }
+    },
+    "496": {
+        "id": "496",
+        "word": "左",
+        "sentence": {
+            "pinyin": "nǐ yòng zuǒ shǒu xiě zì ma？",
+            "zh": "你用左手写字吗？",
+            "en": "Do you write with your left hand?"
+        }
+    },
+    "497": {
+        "id": "497",
+        "word": "左边",
+        "sentence": {
+            "pinyin": "tíng chē chǎng zài chāo shì de zuǒ bian.",
+            "zh": "停车场在超市的左边。",
+            "en": "The parking lot is on the left side of the supermarket."
+        }
+    },
+    "498": {
+        "id": "498",
+        "word": "坐",
+        "sentence": {
+            "pinyin": "wǒ kě yǐ zuò zài zhè lǐ ma？",
+            "zh": "我可以坐在这里吗？",
+            "en": "Can I sit here?"
+        }
+    },
+    "499": {
+        "id": "499",
+        "word": "坐下",
+        "sentence": {
+            "pinyin": "wǒ men zuò xià hē bēi chá ba.",
+            "zh": "我们坐下喝杯茶吧。",
+            "en": "Let's sit down and have a cup of tea."
+        }
+    },
+    "500": {
+        "id": "500",
+        "word": "做",
+        "sentence": {
+            "pinyin": "nǐ xià bān hòu yào zuò shén me？",
+            "zh": "你下班后要做什么？",
+            "en": "What are you going to do after work?"
+        }
+    }
+}
