@@ -22,4 +22,4 @@ with open("../vendor/mhq-new-hsk1-sentences.html") as fp:
         print(rowdata)
         
 with open('../data/parsed-hsk1-sentences.json', 'w', encoding='utf8') as fp:
-    json.dump(data, fp, ensure_ascii=False)
+    json.dump(data, fp, ensure_ascii=False, indent=4)
