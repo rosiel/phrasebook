@@ -45,3 +45,28 @@ def htmlify(data, soup, title='Sample sentences'):
                 words_para.append(words_span_en)
 
     return soup
+
+
+def htmlify_words(data, soup, title='Sample sentences'):
+    soup.head.title.string = title
+    soup.body.h1.string = title
+    bookmark = soup.h1
+    table = soup.new_tag('table')
+    bookmark.insert_after(table)
+
+    for word_zh, data_row in data.items():
+
+        row = soup.new_tag('tr')
+        table.append(row)
+
+
+        word_cell = soup.new_tag('td', string=word_zh)
+        word_cell['class'] = ['headword']
+        row.append(word_cell)
+        translation_cell = soup.new_tag('td', string=data_row['translations']['en'])
+        row.append(translation_cell)
+
+        pinyin_cell= soup.new_tag('td', string=data_row['pinyin'])
+        row.append(pinyin_cell)
+
+    return soup
