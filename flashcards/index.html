@@ -1,0 +1,699 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>HSK1 Flashcards</title>
+  <style>
+    :root {
+      --bg: #1a1a1a;
+      --fg: #f0f0f0;
+      --accent: #ffd54f;
+      --correct: #66bb6a;
+      --wrong: #ef5350;
+      --muted: #888;
+      --font-size-xl: 4rem;
+      --font-size-lg: 2rem;
+      --font-size-md: 1.25rem;
+      --font-size-sm: 0.9rem;
+      --max-width: 600px;
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--fg);
+      min-height: 100dvh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 1rem;
+    }
+
+    /* Hidden command input: captures keystrokes, stays in accessibility tree */
+    #cmd-input {
+      position: absolute;
+      width: 1px;
+      height: 1px;
+      padding: 0;
+      margin: -1px;
+      overflow: hidden;
+      clip: rect(0, 0, 0, 0);
+      white-space: nowrap;
+      border: 0;
+      /* Not display:none — must be focusable and in the a11y tree */
+    }
+
+    main {
+      width: 100%;
+      max-width: var(--max-width);
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 1.5rem;
+    }
+
+    /* Direction indicator */
+    #direction-label {
+      font-size: var(--font-size-sm);
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      min-height: 1.2em;
+    }
+
+    /* The big word */
+    .headword {
+      font-size: var(--font-size-xl);
+      font-weight: 700;
+      line-height: 1.3;
+      min-height: 1.3em;
+      word-break: break-word;
+      /* Large touch target even though keyboard-driven */
+      padding: 1rem;
+    }
+
+    /* Answer area (hidden until revealed) */
+    #answer-area {
+      font-size: var(--font-size-lg);
+      color: var(--accent);
+      min-height: 1.3em;
+    }
+
+    #answer-area[hidden] {
+      display: none;
+    }
+
+    #pinyin-display {
+      font-size: var(--font-size-md);
+      color: var(--muted);
+      margin-top: 0.25rem;
+    }
+
+    /* Feedback flash */
+    #feedback {
+      font-size: var(--font-size-lg);
+      font-weight: 600;
+      min-height: 1.3em;
+      transition: opacity 0.15s;
+    }
+    #feedback.correct { color: var(--correct); }
+    #feedback.wrong   { color: var(--wrong); }
+    #feedback.info    { color: var(--accent); }
+
+    /* Status bar */
+    footer {
+      margin-top: 2rem;
+      font-size: var(--font-size-sm);
+      color: var(--muted);
+      text-align: center;
+      line-height: 1.6;
+    }
+
+    /* Help overlay */
+    #help-overlay {
+      position: fixed;
+      inset: 0;
+      background: rgba(0, 0, 0, 0.9);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 100;
+    }
+    #help-overlay[hidden] {
+      display: none;
+    }
+    #help-content {
+      background: #2a2a2a;
+      border: 1px solid #444;
+      border-radius: 8px;
+      padding: 2rem;
+      max-width: 480px;
+      width: 90%;
+      font-size: var(--font-size-md);
+      line-height: 1.8;
+    }
+    #help-content h2 {
+      margin-bottom: 0.75rem;
+      color: var(--accent);
+    }
+    #help-content kbd {
+      display: inline-block;
+      background: #444;
+      color: var(--accent);
+      padding: 0.1em 0.5em;
+      border-radius: 4px;
+      font-family: monospace;
+      font-size: 1.1em;
+      min-width: 1.8em;
+      text-align: center;
+    }
+    #help-content .close-hint {
+      margin-top: 1rem;
+      color: var(--muted);
+      font-size: var(--font-size-sm);
+    }
+
+    /* Screen-reader-only live region */
+    .sr-only {
+      position: absolute;
+      width: 1px;
+      height: 1px;
+      padding: 0;
+      margin: -1px;
+      overflow: hidden;
+      clip: rect(0, 0, 0, 0);
+      white-space: nowrap;
+      border: 0;
+    }
+
+    /* Card flip animation (subtle, no motion if prefers-reduced) */
+    @media (prefers-reduced-motion: no-preference) {
+      .headword.new-card {
+        animation: fadeIn 0.2s ease-out;
+      }
+      @keyframes fadeIn {
+        from { opacity: 0.3; transform: translateY(-4px); }
+        to   { opacity: 1;   transform: translateY(0); }
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!--
+    Hidden command input.
+    Always focused. Captures all single-key presses.
+    Present in the accessibility tree so the braille display cursor has a home.
+  -->
+  <input type="text"
+         id="cmd-input"
+         autofocus
+         aria-label="Flashcard command input. Press H for help. J for correct. F for wrong. N for next card.">
+
+  <main>
+    <!-- Direction label: "Chinese → English" etc -->
+    <div id="direction-label" aria-live="polite"></div>
+
+    <!-- The question word — large and centered -->
+    <div id="question-word" class="headword" role="heading" aria-level="1"></div>
+
+    <!-- Answer reveal area -->
+    <div id="answer-area" hidden>
+      <div id="answer-word"></div>
+      <div id="pinyin-display"></div>
+    </div>
+
+    <!-- Feedback: "Correct!" / "Wrong — it was..." -->
+    <div id="feedback" role="alert"></div>
+  </main>
+
+  <footer>
+    <div id="pool-stats"></div>
+    <div id="hint-line">Press <kbd>H</kbd> for help</div>
+  </footer>
+
+  <!-- Screen-reader announcement region -->
+  <div id="sr-announce" class="sr-only" aria-live="polite" role="status"></div>
+
+  <!-- Help overlay (hidden) -->
+  <div id="help-overlay" hidden role="dialog" aria-label="Keyboard shortcuts" aria-modal="true">
+    <div id="help-content">
+      <h2>Keyboard Shortcuts</h2>
+      <table>
+        <tr><td><kbd>J</kbd></td><td>Correct — I knew it</td></tr>
+        <tr><td><kbd>F</kbd></td><td>Wrong — I didn't know it</td></tr>
+        <tr><td><kbd>N</kbd> / <kbd>Space</kbd></td><td>Next card (skip)</td></tr>
+        <tr><td><kbd>R</kbd></td><td>Reveal answer</td></tr>
+        <tr><td><kbd>D</kbd></td><td>Toggle direction (CN→EN / EN→CN / Mixed)</td></tr>
+        <tr><td><kbd>S</kbd></td><td>Re-announce current card</td></tr>
+        <tr><td><kbd>H</kbd> / <kbd>?</kbd></td><td>Show/hide this help</td></tr>
+        <tr><td><kbd>Escape</kbd></td><td>Close help</td></tr>
+      </table>
+      <div class="close-hint">Press <kbd>Escape</kbd> or <kbd>H</kbd> to close</div>
+    </div>
+  </div>
+
+  <script>
+  // =========================================================================
+  // HSK1 Flashcard App — Phase 1 Skeleton
+  // =========================================================================
+
+  // --- Embedded word data (small subset for Phase 1) ---
+  // Phase 2 will load the full hsk1-words.json via fetch().
+  const EMBEDDED_WORDS = {
+    "的": { "en": "possession particle", "pinyin": "de" },
+    "我": { "en": "I, me",              "pinyin": "wǒ" },
+    "你": { "en": "you (singular)",      "pinyin": "nǐ" },
+    "是": { "en": "to be",              "pinyin": "shì" },
+    "好": { "en": "good, nice",         "pinyin": "hǎo" },
+    "中国": { "en": "China",            "pinyin": "Zhōngguó" },
+    "谢谢": { "en": "thank you",        "pinyin": "xièxie" },
+    "不": { "en": "no, not",           "pinyin": "bù" },
+    "人": { "en": "person, people",     "pinyin": "rén" },
+    "大": { "en": "large, big",         "pinyin": "dà" },
+  };
+
+  // --- Constants ---
+  const POOL_SIZE = 5;
+  const GRADUATION_STREAK = 3;
+  const STORAGE_KEY = "hsk1-flashcards-v1";
+  const DIRECTIONS = ["cn-en", "en-cn"];
+
+  // --- DOM refs ---
+  const $cmd   = document.getElementById("cmd-input");
+  const $dir   = document.getElementById("direction-label");
+  const $qWord = document.getElementById("question-word");
+  const $aArea = document.getElementById("answer-area");
+  const $aWord = document.getElementById("answer-word");
+  const $pinyin= document.getElementById("pinyin-display");
+  const $fb    = document.getElementById("feedback");
+  const $stats = document.getElementById("pool-stats");
+  const $sr    = document.getElementById("sr-announce");
+  const $help  = document.getElementById("help-overlay");
+
+  // --- State ---
+  let state = {
+    words: {},           // { id: { status, correctStreak, totalCorrect, totalWrong, lastSeen } }
+    config: {
+      direction: "mixed", // "cn-en" | "en-cn" | "mixed"
+      poolSize: POOL_SIZE,
+    },
+    currentCard: null,   // { id, direction, questionWord, answerWord, pinyin }
+    cardState: "question", // "question" | "revealed" | "graded"
+  };
+
+  // --- Persistence ---
+  function saveState() {
+    const toSave = {
+      words: state.words,
+      config: state.config,
+    };
+    try {
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(toSave));
+    } catch (e) {
+      // localStorage full or unavailable — silently continue
+    }
+  }
+
+  function loadState() {
+    try {
+      const raw = localStorage.getItem(STORAGE_KEY);
+      if (raw) {
+        const saved = JSON.parse(raw);
+        state.words = saved.words || {};
+        state.config = { ...state.config, ...(saved.config || {}) };
+      }
+    } catch (e) {
+      // Corrupt data — reset
+      state.words = {};
+    }
+  }
+
+  // --- Word management ---
+  function getWordList() {
+    // Phase 1: use embedded words
+    // Phase 2: will load from JSON file
+    return Object.keys(EMBEDDED_WORDS);
+  }
+
+  function getEnglish(chinese) {
+    return EMBEDDED_WORDS[chinese]?.en || "";
+  }
+
+  function getPinyin(chinese) {
+    return EMBEDDED_WORDS[chinese]?.pinyin || "";
+  }
+
+  function ensureWord(id) {
+    if (!state.words[id]) {
+      state.words[id] = {
+        status: "unseen",
+        correctStreak: 0,
+        totalCorrect: 0,
+        totalWrong: 0,
+        lastSeen: null,
+      };
+    }
+    return state.words[id];
+  }
+
+  // --- Pool logic ---
+  function initPool() {
+    const allWords = getWordList();
+    // Ensure all words have state entries
+    allWords.forEach(id => ensureWord(id));
+
+    // Count active words
+    const activeCount = allWords.filter(id => state.words[id].status === "active").length;
+
+    // Fill active pool up to POOL_SIZE
+    if (activeCount < state.config.poolSize) {
+      const unseen = allWords.filter(id => state.words[id].status === "unseen");
+      // Shuffle unseen to avoid always picking the same order
+      shuffle(unseen);
+      const needed = state.config.poolSize - activeCount;
+      for (let i = 0; i < needed && i < unseen.length; i++) {
+        state.words[unseen[i]].status = "active";
+      }
+    }
+
+    saveState();
+  }
+
+  function getActiveWords() {
+    return Object.keys(state.words).filter(id => state.words[id].status === "active");
+  }
+
+  function getPoolStats() {
+    const all = Object.keys(state.words);
+    const active  = all.filter(id => state.words[id].status === "active").length;
+    const learned = all.filter(id => state.words[id].status === "learned").length;
+    const unseen  = all.filter(id => state.words[id].status === "unseen").length;
+    return { active, learned, unseen, total: all.length };
+  }
+
+  function graduateWord(id) {
+    state.words[id].status = "learned";
+    // Pull a new word from unseen
+    const unseen = Object.keys(state.words).filter(k => state.words[k].status === "unseen");
+    if (unseen.length > 0) {
+      const pick = unseen[Math.floor(Math.random() * unseen.length)];
+      state.words[pick].status = "active";
+    }
+    saveState();
+  }
+
+  // --- Card generation ---
+  function pickDirection() {
+    if (state.config.direction === "mixed") {
+      return DIRECTIONS[Math.floor(Math.random() * DIRECTIONS.length)];
+    }
+    return state.config.direction;
+  }
+
+  function generateCard() {
+    const active = getActiveWords();
+    if (active.length === 0) {
+      // All words learned or no words at all
+      return null;
+    }
+
+    const id = active[Math.floor(Math.random() * active.length)];
+    const dir = pickDirection();
+    const english = getEnglish(id);
+    const pinyin = getPinyin(id);
+
+    let questionWord, answerWord;
+    if (dir === "cn-en") {
+      questionWord = id;        // Show Chinese
+      answerWord = english;     // Answer is English
+    } else {
+      questionWord = english;   // Show English
+      answerWord = id;          // Answer is Chinese
+    }
+
+    return { id, direction: dir, questionWord, answerWord, pinyin };
+  }
+
+  // --- Rendering ---
+  function renderCard() {
+    const card = state.currentCard;
+    state.cardState = "question";
+
+    // Hide answer area
+    $aArea.hidden = true;
+
+    // Direction label
+    if (card.direction === "cn-en") {
+      $dir.textContent = "Chinese → English";
+    } else {
+      $dir.textContent = "English → Chinese";
+    }
+
+    // Question word
+    $qWord.textContent = card.questionWord;
+    $qWord.classList.remove("new-card");
+    void $qWord.offsetWidth; // force reflow
+    $qWord.classList.add("new-card");
+
+    // Clear feedback
+    $fb.textContent = "";
+    $fb.className = "";
+
+    // Pre-fill answer (hidden)
+    $aWord.textContent = card.answerWord;
+    $pinyin.textContent = card.pinyin || "";
+
+    // Update stats
+    updateStats();
+
+    // Announce to screen reader
+    announce(`New card. ${card.questionWord}`);
+  }
+
+  function revealAnswer() {
+    if (state.cardState === "revealed" || state.cardState === "graded") return;
+    state.cardState = "revealed";
+    $aArea.hidden = false;
+    announce(`Answer: ${state.currentCard.answerWord}`);
+  }
+
+  function showFeedback(correct) {
+    state.cardState = "graded";
+    $aArea.hidden = false;
+
+    const card = state.currentCard;
+    if (correct) {
+      $fb.textContent = "✓ Correct!";
+      $fb.className = "correct";
+      announce("Correct!");
+    } else {
+      $fb.textContent = `✗ Wrong — it was: ${card.answerWord}`;
+      $fb.className = "wrong";
+      announce(`Wrong. The answer is: ${card.answerWord}`);
+    }
+  }
+
+  function updateStats() {
+    const stats = getPoolStats();
+    $stats.textContent = `Active: ${stats.active} · Learned: ${stats.learned} · Unseen: ${stats.unseen}`;
+  }
+
+  // --- Screen reader announcements ---
+  function announce(message) {
+    // Toggle content to force re-announcement even if the same text
+    $sr.textContent = "";
+    requestAnimationFrame(() => {
+      $sr.textContent = message;
+    });
+  }
+
+  // --- Actions ---
+  function nextCard() {
+    // If we just graded, process learning
+    // (grading is handled separately; nextCard just advances)
+
+    // Ensure pool is filled
+    initPool();
+
+    const card = generateCard();
+    if (!card) {
+      // All learned!
+      $qWord.textContent = "🎉";
+      $dir.textContent = "All words learned!";
+      $fb.textContent = "You've mastered this set. Reset to start over.";
+      $fb.className = "info";
+      $aArea.hidden = true;
+      $stats.textContent = "";
+      announce("Congratulations! You have learned all the words in this set.");
+      state.currentCard = null;
+      return;
+    }
+
+    state.currentCard = card;
+    renderCard();
+  }
+
+  function gradeCard(correct) {
+    if (!state.currentCard) return;
+    if (state.cardState === "graded") return; // Already graded
+
+    const card = state.currentCard;
+    const word = ensureWord(card.id);
+    word.lastSeen = Date.now();
+
+    if (correct) {
+      word.correctStreak += 1;
+      word.totalCorrect += 1;
+      if (word.correctStreak >= GRADUATION_STREAK) {
+        graduateWord(card.id);
+        announce(`Correct! "${card.id}" has been learned.`);
+      }
+    } else {
+      word.correctStreak = 0;
+      word.totalWrong += 1;
+    }
+
+    saveState();
+    showFeedback(correct);
+  }
+
+  function toggleDirection() {
+    const order = ["mixed", "cn-en", "en-cn"];
+    const idx = order.indexOf(state.config.direction);
+    state.config.direction = order[(idx + 1) % order.length];
+    saveState();
+    const labels = { "mixed": "Mixed direction", "cn-en": "Chinese to English", "en-cn": "English to Chinese" };
+    announce(`Direction: ${labels[state.config.direction]}`);
+    $dir.textContent = labels[state.config.direction];
+  }
+
+  function speakCard() {
+    if (!state.currentCard) return;
+    const card = state.currentCard;
+    announce(`Question: ${card.questionWord}. Press J for correct, F for wrong, R to reveal.`);
+  }
+
+  function showHelp() {
+    $help.hidden = false;
+    announce("Help shown. Press Escape to close.");
+  }
+
+  function hideHelp() {
+    $help.hidden = true;
+    $cmd.focus();
+    announce("Help closed.");
+  }
+
+  function announceHelp() {
+    announce(
+      "Keys: J for correct, F for wrong, N for next card, R to reveal, D to toggle direction, S to repeat card, H for this help."
+    );
+  }
+
+  // --- Keyboard handler ---
+  $cmd.addEventListener("keydown", (e) => {
+    const key = e.key.toLowerCase();
+
+    // Help overlay is open — only handle close keys
+    if (!$help.hidden) {
+      if (key === "escape" || key === "h" || key === "?") {
+        e.preventDefault();
+        hideHelp();
+      }
+      return;
+    }
+
+    // Prevent default for all our handled keys
+    const handledKeys = ["j", "f", "n", " ", "h", "?", "r", "d", "s", "escape"];
+    if (handledKeys.includes(key)) {
+      e.preventDefault();
+    }
+
+    switch (key) {
+      case "j":
+        if (state.currentCard && state.cardState !== "graded") {
+          gradeCard(true);
+        }
+        break;
+
+      case "f":
+        if (state.currentCard && state.cardState !== "graded") {
+          gradeCard(false);
+        }
+        break;
+
+      case "n":
+      case " ":
+        nextCard();
+        break;
+
+      case "r":
+        if (state.currentCard && state.cardState === "question") {
+          revealAnswer();
+        }
+        break;
+
+      case "d":
+        toggleDirection();
+        break;
+
+      case "s":
+        speakCard();
+        break;
+
+      case "h":
+      case "?":
+        showHelp();
+        break;
+
+      case "escape":
+        // If answer is revealed, hide it
+        if (state.cardState === "revealed") {
+          $aArea.hidden = true;
+          state.cardState = "question";
+        }
+        break;
+    }
+  });
+
+  // Keep focus on the command input at all times
+  document.addEventListener("click", () => {
+    $cmd.focus();
+  });
+
+  // Refocus if it ever loses focus
+  $cmd.addEventListener("blur", () => {
+    setTimeout(() => {
+      if (document.activeElement !== $cmd && $help.hidden) {
+        $cmd.focus();
+      }
+    }, 50);
+  });
+
+  // --- Initialization ---
+  function init() {
+    loadState();
+    initPool();
+    updateStats();
+
+    // Show initial state
+    const stats = getPoolStats();
+    if (stats.total === 0) {
+      $qWord.textContent = "Loading...";
+      $dir.textContent = "";
+    }
+
+    nextCard();
+
+    // Announce initial state
+    announce(
+      `HSK1 Flashcards ready. ${stats.active} words active, ${stats.learned} learned. Press H for help.`
+    );
+
+    // Ensure focus
+    $cmd.focus();
+  }
+
+  // --- Utilities ---
+  function shuffle(arr) {
+    for (let i = arr.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [arr[i], arr[j]] = [arr[j], arr[i]];
+    }
+  }
+
+  // --- Start ---
+  init();
+  </script>
+</body>
+</html>
