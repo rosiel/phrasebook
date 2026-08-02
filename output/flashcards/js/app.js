@@ -419,16 +419,12 @@ function applyButtonsVisibility() {
 let _announceToggle = false;
 
 function announce(message) {
-  // Force the live-region text to differ on every call — even for the same
-  // logical message — so screen readers re-announce it. The zero-width space
-  // is invisible and not spoken, but makes the DOM text unique.
+  // Alternate between appending a zero-width space and not — the DOM text
+  // is never identical to the previous value, so the live region fires on
+  // every call. No clearing and no requestAnimationFrame: braille displays
+  // poll synchronously and would read the intermediate empty state.
   _announceToggle = !_announceToggle;
-  const unique = _announceToggle ? message + "​" : message;
-
-  $sr.textContent = "";
-  requestAnimationFrame(() => {
-    $sr.textContent = unique;
-  });
+  $sr.textContent = _announceToggle ? message + "​" : message;
 }
 
 // --- Actions ---
