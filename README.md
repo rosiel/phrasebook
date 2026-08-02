@@ -35,8 +35,11 @@ The sample sentences HTML file will be generated in `output`.
 
 ## License and Copyright
 
-Copyright (c) 2026 By Rosemary Le Faive.
+Copyright (c) 2026 By Rosemary Le Faive and Alexander O'Neill.
 
+See the LICENSE file for details.
+
+This software is published under the GNU General Public License version 3.
 
 
 

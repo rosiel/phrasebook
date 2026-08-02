@@ -2,7 +2,7 @@
 
 ## Overview
 
-A keyboard-driven, screen-reader-friendly flashcard app for learning HSK1 Chinese vocabulary. The app is a single static HTML page with embedded CSS and JS (no build step, no server). It loads the HSK1 word list from a JSON file at runtime and stores all progress in `localStorage`.
+A keyboard-driven, screen-reader-friendly flashcard app for learning HSK1 Chinese vocabulary. The app is a static site with separate HTML, CSS, and JS files (no build step, no framework). It loads the HSK1 word list from a JSON file at runtime and stores all progress in `localStorage`.
 
 **Live at:** `flashcards/index.html`  
 **Linked from:** `output/index.html`
@@ -15,7 +15,7 @@ A keyboard-driven, screen-reader-friendly flashcard app for learning HSK1 Chines
 
 - Virtual DOM diffing (React, Vue, etc.) can confuse screen readers by destroying and recreating DOM nodes. Vanilla JS gives us full control over what gets announced and when.
 - No build step — edit and refresh.
-- Single file keeps everything self-contained and easy to audit for accessibility.
+- Separate HTML, CSS, and JS files keep concerns clean while remaining easy to audit for accessibility.
 
 ### Accessibility strategy
 
@@ -95,7 +95,11 @@ The threshold of 3 consecutive correct answers is deliberately low for HSK1 (300
 
 ```
 flashcards/
-├── index.html          # The app (single file: HTML + inline CSS + inline JS)
+├── index.html          # HTML structure only
+├── css/
+│   └── style.css       # All styles
+├── js/
+│   └── app.js          # All application logic
 └── PLAN_flashcards.md  # This plan
 ```
 
@@ -134,23 +138,23 @@ Note: Since this is loaded via `fetch()`, the app needs to be served over HTTP (
 
 ### Phase 2: Full word list + pool algorithm
 
-- [ ] Load `hsk1-words.json` via `fetch()` at startup (or embed it).
-- [ ] Implement the pool algorithm with localStorage persistence.
-- [ ] Show pool stats: "5 active, 12 learned, 295 unseen".
-- [ ] Handle edge cases: all words learned, localStorage corruption, etc.
+- [x] Load `hsk1-words.json` via `fetch()` at startup (or embed it).
+- [x] Implement the pool algorithm with localStorage persistence.
+- [x] Show pool stats: "5 active, 12 learned, 295 unseen".
+- [x] Handle edge cases: all words learned, localStorage corruption, etc.
 
 ### Phase 3: Direction toggle + reveal
 
-- [ ] Implement CN→EN / EN→CN / Mixed modes.
-- [ ] `r` key to reveal answer before grading.
-- [ ] Pinyin display (optionally shown below the Chinese character).
+- [x] Implement CN→EN / EN→CN / Mixed modes.
+- [x] `r` key to reveal answer before grading.
+- [x] Pinyin display (optionally shown below the Chinese character).
 
 ### Phase 4: Polish
 
-- [ ] Visual polish (minimal, high-contrast, large text).
-- [ ] Stats screen: accuracy %, words learned today, streak.
-- [ ] Reset/restart functionality.
-- [ ] Keyboard shortcut overlay (toggle with `?` or `h`).
+- [x] Visual polish (minimal, high-contrast, large text).
+- [x] Stats screen: accuracy %, words learned today, streak.
+- [x] Reset/restart functionality.
+- [x] Keyboard shortcut overlay (toggle with `?` or `h`).
 
 ---
 

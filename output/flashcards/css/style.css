@@ -1,0 +1,274 @@
+/* =========================================================================
+   HSK1 Flashcard App — Styles
+   ========================================================================= */
+
+/* --- Custom Properties --- */
+:root {
+  --bg: #1a1a1a;
+  --fg: #f0f0f0;
+  --accent: #ffd54f;
+  --correct: #66bb6a;
+  --wrong: #ef5350;
+  --muted: #888;
+  --font-size-xl: 4rem;
+  --font-size-lg: 2rem;
+  --font-size-md: 1.25rem;
+  --font-size-sm: 0.9rem;
+  --max-width: 600px;
+}
+
+/* --- Reset --- */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* --- Layout --- */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Helvetica, Arial, sans-serif;
+  background: var(--bg);
+  color: var(--fg);
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+}
+
+main {
+  width: 100%;
+  max-width: var(--max-width);
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+/* --- Command Input (hidden, captures keystrokes) --- */
+#cmd-input {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+  /* Not display:none — must be focusable and in the a11y tree */
+}
+
+/* --- Direction Indicator --- */
+#direction-label {
+  font-size: var(--font-size-sm);
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  min-height: 1.2em;
+}
+
+/* --- Headword (the big word) --- */
+.headword {
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  line-height: 1.3;
+  min-height: 1.3em;
+  word-break: break-word;
+  padding: 1.5rem 2rem;
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.04);
+  transition: background 0.2s;
+}
+
+/* --- Answer Area --- */
+#answer-area {
+  font-size: var(--font-size-lg);
+  color: var(--accent);
+  min-height: 1.3em;
+}
+
+#answer-area[hidden] {
+  display: none;
+}
+
+#pinyin-display {
+  font-size: var(--font-size-md);
+  color: var(--muted);
+  margin-top: 0.25rem;
+}
+
+/* --- Feedback --- */
+#feedback {
+  font-size: var(--font-size-lg);
+  font-weight: 600;
+  min-height: 1.3em;
+  transition: opacity 0.15s;
+}
+
+#feedback.correct {
+  color: var(--correct);
+}
+
+#feedback.wrong {
+  color: var(--wrong);
+}
+
+#feedback.info {
+  color: var(--accent);
+}
+
+/* --- Status Bar --- */
+footer {
+  margin-top: 2rem;
+  font-size: var(--font-size-sm);
+  color: var(--muted);
+  text-align: center;
+  line-height: 1.6;
+}
+
+/* --- Help Overlay --- */
+#help-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.9);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 100;
+}
+
+#help-overlay[hidden] {
+  display: none;
+}
+
+#help-content {
+  background: #2a2a2a;
+  border: 1px solid #444;
+  border-radius: 8px;
+  padding: 2rem;
+  max-width: 480px;
+  width: 90%;
+  font-size: var(--font-size-md);
+  line-height: 1.8;
+}
+
+#help-content h2 {
+  margin-bottom: 0.75rem;
+  color: var(--accent);
+}
+
+#help-content kbd {
+  display: inline-block;
+  background: #444;
+  color: var(--accent);
+  padding: 0.1em 0.5em;
+  border-radius: 4px;
+  font-family: monospace;
+  font-size: 1.1em;
+  min-width: 1.8em;
+  text-align: center;
+}
+
+/* --- Help: Stats Section --- */
+#help-stats-section {
+  margin-top: 1.5rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid #3a3a3a;
+}
+
+#help-stats-section h2 {
+  margin-bottom: 0.5rem;
+  color: var(--accent);
+  font-size: var(--font-size-md);
+}
+
+#help-stats {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.25rem 1rem;
+  font-size: var(--font-size-sm);
+  line-height: 1.7;
+}
+
+#help-stats strong {
+  color: var(--fg);
+}
+
+/* --- Help: Reset Button --- */
+#help-reset {
+  display: block;
+  width: 100%;
+  margin-top: 1.25rem;
+  padding: 0.6rem 0;
+  background: transparent;
+  color: var(--wrong);
+  border: 1px solid var(--wrong);
+  border-radius: 6px;
+  font-size: var(--font-size-sm);
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s;
+}
+
+#help-reset:hover,
+#help-reset:focus-visible {
+  background: var(--wrong);
+  color: #fff;
+  outline: none;
+}
+
+#help-content .close-hint {
+  margin-top: 1rem;
+  color: var(--muted);
+  font-size: var(--font-size-sm);
+}
+
+/* --- Footer kbd styling --- */
+footer kbd {
+  display: inline-block;
+  background: #444;
+  color: var(--accent);
+  padding: 0 0.4em;
+  border-radius: 3px;
+  font-family: monospace;
+  font-size: 0.9em;
+}
+
+/* --- Screen-Reader-Only --- */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* --- Card Flip Animation (reduced-motion aware) --- */
+@media (prefers-reduced-motion: no-preference) {
+  .headword.new-card {
+    animation: fadeIn 0.2s ease-out;
+  }
+
+  #answer-area:not([hidden]) {
+    animation: fadeIn 0.25s ease-out;
+  }
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0.3;
+      transform: translateY(-4px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+}
