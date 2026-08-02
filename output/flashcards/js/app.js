@@ -340,8 +340,15 @@ function renderCard() {
     $dir.textContent = "English → Chinese";
   }
 
-  // Question word
+  // Question word — set language & label so VoiceOver uses the correct
+  // TTS voice (Chinese vs English) and never falls back to image recognition.
   $qWord.textContent = card.questionWord;
+  if (card.direction === "cn-en") {
+    $qWord.lang = "zh";
+  } else {
+    $qWord.lang = "en";
+  }
+  $qWord.setAttribute("aria-label", card.questionWord);
   $qWord.classList.remove("new-card");
   void $qWord.offsetWidth; // force reflow
   $qWord.classList.add("new-card");
@@ -587,17 +594,25 @@ if ($helpReset) {
   });
 }
 
-// Keep focus on the command input at all times
+// Keep focus on the command input at all times.
+// Exception: don't steal focus when the user touches meaningful content
+// (headword, answer, feedback) — VoiceOver needs to read these on tap.
+const REFOCUS_EXEMPT_SELECTOR =
+  "#question-word, #answer-area, #feedback, #direction-label";
+
 document.addEventListener("click", (e) => {
   // Don't refocus if the click was on a button inside the help overlay
   if (e.target.closest("#help-overlay button")) return;
+  // Don't refocus if the click was on content VoiceOver needs to read
+  if (e.target.closest(REFOCUS_EXEMPT_SELECTOR)) return;
   $cmd.focus();
 });
 
-// Refocus if it ever loses focus
+// Refocus if it ever loses focus — same exemptions as above.
 $cmd.addEventListener("blur", () => {
   setTimeout(() => {
-    if (document.activeElement !== $cmd && $help.hidden) {
+    const ae = document.activeElement;
+    if (ae !== $cmd && $help.hidden && !ae?.closest(REFOCUS_EXEMPT_SELECTOR)) {
       $cmd.focus();
     }
   }, 50);
