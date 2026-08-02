@@ -358,8 +358,11 @@ function renderCard() {
   }
   $qWord.setAttribute("aria-label", card.questionWord);
 
-  // Update the hidden input's label so the braille display shows the
+  // Update the hidden input so the braille display shows the
   // question word while the cursor sits on the command input.
+  // Setting .value triggers an accessibility-tree update; aria-label
+  // alone on a focused element often doesn't.
+  $cmd.value = card.questionWord;
   $cmd.setAttribute("aria-label", card.questionWord);
   $qWord.classList.remove("new-card");
   void $qWord.offsetWidth; // force reflow
@@ -384,7 +387,8 @@ function revealAnswer() {
   if (state.cardState === "revealed" || state.cardState === "graded") return;
   state.cardState = "revealed";
   $aArea.hidden = false;
-  // Show answer on the braille display via the input label
+  // Show answer on the braille display via the input
+  $cmd.value = `Answer: ${state.currentCard.answerWord}`;
   $cmd.setAttribute("aria-label", `Answer: ${state.currentCard.answerWord}`);
   announce(`Answer: ${state.currentCard.answerWord}`);
 }
@@ -397,11 +401,13 @@ function showFeedback(correct) {
   if (correct) {
     $fb.textContent = "✓ Correct!";
     $fb.className = "correct";
+    $cmd.value = `Correct! ${card.questionWord} = ${card.answerWord}`;
     $cmd.setAttribute("aria-label", `Correct! ${card.questionWord} = ${card.answerWord}`);
     announce("Correct!");
   } else {
     $fb.textContent = `✗ Wrong — it was: ${card.answerWord}`;
     $fb.className = "wrong";
+    $cmd.value = `Wrong. ${card.questionWord} = ${card.answerWord}`;
     $cmd.setAttribute("aria-label", `Wrong. ${card.questionWord} = ${card.answerWord}`);
     announce(`Wrong. The answer is: ${card.answerWord}`);
   }
@@ -449,6 +455,7 @@ function nextCard() {
     $fb.className = "info";
     $aArea.hidden = true;
     $stats.textContent = "";
+    $cmd.value = "All words learned! Press J to reset.";
     $cmd.setAttribute("aria-label", "All words learned! Press J to reset.");
     announce(
       "Congratulations! You have learned all the words in this set."
