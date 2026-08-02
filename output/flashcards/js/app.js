@@ -662,15 +662,15 @@ if ($helpReset) {
 }
 
 // Keep focus on the command input at all times.
-// Exception: don't steal focus when the user touches meaningful content
-// (headword, answer, feedback) — VoiceOver needs to read these on tap.
+// Exception: don't steal focus when the user touches or VoiceOver navigates
+// to meaningful content — the question word, answer, feedback, any button,
+// or anything inside the footer. Without this, VoiceOver can never reach
+// interactive elements because focus is yanked back every 50 ms, which also
+// produces a continuous "page loading" tick sound.
 const REFOCUS_EXEMPT_SELECTOR =
-  "#question-word, #answer-area, #feedback, #direction-label";
+  "#question-word, #answer-area, #feedback, #direction-label, button, footer";
 
 document.addEventListener("click", (e) => {
-  // Don't refocus if the click was on a button inside the help overlay
-  if (e.target.closest("#help-overlay button")) return;
-  // Don't refocus if the click was on content VoiceOver needs to read
   if (e.target.closest(REFOCUS_EXEMPT_SELECTOR)) return;
   $cmd.focus();
 });

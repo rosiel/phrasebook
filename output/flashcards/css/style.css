@@ -77,11 +77,21 @@ main {
   font-weight: 700;
   line-height: 1.2;
   min-height: 1.2em;
-  word-break: break-word;
+  /* Keep Chinese characters together; allow English words to break only
+     at word boundaries. CJK text breaks between any two characters by
+     default with word-break:normal, which is what we want. */
+  word-break: normal;
+  overflow-wrap: break-word;
   padding: 0.5rem 1rem;
   border-radius: 12px;
   background: rgba(255, 255, 255, 0.04);
   transition: background 0.2s;
+}
+
+/* English question words are wider than CJK characters, so cap the
+   font size lower to keep short words like "Warm" on one line. */
+.headword[lang="en"] {
+  font-size: clamp(2rem, 12vmin, 6rem);
 }
 
 /* --- Answer Area --- */
