@@ -74,6 +74,13 @@ const $sr    = document.getElementById("sr-announce");
 const $help  = document.getElementById("help-overlay");
 const $helpStats  = document.getElementById("help-stats");
 const $helpReset = document.getElementById("help-reset");
+const $toggleBtns = document.getElementById("toggle-buttons");
+const $visibleBtns = document.getElementById("visible-buttons");
+const $btnCorrect = document.getElementById("btn-correct");
+const $btnWrong   = document.getElementById("btn-wrong");
+const $btnReveal  = document.getElementById("btn-reveal");
+const $btnNext    = document.getElementById("btn-next");
+const $btnDir     = document.getElementById("btn-direction");
 
 // --- State ---
 let state = {
@@ -81,6 +88,7 @@ let state = {
   config: {
     direction: "mixed", // "cn-en" | "en-cn" | "mixed"
     poolSize: POOL_SIZE,
+    showButtons: false, // on-screen action buttons visible
   },
   currentCard: null,   // { id, direction, questionWord, answerWord, pinyin }
   cardState: "question", // "question" | "revealed" | "graded"
@@ -397,6 +405,16 @@ function updateStats() {
     `Active: ${stats.active} · Learned: ${stats.learned} · Unseen: ${stats.unseen}`;
 }
 
+function applyButtonsVisibility() {
+  const visible = state.config.showButtons;
+  $visibleBtns.hidden = !visible;
+  $toggleBtns.setAttribute("aria-pressed", String(visible));
+  $toggleBtns.setAttribute(
+    "aria-label",
+    visible ? "Hide on-screen buttons" : "Show on-screen buttons"
+  );
+}
+
 // --- Screen reader announcements ---
 let _announceToggle = false;
 
@@ -585,6 +603,55 @@ $cmd.addEventListener("keydown", (e) => {
   }
 });
 
+// Close button inside help overlay
+const $helpClose = document.getElementById("help-close");
+if ($helpClose) {
+  $helpClose.addEventListener("click", () => hideHelp());
+}
+
+// Toggle visible buttons
+if ($toggleBtns) {
+  $toggleBtns.addEventListener("click", () => {
+    state.config.showButtons = !state.config.showButtons;
+    saveState();
+    applyButtonsVisibility();
+    announce(
+      state.config.showButtons
+        ? "On-screen buttons shown."
+        : "On-screen buttons hidden."
+    );
+  });
+}
+
+// On-screen action buttons — delegate clicks to the same actions as keys
+if ($btnCorrect) {
+  $btnCorrect.addEventListener("click", () => {
+    if (state.currentCard && state.cardState !== "graded") {
+      gradeCard(true);
+    }
+  });
+}
+if ($btnWrong) {
+  $btnWrong.addEventListener("click", () => {
+    if (state.currentCard && state.cardState !== "graded") {
+      gradeCard(false);
+    }
+  });
+}
+if ($btnReveal) {
+  $btnReveal.addEventListener("click", () => {
+    if (state.currentCard && state.cardState === "question") {
+      revealAnswer();
+    }
+  });
+}
+if ($btnNext) {
+  $btnNext.addEventListener("click", () => nextCard());
+}
+if ($btnDir) {
+  $btnDir.addEventListener("click", () => toggleDirection());
+}
+
 // Reset button inside help overlay
 if ($helpReset) {
   $helpReset.addEventListener("click", () => {
@@ -638,6 +705,7 @@ async function init() {
   loadState();
   initPool();
   updateStats();
+  applyButtonsVisibility();
 
   const stats = getPoolStats();
   const source = wordData === EMBEDDED_WORDS ? " (fallback set)" : "";

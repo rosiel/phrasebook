@@ -38,6 +38,16 @@
   <footer>
     <div id="pool-stats"></div>
     <div id="hint-line">Press <kbd>H</kbd> for help</div>
+    <button id="toggle-buttons" type="button"
+            aria-label="Show on-screen buttons"
+            aria-pressed="false">🔘</button>
+    <div id="visible-buttons" hidden>
+      <button id="btn-correct" type="button" aria-label="Correct, I knew it">✅</button>
+      <button id="btn-wrong"   type="button" aria-label="Wrong, I did not know it">❌</button>
+      <button id="btn-reveal"  type="button" aria-label="Reveal answer">👁️</button>
+      <button id="btn-next"    type="button" aria-label="Next card">⏭️</button>
+      <button id="btn-direction" type="button" aria-label="Toggle direction">🔄</button>
+    </div>
   </footer>
 
   <!-- Screen-reader announcement region -->
@@ -46,6 +56,7 @@
   <!-- Help overlay (hidden) -->
   <div id="help-overlay" hidden role="dialog" aria-label="Keyboard shortcuts and stats" aria-modal="true">
     <div id="help-content">
+      <button id="help-close" type="button" aria-label="Close help">✕</button>
       <h2>Keyboard Shortcuts</h2>
       <table>
         <tr><td><kbd>J</kbd></td><td>Correct — I knew it</td></tr>
