@@ -13,11 +13,19 @@ def htmlify(soup, reader):
     table_open = False
     for row in reader:
         if row['Chinese'] == '' and row['English'] != '':
-
-            new_header = soup.new_tag('h2', string=row['English'])
+            dialogue_number = row['English']
+            [chapter, lesson] = dialogue_number.split('-',1)
+            if len(chapter) < 2:
+                chapter = '0' + chapter
+            new_header = soup.new_tag('h2', string=dialogue_number)
             bookmark.insert_after(new_header)
 
             bookmark = new_header
+
+            audio = soup.new_tag('audio', src='https://cdn.baulchino.com/new-hsk-books-audios/hsk-1-textbook/lesson-{}/{}-{}.mp3'.format(chapter, chapter, lesson), controls='')
+            bookmark.insert_after(audio)
+
+            bookmark = audio
 
             new_table = soup.new_tag('table')
             bookmark.insert_after(new_table)
