@@ -22,10 +22,15 @@ def htmlify(soup, reader):
 
             bookmark = new_header
 
-            audio = soup.new_tag('audio', src='https://cdn.baulchino.com/new-hsk-books-audios/hsk-1-textbook/lesson-{}/{}-{}.mp3'.format(chapter, chapter, lesson), controls='')
+            audio = soup.new_tag('audio', 
+                                 src='https://cdn.baulchino.com/new-hsk-books-audios/hsk-1-textbook/lesson-{}/{}-{}.mp3'.format(chapter, chapter, lesson),
+                                 id="audio-{}".format(dialogue_number))
             bookmark.insert_after(audio)
+            controller = soup.new_tag('button', string="Play audio", id="controller-{}".format(dialogue_number))
+            controller['class'] = 'audio-controller'
+            audio.insert_after(controller)
 
-            bookmark = audio
+            bookmark = controller
 
             new_table = soup.new_tag('table')
             bookmark.insert_after(new_table)

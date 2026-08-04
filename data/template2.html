@@ -4,14 +4,29 @@
         <meta charset="utf-8">
         <title>HSK1 (2026) Textbook Sample Sentences</title>
         <style>.headword {font-size: 2em;}</style>
+        
     </head>
     <body>
         <nav><a href="index.html">Home</a></nav>
         <h1>
             HSK1 (2026) Textbook Sample Sentences
         </h1>
-
-        </body>
+    <script>
+        const controllers = document.querySelectorAll(".audio-controller");
+        function togglePlay(event) {
+            audio_id = 'audio-' + event.target.id.replace('controller-', '');
+            audio = document.getElementById(audio_id);
+            if (audio.paused) {
+                audio.play();
+            } else {
+                audio.pause();
+            }
+        }
+        for (const controller of controllers) {
+            controller.addEventListener('click', togglePlay);
+        }
+    </script>
+    </body>
 
 
 </html>
