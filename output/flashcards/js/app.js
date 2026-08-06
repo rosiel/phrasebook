@@ -1,5 +1,5 @@
 // =========================================================================
-// HSK1 Flashcard App
+// HSK1 Flashcard App  —  v1.0.0
 // =========================================================================
 
 // --- Word data ---
@@ -56,6 +56,8 @@ async function loadWordData() {
 }
 
 // --- Constants ---
+const APP_VERSION = "1.0.0";
+
 // Leitner box intervals in milliseconds.
 // Box 1 = same session, Box 2 = 1 day, Box 3 = 3 days,
 // Box 4 = 7 days, Box 5 = 14 days.
@@ -93,6 +95,7 @@ const $btnWrong   = document.getElementById("btn-wrong");
 const $btnReveal  = document.getElementById("btn-reveal");
 const $btnNext    = document.getElementById("btn-next");
 const $btnDir     = document.getElementById("btn-direction");
+const $btnHelp    = document.getElementById("btn-help");
 
 // --- State ---
 let state = {
@@ -640,7 +643,8 @@ function showHelp() {
       `<span>Box 5 (14 days): <strong>${s.boxes[5]}</strong></span>` +
       `<span>Accuracy: <strong>${s.accuracy}%</strong> (${s.totalAttempts} graded)</span>` +
       `<span>Current streak: <strong>${s.currentStreak}</strong></span>` +
-      `<span>Best streak: <strong>${s.bestStreak}</strong></span>`;
+      `<span>Best streak: <strong>${s.bestStreak}</strong></span>` +
+      `<span>Version: <strong>${APP_VERSION}</strong></span>`;
   }
 
   $help.hidden = false;
@@ -774,6 +778,9 @@ if ($btnNext) {
 }
 if ($btnDir) {
   $btnDir.addEventListener("click", () => toggleDirection());
+}
+if ($btnHelp) {
+  $btnHelp.addEventListener("click", () => showHelp());
 }
 
 // Reset button inside help overlay
