@@ -56,9 +56,20 @@ async function loadWordData() {
 }
 
 // --- Constants ---
-const POOL_SIZE = 5;
-const GRADUATION_STREAK = 3;
-const STORAGE_KEY = "hsk1-flashcards-v1";
+// Leitner box intervals in milliseconds.
+// Box 1 = same session, Box 2 = 1 day, Box 3 = 3 days,
+// Box 4 = 7 days, Box 5 = 14 days.
+const BOX_INTERVALS = [
+  0,              // index 0 unused (1-based boxes)
+  0,              // Box 1: always due
+  86400000,       // Box 2: 1 day
+  259200000,      // Box 3: 3 days
+  604800000,      // Box 4: 7 days
+  1209600000,     // Box 5: 14 days
+];
+const MAX_BOX = 5;
+const STORAGE_KEY = "hsk1-flashcards-v2";
+const OLD_STORAGE_KEY = "hsk1-flashcards-v1";
 const DIRECTIONS = ["cn-en", "en-cn"];
 
 // --- DOM refs ---
@@ -84,10 +95,9 @@ const $btnDir     = document.getElementById("btn-direction");
 
 // --- State ---
 let state = {
-  words: {},   // { id: { status, correctStreak, totalCorrect, totalWrong, lastSeen, graduatedAt } }
+  words: {},   // { id: { box, nextReview, totalCorrect, totalWrong, lastSeen } }
   config: {
     direction: "mixed", // "cn-en" | "en-cn" | "mixed"
-    poolSize: POOL_SIZE,
     showButtons: false, // on-screen action buttons visible
   },
   currentCard: null,   // { id, direction, questionWord, answerWord, pinyin }
@@ -117,12 +127,78 @@ function loadState() {
       const saved = JSON.parse(raw);
       state.words = saved.words || {};
       state.config = { ...state.config, ...(saved.config || {}) };
+      // Clean up any stale poolSize from old configs
+      delete state.config.poolSize;
       state.bestStreak = saved.bestStreak || 0;
+    } else {
+      // No v2 data — try to migrate from v1
+      migrateFromV1();
     }
   } catch (e) {
     // Corrupt data — reset
     state.words = {};
     state.bestStreak = 0;
+  }
+}
+
+/**
+ * Migrate from the old v1 format (status/correctStreak/graduatedAt)
+ * to the v2 Leitner box format. Removes old data on success.
+ */
+function migrateFromV1() {
+  try {
+    const raw = localStorage.getItem(OLD_STORAGE_KEY);
+    if (!raw) return;
+    const old = JSON.parse(raw);
+    if (!old.words || Object.keys(old.words).length === 0) return;
+
+    const now = Date.now();
+    for (const [id, w] of Object.entries(old.words)) {
+      const word = {
+        box: 1,
+        nextReview: null,
+        totalCorrect: w.totalCorrect || 0,
+        totalWrong: w.totalWrong || 0,
+        lastSeen: w.lastSeen || null,
+      };
+
+      if (w.status === "learned") {
+        word.box = MAX_BOX;
+        word.nextReview = w.graduatedAt
+          ? w.graduatedAt + BOX_INTERVALS[MAX_BOX]
+          : now + BOX_INTERVALS[MAX_BOX];
+      } else if (w.status === "active") {
+        // Map existing streak to an initial box
+        const streak = w.correctStreak || 0;
+        word.box = Math.min(1 + streak, MAX_BOX);
+        word.nextReview = now; // Due now — they were mid-study
+      } else {
+        // unseen
+        word.box = 1;
+        word.nextReview = null; // Never seen, treat as due
+      }
+
+      state.words[id] = word;
+    }
+
+    // Migrate config fields we care about
+    if (old.config) {
+      if (old.config.direction) {
+        state.config.direction = old.config.direction;
+      }
+      if (old.config.showButtons !== undefined) {
+        state.config.showButtons = old.config.showButtons;
+      }
+    }
+    if (old.bestStreak) {
+      state.bestStreak = old.bestStreak;
+    }
+
+    // Remove old data so we don't migrate again
+    localStorage.removeItem(OLD_STORAGE_KEY);
+    saveState();
+  } catch (e) {
+    console.warn("Migration from v1 failed:", e);
   }
 }
 
@@ -142,70 +218,65 @@ function getPinyin(chinese) {
 function ensureWord(id) {
   if (!state.words[id]) {
     state.words[id] = {
-      status: "unseen",
-      correctStreak: 0,
+      box: 1,
+      nextReview: null,   // null = never seen, treated as due immediately
       totalCorrect: 0,
       totalWrong: 0,
       lastSeen: null,
-      graduatedAt: null,
     };
   }
   return state.words[id];
 }
 
-// --- Pool logic ---
-function initPool() {
-  const allWords = getWordList();
-  // Ensure all words have state entries
-  allWords.forEach((id) => ensureWord(id));
+// --- Leitner box logic ---
 
-  // Count active words
-  const activeCount = allWords.filter(
-    (id) => state.words[id].status === "active"
-  ).length;
-
-  // Fill active pool up to POOL_SIZE
-  if (activeCount < state.config.poolSize) {
-    const unseen = allWords.filter(
-      (id) => state.words[id].status === "unseen"
-    );
-    // Shuffle unseen to avoid always picking the same order
-    shuffle(unseen);
-    const needed = state.config.poolSize - activeCount;
-    for (let i = 0; i < needed && i < unseen.length; i++) {
-      state.words[unseen[i]].status = "active";
-    }
-  }
-
-  saveState();
-}
-
-function getActiveWords() {
-  return Object.keys(state.words).filter(
-    (id) => state.words[id].status === "active"
-  );
-}
-
-function getPoolStats() {
-  const all = Object.keys(state.words);
-  const active = all.filter(
-    (id) => state.words[id].status === "active"
-  ).length;
-  const learned = all.filter(
-    (id) => state.words[id].status === "learned"
-  ).length;
-  const unseen = all.filter(
-    (id) => state.words[id].status === "unseen"
-  ).length;
-  return { active, learned, unseen, total: all.length };
+/**
+ * Return all word ids whose review is currently due.
+ * A null nextReview means the word has never been seen — treat as due.
+ */
+function getDueWords() {
+  const now = Date.now();
+  return Object.keys(state.words).filter((id) => {
+    const w = state.words[id];
+    return w.nextReview === null || w.nextReview <= now;
+  });
 }
 
 /**
- * Compute detailed stats for the stats panel.
- * Returns accuracy %, words learned today, current/best streak, and pool breakdown.
+ * Return per-box counts, the number of due cards, and the total.
+ */
+function getBoxStats() {
+  const all = Object.keys(state.words);
+  const boxes = { 1: 0, 2: 0, 3: 0, 4: 0, 5: 0 };
+  all.forEach((id) => {
+    const b = state.words[id].box;
+    if (boxes[b] !== undefined) boxes[b]++;
+  });
+  const due = getDueWords().length;
+  return { due, total: all.length, boxes };
+}
+
+/**
+ * Find the earliest future review time across all cards.
+ * Returns null if no future reviews exist.
+ */
+function getNextReviewTime() {
+  const now = Date.now();
+  let next = Infinity;
+  for (const w of Object.values(state.words)) {
+    if (w.nextReview !== null && w.nextReview > now && w.nextReview < next) {
+      next = w.nextReview;
+    }
+  }
+  return next === Infinity ? null : next;
+}
+
+/**
+ * Compute detailed stats for the help panel.
+ * Returns box distribution, accuracy %, current/best streak, and due count.
  */
 function getDetailedStats() {
-  const pool = getPoolStats();
+  const stats = getBoxStats();
   const entries = Object.values(state.words);
 
   // Overall accuracy
@@ -216,19 +287,10 @@ function getDetailedStats() {
     ? Math.round((totalCorrect / totalAttempts) * 100)
     : 0;
 
-  // Words learned today (local time)
-  const now = new Date();
-  const todayStart = new Date(now.getFullYear(), now.getMonth(), now.getDate()).getTime();
-  const todayEnd = todayStart + 24 * 60 * 60 * 1000;
-  const learnedToday = entries.filter((w) => {
-    return w.graduatedAt && w.graduatedAt >= todayStart && w.graduatedAt < todayEnd;
-  }).length;
-
   return {
-    ...pool,
+    ...stats,
     accuracy,
     totalAttempts,
-    learnedToday,
     currentStreak: state.currentStreak,
     bestStreak: state.bestStreak,
   };
@@ -262,7 +324,9 @@ function resetProgress() {
       state.currentStreak = 0;
       state.currentCard = null;
       state.cardState = "question";
-      initPool();
+      // Ensure all words get fresh Leitner state entries
+      getWordList().forEach((id) => ensureWord(id));
+      saveState();
       updateStats();
       nextCard();
       announce("Progress has been reset.");
@@ -287,20 +351,6 @@ function resetProgress() {
   $cmd.addEventListener("keydown", onResetKey);
 }
 
-function graduateWord(id) {
-  state.words[id].status = "learned";
-  state.words[id].graduatedAt = Date.now();
-  // Pull a new word from unseen
-  const unseen = Object.keys(state.words).filter(
-    (k) => state.words[k].status === "unseen"
-  );
-  if (unseen.length > 0) {
-    const pick = unseen[Math.floor(Math.random() * unseen.length)];
-    state.words[pick].status = "active";
-  }
-  saveState();
-}
-
 // --- Card generation ---
 function pickDirection() {
   if (state.config.direction === "mixed") {
@@ -310,13 +360,13 @@ function pickDirection() {
 }
 
 function generateCard() {
-  const active = getActiveWords();
-  if (active.length === 0) {
-    // All words learned or no words at all
+  const due = getDueWords();
+  if (due.length === 0) {
+    // No cards due for review
     return null;
   }
 
-  const id = active[Math.floor(Math.random() * active.length)];
+  const id = due[Math.floor(Math.random() * due.length)];
   const dir = pickDirection();
   const english = getEnglish(id);
   const pinyin = getPinyin(id);
@@ -414,9 +464,9 @@ function showFeedback(correct) {
 }
 
 function updateStats() {
-  const stats = getPoolStats();
+  const stats = getBoxStats();
   $stats.textContent =
-    `Active: ${stats.active} · Learned: ${stats.learned} · Unseen: ${stats.unseen}`;
+    `Due: ${stats.due} · Total: ${stats.total}`;
 }
 
 function applyButtonsVisibility() {
@@ -443,24 +493,45 @@ function announce(message) {
 
 // --- Actions ---
 function nextCard() {
-  // Ensure pool is filled
-  initPool();
-
   const card = generateCard();
   if (!card) {
-    // All learned!
-    $qWord.textContent = "🎉";
-    $dir.textContent = "All words learned!";
-    $fb.textContent = "You've mastered this set. Reset to start over.";
-    $fb.className = "info";
+    // No cards due — find out when the next one is available
+    const nextTime = getNextReviewTime();
+
+    if (nextTime === null) {
+      // No words at all
+      $qWord.textContent = "No words";
+      $dir.textContent = "";
+      $fb.textContent = "No word data loaded.";
+      $fb.className = "info";
+      $cmd.value = "No word data loaded.";
+      $cmd.setAttribute("aria-label", "No word data loaded.");
+      announce("No word data loaded.");
+    } else {
+      const now = Date.now();
+      const mins = Math.ceil((nextTime - now) / 60000);
+      const hrs = Math.floor(mins / 60);
+      const remainMin = mins % 60;
+      let timeStr;
+      if (hrs >= 1 && remainMin > 0) {
+        timeStr = `${hrs}h ${remainMin}m`;
+      } else if (hrs >= 1) {
+        timeStr = `${hrs} hour${hrs > 1 ? "s" : ""}`;
+      } else {
+        timeStr = `${mins} minute${mins > 1 ? "s" : ""}`;
+      }
+      $qWord.textContent = "✨";
+      $dir.textContent = "All caught up!";
+      $fb.textContent = `Next review in about ${timeStr}.`;
+      $fb.className = "info";
+      $cmd.value = `No reviews due. Next in about ${timeStr}.`;
+      $cmd.setAttribute("aria-label", `No reviews due. Next in about ${timeStr}.`);
+      announce(`No reviews due. Next review in about ${timeStr}.`);
+    }
+
     $aArea.hidden = true;
-    $stats.textContent = "";
-    $cmd.value = "All words learned! Press J to reset.";
-    $cmd.setAttribute("aria-label", "All words learned! Press J to reset.");
-    announce(
-      "Congratulations! You have learned all the words in this set."
-    );
     state.currentCard = null;
+    updateStats();
     return;
   }
 
@@ -477,20 +548,24 @@ function gradeCard(correct) {
   word.lastSeen = Date.now();
 
   if (correct) {
-    word.correctStreak += 1;
     word.totalCorrect += 1;
     state.currentStreak += 1;
     if (state.currentStreak > state.bestStreak) {
       state.bestStreak = state.currentStreak;
     }
-    if (word.correctStreak >= GRADUATION_STREAK) {
-      graduateWord(card.id);
-      announce(`Correct! "${card.id}" has been learned.`);
+    // Promote to next box, schedule next review based on new box
+    if (word.box < MAX_BOX) {
+      word.box += 1;
     }
+    word.nextReview = Date.now() + BOX_INTERVALS[word.box];
+    announce(`Correct! "${card.id}" → box ${word.box}.`);
   } else {
-    word.correctStreak = 0;
     word.totalWrong += 1;
     state.currentStreak = 0;
+    // Demote to box 1 — due again immediately
+    word.box = 1;
+    word.nextReview = Date.now();
+    announce(`Wrong. "${card.id}" moved back to box 1.`);
   }
 
   saveState();
@@ -522,11 +597,13 @@ function showHelp() {
   if ($helpStats) {
     $helpStats.innerHTML =
       `<span>Total words: <strong>${s.total}</strong></span>` +
-      `<span>Active: <strong>${s.active}</strong></span>` +
-      `<span>Learned: <strong>${s.learned}</strong></span>` +
-      `<span>Unseen: <strong>${s.unseen}</strong></span>` +
+      `<span>Due for review: <strong>${s.due}</strong></span>` +
+      `<span>Box 1 (now): <strong>${s.boxes[1]}</strong></span>` +
+      `<span>Box 2 (1 day): <strong>${s.boxes[2]}</strong></span>` +
+      `<span>Box 3 (3 days): <strong>${s.boxes[3]}</strong></span>` +
+      `<span>Box 4 (7 days): <strong>${s.boxes[4]}</strong></span>` +
+      `<span>Box 5 (14 days): <strong>${s.boxes[5]}</strong></span>` +
       `<span>Accuracy: <strong>${s.accuracy}%</strong> (${s.totalAttempts} graded)</span>` +
-      `<span>Learned today: <strong>${s.learnedToday}</strong></span>` +
       `<span>Current streak: <strong>${s.currentStreak}</strong></span>` +
       `<span>Best streak: <strong>${s.bestStreak}</strong></span>`;
   }
@@ -697,14 +774,6 @@ $cmd.addEventListener("blur", () => {
   }, 50);
 });
 
-// --- Utilities ---
-function shuffle(arr) {
-  for (let i = arr.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [arr[i], arr[j]] = [arr[j], arr[i]];
-  }
-}
-
 // --- Initialization ---
 async function init() {
   // Show loading state while fetching the word list
@@ -715,15 +784,17 @@ async function init() {
   wordData = await loadWordData();
 
   loadState();
-  initPool();
+  // Ensure every word in the data set has a state entry
+  getWordList().forEach((id) => ensureWord(id));
+  saveState();
   updateStats();
   applyButtonsVisibility();
 
-  const stats = getPoolStats();
+  const stats = getBoxStats();
   const source = wordData === EMBEDDED_WORDS ? " (fallback set)" : "";
   announce(
     `HSK1 Flashcards ready. ${stats.total} words loaded${source}. ` +
-    `${stats.active} active, ${stats.learned} learned. Press H for help.`
+    `${stats.due} due for review. Press H for help.`
   );
 
   // Always show a first card
