@@ -68,6 +68,7 @@ const BOX_INTERVALS = [
   1209600000,     // Box 5: 14 days
 ];
 const MAX_BOX = 5;
+const NEW_WORD_LIMIT = 5;   // max unseen words to mix into the candidate pool
 const STORAGE_KEY = "hsk1-flashcards-v2";
 const OLD_STORAGE_KEY = "hsk1-flashcards-v1";
 const DIRECTIONS = ["cn-en", "en-cn"];
@@ -231,14 +232,24 @@ function ensureWord(id) {
 // --- Leitner box logic ---
 
 /**
- * Return all word ids whose review is currently due.
- * A null nextReview means the word has never been seen — treat as due.
+ * Return all word ids whose scheduled review is currently due.
+ * Only includes words that have been seen before (nextReview !== null).
  */
 function getDueWords() {
   const now = Date.now();
   return Object.keys(state.words).filter((id) => {
     const w = state.words[id];
-    return w.nextReview === null || w.nextReview <= now;
+    return w.nextReview !== null && w.nextReview <= now;
+  });
+}
+
+/**
+ * Return all word ids that have never been presented.
+ * These are candidates to enter the active rotation.
+ */
+function getNewWords() {
+  return Object.keys(state.words).filter((id) => {
+    return state.words[id].nextReview === null;
   });
 }
 
@@ -248,12 +259,18 @@ function getDueWords() {
 function getBoxStats() {
   const all = Object.keys(state.words);
   const boxes = { 1: 0, 2: 0, 3: 0, 4: 0, 5: 0 };
+  let unseen = 0;
   all.forEach((id) => {
-    const b = state.words[id].box;
-    if (boxes[b] !== undefined) boxes[b]++;
+    const w = state.words[id];
+    if (w.nextReview === null) {
+      unseen++;
+    } else {
+      const b = w.box;
+      if (boxes[b] !== undefined) boxes[b]++;
+    }
   });
   const due = getDueWords().length;
-  return { due, total: all.length, boxes };
+  return { due, new: unseen, total: all.length, boxes };
 }
 
 /**
@@ -361,12 +378,29 @@ function pickDirection() {
 
 function generateCard() {
   const due = getDueWords();
-  if (due.length === 0) {
-    // No cards due for review
+  const fresh = getNewWords();
+
+  // Build the candidate pool: all due reviews + up to NEW_WORD_LIMIT new words
+  let pool;
+  if (fresh.length > 0) {
+    // Shuffle fresh words so we don't always pick the same subset
+    const shuffled = fresh.slice();
+    for (let i = shuffled.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+    }
+    const freshSample = shuffled.slice(0, NEW_WORD_LIMIT);
+    pool = due.concat(freshSample);
+  } else {
+    pool = due;
+  }
+
+  if (pool.length === 0) {
+    // No cards available at all
     return null;
   }
 
-  const id = due[Math.floor(Math.random() * due.length)];
+  const id = pool[Math.floor(Math.random() * pool.length)];
   const dir = pickDirection();
   const english = getEnglish(id);
   const pinyin = getPinyin(id);
@@ -466,7 +500,7 @@ function showFeedback(correct) {
 function updateStats() {
   const stats = getBoxStats();
   $stats.textContent =
-    `Due: ${stats.due} · Total: ${stats.total}`;
+    `Due: ${stats.due} · New: ${stats.new} · Total: ${stats.total}`;
 }
 
 function applyButtonsVisibility() {
@@ -597,6 +631,7 @@ function showHelp() {
   if ($helpStats) {
     $helpStats.innerHTML =
       `<span>Total words: <strong>${s.total}</strong></span>` +
+      `<span>New (unseen): <strong>${s.new}</strong></span>` +
       `<span>Due for review: <strong>${s.due}</strong></span>` +
       `<span>Box 1 (now): <strong>${s.boxes[1]}</strong></span>` +
       `<span>Box 2 (1 day): <strong>${s.boxes[2]}</strong></span>` +
@@ -794,7 +829,7 @@ async function init() {
   const source = wordData === EMBEDDED_WORDS ? " (fallback set)" : "";
   announce(
     `HSK1 Flashcards ready. ${stats.total} words loaded${source}. ` +
-    `${stats.due} due for review. Press H for help.`
+    `${stats.due} due for review, ${stats.new} new. Press H for help.`
   );
 
   // Always show a first card
