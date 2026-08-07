@@ -1,5 +1,5 @@
 // =========================================================================
-// HSK1 Flashcard App  —  v1.010
+// HSK1 Flashcard App  —  v1.0.2
 // =========================================================================
 
 // --- Word data ---
@@ -56,7 +56,7 @@ async function loadWordData() {
 }
 
 // --- Constants ---
-const APP_VERSION = "1.0.1";
+const APP_VERSION = "1.0.2";
 
 // Leitner box intervals in milliseconds.
 // Box 1 = same session, Box 2 = 1 day, Box 3 = 3 days,
